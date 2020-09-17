@@ -1,0 +1,841 @@
+day	turnSpent	free?	location	encounterName	familiar	items	meat	rounds	mus	mys	mox	advsGained	effectsGained	itemsUsed	skillsUsed	freeRun?	banish	freeKill	sniff	spit	copy	macroFrom	
+1	1	true	Boxing Daycare	Have a Boxing Daydream	none	 | body spradium	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Deck of Every Card	XXI - The World	none	 | Cobb's Knob map	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Enforcer	Pocket Professor		0	9	0	0	0	0		|Time-Spinner	 | MICROMETEORITE | DRAGOON PLATOON | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SUMMON LOVE MOSQUITO | COWBOY KICK	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Engineer	Pocket Professor	 | LOV Eardigan	14	8	52	35	20	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Equivocator	Pocket Professor		11	12	84	20	33	0	 | Lovebotamy (50)		 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	Pocket Professor	 | LOV Enamorang	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Haunted Kitchen	sausage goblin	Pocket Professor		0	6	0	0	0	0	 | Wolfish Form (1)		 | MICROMETEORITE | BECOME A WOLF	0	0	0	0	0	0		
+1	1	true	Boxing Daycare	Enter the Boxing Daycare	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Boxing Daycare	Have a Boxing Daydream	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Boxing Daycare	Visit the Boxing Day Spa	Pocket Professor		0	-1	0	0	0	0	 | Muddled (100)			0	0	0	0	0	0		
+1	1	true	Your Witchess Set	Witchess Rook	Pocket Professor	 | bag of GORP | Greek fire | blue pixel	10	4	167	45	98	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	Your Witchess Set	Witchess Bishop	Pocket Professor	 | Sacramento wine	15	5	257	68	73	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	Your Witchess Set	Witchess Bishop	Pocket Professor	 | Sacramento wine	10	5	285	60	78	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	Your Witchess Set	Witchess Rook	Pocket Professor	 | Greek fire | green pixel	12	5	274	75	83	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	Your Witchess Set	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Neverending Party	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Neverending Party	&quot;plain&quot; girl	Pocket Professor	 | electronics kit | PB&J with the crusts cut off | dorky glasses | ponytail clip	180	5	248	90	83	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	sausage goblin	Pocket Professor	 | magical sausage casing	133	5	282	93	81	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	jock	Pocket Professor	 | water purification pills | unremarkable duffel bag | Purple Beast energy drink	226	4	370	95	118	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	burnout	Pocket Professor	 | metal meteoroid | van key | jam band bootleg | denim jacket | blue pixel	86	4	378	100	123	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	jock	Pocket Professor	 | unremarkable duffel bag | Purple Beast energy drink | shoe ad T-shirt | green pixel	224	4	413	123	100	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	burnout	Pocket Professor	 | van key | jam band bootleg | green pixel	98	4	368	158	113	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	biker	Pocket Professor	 | meadeorite | gas can | Middle of the Road&trade; brand whiskey | neverending wallet chain | Evilometer | strange leaflet	150	6	444	130	124	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	Rest in your bed in the Chateau	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Rest in your bed in the Chateau	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Rest in your bed in the Chateau	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Rest in your bed in the Chateau	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Chateau Painting	Black Crayon Crimbo Elf	Pocket Professor	 | crayon shavings	15	5	437	143	158	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Pocket Professor		15	2	86	38	51	0				0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Pocket Professor	 | Camp Scout pup tent	14	3	104	52	28	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Pocket Professor		15	2	134	47	25	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Pocket Professor	 | alien sandwich | Meteorite-Ade	15	2	152	15	38	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Pocket Professor		13	2	134	40	34	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Pocket Professor	 | white pixel	15	2	162	33	38	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Pocket Professor	 | iced plum wine	14	2	152	35	43	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Pocket Professor		15	2	137	38	53	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Pocket Professor	 | green pixel	10	2	152	43	45	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Pocket Professor		12	2	160	45	44	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	1	true	The Neverending Party	Gone Kitchin'	Pocket Professor		0	-1	0	0	0	0	 | Spiced Up (20)			0	0	0	0	0	0		
+1	1	true	The Neverending Party	jock	Pocket Professor	 | CSA fire-starting kit | Purple Beast energy drink | red pixel	199	5	587	135	170	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	burnout	Pocket Professor	 | van key	87	5	546	145	200	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	&quot;plain&quot; girl	Pocket Professor	 | electronics kit | PB&J with the crusts cut off	161	5	562	170	178	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	false	The Neverending Party	party girl	Pocket Professor	 | runproof mascara | very small red dress	161	5	567	205	175	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	2	false	The Neverending Party	burnout	Pocket Professor	 | van key | jam band bootleg | ratty knitted cap	54	5	550	197	165	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	3	false	The Neverending Party	party girl	Pocket Professor	 | roll of meat | runproof mascara | very small red dress	114	5	644	158	165	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	4	false	The Neverending Party	biker	Pocket Professor	 | gas can | Middle of the Road&trade; brand whiskey | pentagram bandana	104	5	697	175	148	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	5	false	The Neverending Party	Gone Kitchin'	Pocket Professor		0	-1	0	0	0	0	 | Spiced Up (20)			0	0	0	0	0	0		
+1	6	false	The Neverending Party	party girl	Pocket Professor		113	5	611	180	203	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	7	true	The Neverending Party	Wooof! Wooooooof!	Pocket Professor		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+1	7	false	The Neverending Party	party girl	Pocket Professor	 | very small red dress | noticeable pumps	104	5	656	199	210	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	8	false	The Neverending Party	&quot;plain&quot; girl	Pocket Professor	 | electronics kit | dorky glasses	102	6	755	168	178	0			 | MICROMETEORITE | GULP LATTE	0	0	0	0	0	0		
+1	9	false	The Neverending Party	party girl	Pocket Professor		133	8	685	200	215	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	10	false	The Neverending Party	burnout	Pocket Professor	 | CSA scoutmaster's &quot;water&quot;	67	5	763	223	153	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	11	false	The Neverending Party	jock	Pocket Professor	 | unremarkable duffel bag | red pixel	161	5	648	225	210	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	12	true	The Spooky Forest	sausage goblin	Pair of Stomping Boots		0	8	0	0	0	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	12	true	The Spooky Forest	bar	Pair of Stomping Boots		0	4	0	0	0	0			 | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SUMMON LOVE MOSQUITO | SNOKEBOMB	1	1	0	0	0	0		
+1	12	true	Deck of Every Card	1952 Mickey Mantle	Pair of Stomping Boots	 | 1952 Mickey Mantle card	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	12	false	The Shore, Inc. Travel Agency	N/A	Pair of Stomping Boots	 | Shore Inc. Ship Trip Scrip	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	15	false	The Shore, Inc. Travel Agency	N/A	Pair of Stomping Boots	 | Shore Inc. Ship Trip Scrip	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	18	false	The Shore, Inc. Travel Agency	N/A	Pair of Stomping Boots	 | Shore Inc. Ship Trip Scrip	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	21	true	The Shore, Inc. Travel Agency	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	21	false	The Haunted Kitchen	skullery maid	Pair of Stomping Boots	 | bottle of popskull | green pixel	18	2	56	24	12	0				0	0	0	0	0	0		
+1	22	false	numberology 51	War Frat 151st Infantryman	Pair of Stomping Boots	 | beer helmet | keg shield	0	2	97	25	33	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+1	23	false	The Haunted Kitchen	possessed silverware drawer	Pair of Stomping Boots	 | antique packet of ketchup	0	2	65	12	19	0				0	0	0	0	0	0		
+1	24	false	The Haunted Kitchen	paper towelgeist	Pair of Stomping Boots	 | ectoplasmic paste	0	2	0	7	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+1	25	false	The Haunted Kitchen	demonic icebox	Pair of Stomping Boots	 | hot powder | ancient frozen dinner | dire fudgesicle	18	2	54	15	22	0				0	0	0	0	0	0		
+1	26	true	numberology 51	War Frat 151st Infantryman	Pair of Stomping Boots	 | distressed denim pants | beer helmet | bejeweled pledge pin | bottle opener belt buckle | perforated battle paddle | keg shield | beer bomb | flask flops	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+1	26	true	The Spooky Forest	sausage goblin	Pair of Stomping Boots	 | magical sausage casing | blue pixel	69	6	224	57	63	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	26	false	The Haunted Kitchen	possessed silverware drawer	Pocket Professor	 | stench powder | corn holder | antique packet of ketchup | green pixel	0	2	40	12	12	0				0	0	0	0	0	0		
+1	27	false	The Haunted Kitchen	zombie chef	Pocket Professor	 | spooky powder | fricasseed brains | stale baguette | bottle of cooking sherry	22	2	40	12	13	0				0	0	0	0	0	0		
+1	28	true	The Haunted Kitchen	Wooof! Wooooooof!	Pocket Professor	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	28	false	The Haunted Kitchen	zombie chef	Pocket Professor	 | Spookyraven billiards room key | fricasseed brains | stale baguette	19	2	40	12	12	0				0	0	0	0	0	0		
+1	29	false	The Spooky Forest	Hoom Hah	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	30	false	The Spooky Forest	warwelf	Pocket Professor	 | stick of firewood	13	2	38	8	13	0				0	0	0	0	0	0		
+1	31	TRUE	CONSUME: drink 6 astral pilsner	N/A	Pocket Professor		0	-1	0	0	0	72				0	0	0	0	0	0		
+1	31	TRUE	CONSUME: drink 1 iced plum wine	N/A	Pocket Professor		0	-1	0	0	0	8				0	0	0	0	0	0		
+1	31	TRUE	CONSUME: drink 1 slug of shochu	N/A	Pocket Professor		0	-1	0	0	0	6	 | Brined Liver (10)			0	0	0	0	0	0		
+1	31	true	Your Witchess Set	What has it got in its pocketses?	Pocket Professor	 | Source essence (2) | bag of GORF | Sacramento wine	0	5	171	58	57	0	 | Ode to Booze (20)		 | EXTRACT | DIGITIZE | MICROMETEORITE	0	0	0	0	0	1		
+1	31	true	The Haunted Billiards Room	sausage goblin	Pocket Professor		0	5	0	5	0	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	31	false	The Haunted Billiards Room	That's Your Cue	Pocket Professor	 | pool cue	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	32	false	The Haunted Billiards Room	chalkdust wraith	Pocket Professor	 | handful of hand chalk	0	6	47	12	19	0				0	0	0	0	0	0		
+1	33	false	The Haunted Billiards Room	chalkdust wraith	Pocket Professor	 | handful of hand chalk	0	6	47	17	10	0				0	0	0	0	0	0		
+1	34	false	The Haunted Billiards Room	pooltergeist	Pocket Professor		0	3	9	0	0	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	35	true	The Haunted Billiards Room	Lights Out in the Billiards Room	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	35	false	The Haunted Billiards Room	pooltergeist	Pocket Professor		0	2	52	12	13	0				0	0	0	0	0	0		
+1	36	false	The Haunted Billiards Room	chalkdust wraith	Pair of Stomping Boots	 | handful of hand chalk	0	7	44	23	5	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	37	true	The Haunted Billiards Room	Wooof! Wooooooof!	Pair of Stomping Boots	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	37	false	The Haunted Billiards Room	pooltergeist	Pocket Professor	 | 7-ball	0	3	63	18	12	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	38	true	The Haunted Billiards Room	Witchess Bishop	Pocket Professor	 | Sacramento wine	0	4	171	58	62	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	38	false	The Haunted Billiards Room	Welcome To Our ool Table	Pocket Professor	 | Spookyraven library key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	39	true	The Haunted Library	Take a Look, it's in a Book!	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	39	false	The Haunted Library	writing desk	Pocket Professor		0	4	0	0	0	0	 | On the Trail (40)		 | TRANSCENDENT OLFACTION | MICROMETEORITE	0	0	0	1	0	0		
+1	40	true	The Haunted Library	bookbat	Pocket Professor		0	2	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	40	false	The Haunted Library	writing desk	Pocket Professor	 | disintegrating quill pen | inkwell | snifter of thoroughly aged brandy | green pixel	0	2	44	18	7	0				0	0	0	0	0	0		
+1	41	false	Hippy Camp	War Hippy (space) cadet	Pocket Professor		0	2	68	19	35	0				0	0	0	0	0	0		
+1	42	false	Wartime Hippy Camp (Frat Disguise)	War Hippy (space) cadet	Pocket Professor	 | round purple sunglasses | stick of firewood	0	2	77	22	18	0				0	0	0	0	0	0		
+1	43	false	Wartime Hippy Camp (Frat Disguise)	Blockin' Out the Scenery	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	44	false	Guano Junction	How I Wonder What You're At	Pocket Professor	 | sonar-in-a-biscuit | sonar-in-a-biscuit	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	45	true	The Beanbat Chamber	a beanbat!	Pocket Professor	 | enchanted bean | sonar-in-a-biscuit	31	3	31	9	9	0			 | MACROMETEORITE | ASDON MARTIN: MISSILE LAUNCHER	0	0	0	0	0	0	 | musical fruit bat	
+1	45	true	The Outskirts of Cobb's Knob	sleeping Knob Goblin Guard	Pocket Professor		0	2	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+1	45	false	The Haunted Library	writing desk	Pocket Professor	 | disintegrating quill pen | inkwell | snifter of thoroughly aged brandy	0	3	40	14	10	0		|rock band flyers		0	0	0	0	0	0		
+1	46	false	The Haunted Library	writing desk	Pocket Professor	 | Source essence (2) | CSA obedience grenade | inkwell | snifter of thoroughly aged brandy	0	5	32	17	14	0		|rock band flyers|rock band flyers	 | EXTRACT	0	0	0	0	0	0		
+1	47	TRUE	CONSUME: drink 1 splendid martini	N/A	Pocket Professor		0	-1	0	0	0	7	 | License to Punch (40)			0	0	0	0	0	0		
+1	47	TRUE	CONSUME: drink 1 splendid martini	N/A	Pocket Professor		0	-1	0	0	0	6	 | The Spy Who Loved XP (40)			0	0	0	0	0	0		
+1	47	TRUE	CONSUME: drink 1 splendid martini	N/A	Pocket Professor		0	-1	0	0	0	7	 | Punch Another Day (40)			0	0	0	0	0	0		
+1	47	false	The Haunted Library	writing desk	Pocket Professor	 | Source essence | inkwell | Lady Spookyraven's necklace	0	4	40	18	5	0		|rock band flyers	 | EXTRACT	0	0	0	0	0	0		
+1	48	false	The Black Forest	Forty Shades of Black	Pocket Professor	 | black map	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	49	false	The Black Forest	black friar	Pocket Professor		0	2	66	22	26	0				0	0	0	0	0	0		
+1	50	false	The Black Forest	black adder	Pocket Professor	 | adder bladder | sunken eyes	110	2	75	18	24	0				0	0	0	0	0	0		
+1	51	true	The Outskirts of Cobb's Knob	sausage goblin	Pocket Professor	 | Source essence (3)	0	9	0	0	0	0		|rock band flyers	 | MICROMETEORITE | EXTRACT	0	0	0	0	0	0		
+1	51	true	The Outskirts of Cobb's Knob	government bureaucrat	Pocket Professor	 | Source essence (3) | government requisition form	51	11	200	72	65	0		|rock band flyers	 | MICROMETEORITE | EXTRACT	0	0	0	0	0	0		
+1	51	false	The Black Forest	black panther	Pocket Professor	 | broken wings	154	2	0	0	0	0				0	0	0	0	0	0		
+1	52	false	The Black Forest	black magic woman	Pocket Professor	 | black eye shadow | black magic powder	113	3	58	23	18	0		|rock band flyers		0	0	0	0	0	0		
+1	53	false	The Black Forest	You Found Your Thrill	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	54	false	The Black Forest	Bee Persistent	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	true	The Black Forest	Bee Rewarded	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	false	The Black Forest	N/A	Pocket Professor	 | beehive	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	56	false	The Black Forest	black widow	Pocket Professor	 | Source essence (2) | black pension check | black picnic basket	44	5	53	20	27	0	 | Really Quite Poisoned (10)	|rock band flyers	 | MICROMETEORITE | EXTRACT	0	0	0	0	0	0		
+1	57	true	The Black Forest	Wooof! Wooooooof!	Pocket Professor	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	57	false	The Black Forest	black widow	Pocket Professor	 | black pension check | black picnic basket | stick of firewood	58	3	77	10	19	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	58	true	The Black Forest	Witchess Bishop	Pocket Professor	 | Source essence (3) | Sacramento wine	0	6	148	53	62	0		|rock band flyers	 | MICROMETEORITE | EXTRACT	0	0	0	0	0	0		
+1	58	true	Your Witchess Set	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	58	false	The Black Forest	blackberry bush	Pocket Professor	 | blackberry | blackberry	0	3	52	22	20	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	59	true	The Black Forest	sausage goblin	Pocket Professor	 | Source essence | magical sausage casing	70	13	199	88	70	0		|rock band flyers	 | MICROMETEORITE | EXTRACT	0	0	0	0	0	0		
+1	59	false	The Black Forest	black widow	Pocket Professor	 | black pension check | stick of firewood	52	3	60	22	17	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	60	false	The Black Forest	black friar	Pocket Professor	 | goblin water | Mornington crescent roll	0	3	53	20	20	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	61	false	The Black Forest	black panther	Pocket Professor	 | Source essence (3) | Black No. 2 | stick of firewood	126	5	53	29	17	0		|rock band flyers	 | EXTRACT | MICROMETEORITE	0	0	0	0	0	0		
+1	62	true	The Black Forest	government bureaucrat	Pocket Professor	 | Source essence (2)	49	11	205	74	70	0		|rock band flyers	 | MICROMETEORITE | EXTRACT	0	0	0	0	0	0		
+1	62	false	The Black Forest	blackberry bush	Pocket Professor	 | Source essence | blackberry | blackberry | stick of firewood	0	5	61	19	19	0		|rock band flyers	 | MICROMETEORITE | EXTRACT	0	0	0	0	0	0		
+1	63	false	The Black Forest	black adder	Pocket Professor	 | pixel lemon | CSA cheerfulness ration | black snake skin | stick of firewood	90	4	58	14	24	0		|rock band flyers	 | MICROMETEORITE	0	0	0	0	0	0		
+1	64	false	The Black Forest	black widow	Pocket Professor	 | Source essence (2) | black picnic basket | stick of firewood	44	5	61	25	17	0		|rock band flyers	 | EXTRACT | MICROMETEORITE	0	0	0	0	0	0		
+1	65	false	The Black Forest	black magic woman	Pocket Professor	 | little black book | black magic powder	103	4	63	18	22	0		|rock band flyers	 | MICROMETEORITE	0	0	0	0	0	0		
+1	66	false	The Shore, Inc. Travel Agency	N/A	Pocket Professor	 | your father's MacGuffin diary	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	69	false	The Goatlet	dairy goat	Pocket Professor	 | Source essence (3)	0	4	9	0	0	0		|rock band flyers	 | EXTRACT	0	0	0	0	0	0		
+1	70	true	The Goatlet	a drunk goat!	Pocket Professor		0	5	0	0	0	0		|rock band flyers|rock band flyers	 | MACROMETEORITE | REFLEX HAMMER	1	1	0	0	0	0	 | sabre-toothed goat	
+1	70	true	The Goatlet	Puddle Puncher	Pocket Professor	 | figurine of a cold seal	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	70	false	The Goatlet	dairy goat	Pocket Professor	 | Source essence (3) | goat cheese | glass of goat's milk	55	4	50	9	22	0		|rock band flyers	 | EXTRACT	0	0	0	0	0	0		
+1	71	false	The Goatlet	dairy goat	Pocket Professor	 | Source essence | goat cheese	50	4	50	20	17	0		|rock band flyers	 | EXTRACT	0	0	0	0	0	0		
+1	72	true	genie summoned monster	mountain man	Pocket Professor	 | asbestos ore | asbestos ore | linoleum ore | linoleum ore | chrome ore | chrome ore	0	0	0	0	0	0		|rock band flyers	 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+1	72	true	Deck of Every Card	Mine	Pocket Professor	 | linoleum ore | asbestos ore | chrome ore	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	72	false	Lair of the Ninja Snowmen	Ninja Snowman Janitor	Pocket Professor		0	2	7	0	0	0				0	0	0	0	0	0		
+1	73	true	The Haunted Gallery	government bureaucrat	Pocket Professor	 | Source essence (3)	0	11	0	7	5	0		|rock band flyers	 | EXTRACT | MICROMETEORITE	0	0	0	0	0	0		
+1	73	false	The Boss Bat's Lair	beefy bodyguard bat	Pair of Stomping Boots	 | beastly paste	0	2	2	5	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+1	74	false	The Boss Bat's Lair	beefy bodyguard bat	Pair of Stomping Boots		244	2	45	16	14	0				0	0	0	0	0	0		
+1	75	false	The Boss Bat's Lair	beefy bodyguard bat	Pair of Stomping Boots		330	2	50	9	20	0				0	0	0	0	0	0		
+1	76	false	The Boss Bat's Lair	beefy bodyguard bat	Pair of Stomping Boots		223	3	56	14	8	0		|rock band flyers		0	0	0	0	0	0		
+1	77	TRUE	CONSUME: eat 3 browser cookie	N/A	Pair of Stomping Boots		0	-1	0	0	0	66				0	0	0	0	0	0		
+1	77	false	The Boss Bat's Lair	The Boss Bat	Pair of Stomping Boots	 | dense meat stack | batskin belt	0	3	44	22	14	0		|rock band flyers		0	0	0	0	0	0		
+1	78	false	The Outskirts of Cobb's Knob	sleeping Knob Goblin Guard	Pair of Stomping Boots	 | viking helmet | Knob Goblin scimitar	5	2	36	17	14	0				0	0	0	0	0	0		
+1	79	false	The Outskirts of Cobb's Knob	The Ghost of Dr. Hobo Jones	Pair of Stomping Boots	 | Dr. Hobo's map	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	80	false	The Outskirts of Cobb's Knob	Lunchboxing	Pair of Stomping Boots	 | Knob Goblin lunchbox	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	81	false	The Outskirts of Cobb's Knob	Up In Their Grill	Pair of Stomping Boots	 | 11-inch knob sausage	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	82	false	The Outskirts of Cobb's Knob	sleeping Knob Goblin Guard	Pair of Stomping Boots		0	2	0	7	0	0				0	0	0	0	0	0		
+1	83	false	The Outskirts of Cobb's Knob	Knob Goblin Barbecue Team	Pair of Stomping Boots	 | bowl of cottage cheese | Knob Goblin tongs | Knob Goblin pants	8	3	39	18	8	0		|rock band flyers		0	0	0	0	0	0		
+1	84	false	The Outskirts of Cobb's Knob	A Funny Thing Happened...	Pair of Stomping Boots		75	-1	0	0	0	0				0	0	0	0	0	0		
+1	85	false	The Outskirts of Cobb's Knob	Code Red	Pair of Stomping Boots	 | Knob Goblin encryption key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	86	true	Cobb's Knob Harem	a Knob Goblin Harem Girl!	Pair of Stomping Boots	 | Knob Goblin harem pants | Knob Goblin harem veil | disease | finger cymbals	0	0	0	0	0	0			 | MACROMETEORITE | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0	 | Knob Goblin Harem Guard	
+1	86	false	The Haunted Bedroom	animated ornate nightstand	Pair of Stomping Boots	 | Source essence (2)	0	4	0	5	0	0		|rock band flyers	 | EXTRACT	0	0	0	0	0	0		
+1	87	true	The Haunted Bedroom	animated mahogany nightstand	Pair of Stomping Boots		0	2	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+1	87	true	The Haunted Bedroom	Wardr&ouml;b nightstand	Pair of Stomping Boots		0	2	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	87	false	The Haunted Bedroom	One Ornate Nightstand	Pair of Stomping Boots	 | disposable instant camera	0	2	44	20	22	0				0	0	0	0	0	0		
+1	88	true	The Haunted Gallery	Is There A Doctor In The House?	Pair of Stomping Boots	 | Sacramento wine	0	7	157	50	58	0		|rock band flyers	 | MICROMETEORITE	0	0	0	0	0	0		
+1	88	false	The Haunted Bedroom	One Rustic Nightstand	Pair of Stomping Boots	 | oily paste	0	3	2	0	5	0		|rock band flyers	 | RELEASE THE BOOTS	0	0	0	0	0	0		
+1	89	false	The Haunted Bedroom	animated rustic nightstand	Pair of Stomping Boots		0	3	8	0	5	0		|rock band flyers		0	0	0	0	0	0		
+1	90	TRUE	CONSUME: chew 1 oily paste	N/A	Pair of Stomping Boots		0	-1	0	0	0	5	 | Oily Flavor (10)			0	0	0	0	0	0		
+1	90	TRUE	CONSUME: chew 1 ectoplasmic paste	N/A	Pair of Stomping Boots		0	-1	0	0	0	10	 | Spooky Flavor (10)			0	0	0	0	0	0		
+1	90	false	The Haunted Bedroom	One Elegant Nightstand	Pair of Stomping Boots	 | Lady Spookyraven's finest gown	0	3	42	12	14	0		|rock band flyers		0	0	0	0	0	0		
+1	91	false	Cobb's Knob Harem	Plucked	Pair of Stomping Boots		0	-1	0	0	0	0	 | Knob Goblin Perfume (1)			0	0	0	0	0	0		
+1	92	false	Throne Room	The Knob Goblin King	Pair of Stomping Boots	 | lemon | dense meat stack (2) | Crown of the Goblin King | Cobb's Knob lab key	0	3	77	33	22	0		|rock band flyers		0	0	0	0	0	0		
+1	93	true	Your Witchess Set	Witchess Puzzles	Pocket Professor		0	-1	0	0	0	0	 | Puzzle Champ (25)			0	0	0	0	0	0		
+1	93	true	Combing the Beach	N/A	Pocket Professor		0	-1	0	0	0	0	 | Do I Know You From Somewhere? (50)			0	0	0	0	0	0		
+1	93	false	The Copperhead Club	Shen Copperhead, Nightclub Owner	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	94	true	The Copperhead Club	sausage goblin	Pocket Professor		0	8	0	0	0	0		|rock band flyers	 | LECTURE ON RELATIVITY | MICROMETEORITE	0	0	0	0	0	1		
+1	94	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing	63	8	173	70	74	0		|rock band flyers	 | LECTURE ON RELATIVITY | MICROMETEORITE	0	0	0	0	0	1		
+1	94	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing	65	8	176	65	85	0		|rock band flyers	 | LECTURE ON RELATIVITY | MICROMETEORITE | SUMMON LOVE GNATS	0	0	0	0	0	1		
+1	94	true	The Copperhead Club	sausage goblin	Pocket Professor		0	8	6	0	0	0		|rock band flyers	 | LECTURE ON RELATIVITY | MICROMETEORITE	0	0	0	0	0	1		
+1	94	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing	67	8	181	74	74	0		|rock band flyers	 | LECTURE ON RELATIVITY | MICROMETEORITE	0	0	0	0	0	1		
+1	94	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing	74	8	189	65	72	0		|rock band flyers	 | MICROMETEORITE | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	94	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing	66	7	199	70	60	0		|rock band flyers	 | LECTURE ON RELATIVITY | MICROMETEORITE	0	0	0	0	0	1		
+1	94	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing	70	7	178	64	88	0		|rock band flyers	 | LECTURE ON RELATIVITY | MICROMETEORITE	0	0	0	0	0	1		
+1	94	true	The Copperhead Club	sausage goblin	Pocket Professor		0	7	0	0	7	0			 | LECTURE ON RELATIVITY | MICROMETEORITE	0	0	0	0	0	1		
+1	94	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing	67	3	191	62	77	0		|exploding cigar	 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	94	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing	59	2	204	57	73	0		|exploding cigar		0	0	0	0	0	0		
+1	94	false	The Batrat and Ratbat Burrow	batrat	Pocket Professor		0	2	0	0	0	0				0	0	0	0	0	0		
+1	95	true	The Batrat and Ratbat Burrow	sausage goblin	Pocket Professor	 | magical sausage casing	71	10	199	67	69	0		|rock band flyers	 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	95	true	The Batrat and Ratbat Burrow	sausage goblin	Pocket Professor	 | magical sausage casing	69	7	213	59	67	0		|rock band flyers	 | MICROMETEORITE	0	0	0	0	0	0		
+1	95	false	Sonofa Beach	a lobsterfrogman!	Pocket Professor	 | barrel of gunpowder	62	6	55	22	22	0		|rock band flyers|rock band flyers	 | MACROMETEORITE | MICROMETEORITE	0	0	0	0	0	0	 | government bureaucrat	
+1	96	false	The Batrat and Ratbat Burrow	the Batsnake	Pocket Professor		0	4	7	0	0	0		|rock band flyers	 | MICROMETEORITE	0	0	0	0	0	0		
+1	97	true	The Spooky Forest	spooky mummy	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	97	true	The Spooky Forest	spooky vampire	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	97	false	The Spooky Forest	Consciousness of a Stream	Pair of Stomping Boots	 | mosquito larva	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	98	false	The Spooky Forest	Through Thicket and Thinnet	Pair of Stomping Boots	 | Spooky-Gro fertilizer	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	99	false	The Spooky Forest	Consciousness of a Stream	Pair of Stomping Boots	 | tree-holed coin	300	-1	0	0	0	0				0	0	0	0	0	0		
+1	100	true	The Spooky Forest	triffid	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	100	true	The Spooky Forest	warwelf	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	100	true	The Spooky Forest	wolfman	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	100	false	The Spooky Forest	O Lith, Mon	Pair of Stomping Boots	 | Spooky Temple map	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	101	true	The Spooky Forest	bar	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	101	true	The Spooky Forest	spooky mummy	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	101	true	The Spooky Forest	spooky mummy	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	101	true	The Spooky Forest	spooky vampire	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	101	true	The Spooky Forest	warwelf	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	101	true	The Spooky Forest	bar	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	101	false	The Spooky Forest	Tree's Last Stand	Pair of Stomping Boots	 | spooky sapling	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	102	true	The Dark Heart of the Woods	Fallen Archfiend	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	102	true	The Dark Heart of the Woods	P imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	102	false	The Dark Heart of the Woods	Moon Over the Dark Heart	Pair of Stomping Boots	 | hot plate	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	103	false	The Dark Heart of the Woods	Running the Lode	Pair of Stomping Boots		850	-1	0	0	0	0				0	0	0	0	0	0		
+1	104	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade;	0	4	36	12	7	0		|rock band flyers	 | MICROMETEORITE	0	0	0	0	0	0		
+1	105	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade;	0	4	40	9	7	0		|rock band flyers	 | MICROMETEORITE	0	0	0	0	0	0		
+1	106	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade;	0	3	29	14	12	0		|rock band flyers		0	0	0	0	0	0		
+1	107	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | CSA bravery badge	0	3	29	10	13	0		|rock band flyers		0	0	0	0	0	0		
+1	108	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | fat loot token	0	3	34	9	9	0		|rock band flyers		0	0	0	0	0	0		
+1	109	false	The Copperhead Club	Shen Copperhead, Jerk	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	110	true	The Penultimate Fantasy Airship	The Beginning of the End of the Penultimate Fantasy	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	110	false	The Penultimate Fantasy Airship	Random Lack of an Encounter	none	 | model airship	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	111	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none		0	2	0	0	0	0				0	0	0	0	0	0		
+1	112	true	The Penultimate Fantasy Airship	Protagonist	none		0	2	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	112	false	Lair of the Ninja Snowmen	Ninja Snowman	none	 | icy katana hilt | frigid ninja stars | plain snowcone	0	3	45	7	6	0		|rock band flyers		0	0	0	0	0	0		
+1	113	false	Lair of the Ninja Snowmen	Ninja Snowman	none		0	3	29	15	9	0		|rock band flyers		0	0	0	0	0	0		
+1	114	false	Lair of the Ninja Snowmen	Ninja Snowman	none		0	3	0	4	0	0		|rock band flyers		0	0	0	0	0	0		
+1	115	false	Lair of the Ninja Snowmen	the Frozen Solid Snake	none	 | The First Pizza	0	3	50	12	14	0		|rock band flyers		0	0	0	0	0	0		
+1	116	true	Lair of the Ninja Snowmen	Wooof! Wooooooof!	none	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	116	false	Lair of the Ninja Snowmen	Ninja Snowman Weaponmaster	Pocket Professor	 | ridiculously overelaborate ninja weapon | frozen nunchaku	0	3	41	13	8	0		|rock band flyers		0	0	0	0	0	0		
+1	117	false	Lair of the Ninja Snowmen	Ninja Snowman	Pocket Professor	 | plain snowcone	0	3	27	12	12	0		|rock band flyers		0	0	0	0	0	0		
+1	118	false	Lair of the Ninja Snowmen	ninja snowman assassin	Pocket Professor	 | ninja rope	0	2	49	12	12	0		|LOV Enamorang		0	0	0	0	0	0		
+1	119	false	Lair of the Ninja Snowmen	ninja snowman assassin	Pocket Professor		0	2	9	0	0	0		|rock band flyers		0	0	0	0	0	0		
+1	120	true	Cook 1 wad of dough + 1 soda water	N/A	Pocket Professor	 | loaf of soda bread	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	120	true	The Penultimate Fantasy Airship	Spunky Princess	Pocket Professor		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+1	120	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pocket Professor	 | photoprotoneutron torpedo	10	2	34	23	11	0				0	0	0	0	0	0		
+1	121	true	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	Pocket Professor		0	2	0	0	0	0		|rock band flyers	 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	121	true	Cook 6 wad of dough + 6 soda water	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	121	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pocket Professor	 | photoprotoneutron torpedo | oversized pizza cutter	14	3	30	11	14	0		|rock band flyers		0	0	0	0	0	0		
+1	122	true	Cook 12 wad of dough + 12 soda water	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	122	false	The Penultimate Fantasy Airship	Burly Sidekick	Pocket Professor		0	2	9	0	0	0	 | Everything Looks Yellow (100)		 | DISINTEGRATE	0	0	0	0	0	0		
+1	123	true	The Penultimate Fantasy Airship	Quiet Healer	Pocket Professor	 | amulet of extreme plot significance | scroll of drastic healing | soft green echo eyedrop antidote	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+1	123	false	The Penultimate Fantasy Airship	Quiet Healer	Pocket Professor	 | soft green echo eyedrop antidote	141	2	54	2	11	0				0	0	0	0	0	0		
+1	124	false	The Penultimate Fantasy Airship	Protagonist	Pocket Professor	 | phonics down | white pixel	118	2	34	10	8	0				0	0	0	0	0	0		
+1	125	true	The Penultimate Fantasy Airship	Wooof! Wooooooof!	Pocket Professor	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	125	true	Cook 6 wad of dough + 6 soda water	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	125	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | magical sausage casing	77	4	94	39	23	0		|rock band flyers	 | DRAGOON PLATOON	0	0	0	0	0	0		
+1	125	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pocket Professor	 | Source essence | metallic A	14	4	34	12	11	0		|rock band flyers	 | EXTRACT	0	0	0	0	0	0		
+1	126	false	The Penultimate Fantasy Airship	Gesundheitgeist!	Pocket Professor	 | Tissue Paper Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	127	false	The Penultimate Fantasy Airship	Don't Chew on That Spirit!	Pocket Professor	 | Tin Foil Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	128	TRUE	CONSUME: chew 1 beastly paste	N/A	Pocket Professor		0	-1	0	0	0	5	 | Beastly Flavor (10)			0	0	0	0	0	0		
+1	128	true	The Penultimate Fantasy Airship	Witchess Bishop	Pocket Professor		0	7	0	5	0	0		|rock band flyers	 | DIGITIZE | MICROMETEORITE	0	0	0	0	0	1		
+1	128	false	The Penultimate Fantasy Airship	Burly Sidekick	Pocket Professor	 | cocoa eggshell fragment	152	2	40	2	11	0				0	0	0	0	0	0		
+1	129	false	The Penultimate Fantasy Airship	The Most Absorbent Spirit Ever	Pocket Professor	 | Gauze Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	130	false	The Penultimate Fantasy Airship	Protagonist	Pocket Professor	 | super-spiky hair gel | phonics down | ocarina of space	123	3	30	13	8	0		|rock band flyers		0	0	0	0	0	0		
+1	131	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pocket Professor	 | metallic A | magilaser blastercannon | blue pixel	13	3	43	9	12	0		|rock band flyers		0	0	0	0	0	0		
+1	132	false	The Penultimate Fantasy Airship	Protagonist	Pocket Professor	 | super-spiky hair gel | phonics down	115	3	34	10	8	0	 | Temporary Amnesia (5)	|rock band flyers		0	0	0	0	0	0		
+1	133	false	The Penultimate Fantasy Airship	ninja snowman assassin	Pocket Professor	 | CSA all-purpose soap | white pixel | ninja carabiner	12	3	53	11	6	0		|rock band flyers		0	0	0	0	0	0		
+1	134	false	The Penultimate Fantasy Airship	Protagonist	Pocket Professor	 | super-spiky hair gel | phonics down | ocarina of space	112	3	27	12	11	0		|rock band flyers		0	0	0	0	0	0		
+1	135	true	Combing the Beach	N/A	Pocket Professor		0	-1	0	0	0	0	 | Cold as Nice (50)			0	0	0	0	0	0		
+1	135	false	Mist-Shrouded Peak	panicking Knott Yeti	Pocket Professor	 | yeti fur | green pixel	262	3	33	8	8	0		|rock band flyers		0	0	0	0	0	0		
+1	136	false	Mist-Shrouded Peak	panicking Knott Yeti	Pocket Professor	 | yeti fur | Gathered Meat-Clip	223	2	27	11	10	0				0	0	0	0	0	0		
+1	137	false	Mist-Shrouded Peak	panicking Knott Yeti	Pocket Professor	 | yeti fur	249	2	27	9	12	0				0	0	0	0	0	0		
+1	138	false	Mist-Shrouded Peak	Groar	Pocket Professor	 | Groar's fur | dense meat stack (5)	0	3	69	15	22	0				0	0	0	0	0	0		
+1	139	false	Sonofa Beach	a lobsterfrogman!	Pocket Professor	 | barrel of gunpowder	81	4	44	10	9	0		|rock band flyers	 | MACROMETEORITE	0	0	0	0	0	0	 | government bureaucrat	
+1	140	false	The Copperhead Club	Shen Copperhead, Huge Jerk	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	141	true	The Copperhead Club	Witchess Bishop	Pocket Professor	 | Sacramento wine	0	5	60	36	16	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	141	true	Your Witchess Set	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	141	false	The Penultimate Fantasy Airship	Rip Rop Wrappety Do	Pocket Professor	 | Plastic Wrap Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	142	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	142	false	The Penultimate Fantasy Airship	Quiet Healer	Pocket Professor		0	2	0	0	0	0				0	0	0	0	0	0		
+1	143	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	143	false	The Dark Heart of the Woods	I, Martin	Pocket Professor	 | martini	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	144	false	The Dark Heart of the Woods	Imp Be Nimble, Imp Be Quick	Pocket Professor	 | box of birthday candles	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	145	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pocket Professor	 | photoprotoneutron torpedo | magilaser blastercannon	0	2	38	12	12	0				0	0	0	0	0	0		
+1	146	false	The Penultimate Fantasy Airship	Burly Sidekick	Pocket Professor	 | tiny house	172	2	30	11	11	0				0	0	0	0	0	0		
+1	147	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pocket Professor	 | metallic A | glowing red eye | photoprotoneutron torpedo	0	2	37	10	10	0				0	0	0	0	0	0		
+1	148	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pocket Professor	 | metallic A | glowing red eye	0	2	33	13	12	0				0	0	0	0	0	0		
+1	149	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pocket Professor	 | metallic A | photoprotoneutron torpedo | magilaser blastercannon	0	2	33	12	13	0				0	0	0	0	0	0		
+1	150	false	The Penultimate Fantasy Airship	Quiet Healer	Pocket Professor	 | scroll of drastic healing | soft green echo eyedrop antidote	139	2	41	5	11	0				0	0	0	0	0	0		
+1	151	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pocket Professor	 | Gathered Meat-Clip	0	2	41	8	11	0				0	0	0	0	0	0		
+1	152	true	The Penultimate Fantasy Airship	Playing Fetch*	Pocket Professor	 | tennis ball	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	152	false	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	Pocket Professor	 | soft green echo eyedrop antidote	172	2	30	13	9	0				0	0	0	0	0	0		
+1	153	false	The Penultimate Fantasy Airship	Protagonist	Pocket Professor		0	2	0	0	0	0				0	0	0	0	0	0		
+1	154	false	The Penultimate Fantasy Airship	F-F-Fantastic!	Pocket Professor	 | S.O.C.K.	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	155	false	The Shore, Inc. Travel Agency	N/A	Pocket Professor	 | Shore Inc. Ship Trip Scrip	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	158	true	The Shore, Inc. Travel Agency	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	158	true	The Haunted Gallery	cubist bull	Pocket Professor		0	2	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+1	158	true	The Haunted Gallery	guy with a pitchfork, and his wife	Pocket Professor		0	2	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	158	true	The Defiled Niche	Urning Your Keep	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	158	true	The Defiled Niche	slick lihc	Pocket Professor		0	2	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	158	true	The Defiled Niche	senile lihc	Pocket Professor		0	2	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	158	false	The Defiled Niche	dirty old lihc	Pocket Professor		0	3	0	0	0	0	 | On the Trail (40)		 | TRANSCENDENT OLFACTION	0	0	0	1	0	0		
+1	159	false	The Defiled Niche	dirty old lihc	Pocket Professor	 | salacious crumbs	0	2	25	8	7	0				0	0	0	0	0	0		
+1	160	true	The Defiled Niche	basic lihc	Pocket Professor		0	2	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+1	160	false	The Defiled Niche	dirty old lihc	Pocket Professor	 | salacious crumbs	0	2	27	6	6	0				0	0	0	0	0	0		
+1	161	false	Sonofa Beach	a lobsterfrogman!	Pocket Professor	 | barrel of gunpowder	91	3	38	15	16	0			 | MACROMETEORITE	0	0	0	0	0	0	 | government bureaucrat	
+1	162	true	The Haunted Bathroom	Witchess Bishop	Pocket Professor		0	4	0	0	4	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	162	TRUE	CONSUME: eat 10 magical sausage	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	162	true	Your Witchess Set	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	162	false	The Defiled Niche	dirty old lihc	Pocket Professor		0	2	0	0	0	0				0	0	0	0	0	0		
+1	163	false	The Defiled Niche	dirty old lihc	Pocket Professor	 | salacious crumbs	0	2	29	8	4	0				0	0	0	0	0	0		
+1	164	true	The Defiled Niche	Wooof! Wooooooof!	Pocket Professor	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	164	false	The Defiled Niche	dirty old lihc	Pocket Professor	 | bag of QWOP	0	2	27	6	6	0				0	0	0	0	0	0		
+1	165	false	The Defiled Niche	dirty old lihc	Pocket Professor	 | salacious crumbs	0	2	22	10	5	0				0	0	0	0	0	0		
+1	166	false	The Defiled Niche	dirty old lihc	Pocket Professor	 | salacious crumbs | Gathered Meat-Clip	0	2	26	5	8	0				0	0	0	0	0	0		
+1	167	false	The Defiled Niche	gargantulihc	Pocket Professor		0	2	0	0	0	0				0	0	0	0	0	0		
+1	168	true	The Haunted Bathroom	claw-foot bathtub	Pocket Professor		0	2	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	168	true	photocopied monster	blur	Pocket Professor	 | drum machine | hot date | carbonated water lily	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+1	168	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Pocket Professor		0	2	0	0	0	0				0	0	0	0	0	0		
+1	169	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Pocket Professor	 | centipede eggs | handful of sand | handful of sand	188	2	52	15	8	0				0	0	0	0	0	0		
+1	170	false	The Arid, Extra-Dry Desert	Is There A Doctor In The House?	Pocket Professor	 | cactus fruit | giant cactus quill | handful of sand	115	2	46	16	10	0				0	0	0	0	0	0		
+1	171	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Pocket Professor		0	2	0	0	0	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+1	172	true	The Arid, Extra-Dry Desert	rock scorpion	Pocket Professor		0	2	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+1	172	false	Sonofa Beach	a lobsterfrogman!	Pocket Professor	 | barrel of gunpowder	81	3	36	13	17	0			 | MACROMETEORITE	0	0	0	0	0	0	 | government bureaucrat	
+1	173	false	The Arid, Extra-Dry Desert	cactuary	Pocket Professor	 | Source essence | handful of sand | bit-o-cactus	122	3	42	15	17	0	 | Ultrahydrated (3)		 | EXTRACT	0	0	0	0	0	0		
+1	174	true	The Arid, Extra-Dry Desert	Wooof! Wooooooof!	Pocket Professor	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	174	true	The Arid, Extra-Dry Desert	A Sietch in Time	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	174	true	The Arid, Extra-Dry Desert	sausage goblin	Pocket Professor	 | magical sausage casing	89	4	59	18	30	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	174	true	The Arid, Extra-Dry Desert	plaque of locusts	Pocket Professor	 | honey-dipped locust | handful of sand	28	2	41	11	14	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	174	true	The Arid, Extra-Dry Desert	cactuary	Pocket Professor	 | bit-o-cactus | worm-riding manual page	113	2	37	12	17	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	174	TRUE	CONSUME: drink 1 Sacramento wine	N/A	Pocket Professor		0	-1	0	0	0	5	 | Sacr&eacute; Mental (50)			0	0	0	0	0	0		
+1	174	TRUE	CONSUME: drink 1 slug of shochu	N/A	Pocket Professor		0	-1	0	0	0	3	 | Brined Liver (10)			0	0	0	0	0	0		
+1	174	true	The Arid, Extra-Dry Desert	swarm of fire ants	Pocket Professor		0	2	0	0	0	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	174	TRUE	CONSUME: eat 1 This Charming Flan	N/A	Pocket Professor		0	-1	0	0	0	11				0	0	0	0	0	0		
+2	174	TRUE	CONSUME: eat 1 bag of QWOP	N/A	Pocket Professor		0	-1	0	0	0	5	 | QWOPped Up (10)			0	0	0	0	0	0		
+1	174	true	Cook 1 handful of Smithereens + 1 pickled egg	N/A	Pocket Professor	 | This Charming Flan	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	174	true	Boxing Daycare	Have a Boxing Daydream	Pocket Professor	 | punch-drunk punch	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	174	true	The Haunted Bathroom	sausage goblin	Pocket Professor		0	4	0	0	0	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	174	true	Deck of Every Card	Sheep	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	174	true	Deck of Every Card	XVI - The Tower	Pocket Professor	 | Boris's key	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	174	true	The Hidden Temple	Such Great Heights	Pocket Professor		0	-1	0	0	0	3	 | Sacr&eacute; Mental (3) | Ultrahydrated (3) | Brined Liver (3) | On the Trail (3) | Blessing of the Bird (3) | Cold as Nice (3) | Spoon Boon (3) | Favored by Lyle (3)			0	0	0	0	0	0		
+2	174	false	The Haunted Bathroom	malevolent hair clog	Pocket Professor	 | gob of wet hair	0	3	17	7	7	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	175	true	The Arid, Extra-Dry Desert	giant giant giant centipede	Pocket Professor		0	2	0	0	0	0			 | CHEST X-RAY	0	0	1	0	0	0		
+2	175	true	The Arid, Extra-Dry Desert	cactuary	Pocket Professor	 | bag of GORP | bit-o-cactus	118	2	28	15	10	0			 | CHEST X-RAY	0	0	1	0	0	0		
+2	175	true	The Arid, Extra-Dry Desert	rock scorpion	Pocket Professor	 | handful of sand	254	2	30	17	10	0			 | CHEST X-RAY	0	0	1	0	0	0		
+2	175	false	The Arid, Extra-Dry Desert	plaque of locusts	Pocket Professor	 | handful of sand | worm-riding manual page (3) | Gathered Meat-Clip	31	3	26	14	13	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	176	false	The Arid, Extra-Dry Desert	rock scorpion	Pocket Professor	 | Meteorite-Ade	300	3	27	17	9	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	177	false	The Arid, Extra-Dry Desert	swarm of fire ants	Pocket Professor		0	3	0	0	6	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	178	false	The Arid, Extra-Dry Desert	cactuary	Pocket Professor	 | cactus fruit | giant cactus quill | handful of sand | bit-o-cactus | worm-riding manual page (2)	137	3	27	10	14	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	179	false	The Arid, Extra-Dry Desert	Is There A Doctor In The House?	Pocket Professor	 | water purification pills | centipede eggs | handful of sand	184	3	36	7	11	0	 | Ultrahydrated (3)		 | MICROMETEORITE	0	0	0	0	0	0		
+2	180	false	The Arid, Extra-Dry Desert	plaque of locusts	Pocket Professor	 | meadeorite	29	3	27	12	12	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	181	false	The Arid, Extra-Dry Desert	rock scorpion	Pocket Professor	 | handful of sand | worm-riding manual page (3)	253	3	21	10	19	0	 | Ultrahydrated (3)		 | MICROMETEORITE	0	0	0	0	0	0		
+2	182	true	The Haunted Bathroom	sausage goblin	Pocket Professor	 | magical sausage casing	79	4	47	13	25	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	182	false	The Arid, Extra-Dry Desert	plaque of locusts	Pocket Professor	 | bronzed locust | handful of sand	31	3	21	7	14	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	183	false	The Arid, Extra-Dry Desert	swarm of fire ants	Pocket Professor	 | Source essence (3) | ant agonist | handful of sand | worm-riding manual page (2)	57	3	30	13	7	0			 | EXTRACT	0	0	0	0	0	0		
+2	184	true	Your Witchess Set	Witchess Bishop	Pocket Professor	 | metal meteoroid | Sacramento wine	0	5	50	14	17	0			 | DIGITIZE | MICROMETEORITE	0	0	0	0	0	1		
+2	184	true	Your Witchess Set	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	184	false	The Arid, Extra-Dry Desert	plaque of locusts	Pocket Professor		0	3	0	0	0	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	185	false	The Haunted Library	a writing desk!	Pocket Professor		0	4	0	0	0	0			 | MACROMETEORITE | MACROMETEORITE	0	0	0	0	0	0	 | writing desk | a bookbat!	
+2	186	true	The Haunted Library	Wooof! Wooooooof!	Pocket Professor	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	186	false	The Haunted Library	Take a Look, it's in a Book!	Pocket Professor	 | dictionary	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	187	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	187	true	The Haunted Library	banshee librarian	Pocket Professor	 | disintegrating quill pen | killing jar	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+2	187	false	The Castle in the Clouds in the Sky (Basement)	You Don't Mess Around with Gym	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	188	false	The Hidden Temple	Such Great Heights	Pocket Professor	 | the Nostril of the Serpent	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	189	true	The Hidden Temple	The Hidden Heart of the Hidden Temple	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	189	false	The Hidden Temple	Now What?	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	190	false	The Hidden Temple	Beginning at the Beginning of Beginning	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	191	false	The Hidden Temple	No Visible Means of Support	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	192	true	The Castle in the Clouds in the Sky (Ground Floor)	Witchess Bishop	Pocket Professor		0	4	0	0	5	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	192	true	The Castle in the Clouds in the Sky (Ground Floor)	sausage goblin	Pocket Professor	 | magical sausage casing	99	4	32	17	23	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	192	false	The Castle in the Clouds in the Sky (Ground Floor)	Home on the Free Range	Pair of Stomping Boots	 | electric boning knife	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	193	false	The Dark Neck of the Woods	How Do We Do It? Quaint and Curious Volume!	Pair of Stomping Boots		250	-1	0	0	0	0				0	0	0	0	0	0		
+2	194	true	The Dark Neck of the Woods	Hellion	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	194	true	The Dark Neck of the Woods	P imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	194	true	The Dark Neck of the Woods	P imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	194	true	The Dark Neck of the Woods	W imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	194	false	The Dark Neck of the Woods	Strike One!	Pair of Stomping Boots	 | imp unity ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	195	false	The Dark Neck of the Woods	Olive My Love To You, Oh.	Pair of Stomping Boots	 | olive | olive	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	196	true	The Dark Neck of the Woods	W imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	196	false	The Dark Neck of the Woods	Dodecahedrariffic!	Pair of Stomping Boots	 | dodecagram	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	197	false	The Dark Elbow of the Woods	G imp	Pair of Stomping Boots	 | demonic paste	0	2	0	5	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+2	198	TRUE	CONSUME: chew 1 demonic paste	N/A	Pair of Stomping Boots		0	-1	0	0	0	9	 | Demonic Flavor (10)			0	0	0	0	0	0		
+2	198	true	The Dark Elbow of the Woods	Demoninja	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	198	true	Cook 19 wad of dough + 19 soda water	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	198	false	Lair of the Ninja Snowmen	Ninja Snowman	Trick-or-Treating Tot		0	2	0	0	4	0				0	0	0	0	0	0		
+2	199	false	The Hidden Park	Where Does The Lone Ranger Take His Garbagester?	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	200	false	The Hidden Park	Where Does The Lone Ranger Take His Garbagester?	Trick-or-Treating Tot	 | jungle floor wax | bowling ball	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	201	false	The Hidden Park	Where Does The Lone Ranger Take His Garbagester?	Trick-or-Treating Tot	 | attorney's badge | head mirror	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	202	false	The Hidden Park	Where Does The Lone Ranger Take His Garbagester?	Trick-or-Treating Tot	 | pill cup | half-size scalpel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	203	false	The Hidden Park	pygmy blowgunner	Trick-or-Treating Tot		0	2	0	0	0	0				0	0	0	0	0	0		
+2	204	false	The Hidden Park	Where Does The Lone Ranger Take His Garbagester?	Trick-or-Treating Tot	 | pygmy briefs | bloodied surgical dungarees	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	205	false	The Hidden Park	Dr. Henry "Dakota" Fanning, Ph.D., R.I.P.	Trick-or-Treating Tot	 | antique machete | cool whip	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	206	true	The Castle in the Clouds in the Sky (Ground Floor)	sausage goblin	Pocket Professor	 | Source essence | magical sausage casing	99	6	52	30	23	0			 | LECTURE ON RELATIVITY | EXTRACT | MICROMETEORITE	0	0	0	0	0	1		
+2	206	true	The Castle in the Clouds in the Sky (Ground Floor)	sausage goblin	Pocket Professor	 | Source essence (2)	0	5	0	0	0	0			 | LECTURE ON RELATIVITY | EXTRACT | MICROMETEORITE	0	0	0	0	0	1		
+2	206	true	The Castle in the Clouds in the Sky (Ground Floor)	sausage goblin	Pocket Professor	 | Source essence (3) | magical sausage casing	91	6	63	25	19	0			 | LECTURE ON RELATIVITY | EXTRACT | MICROMETEORITE	0	0	0	0	0	1		
+2	206	true	The Castle in the Clouds in the Sky (Ground Floor)	sausage goblin	Pocket Professor	 | Source essence (2) | CSA fire-starting kit | magical sausage casing	114	6	60	28	18	0			 | EXTRACT | LECTURE ON RELATIVITY | MICROMETEORITE	0	0	0	0	0	1		
+2	206	true	The Castle in the Clouds in the Sky (Ground Floor)	sausage goblin	Pocket Professor	 | Source essence | magical sausage casing | white pixel	120	6	69	21	17	0			 | EXTRACT | LECTURE ON RELATIVITY | MICROMETEORITE	0	0	0	0	0	1		
+2	206	true	The Castle in the Clouds in the Sky (Ground Floor)	sausage goblin	Pocket Professor	 | Source essence (2) | magical sausage casing	115	5	72	23	17	0			 | EXTRACT | LECTURE ON RELATIVITY | MICROMETEORITE	0	0	0	0	0	1		
+2	206	true	The Castle in the Clouds in the Sky (Ground Floor)	sausage goblin	Pocket Professor	 | Source essence (2)	0	5	0	0	0	0			 | EXTRACT | LECTURE ON RELATIVITY | MICROMETEORITE	0	0	0	0	0	1		
+2	206	true	The Castle in the Clouds in the Sky (Ground Floor)	sausage goblin	Pocket Professor	 | Source essence | magical sausage casing	106	5	58	30	23	0			 | EXTRACT | MICROMETEORITE	0	0	0	0	0	0		
+2	206	false	The Castle in the Clouds in the Sky (Ground Floor)	Top of the Castle, Ma	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	207	false	The Castle in the Clouds in the Sky (Top Floor)	Raver Giant	Pocket Professor	 | Angry Farmer candy | Mick's IcyVapoHotness Rub | giant needle	188	3	27	8	7	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	208	true	The Castle in the Clouds in the Sky (Top Floor)	sausage goblin	Pocket Professor	 | magical sausage casing | blue pixel	91	3	57	19	27	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	208	false	The Castle in the Clouds in the Sky (Top Floor)	Steampunk Giant	Pocket Professor	 | steampunk potion	149	3	29	7	9	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	209	false	The Castle in the Clouds in the Sky (Top Floor)	Goth Giant	Pocket Professor	 | giant tube of black lipstick | white pixel	212	3	13	15	12	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	210	false	The Castle in the Clouds in the Sky (Top Floor)	Goth Giant	Pocket Professor	 | thin black candle | awful poetry journal | giant tube of black lipstick	204	3	27	6	7	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	211	false	The Castle in the Clouds in the Sky (Top Floor)	the Burning Snake of Fire	Pocket Professor	 | Murphy's Rancid Black Flag	10	3	29	9	15	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	212	true	The Haunted Gallery	Witchess Bishop	Pocket Professor	 | Source essence (2) | CSA scoutmaster's &quot;water&quot; | Sacramento wine	10	5	56	32	25	0			 | MICROMETEORITE | EXTRACT	0	0	0	0	0	0		
+2	212	true	Your Witchess Set	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	212	true	An Overgrown Shrine (Northwest)	dense liana	Pocket Professor	 | Boris's key lime pie	10	1	0	0	0	0				0	0	0	0	0	0		
+2	212	true	An Overgrown Shrine (Northwest)	dense liana	Pocket Professor	 | white pixel	11	1	0	6	0	0				0	0	0	0	0	0		
+2	212	true	An Overgrown Shrine (Northwest)	dense liana	Pocket Professor		11	1	0	6	0	0				0	0	0	0	0	0		
+2	212	false	An Overgrown Shrine (Northwest)	Earthbound and Down	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	213	true	An Overgrown Shrine (Northeast)	dense liana	Pocket Professor		10	1	0	7	0	0				0	0	0	0	0	0		
+2	213	true	An Overgrown Shrine (Northeast)	dense liana	Pocket Professor		13	1	0	0	4	0				0	0	0	0	0	0		
+2	213	true	An Overgrown Shrine (Northeast)	dense liana	Pocket Professor		15	1	4	0	0	0				0	0	0	0	0	0		
+2	213	false	An Overgrown Shrine (Northeast)	Air Apparent	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	214	true	An Overgrown Shrine (Southeast)	dense liana	Pocket Professor		13	1	0	0	6	0				0	0	0	0	0	0		
+2	214	true	An Overgrown Shrine (Southeast)	dense liana	Pocket Professor		13	1	6	0	0	0				0	0	0	0	0	0		
+2	214	true	An Overgrown Shrine (Southeast)	dense liana	Pocket Professor		10	1	0	9	0	0				0	0	0	0	0	0		
+2	214	false	An Overgrown Shrine (Southeast)	Fire When Ready	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	215	true	An Overgrown Shrine (Southwest)	dense liana	Pocket Professor		10	1	0	6	0	0				0	0	0	0	0	0		
+2	215	true	An Overgrown Shrine (Southwest)	dense liana	Pocket Professor	 | red pixel	10	1	4	5	0	0				0	0	0	0	0	0		
+2	215	true	An Overgrown Shrine (Southwest)	dense liana	Pocket Professor	 | green pixel	14	1	0	0	4	0				0	0	0	0	0	0		
+2	215	false	An Overgrown Shrine (Southwest)	Water You Dune	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	216	false	The Hidden Hospital	a pygmy witch nurse!	Pocket Professor	 | Source essence (3) | bag of pygmy blood | pygmy witchhazel	136	4	25	16	15	0			 | MACROMETEORITE | EXTRACT	0	0	0	0	0	0	 | pygmy orderlies	
+2	217	false	The Hidden Hospital	pygmy orderlies	Pocket Professor	 | Source essence (2) | bag of GORF | compression stocking | pill cup	250	3	27	9	14	0			 | EXTRACT	0	0	0	0	0	0		
+2	218	false	The Hidden Hospital	pygmy orderlies	Pocket Professor	 | Source essence (3)	289	4	25	14	16	0			 | EXTRACT	0	0	0	0	0	0		
+2	219	false	The Hidden Hospital	pygmy witch nurse	Pocket Professor	 | Source essence | sphygmomanometer | bag of pygmy blood | Gathered Meat-Clip	132	4	26	8	16	0			 | EXTRACT	0	0	0	0	0	0		
+2	220	false	The Hidden Hospital	pygmy orderlies	Pocket Professor	 | Source essence (3) | compression stocking	246	3	26	14	9	0			 | EXTRACT	0	0	0	0	0	0		
+2	221	false	The Hidden Hospital	pygmy witch surgeon	Pocket Professor	 | Source essence (2) | Source terminal file: critical.enh | green pixel | surgical mask	276	3	19	23	10	0			 | EXTRACT	0	0	0	0	0	0		
+2	222	true	The Hidden Hospital	Wooof! Wooooooof!	Pocket Professor	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	222	false	The Hidden Hospital	ancient protector spirit	Pocket Professor	 | Source essence (2) | dripping stone sphere | psychokinetic energy blob	11	5	25	11	12	0			 | MICROMETEORITE | EXTRACT	0	0	0	0	0	0		
+2	223	true	An Overgrown Shrine (Southwest)	Water You Dune	Pocket Professor	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	223	false	The Copperhead Club	Shen Copperhead, World's Biggest Jerk	Pocket Professor	 | Copperhead Charm	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	224	false	The Castle in the Clouds in the Sky (Top Floor)	Punk Rock Giant	Pocket Professor	 | giant safety pin | punk rock jacket	84	2	29	6	12	0				0	0	0	0	0	0		
+2	225	true	The Castle in the Clouds in the Sky (Top Floor)	Wooof! Wooooooof!	Pocket Professor	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	225	false	The Castle in the Clouds in the Sky (Top Floor)	Goth Giant	Pocket Professor	 | thin black candle | awful poetry journal | giant tube of black lipstick | blue pixel	189	3	16	25	7	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	226	false	The Castle in the Clouds in the Sky (Top Floor)	Raver Giant	Pocket Professor	 | Angry Farmer candy | giant needle	188	2	21	18	4	0				0	0	0	0	0	0		
+2	227	false	The Castle in the Clouds in the Sky (Top Floor)	Steampunk Giant	Pocket Professor	 | brass gear | steampunk potion	144	2	34	5	15	0				0	0	0	0	0	0		
+2	228	true	Cook 24 wad of dough + 24 soda water	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	228	false	The Castle in the Clouds in the Sky (Top Floor)	Copper Feel	Pocket Professor	 | steam-powered model rocketship	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	229	false	The Castle in the Clouds in the Sky (Top Floor)	Steampunk Giant	Pocket Professor		121	2	29	6	10	0				0	0	0	0	0	0		
+2	230	false	The Castle in the Clouds in the Sky (Top Floor)	Goth Giant	Pocket Professor	 | Source essence | Warm Subject gift certificate | giant tube of black lipstick	208	3	18	14	6	0			 | EXTRACT	0	0	0	0	0	0		
+2	231	false	The Castle in the Clouds in the Sky (Top Floor)	Keep On Turnin' the Wheel in the Sky	Pocket Professor	 | giant discarded bottlecap	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	232	true	The Hidden Office Building	sausage goblin	Pocket Professor		0	4	0	0	0	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	232	false	The Hidden Apartment Building	pygmy witch accountant	Pocket Professor	 | Source essence	0	3	4	0	0	0			 | EXTRACT	0	0	0	0	0	0		
+2	233	false	The Hidden Apartment Building	pygmy shaman	Pocket Professor	 | Source essence (3) | voodoo glowskull | Gathered Meat-Clip	146	6	26	8	13	0	 | Once-Cursed (10) | On the Trail (40)		 | TRANSCENDENT OLFACTION | MICROMETEORITE | EXTRACT | LECTURE ON RELATIVITY	0	0	0	1	0	1		
+2	234	false	The Hidden Apartment Building	pygmy shaman	Pocket Professor	 | smirking shrunken head | voodoo glowskull	206	2	29	8	11	0	 | Twice-Cursed (10)			0	0	0	0	0	0		
+2	235	false	The Hidden Apartment Building	pygmy shaman	Pocket Professor		0	2	5	0	0	0	 | Thrice-Cursed (10)			0	0	0	0	0	0		
+2	236	true	The Hidden Apartment Building	pygmy witch lawyer	Pocket Professor	 | Source essence (3)	0	2	0	0	0	0			 | EXTRACT | SNOKEBOMB	1	1	0	0	0	0		
+2	236	false	The Hidden Apartment Building	pygmy witch accountant	Pocket Professor	 | pygmy adder oil | white pixel | McClusky file (page 2)	226	4	24	17	8	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	237	false	The Hidden Apartment Building	pygmy witch accountant	Pocket Professor	 | Source essence | adder | McClusky file (page 3)	186	4	20	18	11	0			 | EXTRACT | MICROMETEORITE	0	0	0	0	0	0		
+2	238	true	The Hidden Apartment Building	Wooof! Wooooooof!	Pocket Professor	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	238	false	The Hidden Apartment Building	pygmy witch accountant	Pocket Professor	 | Source essence (3) | short calculator | McClusky file (page 4)	200	4	25	7	18	0			 | MICROMETEORITE | EXTRACT	0	0	0	0	0	0		
+2	239	false	The Hidden Apartment Building	ancient protector spirit	Pocket Professor	 | moss-covered stone sphere | psychokinetic energy blob	10	4	26	10	11	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	240	false	The Hidden Office Building	pygmy witch accountant	Pocket Professor	 | blue pixel | McClusky file (page 5)	210	2	26	17	10	0				0	0	0	0	0	0		
+2	241	TRUE	CONSUME: drink 1 Lucky Lindy	N/A	Pocket Professor		0	-1	0	0	0	3				0	0	0	0	0	0		
+2	241	false	The Hidden Office Building	pygmy headhunter	Pocket Professor	 | Source essence (2) | briefcase	238	3	20	14	11	0			 | EXTRACT	0	0	0	0	0	0		
+2	242	true	The Hidden Office Building	Witchess Bishop	Pocket Professor		0	4	0	5	6	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	242	false	The Hidden Office Building	pygmy headhunter	Pocket Professor	 | briefcase | pygmy papers	198	3	21	8	19	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	243	false	The Hidden Office Building	Working Holiday	Pocket Professor	 | boring binder clip	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	244	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	245	false	The Hidden Bowling Alley	pygmy bowler	Pocket Professor	 | Source essence	0	6	7	0	0	0	 | On the Trail (40)		 | TRANSCENDENT OLFACTION | MICROMETEORITE | EXTRACT	0	0	0	1	0	0		
+2	246	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	247	true	The Hidden Bowling Alley	pygmy orderlies	Pocket Professor	 | Source essence (3)	0	2	0	0	0	0			 | EXTRACT | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	247	false	The Hidden Bowling Alley	pygmy bowler	Pocket Professor	 | Source essence (3) | bowling ball | Gathered Meat-Clip	165	3	20	13	14	0			 | EXTRACT	0	0	0	0	0	0		
+2	248	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	249	false	The Hidden Bowling Alley	pygmy bowler	Pocket Professor	 | Source essence (3) | bowling ball | blue pixel	155	4	32	10	5	0			 | EXTRACT	0	0	0	0	0	0		
+2	250	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	251	false	The Hidden Bowling Alley	a pygmy bowler!	Pocket Professor	 | Source essence (2) | Locust	0	4	0	0	0	0			 | MACROMETEORITE | EXTRACT	0	0	0	0	0	0	 | drunk pygmy	
+2	252	false	The Hidden Bowling Alley	pygmy bowler	Pocket Professor	 | Source essence | bowling ball | red pixel	166	4	31	9	7	0			 | EXTRACT	0	0	0	0	0	0		
+2	253	true	The Hidden Bowling Alley	Wooof! Wooooooof!	Pocket Professor	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	253	false	The Hidden Bowling Alley	ancient protector spirit	Trick-or-Treating Tot	 | scorched stone sphere | psychokinetic energy blob	11	4	22	16	16	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	254	true	An Overgrown Shrine (Southeast)	Fire When Ready	Trick-or-Treating Tot	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	254	true	An Overgrown Shrine (Northwest)	Earthbound and Down	Trick-or-Treating Tot	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	254	false	The Hidden Office Building	pygmy headhunter	Trick-or-Treating Tot	 | briefcase	265	2	29	9	9	0				0	0	0	0	0	0		
+2	255	false	The Hidden Office Building	pygmy witch accountant	Trick-or-Treating Tot	 | Source essence (3) | adder	200	4	21	10	16	0			 | MICROMETEORITE | EXTRACT	0	0	0	0	0	0		
+2	256	true	The Hidden Office Building	Wooof! Wooooooof!	Trick-or-Treating Tot	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	256	true	The Hidden Office Building	sausage goblin	Trick-or-Treating Tot	 | magical sausage casing	108	4	57	21	27	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	256	false	The Hidden Office Building	pygmy headhunter	Trick-or-Treating Tot		0	2	4	0	0	0				0	0	0	0	0	0		
+2	257	false	The Hidden Office Building	ancient protector spirit	Trick-or-Treating Tot	 | crackling stone sphere | psychokinetic energy blob	12	4	29	11	9	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	258	true	An Overgrown Shrine (Northeast)	Air Apparent	Trick-or-Treating Tot	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	258	true	A Massive Ziggurat	dense liana	Trick-or-Treating Tot		12	1	0	0	7	0				0	0	0	0	0	0		
+2	258	true	A Massive Ziggurat	dense liana	Pocket Professor	 | blue pixel	11	1	0	6	0	0				0	0	0	0	0	0		
+2	258	true	A Massive Ziggurat	dense liana	Pocket Professor		14	1	6	0	0	0				0	0	0	0	0	0		
+2	258	false	A Massive Ziggurat	Protector Spectre	Pocket Professor	 | Source essence (2) | psychokinetic energy blob | ancient amulet | spectre scepter	14	5	67	32	34	0	 | Tangled Up (1)		 | EXTRACT	0	0	0	0	0	0		
+2	259	false	The Haunted Gallery	Louvre It or Leave It (The Persistence of Memory)	Pocket Professor	 | Lady Spookyraven's dancing shoes	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	260	false	The Haunted Bathroom	cosmetics wraith	Pocket Professor		0	2	5	0	6	0				0	0	0	0	0	0		
+2	261	false	The Haunted Ballroom	Having a Ball in the Ballroom	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	262	false	The Haunted Ballroom	Strung-Up Quartet	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	263	true	The Haunted Ballroom	Curtains	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	263	true	The Haunted Ballroom	Curtains	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	263	true	The Haunted Ballroom	Curtains	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	263	false	The Haunted Ballroom	zombie waltzers	Pair of Stomping Boots		0	4	4	0	0	0			 | MICROMETEORITE | SUMMON LOVE GNATS	0	0	0	0	0	0		
+2	264	false	The Haunted Ballroom	tapdancing skeleton	Pair of Stomping Boots	 | janglin' bones | red pixel	13	3	16	14	1	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	265	false	The Castle in the Clouds in the Sky (Top Floor)	All The Rave	Pair of Stomping Boots	 | Mick's IcyVapoHotness Inhaler	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	266	false	The Haunted Ballroom	zombie waltzers	Pair of Stomping Boots		84	2	7	13	4	0				0	0	0	0	0	0		
+2	267	false	The Haunted Ballroom	zombie waltzers	Pair of Stomping Boots		0	2	6	5	0	0				0	0	0	0	0	0		
+2	268	false	The Haunted Ballroom	We'll All Be Flat	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	269	true	Combing the Beach	N/A	Pair of Stomping Boots		0	-1	0	0	0	0	 | Oiled, Slick (50) | damage.enh (100)			0	0	0	0	0	0		
+2	269	false	A Mob of Zeppelin Protesters	Bench Warrant	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	270	false	A Mob of Zeppelin Protesters	Bench Warrant	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	271	TRUE	PILLKEEPER: Sunday - Surprise Me	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	271	false	A Mob of Zeppelin Protesters	Bench Warrant	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	272	false	A Mob of Zeppelin Protesters	Bench Warrant	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	273	true	A Mob of Zeppelin Protesters	Too Much Humanity	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	273	false	A Mob of Zeppelin Protesters	fleet woodsman	Pair of Stomping Boots		102	2	27	17	13	0				0	0	0	0	0	0		
+2	274	true	A Mob of Zeppelin Protesters	Not So Much With The Humanity	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	274	true	The Red Zeppelin	Zeppelintro	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	274	true	The Red Zeppelin	Red Herring	Pair of Stomping Boots	 | Source essence (2)	0	2	0	0	0	0			 | EXTRACT | REFLEX HAMMER	1	1	0	0	0	0		
+2	274	true	The Red Zeppelin	Red Snapper	Pair of Stomping Boots	 | Source essence	0	2	0	0	0	0			 | EXTRACT | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	274	false	The Red Zeppelin	red butler	Trick-or-Treating Tot	 | glark cable | green pixel	96	2	30	16	10	0			 | TRANSCENDENT OLFACTION	0	0	0	1	0	0		
+2	275	true	The Red Zeppelin	red butler	Trick-or-Treating Tot	 | glark cable | white pixel	110	3	26	15	13	0	 | On the Trail (40)	|glark cable	 | TRANSCENDENT OLFACTION	0	0	1	1	0	0		
+2	275	true	The Red Zeppelin	red butler	Trick-or-Treating Tot	 | snifter of thoroughly aged brandy | red box | glark cable	129	2	20	14	14	0		|glark cable		0	0	1	0	0	0		
+2	275	true	The Red Zeppelin	the man with the red buttons	Trick-or-Treating Tot	 | red button | button rouge	204	2	34	11	12	0		|glark cable		0	0	1	0	0	0		
+2	275	false	The Red Zeppelin	a red butler!	Trick-or-Treating Tot		105	3	24	17	10	0			 | MACROMETEORITE	0	0	0	0	0	0	 | red skeleton	
+2	276	false	The Red Zeppelin	red butler	Trick-or-Treating Tot	 | old eyebrow pencil | red box | glark cable	95	2	26	11	14	0				0	0	0	0	0	0		
+2	277	false	The Red Zeppelin	Ron &quot;The Weasel&quot; Copperhead	Trick-or-Treating Tot	 | Copperhead Charm (rampant)	376	2	0	4	0	0				0	0	0	0	0	0		
+2	278	true	The Haunted Laundry Room	plaid ghost	Trick-or-Treating Tot		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	278	true	The Haunted Laundry Room	possessed laundry press	Trick-or-Treating Tot		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	278	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	Trick-or-Treating Tot	 | fabric softener | fabric hardener	73	2	33	9	14	0				0	0	0	0	0	0		
+2	279	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	Trick-or-Treating Tot	 | CSA discount card | fabric softener | red pixel | blasting soda	80	2	27	15	14	0				0	0	0	0	0	0		
+2	280	false	The Haunted Wine Cellar	possessed wine rack	Trick-or-Treating Tot	 | dusty bottle of average Merlot | bottle of Chateau de Vinegar | Gathered Meat-Clip	15	2	29	24	16	0				0	0	0	0	0	0		
+2	281	false	Cook 1 bottle of Chateau de Vinegar + 1 blasting soda	N/A	Trick-or-Treating Tot	 | unstable fulminate	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	282	false	Sonofa Beach	What has it got in its pocketses?	Trick-or-Treating Tot	 | barrel of gunpowder	85	3	28	10	18	0	 | Sourpuss (40) | The Halls of Muscularity (20)		 | MACROMETEORITE	0	0	0	0	0	0	 | angry ghost	
+2	283	true	Inside the Palindome	Witchess Bishop	Trick-or-Treating Tot	 | tofurkey leg | Sacramento wine | green pixel	10	3	43	18	15	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	283	true	Your Witchess Set	N/A	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	283	true	Inside the Palindome	Tan Gnat	Trick-or-Treating Tot		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+2	283	false	Inside the Palindome	Do Geese See God?	Trick-or-Treating Tot	 | photograph of God	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	284	false	Inside the Palindome	Drab Bard	Trick-or-Treating Tot	 | Source essence | spooky mushroom wine | olive | drab sonata	96	3	27	11	13	0			 | EXTRACT	0	0	0	0	0	0		
+2	285	true	Inside the Palindome	Evil Olive	Trick-or-Treating Tot		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	285	true	Inside the Palindome	Taco Cat	Trick-or-Treating Tot		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	285	true	Inside the Palindome	Flock of Stab-bats	Trick-or-Treating Tot		0	0	0	0	0	0			 | USE THE FORCE | SABER BANISH	0	1	0	0	0	0		
+2	285	false	Inside the Palindome	Racecar Bob	Trick-or-Treating Tot	 | photograph of a dog | enormous belt buckle | leather chaps | stunt nuts | ketchup hound	181	3	37	17	14	0		|disposable instant camera		0	0	0	0	0	0		
+2	286	false	Inside the Palindome	Drab Bard	Trick-or-Treating Tot	 | olive | drab sonata | guitar pick | glass of warm milk	133	2	37	13	5	0				0	0	0	0	0	0		
+2	287	false	Inside the Palindome	Last Egg Gets Al	Trick-or-Treating Tot	 | photograph of an ostrich egg	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	288	false	Inside the Palindome	Bob Racecar	Trick-or-Treating Tot	 | leather chaps | stunt nuts | ketchup hound | red pixel	206	2	24	16	18	0				0	0	0	0	0	0		
+2	289	false	Inside the Palindome	Bob Racecar	Trick-or-Treating Tot	 | stunt nuts | ketchup hound | &quot;I Love Me, Vol. I&quot;	164	2	41	4	13	0				0	0	0	0	0	0		
+2	290	false	Inside the Palindome	Racecar Bob	Trick-or-Treating Tot	 | enormous belt buckle | stunt nuts | ketchup hound	151	2	29	21	10	0				0	0	0	0	0	0		
+2	291	true	Inside the Palindome	Wooof! Wooooooof!	Trick-or-Treating Tot	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	291	false	Inside the Palindome	Drab Bard	Trick-or-Treating Tot	 | olive | drab sonata	147	3	26	5	24	0				0	0	0	0	0	0		
+2	292	false	Inside the Palindome	Bob Racecar	Trick-or-Treating Tot	 | stunt nuts | ketchup hound | a butt tuba	179	2	25	18	14	0				0	0	0	0	0	0		
+2	293	true	Inside the Palindome	Rod Nevada, Vendor	Trick-or-Treating Tot	 | photograph of a red nugget	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	293	false	Dr. Awkward's Office	N/A	Trick-or-Treating Tot	 | &quot;2 Love Me, Vol. 2&quot;	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	294	false	The Defiled Nook	spiny skelelton	Trick-or-Treating Tot	 | skeleton bone | smart skull | spiked femur	11	2	21	4	11	0				0	0	0	0	0	0		
+2	295	true	The Defiled Nook	sausage goblin	Trick-or-Treating Tot		0	13	0	0	0	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	295	false	The Defiled Nook	toothy sklelton	Trick-or-Treating Tot	 | bat wing stir-fry | loose teeth | loose teeth | skeleton bone | evil eye | Gathered Meat-Clip	14	2	19	8	3	0				0	0	0	0	0	0		
+2	296	false	The Defiled Nook	party skelteon	Trick-or-Treating Tot	 | skeleton bone | tequila sunrise | loose teeth	11	2	27	4	5	0				0	0	0	0	0	0		
+2	297	true	The Defiled Nook	party skelteon	Trick-or-Treating Tot		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+2	297	true	The Defiled Nook	Skull, Skull, Skull	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	297	true	The Defiled Nook	Skull, Skull, Skull	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	297	true	The Defiled Nook	Skull, Skull, Skull	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	297	false	The Defiled Nook	toothy sklelton	Trick-or-Treating Tot		0	2	7	0	0	0				0	0	0	0	0	0		
+2	298	false	The Defiled Nook	spiny skelelton	Trick-or-Treating Tot	 | skeleton bone | smart skull | spiked femur | evil eye | skelelton spine | succulent marrow	10	2	28	9	4	0				0	0	0	0	0	0		
+2	299	false	The Defiled Nook	spiny skelelton	Trick-or-Treating Tot	 | skeleton bone | smart skull | spiked femur | evil eye | skelelton spine | succulent marrow	12	2	28	3	9	0				0	0	0	0	0	0		
+2	300	true	The Defiled Nook	Seeing-Eyes Dog	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	300	false	The Defiled Nook	giant skeelton	Trick-or-Treating Tot	 | skeleton bone | skeleton bone | skeleton bone	13	2	45	14	24	0				0	0	0	0	0	0		
+2	301	false	Whitey's Grove	The Only Thing About Him is the Way That He Walks	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	302	false	Whitey's Grove	whitesnake	Trick-or-Treating Tot	 | white snake skin | bird rib	17	3	19	4	9	0	 | Bat-Adjacent Form (1)		 | BECOME A BAT	0	0	0	0	0	0		
+2	303	false	Whitey's Grove	Hack to the Future	Trick-or-Treating Tot	 | white hat hacker T-shirt	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	304	false	Whitey's Grove	a white lion!	Trick-or-Treating Tot	 | CSA bravery badge | catgut | lion oil	55	5	12	5	4	0	 | Bat-Adjacent Form (1)		 | MACROMETEORITE | MACROMETEORITE | BECOME A BAT	0	0	0	0	0	0	 | white chocolate golem | a Knight in White Satin!	
+2	305	true	Cook 1 bird rib + 1 lion oil	N/A	Trick-or-Treating Tot	 | wet stew	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	305	true	Cook 1 wet stew + 1 stunt nuts	N/A	Trick-or-Treating Tot	 | wet stunt nut stew	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	305	false	Dr. Awkward's Office	Dr. Awkward	Trick-or-Treating Tot	 | bottle of sewage schnapps | Staff of Fats | Drowsy Sword	0	4	89	31	24	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	306	true	Boxing Daycare	Visit the Boxing Day Spa	Trick-or-Treating Tot		0	-1	0	0	0	0	 | Muddled (100)			0	0	0	0	0	0		
+2	306	true	The Haunted Boiler Room	a coaltergeist!	Trick-or-Treating Tot		0	0	0	0	0	0			 | CHEAT CODE: REPLACE ENEMY | CHEAT CODE: REPLACE ENEMY | CHEAT CODE: REPLACE ENEMY | CHEAT CODE: REPLACE ENEMY | USE THE FORCE | SABER BANISH	0	1	0	0	0	0	 | coaltergeist | a steam elemental! | a coaltergeist! | a steam elemental!	
+2	306	false	The Haunted Boiler Room	monstrous boiler	Trick-or-Treating Tot	 | wine bomb	0	2	0	0	0	0				0	0	0	0	0	0		
+2	307	false	Summoning Chamber	Lord Spookyraven	Trick-or-Treating Tot	 | Eye of Ed | Lord Spookyraven's ear trumpet	0	3	83	38	46	0	 | Piratastic (5)		 | MICROMETEORITE	0	0	0	0	0	0		
+2	308	true	Rest in your bed in the Chateau	N/A	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	308	true	Rest in your bed in the Chateau	N/A	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	308	true	Rest in your bed in the Chateau	N/A	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	308	true	Rest in your bed in the Chateau	N/A	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	308	true	Combing the Beach	N/A	Trick-or-Treating Tot		0	-1	0	0	0	0	 | Cold as Nice (50)			0	0	0	0	0	0		
+2	308	true	Combing the Beach	N/A	Trick-or-Treating Tot		0	-1	0	0	0	0	 | Hot-Headed (50)			0	0	0	0	0	0		
+2	308	true	Combing the Beach	N/A	Trick-or-Treating Tot		0	-1	0	0	0	0	 | Does It Have a Skull In There?? (50)			0	0	0	0	0	0		
+2	308	false	The Tavern Cellar	drunken rat king	Trick-or-Treating Tot	 | rat whisker | rat whisker | rat appendix | rat appendix | tangle of rat tails | blue pixel | Gathered Meat-Clip	72	3	37	13	33	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	309	false	The Tavern Cellar	bunch of drunken rats	Trick-or-Treating Tot	 | rat whisker | rat whisker | rat appendix | rat appendix | red pixel	32	2	36	16	22	0				0	0	0	0	0	0		
+2	310	false	The Tavern Cellar	bunch of drunken rats	Trick-or-Treating Tot	 | rat whisker | rat whisker | rat appendix | rat appendix	35	2	49	20	9	0				0	0	0	0	0	0		
+2	311	false	The Tavern Cellar	bunch of drunken rats	Trick-or-Treating Tot	 | rat whisker | rat whisker | rat whisker | rat appendix | rat appendix	35	2	38	23	16	0				0	0	0	0	0	0		
+2	312	false	The Tavern Cellar	Those Who Came Before You	Trick-or-Treating Tot	 | seal-blubber candle | figurine of a wretched-looking seal | Ben-Gal&trade; Balm | shiny ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	313	false	The Tavern Cellar	bunch of drunken rats	Trick-or-Treating Tot	 | rat whisker | rat whisker | rat whisker | rat appendix | rat appendix | rat appendix | red pixel	30	2	40	23	15	0	 | Held Closer (5)			0	0	0	0	0	0		
+2	314	false	The Tavern Cellar	Of Course!	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	315	TRUE	CONSUME: eat 2 browser cookie	N/A	Trick-or-Treating Tot		0	-1	0	0	0	43				0	0	0	0	0	0		
+2	315	TRUE	CONSUME: drink 8 Sacramento wine	N/A	Trick-or-Treating Tot		0	-1	0	0	0	45	 | Sacr&eacute; Mental (50) | Sacr&eacute; Mental (50) | Sacr&eacute; Mental (50) | Sacr&eacute; Mental (50) | Sacr&eacute; Mental (50) | Sacr&eacute; Mental (50) | Sacr&eacute; Mental (50) | Sacr&eacute; Mental (50)			0	0	0	0	0	0		
+2	315	false	The Tavern Cellar	drunken rat king	Trick-or-Treating Tot	 | rat whisker | rat whisker | rat whisker | rat appendix | rat appendix | rat appendix | tangle of rat tails	57	2	36	17	31	0				0	0	0	0	0	0		
+2	316	false	The Defiled Cranny	giant swarm of ghuol whelps	Trick-or-Treating Tot		0	4	0	0	0	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	317	false	The Defiled Cranny	gaunt ghuol	Trick-or-Treating Tot	 | ghuol egg | ghuol ears	35	3	48	10	22	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	318	false	The Defiled Cranny	giant swarm of ghuol whelps	Trick-or-Treating Tot		0	3	44	17	15	0				0	0	0	0	0	0		
+2	319	false	The Defiled Cranny	huge ghuol	Trick-or-Treating Tot		0	2	0	0	0	0				0	0	0	0	0	0		
+2	320	false	The Upper Chamber	A Wheel -- How Fortunate!	Trick-or-Treating Tot	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	321	false	The Upper Chamber	A Wheel -- How Fortunate!	Trick-or-Treating Tot	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	322	true	The Upper Chamber	Iiti Kitty	Trick-or-Treating Tot		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	322	false	The Upper Chamber	A Wheel -- How Fortunate!	Trick-or-Treating Tot	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	323	true	The Upper Chamber	tomb bat	Trick-or-Treating Tot		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	323	false	The Upper Chamber	Down Dooby-Doo Down Down	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	324	true	The Middle Chamber	tomb asp	Trick-or-Treating Tot		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	324	false	The Middle Chamber	a tomb rat!	Trick-or-Treating Tot	 | tomb ratchet | leathery rat skin	123	4	32	16	12	0	 | On the Trail (40)		 | MACROMETEORITE | TRANSCENDENT OLFACTION	0	0	0	1	0	0	 | tomb servant	
+2	325	false	The Middle Chamber	a tomb rat king!	Trick-or-Treating Tot	 | tomb ratchet | tomb ratchet | tomb ratchet | leathery rat skin | leathery rat skin | leathery rat skin | unidentified jerky | unidentified jerky | unidentified jerky | Gathered Meat-Clip	323	6	50	31	29	0		|tangle of rat tails|electronics kit|electronics kit|jam band bootleg		0	0	0	0	0	0	 | tomb rat	
+2	326	false	The Middle Chamber	a tomb rat king!	Trick-or-Treating Tot	 | tomb ratchet | tomb ratchet | tomb ratchet | leathery rat skin | leathery rat skin | leathery rat skin | unidentified jerky | unidentified jerky | unidentified jerky	346	4	52	30	24	0		|tangle of rat tails	 | MICROMETEORITE	0	0	0	0	0	0	 | tomb rat	
+2	327	true	Next to that Barrel with Something Burning in it	vegetable gremlin	Pair of Stomping Boots		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	327	false	Next to that Barrel with Something Burning in it	batwinged gremlin	Pair of Stomping Boots		0	10	0	0	0	0		|spectre scepter|spectre scepter|spectre scepter|spectre scepter|spectre scepter|spectre scepter|spectre scepter|spectre scepter		0	0	0	0	0	0		
+2	328	TRUE	CONSUME: chew 1 greasy paste	N/A	Pair of Stomping Boots		0	-1	0	0	0	10	 | Greasy Flavor (10)			0	0	0	0	0	0		
+2	328	false	Next to that Barrel with Something Burning in it	batwinged gremlin	Pair of Stomping Boots	 | greasy paste	0	2	2	0	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+2	329	false	Next to that Barrel with Something Burning in it	a batwinged gremlin!	Pair of Stomping Boots		107	3	29	11	18	0	 | Brother Flying Burrito's Blessing (5)		 | MACROMETEORITE	0	0	0	0	0	0	 | batwinged gremlin	
+2	330	false	Next to that Barrel with Something Burning in it	batwinged gremlin	Pair of Stomping Boots		102	2	39	16	24	0				0	0	0	0	0	0		
+2	331	false	Next to that Barrel with Something Burning in it	batwinged gremlin	Pair of Stomping Boots	 | molybdenum hammer	119	6	42	16	27	0		|spectre scepter|spectre scepter|spectre scepter|spectre scepter|molybdenum magnet		0	0	0	0	0	0		
+2	332	false	Out by that Rusted-Out Car	erudite gremlin	Pair of Stomping Boots		105	2	29	24	26	0				0	0	0	0	0	0		
+2	333	true	Over Where the Old Tires Are	Witchess Bishop	Pair of Stomping Boots	 | Sacramento wine	0	5	101	44	53	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	333	false	Over Where the Old Tires Are	spider gremlin	Pair of Stomping Boots		128	2	35	21	25	0	 | Fudge Headache (5)			0	0	0	0	0	0		
+2	334	false	Over Where the Old Tires Are	spider gremlin	Pair of Stomping Boots	 | CSA all-purpose soap	117	2	51	15	22	0				0	0	0	0	0	0		
+2	335	false	Over Where the Old Tires Are	erudite gremlin	Pair of Stomping Boots	 | molybdenum crescent wrench	115	4	44	5	31	0		|spectre scepter|spectre scepter|molybdenum magnet		0	0	0	0	0	0		
+2	336	false	Near an Abandoned Refrigerator	batwinged gremlin	Pair of Stomping Boots		100	3	42	17	21	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	337	false	Near an Abandoned Refrigerator	batwinged gremlin	Pair of Stomping Boots	 | Gathered Meat-Clip	115	2	47	12	24	0				0	0	0	0	0	0		
+2	338	false	Near an Abandoned Refrigerator	spider gremlin	Pair of Stomping Boots	 | molybdenum pliers	94	11	33	17	22	0	 | Also Schmeckt Zarathustra (5)	|spectre scepter|spectre scepter|spectre scepter|spectre scepter|spectre scepter|spectre scepter|spectre scepter|spectre scepter|spectre scepter|molybdenum magnet		0	0	0	0	0	0		
+2	339	false	Out by that Rusted-Out Car	vegetable gremlin	Trick-or-Treating Tot	 | molybdenum screwdriver	96	8	38	15	20	0		|spectre scepter|spectre scepter|spectre scepter|spectre scepter|spectre scepter|spectre scepter|molybdenum magnet		0	0	0	0	0	0		
+2	340	false	The Battlefield (Frat Uniform)	I Am The Brotherhood	Trick-or-Treating Tot	 | perforated battle paddle | PADL Phone	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	341	false	The Battlefield (Frat Uniform)	War Hippy Infantryman	Trick-or-Treating Tot	 | reinforced beaded headband | round purple sunglasses	0	2	33	19	20	0				0	0	0	0	0	0		
+2	342	false	The Battlefield (Frat Uniform)	War Hippy Baker	Trick-or-Treating Tot	 | bullet-proof corduroys | reinforced beaded headband | round purple sunglasses | oversized pipe | water pipe bomb	0	2	36	21	19	0				0	0	0	0	0	0		
+2	343	false	The Battlefield (Frat Uniform)	War Hippy Dread Squad	Trick-or-Treating Tot	 | didgeridooka | tube of dread wax	0	2	31	17	23	0				0	0	0	0	0	0		
+2	344	false	The Hatching Chamber	larval filthworm	Trick-or-Treating Tot	 | filthworm hatchling scent gland	98	2	29	11	29	0	 | Serenity (5)			0	0	0	0	0	0		
+2	345	false	The Feeding Chamber	filthworm drone	Trick-or-Treating Tot	 | filthworm drone scent gland	153	2	30	21	18	0				0	0	0	0	0	0		
+2	346	false	The Royal Guard Chamber	filthworm royal guard	Trick-or-Treating Tot	 | filthworm royal guard scent gland	207	2	42	14	20	0				0	0	0	0	0	0		
+2	347	false	The Filthworm Queen's Chamber	the queen filthworm	Trick-or-Treating Tot	 | heart of the filthworm queen	2291	2	42	24	12	0				0	0	0	0	0	0		
+2	348	true	The Middle Chamber	angry ghost	Trick-or-Treating Tot	 | psychokinetic energy blob | ghostly ectoplasm	0	6	95	58	72	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	348	false	The Battlefield (Frat Uniform)	War Hippy Dread Squad	Trick-or-Treating Tot	 | didgeridooka | tube of dread wax	0	2	33	21	16	0	 | Square to be Hip (5)			0	0	0	0	0	0		
+2	349	false	The Battlefield (Frat Uniform)	War Hippy Rigger	Trick-or-Treating Tot	 | bullet-proof corduroys | hippy protest button | oversized pipe | wicker shield | Gathered Meat-Clip	0	2	36	21	20	0				0	0	0	0	0	0		
+2	350	false	The Battlefield (Frat Uniform)	War Hippy F.R.O.G.	Trick-or-Treating Tot	 | pink clay bead	0	2	41	16	16	0				0	0	0	0	0	0		
+2	351	true	The Battlefield (Frat Uniform)	Wooof! Wooooooof!	Trick-or-Treating Tot	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	351	false	The Battlefield (Frat Uniform)	War Hippy Sky Captain	Trick-or-Treating Tot	 | pink clay bead | ferret bait | water pipe bomb	0	2	30	18	26	0				0	0	0	0	0	0		
+2	352	false	The Battlefield (Frat Uniform)	War Hippy Infantryman	Trick-or-Treating Tot	 | round purple sunglasses | hippy protest button	0	2	35	16	19	0				0	0	0	0	0	0		
+2	353	false	The Battlefield (Frat Uniform)	War Hippy Baker	Trick-or-Treating Tot	 | reinforced beaded headband | hippy protest button | oversized pipe | water pipe bomb	0	2	39	12	21	0	 | Chief Executive Optimism (5)			0	0	0	0	0	0		
+2	354	false	The Battlefield (Frat Uniform)	War Hippy Fire Spinner	Trick-or-Treating Tot	 | fire poi | Lockenstock&trade; sandals	0	2	37	18	20	0				0	0	0	0	0	0		
+2	355	false	The Battlefield (Frat Uniform)	Mobile Armored Sweat Lodge	Trick-or-Treating Tot	 | didgeridooka | gas balloon	0	2	29	21	28	0				0	0	0	0	0	0		
+2	356	false	The Hidden Temple	stone temple pirate	Trick-or-Treating Tot	 | eyepatch | ancient poisoned dart | li'l pirate costume	0	2	25	8	16	0				0	0	0	0	0	0		
+2	357	TRUE	CONSUME: chew 1 body spradium	N/A	Trick-or-Treating Tot		0	-1	0	0	0	0	 | Boxing Day Glow (100)			0	0	0	0	0	0		
+2	357	TRUE	CONSUME: eat 1 campfire hot dog	N/A	Trick-or-Treating Tot		0	-1	0	0	0	3	 | Traditional Eating (40)			0	0	0	0	0	0		
+2	357	true	Smith 1 lump of Brituminous coal + 1 loose purse strings	N/A	Trick-or-Treating Tot	 | Half a Purse	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	357	false	The Middle Chamber	Further Down Dooby-Doo Down Down	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	358	true	The Middle Chamber	sausage goblin	Pocket Professor	 | magical sausage casing	363	9	90	43	50	0			 | MICROMETEORITE | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+2	358	true	The Middle Chamber	sausage goblin	Pocket Professor	 | magical sausage casing	287	8	88	39	50	0	 | Egged On (5)		 | LECTURE ON RELATIVITY | MICROMETEORITE	0	0	0	0	0	1		
+2	358	true	The Middle Chamber	sausage goblin	Pocket Professor	 | bag of QWOP | magical sausage casing	363	7	97	39	43	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	358	false	The Themthar Hills	dirty thieving brigand	Trick-or-Treating Tot	 | brigand brittle	0	3	36	9	15	0			 | SING ALONG	0	0	0	0	0	0		
+2	359	false	The Themthar Hills	dirty thieving brigand	Trick-or-Treating Tot		0	4	32	13	15	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF	0	0	0	0	0	0		
+2	360	false	The Themthar Hills	dirty thieving brigand	Trick-or-Treating Tot	 | brigand brittle	0	5	35	11	14	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF	0	0	0	0	0	0		
+2	361	false	The Themthar Hills	dirty thieving brigand	Trick-or-Treating Tot	 | brigand brittle | Gathered Meat-Clip	0	5	35	14	16	0	 | Wolfish Form (1) | Coy to the Hurled (5)		 | SING ALONG | BECOME A WOLF	0	0	0	0	0	0		
+2	362	false	The Themthar Hills	dirty thieving brigand	Trick-or-Treating Tot		0	5	33	10	17	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF	0	0	0	0	0	0		
+2	363	false	The Themthar Hills	dirty thieving brigand	Trick-or-Treating Tot	 | brigand brittle	0	4	29	11	19	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF	0	0	0	0	0	0		
+2	364	true	The Themthar Hills	Wooof! Wooooooof!	Trick-or-Treating Tot	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	364	false	The Themthar Hills	dirty thieving brigand	Trick-or-Treating Tot	 | brigand brittle	0	5	35	9	16	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF	0	0	0	0	0	0		
+2	365	false	The Themthar Hills	dirty thieving brigand	Trick-or-Treating Tot	 | brigand brittle	0	5	29	18	13	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF	0	0	0	0	0	0		
+2	366	false	The Themthar Hills	dirty thieving brigand	Trick-or-Treating Tot	 | brigand brittle	0	4	18	16	26	0	 | Wolfish Form (1) | Heart of Yellow (5)		 | SING ALONG | BECOME A WOLF	0	0	0	0	0	0		
+2	367	false	The Themthar Hills	dirty thieving brigand	Trick-or-Treating Tot	 | brigand brittle	0	4	31	10	20	0			 | SING ALONG	0	0	0	0	0	0		
+2	368	false	The Themthar Hills	dirty thieving brigand	Trick-or-Treating Tot	 | brigand brittle	0	3	31	10	20	0			 | SING ALONG	0	0	0	0	0	0		
+2	369	false	The Battlefield (Frat Uniform)	War Hippy F.R.O.G.	Trick-or-Treating Tot	 | pink clay bead | oversized pipe	0	3	39	12	14	0				0	0	0	0	0	0		
+2	370	false	The Battlefield (Frat Uniform)	War Hippy Rigger	Trick-or-Treating Tot	 | bullet-proof corduroys | reinforced beaded headband	0	2	28	18	16	0				0	0	0	0	0	0		
+2	371	false	The Battlefield (Frat Uniform)	War Hippy Green Gourmet	Trick-or-Treating Tot	 | communications windchimes | water pipe bomb | Hippy Army MPE	0	2	38	11	18	0	 | Mayeaugh (5)			0	0	0	0	0	0		
+2	372	false	The Battlefield (Frat Uniform)	War Hippy Infantryman	Trick-or-Treating Tot	 | bullet-proof corduroys | hippy protest button | Gathered Meat-Clip	0	2	33	17	12	0				0	0	0	0	0	0		
+2	373	false	The Battlefield (Frat Uniform)	War Hippy Fire Spinner	Trick-or-Treating Tot		0	2	28	12	23	0				0	0	0	0	0	0		
+2	374	false	The Battlefield (Frat Uniform)	War Hippy Baker	Trick-or-Treating Tot	 | oversized pipe	0	2	36	9	17	0				0	0	0	0	0	0		
+2	375	false	The Battlefield (Frat Uniform)	Mobile Armored Sweat Lodge	Trick-or-Treating Tot	 | didgeridooka | gas balloon	0	3	29	19	15	0				0	0	0	0	0	0		
+2	376	false	The Battlefield (Frat Uniform)	War Hippy Elite Rigger	Trick-or-Treating Tot	 | pink clay bead | round purple sunglasses | wicker shield | water pipe bomb	0	2	31	7	27	0	 | Slightly Mutated (5)			0	0	0	0	0	0		
+2	377	false	The Battlefield (Frat Uniform)	War Hippy F.R.O.G.	Trick-or-Treating Tot	 | pink clay bead | reinforced beaded headband | oversized pipe | water pipe bomb	0	2	27	13	21	0				0	0	0	0	0	0		
+2	378	true	The Battlefield (Frat Uniform)	Playing Fetch*	Trick-or-Treating Tot	 | tennis ball	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	378	false	The Battlefield (Frat Uniform)	War Hippy Windtalker	Trick-or-Treating Tot	 | communications windchimes | communications windchimes	0	2	32	15	23	0				0	0	0	0	0	0		
+2	379	false	The Battlefield (Frat Uniform)	War Hippy Homeopath	Trick-or-Treating Tot	 | hippy medical kit | filthy poultice	0	2	20	21	25	0				0	0	0	0	0	0		
+2	380	false	The Battlefield (Frat Uniform)	War Hippy Dread Squad	Trick-or-Treating Tot		0	2	25	14	20	0				0	0	0	0	0	0		
+2	381	true	The Middle Chamber	angry ghost	Trick-or-Treating Tot	 | ghostly ectoplasm	0	9	91	50	55	0	 | Yuletide Sappiness (5)		 | MICROMETEORITE	0	0	0	0	0	0		
+2	381	false	The Battlefield (Frat Uniform)	War Hippy Shaman	Trick-or-Treating Tot	 | Gaia beads	0	2	31	13	22	0				0	0	0	0	0	0		
+2	382	false	The Battlefield (Frat Uniform)	War Hippy Rigger	Trick-or-Treating Tot	 | reinforced beaded headband | round purple sunglasses | hippy protest button	0	2	36	10	15	0				0	0	0	0	0	0		
+2	383	false	The Battlefield (Frat Uniform)	War Hippy Green Gourmet	Trick-or-Treating Tot	 | pink clay bead | bullet-proof corduroys | water pipe bomb | Hippy Army MPE | blue pixel | Gathered Meat-Clip	0	2	31	18	17	0				0	0	0	0	0	0		
+2	384	false	The Battlefield (Frat Uniform)	Mobile Armored Sweat Lodge	Trick-or-Treating Tot	 | CSA scoutmaster's &quot;water&quot; | didgeridooka	0	2	25	15	23	0				0	0	0	0	0	0		
+2	385	false	The Battlefield (Frat Uniform)	War Hippy Homeopath	Trick-or-Treating Tot	 | hippy medical kit | holistic headache remedy	0	2	30	12	18	0	 | Trivia Master (5)			0	0	0	0	0	0		
+2	386	false	The Battlefield (Frat Uniform)	War Hippy Elder Shaman	Trick-or-Treating Tot	 | Gaia beads | carbonated soy milk	0	2	40	12	19	0				0	0	0	0	0	0		
+2	387	false	The Battlefield (Frat Uniform)	War Hippy Elite Rigger	Trick-or-Treating Tot	 | pink clay bead | reinforced beaded headband	0	2	31	16	18	0				0	0	0	0	0	0		
+2	388	false	The Battlefield (Frat Uniform)	Mobile Armored Sweat Lodge	Trick-or-Treating Tot	 | didgeridooka | gas balloon	0	2	35	14	19	0				0	0	0	0	0	0		
+2	389	false	The Battlefield (Frat Uniform)	War Hippy Naturopathic Homeopath	Trick-or-Treating Tot	 | hippy medical kit | natural fennel soda	0	2	35	14	19	0				0	0	0	0	0	0		
+2	390	false	The Battlefield (Frat Uniform)	War Hippy Elite Fire Spinner	Trick-or-Treating Tot	 | fire poi	0	2	40	9	18	0	 | Loyal Tea (5)			0	0	0	0	0	0		
+2	391	false	The Battlefield (Frat Uniform)	Green Ops Soldier	Trick-or-Treating Tot	 | gas balloon	0	2	27	20	20	0	 | Toad In The Hole (1) | Light-Headed (1)			0	0	0	0	0	0		
+2	392	false	The Battlefield (Frat Uniform)	War Hippy Elder Shaman	Trick-or-Treating Tot	 | carbonated soy milk	0	2	31	17	22	0				0	0	0	0	0	0		
+2	393	false	The Middle Chamber	Under Control	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	394	true	The Smut Orc Logging Camp	Witchess Bishop	Trick-or-Treating Tot	 | Sacramento wine | red pixel	0	5	86	40	47	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	394	false	The Battlefield (Frat Uniform)	War Hippy Airborne Commander	Trick-or-Treating Tot	 | purple clay bead | ferret bait | ferret bait | water pipe bomb | red pixel	0	2	35	14	18	0				0	0	0	0	0	0		
+2	395	false	The Battlefield (Frat Uniform)	War Hippy Windtalker	Trick-or-Treating Tot	 | communications windchimes | Gathered Meat-Clip	0	2	35	13	17	0	 | Disco Neuropathy (5)			0	0	0	0	0	0		
+2	396	false	Hippy Camp	The Big Wisniewski	Trick-or-Treating Tot	 | solid gold bowling ball | Iron Beta of Industry	0	6	157	66	69	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	397	false	The Lower Chambers	N/A	Trick-or-Treating Tot	 | ancient bronze token	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	398	false	The Lower Chambers	N/A	Trick-or-Treating Tot	 | ancient bomb	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	399	false	The Lower Chambers	N/A	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	400	false	The Lower Chambers	Ed the Undying	Trick-or-Treating Tot	 | blue pixel	0	2	50	19	30	0				0	0	0	0	0	0		
+2	401	false	The Lower Chambers	Ed the Undying	Trick-or-Treating Tot		0	2	44	21	29	0				0	0	0	0	0	0		
+2	402	false	The Lower Chambers	Ed the Undying	Trick-or-Treating Tot		0	2	51	24	19	0				0	0	0	0	0	0		
+2	403	false	The Lower Chambers	Ed the Undying	Trick-or-Treating Tot		0	3	49	23	24	0	 | Visions of the Deep Dark Deeps (5)			0	0	0	0	0	0		
+2	404	false	The Lower Chambers	Ed the Undying	Trick-or-Treating Tot	 | white pixel	0	2	54	15	25	0				0	0	0	0	0	0		
+2	405	false	The Lower Chambers	Ed the Undying	Trick-or-Treating Tot	 | white pixel	0	2	48	28	23	0				0	0	0	0	0	0		
+2	406	false	The Lower Chambers	Ed the Undying	Trick-or-Treating Tot	 | red pixel | Holy MacGuffin | handful of confetti	0	2	38	20	31	0				0	0	0	0	0	0		
+2	407	true	Cook 23 wad of dough + 23 soda water	N/A	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	407	false	The Smut Orc Logging Camp	smut orc jacker	Trick-or-Treating Tot	 | weirdwood plank | long hard screw | orcish hand lotion | stick of firewood	193	2	15	6	8	0				0	0	0	0	0	0		
+2	408	false	The Smut Orc Logging Camp	smut orc screwer	Pocket Professor	 | long hard screw | raging hardwood plank | red pixel | stick of firewood	89	2	9	8	11	0	 | Reedy Pipes (5)			0	0	0	0	0	0		
+2	409	false	The Smut Orc Logging Camp	smut orc jacker	Pocket Professor	 | weirdwood plank | orcish hand lotion | white pixel | Gathered Meat-Clip	72	2	10	6	11	0				0	0	0	0	0	0		
+2	410	false	The Smut Orc Logging Camp	smut orc nailer	Pocket Professor	 | thick caulk | stick of firewood	78	2	10	5	12	0				0	0	0	0	0	0		
+2	411	false	The Smut Orc Logging Camp	smut orc pipelayer	Pocket Professor	 | weirdwood plank | orcish rubber	89	2	11	2	15	0				0	0	0	0	0	0		
+2	412	false	The Smut Orc Logging Camp	smut orc jacker	Pocket Professor	 | morningwood plank | orcish hand lotion | stick of firewood	94	2	13	7	8	0				0	0	0	0	0	0		
+2	413	true	The Smut Orc Logging Camp	Wooof! Wooooooof!	Pocket Professor	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	413	false	The Smut Orc Logging Camp	smut orc nailer	Pocket Professor	 | long hard screw | orcish nailing lube | green pixel	83	2	14	5	9	0	 | Fangs and Pangs (5)			0	0	0	0	0	0		
+2	414	false	The Smut Orc Logging Camp	smut orc screwer	Pocket Professor	 | long hard screw | raging hardwood plank	97	2	9	11	7	0				0	0	0	0	0	0		
+2	415	false	The Smut Orc Logging Camp	smut orc nailer	Pocket Professor	 | long hard screw | orcish nailing lube | orcish stud-finder	72	2	8	4	15	0				0	0	0	0	0	0		
+2	416	false	The Smut Orc Logging Camp	smut orc screwer	Pocket Professor	 | long hard screw | thick caulk | backwoods screwdriver	94	2	13	6	9	0				0	0	0	0	0	0		
+2	417	false	The Smut Orc Logging Camp	smut orc screwer	Pocket Professor	 | messy butt joint | bag of GORF | thick caulk | morningwood plank	94	2	16	6	13	0				0	0	0	0	0	0		
+2	418	false	The Smut Orc Logging Camp	smut orc jacker	Pocket Professor	 | weirdwood plank | orc wrist	89	2	14	3	12	0	 | Loyal Tea (5)			0	0	0	0	0	0		
+2	419	TRUE	CONSUME: eat 1 jumping horseradish	N/A	Pocket Professor		0	-1	0	0	0	5	 | Kicked in the Sinuses (50)			0	0	0	0	0	0		
+2	419	true	Your Witchess Set	Witchess Knight	Pocket Professor	 | jumping horseradish	0	3	37	18	32	0			 | DIGITIZE	0	0	0	0	0	1		
+2	419	false	The Smut Orc Logging Camp	smut orc nailer	Pocket Professor	 | messy butt joint	118	2	6	9	12	0				0	0	0	0	0	0		
+2	420	false	The Smut Orc Logging Camp	smut orc pipelayer	Pocket Professor	 | raging hardwood plank | Gathered Meat-Clip	125	2	13	4	11	0				0	0	0	0	0	0		
+2	421	false	The Smut Orc Logging Camp	smut orc screwer	Pocket Professor	 | long hard screw | thick caulk | weirdwood plank | backwoods screwdriver | screwing pooch	133	2	7	10	10	0				0	0	0	0	0	0		
+2	422	false	The Smut Orc Logging Camp	smut orc jacker	Pocket Professor	 | long hard screw | morningwood plank | orcish hand lotion | green pixel	107	2	17	3	8	0	 | Fishy (5)			0	0	0	0	0	0		
+2	423	false	The Smut Orc Logging Camp	smut orc nailer	Pocket Professor	 | long hard screw | orcish nailing lube | orcish stud-finder | stick of firewood	114	2	11	6	10	0				0	0	0	0	0	0		
+2	424	false	The Smut Orc Logging Camp	smut orc pipelayer	Pocket Professor	 | raging hardwood plank | orcish rubber | blue pixel	140	2	9	5	13	0				0	0	0	0	0	0		
+2	425	false	The Smut Orc Logging Camp	smut orc jacker	Pocket Professor	 | weirdwood plank | orcish hand lotion	122	2	15	5	8	0				0	0	0	0	0	0		
+2	426	true	The Smut Orc Logging Camp	Carpenter Dog	Pocket Professor	 | weirdwood plank | weirdwood plank | weirdwood plank | thick caulk | long hard screw | long hard screw	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	426	false	The Smut Orc Logging Camp	smut orc pervert	Pocket Professor	 | thick caulk | smut orc keepsake box | smut orc sunglasses | blue pixel | stick of firewood	0	2	14	8	7	0				0	0	0	0	0	0		
+2	427	true	Oil Peak	Pushin' Down on Me, Pushin' Down on You	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	427	TRUE	CONSUME: eat 1 jumping horseradish	N/A	Trick-or-Treating Tot		0	-1	0	0	0	5	 | Kicked in the Sinuses (50)			0	0	0	0	0	0		
+2	427	true	Oil Peak	Witchess Knight	Trick-or-Treating Tot	 | jumping horseradish	0	5	57	25	33	0	 | Inner Dog (5)	|exploding cigar	 | MICROMETEORITE	0	0	0	0	0	0		
+2	427	false	Oil Peak	oil cartel	Trick-or-Treating Tot	 | bubblin' crude | bubblin' crude | green pixel	0	4	41	8	18	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	428	false	Oil Peak	oil cartel	Trick-or-Treating Tot	 | bubblin' crude | bubblin' crude | red pixel	0	4	37	12	13	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	429	false	Oil Peak	oil cartel	Trick-or-Treating Tot	 | bubblin' crude | bubblin' crude | bubblin' crude	0	4	31	18	15	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	430	false	Oil Peak	oil cartel	Trick-or-Treating Tot	 | bubblin' crude | bubblin' crude	0	4	36	12	15	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	431	false	Oil Peak	oil cartel	Trick-or-Treating Tot	 | bubblin' crude | bubblin' crude | bubblin' crude | Gathered Meat-Clip	0	4	40	11	13	0	 | Lifted Spirits (5)		 | MICROMETEORITE	0	0	0	0	0	0		
+2	432	true	Oil Peak	Wooof! Wooooooof!	Trick-or-Treating Tot		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	432	TRUE	CONSUME: drink 1 Sacramento wine	N/A	Trick-or-Treating Tot		0	-1	0	0	0	6	 | Sacr&eacute; Mental (50)			0	0	0	0	0	0		
+2	432	false	Oil Peak	Unimpressed with Pressure	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	433	true	A-Boo Peak	Faction Traction = Inaction	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	433	false	A-Boo Peak	Battlie Knight Ghost	Trick-or-Treating Tot	 | A-Boo clue | Battlie Light Saver | Whoompa Fur Pants	0	9	32	12	13	0			 | MICROMETEORITE | OTOSCOPE	0	0	0	0	0	0		
+2	434	false	A-Boo Peak	Space Tourist Explorer Ghost	Trick-or-Treating Tot	 | A-Boo clue | Space Tours Tripple | Space Tourist Phaser | ectoplasmic orbs | white pixel	0	6	30	7	18	0			 | MICROMETEORITE | OTOSCOPE	0	0	0	0	0	0		
+2	435	false	A-Boo Peak	Space Tourist Explorer Ghost	Trick-or-Treating Tot	 | A-Boo clue | Space Tours Tripple | green pixel	0	6	35	12	9	0			 | MICROMETEORITE | OTOSCOPE	0	0	0	0	0	0		
+2	436	false	A-Boo Peak	The Horror...	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	437	false	A-Boo Peak	The Horror...	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	438	TRUE	CONSUME: drink 1 Sacramento wine	N/A	Trick-or-Treating Tot		0	-1	0	0	0	5	 | Sacr&eacute; Mental (50)			0	0	0	0	0	0		
+2	438	false	A-Boo Peak	The Horror...	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	439	false	A-Boo Peak	Whatsian Commando Ghost	Trick-or-Treating Tot		0	3	20	7	7	0				0	0	0	0	0	0		
+2	440	false	A-Boo Peak	Come On Ghosty, Light My Pyre	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	441	true	Twin Peak	Welcome to the Great Overlook Lodge	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	441	false	Twin Peak	Go Check It Out!	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	442	false	Twin Peak	bearpig topiary animal	Trick-or-Treating Tot	 | pestopiary	14	3	20	6	6	0	 | On the Trail (40)		 | TRANSCENDENT OLFACTION	0	0	0	1	0	0		
+2	443	false	Twin Peak	Room 237	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	444	true	Your Witchess Set	Play against the Witchess Pieces	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	444	false	Twin Peak	bearpig topiary animal	Trick-or-Treating Tot	 | rusty hedge trimmers | pestopiary	13	2	20	6	9	0				0	0	0	0	0	0		
+2	445	false	rusty hedge trimmers	He Is the Arm, and He Sounds Like This	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	446	true	Twin Peak	Now It's Dark	Trick-or-Treating Tot	 | gold wedding ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	446	false	The Dark Neck of the Woods	P imp	Trick-or-Treating Tot	 | hot wing | Imp Ale	123	2	11	4	6	0				0	0	0	0	0	0		
+2	447	TRUE	CONSUME: eat 1 jumping horseradish	N/A	Trick-or-Treating Tot		0	-1	0	0	0	6	 | Kicked in the Sinuses (50)			0	0	0	0	0	0		
+2	447	true	The Dark Neck of the Woods	Witchess Knight	Trick-or-Treating Tot	 | jumping horseradish	11	3	63	32	26	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	447	false	The Dark Neck of the Woods	W imp	Trick-or-Treating Tot	 | wussiness potion	118	2	13	5	7	0				0	0	0	0	0	0		
+2	448	false	The Dark Neck of the Woods	Hellion	Trick-or-Treating Tot	 | hellion cube	13	2	11	8	6	0				0	0	0	0	0	0		
+2	449	false	The Dark Neck of the Woods	It's The Only Way To Be Sure	Trick-or-Treating Tot	 | SPF 451 lip balm	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	450	false	The Dark Neck of the Woods	P imp	Trick-or-Treating Tot	 | hot wing | Imp Ale	123	2	18	1	4	0				0	0	0	0	0	0		
+2	451	false	The Dark Neck of the Woods	Hellion	Trick-or-Treating Tot	 | white pixel | Gathered Meat-Clip	10	2	7	10	11	0				0	0	0	0	0	0		
+2	452	false	The Dark Neck of the Woods	P imp	Trick-or-Treating Tot	 | red pixel	126	2	14	3	6	0				0	0	0	0	0	0		
+2	453	true	The Dark Neck of the Woods	Wooof! Wooooooof!	Trick-or-Treating Tot		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	453	false	The Dark Elbow of the Woods	L imp	Trick-or-Treating Tot	 | Imp Ale	121	2	13	7	3	0				0	0	0	0	0	0		
+2	454	false	The Dark Elbow of the Woods	Demoninja	Trick-or-Treating Tot	 | white pixel	181	2	17	8	4	0				0	0	0	0	0	0		
+2	455	false	The Dark Elbow of the Woods	L imp	Trick-or-Treating Tot	 | bag of QWOP | Imp Ale | stick of firewood	134	2	13	5	5	0				0	0	0	0	0	0		
+2	456	false	The Dark Elbow of the Woods	Deep Imp Act	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	457	false	The Dark Elbow of the Woods	G imp	Trick-or-Treating Tot	 | hot wing | Imp Ale | leather mask	81	2	9	9	9	0				0	0	0	0	0	0		
+2	458	false	The Dark Elbow of the Woods	Demoninja	Trick-or-Treating Tot	 | hot katana blade | ninja hot pants | demon skin | white pixel	114	2	13	4	6	0				0	0	0	0	0	0		
+2	459	true	The Dark Elbow of the Woods	Wooof! Wooooooof!	Trick-or-Treating Tot		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	459	false	The Dark Elbow of the Woods	Demoninja	Trick-or-Treating Tot	 | demon skin | white pixel	134	2	17	5	3	0				0	0	0	0	0	0		
+2	460	false	The Dark Elbow of the Woods	L imp	Trick-or-Treating Tot	 | Imp Ale | stick of firewood	92	2	16	4	3	0				0	0	0	0	0	0		
+2	461	false	The Dark Elbow of the Woods	Imp Art, Some Wisdom	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	462	false	The Dark Elbow of the Woods	A Secret, But Not the Secret You're Looking For	Trick-or-Treating Tot	 | bottle of tequila | bottle of vodka | bottle of rum	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	463	false	The Dark Elbow of the Woods	L imp	Trick-or-Treating Tot	 | Imp Ale	80	2	15	4	4	0				0	0	0	0	0	0		
+2	464	false	The Dark Elbow of the Woods	Demoninja	Trick-or-Treating Tot	 | ninja hot pants | demon skin	110	2	16	4	4	0				0	0	0	0	0	0		
+2	465	false	The Dark Elbow of the Woods	G imp	Trick-or-Treating Tot	 | hot wing | Imp Ale | green pixel | Gathered Meat-Clip	88	2	14	4	6	0				0	0	0	0	0	0		
+2	466	false	The Dark Elbow of the Woods	G imp	Trick-or-Treating Tot	 | hot wing | stick of firewood	82	2	13	7	7	0				0	0	0	0	0	0		
+2	467	false	The Dark Elbow of the Woods	Butter Knife?  I'll Take the Knife	Trick-or-Treating Tot	 | eldritch butterknife	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	468	true	Friar Ceremony Location	N/A	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	468	TRUE	CONSUME: eat 1 jungle floor wax	N/A	Trick-or-Treating Tot		0	-1	0	0	0	6	 | Wax On Your Shoes (20)			0	0	0	0	0	0		
+2	468	TRUE	CONSUME: drink 1 meadeorite	N/A	Trick-or-Treating Tot		0	-1	0	0	0	6	 | Meadulla Oblongota (40)			0	0	0	0	0	0		
+2	468	TRUE	CONSUME: drink 1 meadeorite	N/A	Trick-or-Treating Tot		0	-1	0	0	0	7	 | Meadulla Oblongota (40)			0	0	0	0	0	0		
+2	468	true	Combing the Beach	N/A	Trick-or-Treating Tot		0	-1	0	0	0	0	 | Resting Beach Face (50)			0	0	0	0	0	0		
+2	468	false	The Defiled Alcove	modern zmobie	Trick-or-Treating Tot		131	2	26	5	13	0				0	0	0	0	0	0		
+2	469	false	The Defiled Alcove	modern zmobie	Trick-or-Treating Tot		151	2	25	5	18	0				0	0	0	0	0	0		
+2	470	false	The Defiled Alcove	corpulent zobmie	Trick-or-Treating Tot	 | loose teeth	165	2	19	10	12	0				0	0	0	0	0	0		
+2	471	false	The Defiled Alcove	grave rober zmobie	Trick-or-Treating Tot	 | rusty grave robbing shovel	105	2	25	8	9	0				0	0	0	0	0	0		
+2	472	false	The Defiled Alcove	modern zmobie	Trick-or-Treating Tot		126	2	34	4	11	0				0	0	0	0	0	0		
+2	473	true	The Defiled Alcove	Wooof! Wooooooof!	Trick-or-Treating Tot	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	473	false	The Defiled Alcove	corpulent zobmie	Trick-or-Treating Tot	 | cranberries	181	2	25	6	11	0				0	0	0	0	0	0		
+2	474	false	The Defiled Alcove	modern zmobie	Trick-or-Treating Tot		119	2	26	6	11	0				0	0	0	0	0	0		
+2	475	false	The Defiled Alcove	modern zmobie	Trick-or-Treating Tot		144	2	25	13	5	0				0	0	0	0	0	0		
+2	476	false	The Defiled Alcove	conjoined zmombie	Trick-or-Treating Tot	 | loose teeth | cranberries | cranberries	632	2	43	19	21	0				0	0	0	0	0	0		
+2	477	false	Haert of the Cyrpt	The Bonerdagon	Trick-or-Treating Tot	 | skull of the Bonerdagon	0	2	0	0	0	0				0	0	0	0	0	0		
+2	478	false	Fastest Adventurer Contest	The Tasmanian Dervish	Trick-or-Treating Tot		0	2	60	25	24	0				0	0	0	0	0	0		
+2	479	false	Smartest Adventurer Contest	The Mastermind	Trick-or-Treating Tot	 | sinister-looking cat | blue pixel	0	2	44	29	16	0				0	0	0	0	0	0		
+2	480	false	Spookiest Adventurer Contest	Arthur Frankenstein	Trick-or-Treating Tot	 | spare neck bolts	0	2	62	21	27	0				0	0	0	0	0	0		
+2	481	false	The Hedge Maze	'Allo	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	482	false	The Hedge Maze	Pooling Your Resources	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	483	false	The Hedge Maze	Of Mouseholes and Manholes	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	484	false	The Hedge Maze	Mazel Tov!	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	485	true	Deck of Every Card	N/A	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	485	TRUE	CONSUME: eat 1 jumping horseradish	N/A	Trick-or-Treating Tot		0	-1	0	0	0	5	 | Kicked in the Sinuses (50)			0	0	0	0	0	0		
+2	485	true	The Hole in the Sky	Witchess Knight	Trick-or-Treating Tot	 | jumping horseradish | red pixel	0	3	79	25	24	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	485	false	The Hole in the Sky	The Flange	Trick-or-Treating Tot	 | star | line | line | red pixel	0	2	30	14	19	0				0	0	0	0	0	0		
+2	486	false	The Hole in the Sky	The Astronomer	Trick-or-Treating Tot	 | star chart	0	4	39	20	12	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	487	false	The Hole in the Sky	The Muff	Trick-or-Treating Tot	 | star | line | line	0	2	39	11	14	0				0	0	0	0	0	0		
+2	488	false	The Hole in the Sky	The Beaver	Trick-or-Treating Tot	 | star | star | line | blue pixel	0	2	29	16	19	0				0	0	0	0	0	0		
+2	489	false	The Hole in the Sky	The Bush	Trick-or-Treating Tot	 | star | star | star | white pixel	0	2	31	18	14	0				0	0	0	0	0	0		
+2	490	true	The Hole in the Sky	Wooof! Wooooooof!	Trick-or-Treating Tot		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	490	false	The Hole in the Sky	The Honey Pot!	Trick-or-Treating Tot	 | line | star | star	0	3	31	16	8	0			 | CHEAT CODE: REPLACE ENEMY	0	0	0	0	0	0	 | The Astronomer	
+2	491	false	The Hole in the Sky	The Box	Trick-or-Treating Tot	 | line | line | line	0	2	32	15	14	0				0	0	0	0	0	0		
+2	492	true	The Neverending Party	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	492	true	The Neverending Party	Basement Urges	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	492	true	The Neverending Party	biker	Pocket Professor		0	2	2	5	0	0			 | DELIVER YOUR THESIS	0	0	0	0	0	0		
+2	492	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | Gathered Meat-Clip	0	2	22	9	14	0				0	0	0	0	0	0		
+2	493	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade;	0	2	22	8	13	0				0	0	0	0	0	0		
+2	494	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | CSA all-purpose soap	0	2	25	9	10	0				0	0	0	0	0	0		
+2	495	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade;	0	2	24	9	11	0				0	0	0	0	0	0		
+2	496	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | fat loot token	0	2	19	11	14	0				0	0	0	0	0	0		
+2	497	true	Tower Door	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	497	false	The Naughty Sorceress' Tower	wall of skin	none		0	2	42	14	15	0		|beehive		0	0	0	0	0	0		
+2	498	false	The Naughty Sorceress' Tower	wall of meat	Trick-or-Treating Tot		1498	6	33	17	19	0				0	0	0	0	0	0		
+2	499	false	The Naughty Sorceress' Tower	wall of bones	Trick-or-Treating Tot		0	2	143	61	75	0		|electric boning knife		0	0	0	0	0	0		
+2	500	true	The Naughty Sorceress' Tower	The Mirror in the Tower has the View that is True	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	500	false	The Naughty Sorceress' Tower	Shadow Whale Boxer	Trick-or-Treating Tot		0	5	130	32	60	0		|gauze garter|gauze garter|gauze garter|gauze garter		0	0	0	0	0	0		
+2	501	false	The Naughty Sorceress' Chamber	The Naughty Sorceress	Trick-or-Treating Tot		0	21	2	0	0	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	502	TRUE	CONSUME: eat 10 magical sausage	N/A	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	502	true	The Naughty Sorceress' Chamber	The Naughty Sorceress (2)	Trick-or-Treating Tot		0	7	0	0	0	0		|gauze garter|gas can|gas can	 | MICROMETEORITE | ASDON MARTIN: BEAN BAG CANNON | SUMMON LOVE GNATS	0	0	0	0	0	0		
+2	502	false	The Naughty Sorceress' Chamber	The Naughty Sorceress	Pair of Stomping Boots		0	5	2	0	0	0				0	0	0	0	0	0		
+2	503	true	The Naughty Sorceress' Chamber	The Naughty Sorceress (2)	Pair of Stomping Boots	 | Gathered Meat-Clip	0	7	2	5	0	0				0	0	0	0	0	0		
+2	503	true	The Naughty Sorceress' Chamber	Frank Gets Earnest	Pair of Stomping Boots		0	1	0	0	0	0				0	0	0	0	0	0		
+2	503	false	The VERY Unquiet Garves	slick lihc	Pair of Stomping Boots		13	2	7	4	7	0				0	0	0	0	0	0		
+2	504	false	The VERY Unquiet Garves	corpulent zobmie	Pair of Stomping Boots		129	2	11	3	3	0				0	0	0	0	0	0		
+2	505	false	The VERY Unquiet Garves	gluttonous ghuol	Pair of Stomping Boots	 | ghuol guolash	120	2	14	2	2	0				0	0	0	0	0	0		
+2	506	false	The VERY Unquiet Garves	grave rober zmobie	Pair of Stomping Boots		97	2	5	6	7	0				0	0	0	0	0	0		
+2	507	false	The VERY Unquiet Garves	party skelteon	Pair of Stomping Boots	 | skeleton bone | screwdriver	15	2	14	2	1	0				0	0	0	0	0	0		
+2	508	true	The VERY Unquiet Garves	Wooof! Wooooooof!	Pair of Stomping Boots	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	508	false	The VERY Unquiet Garves	senile lihc	Pair of Stomping Boots	 | lihc eye	15	2	9	6	6	0				0	0	0	0	0	0		
+2	509	true	The VERY Unquiet Garves	Grave Consequences	Pair of Stomping Boots	 | figurine of a shadowy seal	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	509	TRUE	CONSUME: drink 1 Sacramento wine	N/A	Pair of Stomping Boots		0	-1	0	0	0	6	 | Sacr&eacute; Mental (50)			0	0	0	0	0	0		
+2	509	false	The VERY Unquiet Garves	spiny skelelton	Pair of Stomping Boots	 | skeleton bone | smart skull | skelelton spine | succulent marrow	15	2	11	5	5	0				0	0	0	0	0	0		
+2	510	true	The VERY Unquiet Garves	Grave Consequences	Pair of Stomping Boots	 | figurine of a shadowy seal	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	510	true	The VERY Unquiet Garves	Grave Consequences	Pair of Stomping Boots	 | figurine of a shadowy seal	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	510	false	The VERY Unquiet Garves	gaunt ghuol	Pair of Stomping Boots	 | ghuol egg | ghuol ears | dieting pill	40	2	9	4	3	0				0	0	0	0	0	0		
+2	511	false	The VERY Unquiet Garves	basic lihc	Pair of Stomping Boots	 | bottle of vodka | boxed wine	13	2	8	1	8	0				0	0	0	0	0	0		
+2	512	false	The VERY Unquiet Garves	gluttonous ghuol	Pair of Stomping Boots	 | ghuol guolash	105	2	8	4	10	0				0	0	0	0	0	0		
+2	513	false	The VERY Unquiet Garves	Bear Verb Orgy	Pair of Stomping Boots	 | Wand of Nagamar	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	514	false	The Naughty Sorceress' Chamber	The Naughty Sorceress	Pair of Stomping Boots	 | Gathered Meat-Clip	10	5	2	0	0	0				0	0	0	0	0	0		
+2	515	true	The Naughty Sorceress' Chamber	The Naughty Sorceress (2)	Pair of Stomping Boots		10	8	2	0	0	0				0	0	0	0	0	0		
+2	515	true	The Naughty Sorceress' Chamber	The Naughty Sorceress (3)	Pair of Stomping Boots	 | Thwaitgold nit statuette | stainless steel shillelagh	15	1	268	125	134	0				0	0	0	0	0	0		
+2	515	true	Boxing Daycare	Enter the Boxing Daycare	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	515	true	Boxing Daycare	Enter the Boxing Daycare	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	515	false	Boxing Daycare	Enter the Boxing Daycare	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		

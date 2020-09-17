@@ -1,0 +1,754 @@
+day	turnSpent	free?	location	encounterName	familiar	items	meat	rounds	mus	mys	mox	advsGained	effectsGained	itemsUsed	skillsUsed	freeRun?	banish	freeKill	sniff	spit	copy	macroFrom	
+1	1	true	Boxing Daycare	Have a Boxing Daydream	none	 | glass of raw eggs	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Deck of Every Card	1952 Mickey Mantle	XO Skeleton	 | 1952 Mickey Mantle card	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Combing the Beach	N/A	XO Skeleton		0	-1	0	0	0	0	 | A Brush with Grossness (50)			0	0	0	0	0	0		
+1	1	true	Combing the Beach	N/A	XO Skeleton		0	-1	0	0	0	0	 | Hot-Headed (50)			0	0	0	0	0	0		
+1	1	false	The Haunted Kitchen	possessed silverware drawer	XO Skeleton		0	6	0	0	0	0	 | The Applause That Refreshes (10)		 | INFECTIOUS BITE | DRAGOON PLATOON | I CAN BEARLY HEAR YOU OVER THE APPLAUSE | COWBOY KICK | KODIAK MOMENT	0	0	0	0	0	0		
+1	2	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	2	true	The Tunnel of L.O.V.E.	LOV Enforcer	XO Skeleton	 | decent brain	12	2	14	15	8	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	2	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	2	true	The Tunnel of L.O.V.E.	LOV Engineer	XO Skeleton	 | LOV Eardigan	14	3	15	14	8	0			 | DRAGOON PLATOON | KODIAK MOMENT	0	0	0	0	0	0		
+1	2	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	2	true	The Tunnel of L.O.V.E.	LOV Equivocator	XO Skeleton	 | decent brain	13	3	21	8	22	0	 | Lovebotamy (50)		 | DRAGOON PLATOON | KODIAK MOMENT	0	0	0	0	0	0		
+1	2	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	XO Skeleton	 | LOV Enamorang	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	2	false	The Spooky Forest	spooky vampire	XO Skeleton		0	2	0	0	0	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+1	3	true	The Spooky Forest	sausage goblin	XO Skeleton	 | magical sausage casing | O | decent brain	83	3	25	12	13	0			 | DRAGOON PLATOON | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	Your Witchess Set	Witchess Rook	XO Skeleton	 | Greek fire	14	3	27	12	15	0			 | DRAGOON PLATOON | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	The X-32-F Combat Training Snowman	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	3	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		10	2	30	25	13	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		10	2	33	18	19	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton	 | X	14	2	48	12	14	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		10	2	36	13	28	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		14	11	36	23	17	0			 | BEAR-BACKRUB | DRAGOON PLATOON | COWBOY KICK | INFECTIOUS BITE | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SUMMON LOVE MOSQUITO	0	0	0	0	0	0		
+1	3	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		12	3	41	19	18	0			 | DRAGOON PLATOON | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton	 | iced plum wine | blue pixel	11	5	32	20	23	0			 | KODIAK MOMENT | INFECTIOUS BITE	0	0	0	0	0	0		
+1	3	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton	 | O	10	6	37	23	24	0			 | DRAGOON PLATOON | KODIAK MOMENT | COWBOY KICK	0	0	0	0	0	0		
+1	3	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		11	9	38	23	25	0			 | DRAGOON PLATOON | COWBOY KICK | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		13	11	48	18	25	0	 | Wolfish Form (1)	|exploding cigar|exploding cigar	 | DRAGOON PLATOON | COWBOY KICK | KODIAK MOMENT | BECOME A WOLF	0	0	0	0	0	0		
+1	3	true	The Neverending Party	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	3	true	The Neverending Party	&quot;plain&quot; girl	XO Skeleton	 | electronics kit | PB&J with the crusts cut off | dorky glasses | ponytail clip	170	3	38	19	22	0			 | DRAGOON PLATOON | BEAR HUG	0	0	0	0	0	0		
+1	3	true	Boxing Daycare	Visit the Boxing Day Spa	XO Skeleton		0	-1	0	0	0	0	 | Muddled (100)			0	0	0	0	0	0		
+1	3	true	The Neverending Party	biker	XO Skeleton	 | gas can | Middle of the Road&trade; brand whiskey | neverending wallet chain | pentagram bandana | X	221	7	87	27	25	0			 | KODIAK MOMENT | INFECTIOUS BITE | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	3	true	The Neverending Party	jock	XO Skeleton	 | Purple Beast energy drink | green pixel | good brain	331	3	81	19	37	0			 | INFECTIOUS BITE | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	The Neverending Party	biker	XO Skeleton	 | good brain	268	4	77	37	33	0			 | INFECTIOUS BITE | KODIAK MOMENT | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	3	true	The Neverending Party	jock	XO Skeleton	 | cosmetic football	366	3	69	39	34	0			 | INFECTIOUS BITE | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	The Neverending Party	jock	XO Skeleton	 | unremarkable duffel bag | Purple Beast energy drink	366	3	77	35	33	0			 | INFECTIOUS BITE | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	The Neverending Party	biker	XO Skeleton	 | red pixel | O | good brain	247	4	83	38	38	0			 | INFECTIOUS BITE | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	The Neverending Party	Gone Kitchin'	XO Skeleton		0	-1	0	0	0	0	 | Spiced Up (20)			0	0	0	0	0	0		
+1	3	true	Deck of Every Card	XXI - The World	XO Skeleton	 | Cobb's Knob map | Evilometer	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	3	true	The Neverending Party	&quot;plain&quot; girl	XO Skeleton	 | electronics kit | good brain	252	3	126	50	40	0			 | INFECTIOUS BITE | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	The Neverending Party	burnout	XO Skeleton	 | jam band bootleg | ratty knitted cap	115	2	131	42	50	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	Your Witchess Set	Witchess Rook	XO Skeleton	 | Greek fire	10	2	137	47	47	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	Your Witchess Set	Witchess Knight	XO Skeleton	 | jumping horseradish | green pixel | X	11	2	115	48	48	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	Your Witchess Set	Witchess Rook	XO Skeleton	 | Greek fire	10	3	143	47	54	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	Your Witchess Set	Witchess Rook	XO Skeleton	 | Greek fire	10	3	154	47	44	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	true	Your Witchess Set	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	3	true	The Haunted Kitchen	sausage goblin	XO Skeleton	 | stench powder | magical sausage casing | good brain	144	2	124	48	53	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	3	false	The Haunted Kitchen	paper towelgeist	XO Skeleton	 | decent brain	14	2	36	22	17	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	4	false	The Haunted Kitchen	skullery maid	XO Skeleton		0	2	4	0	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	5	false	The Haunted Kitchen	paper towelgeist	XO Skeleton	 | cold powder | cardboard katana | white pixel	14	2	39	19	18	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	6	false	The Haunted Kitchen	paper towelgeist	XO Skeleton		11	2	51	19	10	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	7	TRUE	CONSUME: drink 1 splendid martini	N/A	XO Skeleton		0	-1	0	0	0	5	 | License to Punch (40)			0	0	0	0	0	0		
+1	7	TRUE	CONSUME: drink 1 splendid martini	N/A	XO Skeleton		0	-1	0	0	0	6	 | For Your Brain Only (40)			0	0	0	0	0	0		
+1	7	TRUE	CONSUME: drink 1 splendid martini	N/A	XO Skeleton		0	-1	0	0	0	5	 | License to Punch (40)			0	0	0	0	0	0		
+1	7	TRUE	CONSUME: drink 1 iced plum wine	N/A	XO Skeleton		0	-1	0	0	0	6				0	0	0	0	0	0		
+1	7	false	The Haunted Kitchen	demonic icebox	XO Skeleton	 | Spookyraven billiards room key | ancient frozen dinner | leftovers of indeterminate origin	34	2	39	13	25	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	8	true	The Haunted Billiards Room	Lights Out in the Billiards Room	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	8	TRUE	CONSUME: eat 1 hunter brain	N/A	XO Skeleton		0	-1	0	0	0	6				0	0	0	0	0	0		
+1	8	false	The Haunted Billiards Room	Norville Rogers	XO Skeleton		0	2	0	0	6	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	9	false	The Haunted Billiards Room	chalkdust wraith	XO Skeleton	 | handful of hand chalk	13	2	49	12	14	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	10	false	The Haunted Billiards Room	pooltergeist	XO Skeleton		12	2	39	24	15	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	11	false	The Haunted Billiards Room	That's Your Cue	XO Skeleton	 | pool cue	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	12	false	The Haunted Billiards Room	pooltergeist	XO Skeleton		0	3	0	0	0	0			 | INFECTIOUS BITE	0	0	0	0	0	0		
+1	13	false	The Haunted Billiards Room	Welcome To Our ool Table	XO Skeleton	 | Spookyraven library key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	14	true	The Haunted Library	Take a Look, it's in a Book!	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	14	true	The Haunted Library	banshee librarian	XO Skeleton		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	14	true	Cook 5 wad of dough + 5 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	14	false	The Haunted Library	bookbat	XO Skeleton		0	3	0	0	0	0			 | INFECTIOUS BITE | KODIAK MOMENT	0	0	0	0	0	0		
+1	15	true	Cook 5 wad of dough + 5 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	15	false	The Haunted Library	writing desk	XO Skeleton	 | snifter of thoroughly aged brandy | O	12	3	39	17	12	0			 | OFFER LATTE TO OPPONENT | KODIAK MOMENT	0	0	0	1	0	0		
+1	16	false	The Spooky Forest	Hoom Hah	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	17	TRUE	CONSUME: eat 1 hunter brain	N/A	XO Skeleton		0	-1	0	0	0	6				0	0	0	0	0	0		
+1	17	false	The Spooky Forest	Peacannon	XO Skeleton	 | hunter brain	14	2	36	15	12	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	18	true	The Spooky Forest	sausage goblin	XO Skeleton		0	2	0	0	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	18	false	The Haunted Library	writing desk	XO Skeleton	 | Gathered Meat-Clip	11	2	53	15	13	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	19	false	The Haunted Library	bookbat	XO Skeleton		0	2	0	0	6	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	20	false	The Haunted Library	writing desk	XO Skeleton	 | inkwell | snifter of thoroughly aged brandy	10	2	53	13	10	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	21	false	The Haunted Library	writing desk	XO Skeleton	 | inkwell	15	2	39	17	17	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	22	true	The Haunted Library	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	22	false	The Haunted Library	bookbat	XO Skeleton		11	2	42	24	5	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	23	false	The Haunted Library	bookbat	XO Skeleton		15	2	38	15	14	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	24	false	The Haunted Library	bookbat	XO Skeleton		0	2	0	7	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	25	TRUE	CONSUME: eat 1 hunter brain	N/A	XO Skeleton		0	-1	0	0	0	6				0	0	0	0	0	0		
+1	25	false	The Haunted Library	Scott the Miner	XO Skeleton	 | hunter brain	13	2	41	13	17	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	26	false	The Haunted Library	writing desk	XO Skeleton	 | snifter of thoroughly aged brandy | Lady Spookyraven's necklace	14	2	40	13	18	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	27	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	27	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	27	true	The Defiled Niche	slick lihc	XO Skeleton		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+1	27	true	The Defiled Niche	basic lihc	XO Skeleton		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	27	false	The Defiled Niche	dirty old lihc	XO Skeleton		0	2	0	6	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	28	false	The Defiled Niche	senile lihc	XO Skeleton	 | lihc eye | X | decent brain	12	3	46	21	14	0			 | INFECTIOUS BITE | KODIAK MOMENT	0	0	0	0	0	0		
+1	29	false	The Defiled Niche	dirty old lihc	XO Skeleton	 | salacious crumbs | Gathered Meat-Clip	15	3	50	14	18	0			 | INFECTIOUS BITE | KODIAK MOMENT	0	0	0	0	0	0		
+1	30	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	30	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	30	false	The Defiled Niche	dirty old lihc	XO Skeleton		0	3	4	0	0	0			 | INFECTIOUS BITE | KODIAK MOMENT	0	0	0	0	0	0		
+1	31	false	The Defiled Niche	dirty old lihc	XO Skeleton	 | diluted makeup | salacious crumbs	11	3	38	23	14	0			 | INFECTIOUS BITE | KODIAK MOMENT	0	0	0	0	0	0		
+1	32	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	32	true	The Defiled Niche	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	32	true	The Defiled Niche	senile lihc	XO Skeleton		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	32	false	The Defiled Niche	dirty old lihc	XO Skeleton		13	2	49	12	22	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	33	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	33	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	33	false	The Defiled Niche	dirty old lihc	XO Skeleton	 | white pixel | O | Pok&eacute;-Gro fertilizer	13	2	38	12	32	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	34	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	34	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	34	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	34	false	The Defiled Niche	dirty old lihc	XO Skeleton	 | good brain	10	2	46	24	10	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	35	TRUE	CONSUME: eat 1 boss brain	N/A	XO Skeleton		0	-1	0	0	0	6				0	0	0	0	0	0		
+1	35	false	The Defiled Niche	gargantulihc	XO Skeleton		0	2	0	0	7	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	36	true	The Haunted Bathroom	sausage goblin	XO Skeleton		0	2	0	0	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	36	false	The Dark Heart of the Woods	Fallen Archfiend	XO Skeleton		0	2	0	0	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	37	TRUE	CONSUME: eat 1 hunter brain	N/A	XO Skeleton		0	-1	0	0	0	6				0	0	0	0	0	0		
+1	37	false	The Dark Heart of the Woods	Father McGruber	XO Skeleton	 | hunter brain	14	3	40	15	14	0			 | INFECTIOUS BITE | KODIAK MOMENT	0	0	0	0	0	0		
+1	38	false	The Dark Heart of the Woods	P imp	XO Skeleton	 | hot wing | Imp Ale | white pixel	84	2	42	18	12	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	39	false	The Dark Heart of the Woods	G imp	XO Skeleton		0	2	0	0	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	40	false	The Dark Heart of the Woods	Fallen Archfiend	XO Skeleton	 | pink slime | decent brain | Gathered Meat-Clip	111	2	45	18	18	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	41	false	The Dark Heart of the Woods	Moon Over the Dark Heart	XO Skeleton	 | hot plate	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	42	false	The Dark Heart of the Woods	Running the Lode	XO Skeleton		350	-1	0	0	0	0				0	0	0	0	0	0		
+1	43	false	The Dark Heart of the Woods	P imp	XO Skeleton	 | Imp Ale | O | decent brain | stick of firewood	76	2	37	18	17	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	44	true	The Dark Heart of the Woods	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	44	false	The Dark Heart of the Woods	I, Martin	XO Skeleton	 | martini	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	45	false	The Dark Heart of the Woods	Fallen Archfiend	XO Skeleton	 | pink slime | white pixel | decent brain | stick of firewood	104	2	38	9	27	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	46	TRUE	CONSUME: eat 1 hunter brain	N/A	XO Skeleton		0	-1	0	0	0	6				0	0	0	0	0	0		
+1	46	false	The Dark Heart of the Woods	Herman East, Relivinator	XO Skeleton	 | hunter brain | stick of firewood	11	3	46	14	12	0			 | INFECTIOUS BITE | KODIAK MOMENT	0	0	0	0	0	0		
+1	47	false	The Dark Heart of the Woods	Fallen Archfiend	XO Skeleton		0	2	0	0	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	48	false	The Dark Heart of the Woods	Imp Be Nimble, Imp Be Quick	XO Skeleton	 | box of birthday candles	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	49	false	The Dark Neck of the Woods	P imp	XO Skeleton		0	2	0	0	7	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	50	false	The Dark Neck of the Woods	W imp	XO Skeleton	 | Imp Ale | decent brain	78	2	40	19	13	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	51	false	The Dark Neck of the Woods	W imp	XO Skeleton	 | ruby W | wussiness potion	79	2	41	19	18	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	52	false	The Dark Neck of the Woods	Hellion	XO Skeleton		0	2	0	0	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	53	false	The Dark Neck of the Woods	W imp	XO Skeleton	 | decent brain	80	2	45	8	7	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	54	true	The Dark Neck of the Woods	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	54	true	The Outskirts of Cobb's Knob	sausage goblin	XO Skeleton		0	2	0	0	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	54	false	The Dark Neck of the Woods	How Do We Do It? Quaint and Curious Volume!	XO Skeleton		250	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	false	The Dark Neck of the Woods	P imp	XO Skeleton	 | hot wing | Imp Ale | stick of firewood	83	2	34	12	14	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	56	false	The Dark Neck of the Woods	P imp	XO Skeleton	 | green pixel | decent brain | Gathered Meat-Clip	86	2	34	21	9	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	57	false	The Dark Neck of the Woods	W imp	XO Skeleton	 | almost-dead walkie-talkie | ruby W | green pixel	70	2	34	20	5	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	58	false	The Dark Neck of the Woods	Strike One!	XO Skeleton	 | imp unity ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	59	false	The Dark Neck of the Woods	P imp	XO Skeleton		0	2	0	0	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	60	false	The Dark Neck of the Woods	Hellion	XO Skeleton	 | stick of firewood	10	2	36	13	15	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	61	false	The Dark Neck of the Woods	Olive My Love To You, Oh.	XO Skeleton	 | olive | olive	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	62	false	The Dark Neck of the Woods	P imp	XO Skeleton	 | stick of firewood	65	2	34	13	13	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	63	TRUE	CONSUME: eat 1 hunter brain	N/A	XO Skeleton		0	-1	0	0	0	6				0	0	0	0	0	0		
+1	63	false	The Dark Neck of the Woods	Angry Space Marine	XO Skeleton	 | hunter brain | green pixel	12	3	33	9	20	0			 | INFECTIOUS BITE | KODIAK MOMENT	0	0	0	0	0	0		
+1	64	false	The Dark Neck of the Woods	Hellion	XO Skeleton	 | hellion cube	14	2	29	13	25	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	65	false	The Dark Neck of the Woods	Dodecahedrariffic!	XO Skeleton	 | dodecagram	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	66	false	The Dark Elbow of the Woods	L imp	XO Skeleton		0	2	0	0	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	67	false	The Dark Elbow of the Woods	Demoninja	XO Skeleton	 | blue pixel | li'l ninja costume	104	2	37	14	10	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	68	false	The Dark Elbow of the Woods	Deep Imp Act	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	69	false	The Dark Elbow of the Woods	L imp	XO Skeleton	 | cast | decent brain	76	2	36	9	21	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	70	false	The Dark Elbow of the Woods	G imp	XO Skeleton		0	2	0	0	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	71	false	The Dark Elbow of the Woods	G imp	XO Skeleton	 | hot wing | Imp Ale | vitamin G pill | X | Gathered Meat-Clip	76	2	39	9	19	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	72	false	The Dark Elbow of the Woods	G imp	XO Skeleton	 | hot wing | Imp Ale | green pixel | decent brain | stick of firewood	80	2	30	15	14	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	73	true	The Dark Elbow of the Woods	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	73	true	The Haunted Bathroom	sausage goblin	XO Skeleton	 | magical sausage casing | good brain	167	2	113	39	52	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	73	false	The Dark Elbow of the Woods	Imp Art, Some Wisdom	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	74	true	Cook 10 wad of dough + 10 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	74	true	The Haunted Bathroom	claw-foot bathtub	XO Skeleton		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+1	74	false	The Dark Elbow of the Woods	G imp	XO Skeleton	 | Imp Ale | decent brain | stick of firewood	73	2	37	8	12	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	75	false	The Dark Elbow of the Woods	A Secret, But Not the Secret You're Looking For	XO Skeleton	 | bottle of tequila | bottle of whiskey | bottle of vodka	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	76	TRUE	CONSUME: eat 1 hunter brain	N/A	XO Skeleton		0	-1	0	0	0	6				0	0	0	0	0	0		
+1	76	false	The Dark Elbow of the Woods	Deputy Nick Soames &amp; Earl	XO Skeleton	 | hunter brain | stick of firewood	14	3	38	15	12	0			 | INFECTIOUS BITE | KODIAK MOMENT	0	0	0	0	0	0		
+1	77	false	The Dark Elbow of the Woods	L imp	XO Skeleton	 | Imp Ale | O | stick of firewood	72	2	36	7	14	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	78	false	The Dark Elbow of the Woods	Demoninja	XO Skeleton	 | hot katana blade | decent brain | stick of firewood	116	2	29	17	12	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	79	false	The Dark Elbow of the Woods	It's The Only Way To Be Sure	XO Skeleton	 | SPF 451 lip balm	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	80	false	The Dark Elbow of the Woods	Butter Knife?  I'll Take the Knife	XO Skeleton	 | eldritch butterknife	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	81	true	Friar Ceremony Location	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	81	true	Cook 8 wad of dough + 8 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	81	true	Cook 1 wad of dough + 1 soda water	N/A	XO Skeleton	 | loaf of soda bread	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	81	true	genie summoned monster	mountain man	XO Skeleton	 | asbestos ore | asbestos ore | linoleum ore | linoleum ore | chrome ore | chrome ore	10	2	46	14	10	0			 | ASDON MARTIN: MISSILE LAUNCHER	0	0	0	0	0	0		
+1	81	true	Deck of Every Card	Mine	XO Skeleton	 | linoleum ore | asbestos ore | chrome ore	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	81	false	Guano Junction	How I Wonder What You're At	XO Skeleton	 | sonar-in-a-biscuit | sonar-in-a-biscuit	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	82	true	The Haunted Bathroom	Lights Out in the Bathroom	Reanimated Reanimator		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	82	false	The Haunted Bathroom	toilet papergeist	Reanimated Reanimator	 | blue pixel | decent brain	10	2	40	13	13	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	83	true	The Haunted Bathroom	sausage goblin	Reanimated Reanimator		0	9	0	0	0	0		|Time-Spinner	 | WINK AT | KODIAK MOMENT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SUMMON LOVE MOSQUITO	0	0	0	0	0	1		
+1	83	false	The Haunted Bathroom	malevolent hair clog	XO Skeleton	 | gob of wet hair | good brain	15	2	42	10	13	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	84	false	The Haunted Bathroom	toilet papergeist	XO Skeleton	 | X | decent brain	12	2	40	14	8	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	85	false	The Haunted Bathroom	toilet papergeist	XO Skeleton	 | roll of toilet paper | decent brain	10	2	42	7	13	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	86	false	The Haunted Bathroom	malevolent hair clog	XO Skeleton	 | gob of wet hair | white pixel | decent brain	13	2	44	12	8	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	87	false	The Haunted Bathroom	toilet papergeist	XO Skeleton		0	2	5	0	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	88	true	The Haunted Bathroom	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	88	false	The Haunted Bathroom	cosmetics wraith	XO Skeleton	 | Lady Spookyraven's powder puff | old eyebrow pencil | old rosewater cream | old bronzer	10	2	42	13	10	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	89	false	The Haunted Bedroom	animated ornate nightstand	XO Skeleton		0	2	0	0	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	90	true	The Haunted Bedroom	animated mahogany nightstand	XO Skeleton		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	90	true	The Haunted Bedroom	animated rustic nightstand	XO Skeleton		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	90	true	Cook 6 wad of dough + 6 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	90	true	Cook 25 wad of dough + 25 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	90	false	The Haunted Bedroom	One Ornate Nightstand	XO Skeleton	 | disposable instant camera	11	2	38	20	7	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	91	true	The Haunted Bedroom	Wardr&ouml;b nightstand	XO Skeleton		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	91	false	The Haunted Bedroom	One Ornate Nightstand	XO Skeleton		542	2	37	14	10	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	92	false	The Haunted Bedroom	One Elegant Nightstand	XO Skeleton	 | Lady Spookyraven's finest gown	12	2	37	12	12	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	93	true	Time-Spinner	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	93	true	photocopied monster	Orcish Frat Boy Spy	XO Skeleton	 | distressed denim pants | beer helmet | bejeweled pledge pin	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+1	93	true	The Haunted Gallery	The ghost of Waldo the Carpathian	XO Skeleton	 | psychokinetic energy blob (3) | X | good brain	15	3	33	14	15	0				0	0	0	0	0	0		
+1	93	true	The Beanbat Chamber	beanbat	XO Skeleton	 | enchanted bean | sonar-in-a-biscuit	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+1	93	true	The Penultimate Fantasy Airship	The Beginning of the End of the Penultimate Fantasy	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	93	false	The Penultimate Fantasy Airship	Random Lack of an Encounter	XO Skeleton	 | model airship	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	94	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	XO Skeleton	 | metallic A	12	2	45	19	24	0				0	0	0	0	0	0		
+1	95	TRUE	CONSUME: eat 1 hunter brain	N/A	XO Skeleton		0	-1	0	0	0	6				0	0	0	0	0	0		
+1	95	false	The Penultimate Fantasy Airship	Father Nikolai Ravonovich	XO Skeleton	 | hunter brain	13	3	45	18	13	0				0	0	0	0	0	0		
+1	96	true	The Penultimate Fantasy Airship	Quiet Healer	XO Skeleton	 | amulet of extreme plot significance | scroll of drastic healing | soft green echo eyedrop antidote	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+1	96	false	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	XO Skeleton	 | tiny house	338	2	52	19	13	0				0	0	0	0	0	0		
+1	97	false	The Penultimate Fantasy Airship	Protagonist	XO Skeleton	 | phonics down | blue pixel	230	2	56	17	10	0				0	0	0	0	0	0		
+1	98	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	XO Skeleton	 | metallic A | oversized pizza cutter | O	13	2	49	22	19	0				0	0	0	0	0	0		
+1	99	false	The Penultimate Fantasy Airship	Gesundheitgeist!	XO Skeleton	 | Tissue Paper Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	100	true	The Penultimate Fantasy Airship	sausage goblin	XO Skeleton	 | magical sausage casing | blue pixel	163	4	110	39	42	0				0	0	0	0	0	0		
+1	100	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	XO Skeleton	 | Gathered Meat-Clip	12	3	59	26	10	0			 | INFECTIOUS BITE	0	0	0	0	0	0		
+1	101	true	The Penultimate Fantasy Airship	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	101	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	XO Skeleton	 | metallic A	10	2	56	19	15	0				0	0	0	0	0	0		
+1	102	false	The Penultimate Fantasy Airship	Quiet Healer	XO Skeleton	 | soft green echo eyedrop antidote | X | good brain	293	2	43	11	11	0				0	0	0	0	0	0		
+1	103	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	XO Skeleton	 | metallic A	13	2	19	13	13	0				0	0	0	0	0	0		
+1	104	false	The Penultimate Fantasy Airship	Don't Chew on That Spirit!	XO Skeleton	 | Tin Foil Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	105	false	The Penultimate Fantasy Airship	Burly Sidekick	XO Skeleton	 | Mohawk wig | cocoa eggshell fragment | good brain	279	3	24	6	7	0			 | HUGS AND KISSES	0	0	0	0	0	0		
+1	106	true	The Haunted Gallery	guy with a pitchfork, and his wife	XO Skeleton		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+1	106	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	XO Skeleton		0	2	0	0	0	0				0	0	0	0	0	0		
+1	107	false	The Penultimate Fantasy Airship	Spunky Princess	XO Skeleton	 | titanium assault umbrella | decent brain	308	2	17	12	5	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	108	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	XO Skeleton	 | metallic A | photoprotoneutron torpedo | green pixel | O	10	2	19	8	11	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	109	false	The Penultimate Fantasy Airship	The Most Absorbent Spirit Ever	XO Skeleton	 | Gauze Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	110	false	The Penultimate Fantasy Airship	Quiet Healer	XO Skeleton		0	2	0	0	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	111	false	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	XO Skeleton	 | soft green echo eyedrop antidote | tiny house | cocoa eggshell fragment | good brain	294	2	21	5	8	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	112	false	The Penultimate Fantasy Airship	Burly Sidekick	XO Skeleton	 | good brain	327	2	16	8	8	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	113	false	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	XO Skeleton	 | tiny house | white pixel | X | good brain | Gathered Meat-Clip	380	2	17	6	9	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	114	false	The Penultimate Fantasy Airship	Rip Rop Wrappety Do	XO Skeleton	 | Plastic Wrap Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	115	TRUE	CONSUME: eat 1 hunter brain	N/A	XO Skeleton		0	-1	0	0	0	7				0	0	0	0	0	0		
+1	115	false	The Penultimate Fantasy Airship	Charity the Zombie Hunter	XO Skeleton	 | hunter brain	13	2	18	7	6	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	116	true	The Outskirts of Cobb's Knob	sausage goblin	XO Skeleton	 | magical sausage casing | good brain	186	2	30	6	12	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	116	false	The Boss Bat's Lair	beefy bodyguard bat	XO Skeleton	 | white pixel | crappy brain	556	2	7	1	3	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	117	false	The Boss Bat's Lair	beefy bodyguard bat	XO Skeleton	 | crappy brain	594	2	7	2	2	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	118	false	The Boss Bat's Lair	beefy bodyguard bat	XO Skeleton	 | O | crappy brain	599	2	8	1	2	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	119	true	The Boss Bat's Lair	sausage goblin	XO Skeleton	 | magical sausage casing | good brain	191	2	25	6	17	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	119	false	The Boss Bat's Lair	beefy bodyguard bat	XO Skeleton	 | beefy pill | Pok&eacute;-Gro fertilizer	659	2	10	2	1	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	120	TRUE	CONSUME: eat 1 boss brain	N/A	XO Skeleton		0	-1	0	0	0	7				0	0	0	0	0	0		
+1	120	false	The Boss Bat's Lair	The Boss Bat	XO Skeleton	 | dense meat stack | batskin belt | boss brain	12	2	13	4	3	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	121	false	The Penultimate Fantasy Airship	Spunky Princess	XO Skeleton		0	2	0	4	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	122	true	The Penultimate Fantasy Airship	Playing Fetch*	XO Skeleton	 | tennis ball	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	122	false	The Penultimate Fantasy Airship	Quiet Healer	XO Skeleton	 | amulet of extreme plot significance | scroll of drastic healing | decent brain	332	2	19	6	5	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	123	false	The Penultimate Fantasy Airship	Burly Sidekick	XO Skeleton	 | cocoa eggshell fragment | good brain	353	2	14	7	11	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	124	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	124	false	The Penultimate Fantasy Airship	F-F-Fantastic!	XO Skeleton	 | S.O.C.K.	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	125	TRUE	CONSUME: eat 10 good brain	N/A	XO Skeleton		0	-1	0	0	0	40				0	0	0	0	0	0		
+1	125	false	The Castle in the Clouds in the Sky (Basement)	You Don't Mess Around with Gym	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	126	false	The Castle in the Clouds in the Sky (Ground Floor)	Putting Off Is Off-Putting	XO Skeleton	 | very overdue library book	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	127	false	The Castle in the Clouds in the Sky (Ground Floor)	Procrastination Giant	XO Skeleton		0	2	0	5	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	128	true	The Castle in the Clouds in the Sky (Ground Floor)	sausage goblin	XO Skeleton	 | magical sausage casing	154	2	30	14	16	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	128	false	The Castle in the Clouds in the Sky (Ground Floor)	Procrastination Giant	XO Skeleton	 | O | Gathered Meat-Clip	312	2	23	13	15	0	 | Cunctatitis (5)		 | KODIAK MOMENT	0	0	0	0	0	0		
+1	129	false	The Castle in the Clouds in the Sky (Ground Floor)	Home on the Free Range	XO Skeleton	 | electric boning knife	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	130	true	The Haunted Gallery	terrible mutant	XO Skeleton		0	2	0	4	0	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	130	true	The Defiled Nook	Skull, Skull, Skull	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	130	false	The Defiled Nook	toothy sklelton	XO Skeleton		0	2	0	0	0	0				0	0	0	0	0	0		
+1	131	true	The Defiled Nook	Skull, Skull, Skull	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	131	true	The Defiled Nook	Skull, Skull, Skull	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	131	true	The Defiled Nook	Skull, Skull, Skull	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	131	true	The Defiled Nook	party skelteon	XO Skeleton		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	131	true	The Defiled Nook	Skull, Skull, Skull	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	131	false	The Defiled Nook	spiny skelelton	XO Skeleton	 | skeleton bone | smart skull | evil eye | skelelton spine | succulent marrow | decent brain	12	2	18	8	8	0				0	0	0	0	0	0		
+1	132	false	The Defiled Nook	spiny skelelton	XO Skeleton	 | skeleton bone | smart skull | evil eye | skelelton spine | succulent marrow | X | decent brain	12	2	19	12	5	0				0	0	0	0	0	0		
+1	133	true	The Defiled Nook	Skull, Skull, Skull	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	133	true	The Defiled Nook	Skull, Skull, Skull	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	133	false	The Defiled Nook	spiny skelelton	XO Skeleton		0	2	0	5	0	0				0	0	0	0	0	0		
+1	134	false	The Defiled Nook	spiny skelelton	XO Skeleton	 | skeleton bone | smart skull | evil eye | skelelton spine | succulent marrow | decent brain	12	2	25	2	10	0				0	0	0	0	0	0		
+1	135	true	The Castle in the Clouds in the Sky (Ground Floor)	sausage goblin	XO Skeleton		0	4	0	0	0	0			 | INFECTIOUS BITE	0	0	0	0	0	0		
+1	135	false	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	XO Skeleton	 | giant heirloom grape tomato | chipotle wasabi cilantro aioli | good brain	316	3	43	8	17	0				0	0	0	0	0	0		
+1	136	false	The Castle in the Clouds in the Sky (Ground Floor)	Possibility Giant	XO Skeleton	 | plot hole | probability potion | O | good brain	369	3	47	10	16	0				0	0	0	0	0	0		
+1	137	true	The Castle in the Clouds in the Sky (Ground Floor)	Home on the Free Range	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	137	false	The Castle in the Clouds in the Sky (Ground Floor)	Possibility Giant	XO Skeleton	 | plot hole | probability potion | chaos butterfly | good brain	441	3	30	18	23	0				0	0	0	0	0	0		
+1	138	true	The Castle in the Clouds in the Sky (Ground Floor)	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	138	false	The Castle in the Clouds in the Sky (Ground Floor)	Procrastination Giant	XO Skeleton	 | good brain	468	3	32	23	15	0				0	0	0	0	0	0		
+1	139	false	The Castle in the Clouds in the Sky (Ground Floor)	Top of the Castle, Ma	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	140	true	Cook 1 wad of dough + 1 soda water	N/A	XO Skeleton	 | loaf of soda bread	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	140	true	Cook 25 wad of dough + 25 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	140	true	The Defiled Nook	Seeing-Eyes Dog	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	140	TRUE	CONSUME: eat 1 boss brain	N/A	XO Skeleton		0	-1	0	0	0	7				0	0	0	0	0	0		
+1	140	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	140	false	The Defiled Nook	giant skeelton	XO Skeleton	 | skeleton bone | skeleton bone | skeleton bone | boss brain	10	2	43	14	23	0				0	0	0	0	0	0		
+1	141	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	141	false	The Castle in the Clouds in the Sky (Top Floor)	Keep On Turnin' the Wheel in the Sky	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	142	true	The Castle in the Clouds in the Sky (Top Floor)	sausage goblin	XO Skeleton	 | magical sausage casing | X | good brain	195	10	25	19	15	0			 | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SUMMON LOVE MOSQUITO	0	0	0	0	0	0		
+1	142	false	The Castle in the Clouds in the Sky (Top Floor)	Copper Feel	XO Skeleton	 | steam-powered model rocketship	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	143	false	The Goatlet	dairy goat	XO Skeleton		0	2	0	4	0	0				0	0	0	0	0	0		
+1	144	true	The Goatlet	sabre-toothed goat	XO Skeleton		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+1	144	false	The Goatlet	a dairy goat!	XO Skeleton	 | goat cheese | Shivering Ch&egrave;vre | blue pixel | decent brain	137	3	22	5	2	0			 | CHEAT CODE: REPLACE ENEMY	0	0	0	0	0	0	 | drunk goat	
+1	145	false	The Goatlet	a dairy goat!	XO Skeleton	 | goat cheese | glass of goat's milk | decent brain	169	4	21	3	4	0			 | CHEAT CODE: REPLACE ENEMY	0	0	0	0	0	0	 | drunk goat	
+1	146	true	Combing the Beach	N/A	XO Skeleton		0	-1	0	0	0	0	 | Cold as Nice (50)			0	0	0	0	0	0		
+1	146	false	Mist-Shrouded Peak	panicking Knott Yeti	XO Skeleton	 | yeti fur | good brain	551	2	30	11	9	0				0	0	0	0	0	0		
+1	147	false	Mist-Shrouded Peak	panicking Knott Yeti	XO Skeleton	 | yeti fur | white pixel | O | good brain	449	2	34	5	12	0				0	0	0	0	0	0		
+1	148	false	Mist-Shrouded Peak	panicking Knott Yeti	XO Skeleton	 | yeti fur | good brain	513	2	27	15	6	0				0	0	0	0	0	0		
+1	149	TRUE	CONSUME: eat 1 boss brain	N/A	XO Skeleton	 | giant discarded bottlecap	0	-1	0	0	0	7				0	0	0	0	0	0		
+1	149	false	Mist-Shrouded Peak	Groar	XO Skeleton	 | Groar's fur | dense meat stack (5) | green pixel | boss brain	14	3	48	23	24	0				0	0	0	0	0	0		
+1	150	true	The Haunted Gallery	cubist bull	XO Skeleton	 | decent brain	224	2	18	14	5	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	150	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	150	true	The Haunted Gallery	Is There A Doctor In The House?	XO Skeleton	 | antique spear | antique shield | X	14	2	16	9	13	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	150	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	150	false	The Spooky Forest	Consciousness of a Stream	XO Skeleton	 | tree-holed coin	300	-1	0	0	0	0				0	0	0	0	0	0		
+1	151	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	151	false	The Spooky Forest	Consciousness of a Stream	XO Skeleton	 | mosquito larva	500	-1	0	0	0	0				0	0	0	0	0	0		
+1	152	false	The Spooky Forest	O Lith, Mon	XO Skeleton	 | Spooky Temple map	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	153	true	Chateau Painting	Black Crayon Crimbo Elf	XO Skeleton	 | tin of submardines | crayon shavings | good brain	11	3	40	18	12	0				0	0	0	0	0	0		
+1	153	false	The Haunted Gallery	Louvre It or Leave It (The Persistence of Memory)	XO Skeleton	 | Lady Spookyraven's dancing shoes	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	154	true	The Tavern Cellar	Staring Down the Barrel	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	154	false	The Tavern Cellar	bunch of drunken rats	XO Skeleton	 | rat whisker | rat whisker | rat whisker | rat appendix | good brain	56	2	27	11	11	0				0	0	0	0	0	0		
+1	155	true	The Tavern Cellar	A Rat's Home...	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	155	false	The Tavern Cellar	Those Who Came Before You	XO Skeleton	 | Ben-Gal&trade; Balm | shiny ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	156	false	The Tavern Cellar	bunch of drunken rats	XO Skeleton	 | rat whisker | rat appendix	56	2	21	22	11	0				0	0	0	0	0	0		
+1	157	false	The Tavern Cellar	bunch of drunken rats	XO Skeleton	 | rat whisker | rat appendix | rat appendix | rat appendix | good brain	53	2	31	14	5	0				0	0	0	0	0	0		
+1	158	false	The Tavern Cellar	bunch of drunken rats	XO Skeleton	 | rat whisker | rat whisker | O | good brain	48	2	25	12	12	0				0	0	0	0	0	0		
+1	159	false	The Tavern Cellar	Of Course!	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	160	true	Boxing Daycare	Enter the Boxing Daycare	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	160	true	Boxing Daycare	Enter the Boxing Daycare	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	160	true	Boxing Daycare	Enter the Boxing Daycare	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	160	true	Boxing Daycare	Enter the Boxing Daycare	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	160	false	Boxing Daycare	Enter the Boxing Daycare	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	161	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | Gathered Meat-Clip	13	2	33	16	13	0		|exploding cigar		0	0	0	0	0	0		
+1	162	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | good brain	13	4	30	14	11	0		|exploding cigar	 | KODIAK MOMENT	0	0	0	0	0	0		
+1	163	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | good brain	15	3	37	10	16	0		|exploding cigar	 | KODIAK MOMENT	0	0	0	0	0	0		
+1	164	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | good brain	15	2	40	9	9	0		|exploding cigar		0	0	0	0	0	0		
+1	165	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | fat loot token | good brain	10	2	33	18	6	0		|exploding cigar		0	0	0	0	0	0		
+1	166	true	The Haunted Kitchen	The Icewoman	none	 | psychokinetic energy blob (4) | decent brain	11	2	18	12	6	0			 | KODIAK MOMENT	0	0	0	0	0	0		
+1	166	true	Your Witchess Set	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	166	true	Your Witchess Set	Witchess Puzzles	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	166	true	The Outskirts of Cobb's Knob	Knob Goblin Assistant Chef	none	 | perfect dark and stormy | Knob Goblin tongs | decent brain	56	2	14	3	7	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	166	true	The Outskirts of Cobb's Knob	Knob Goblin Barbecue Team	none		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	166	true	The Outskirts of Cobb's Knob	sleeping Knob Goblin Guard	none		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	166	true	The Outskirts of Cobb's Knob	Sub-Assistant Knob Mad Scientist	none		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	166	false	The Outskirts of Cobb's Knob	Knob Goblin Assistant Chef	none		0	3	4	0	0	0			 | COWBOY KICK	0	0	0	0	0	0		
+1	167	false	The Outskirts of Cobb's Knob	Knob Goblin Assistant Chef	none	 | decent brain	25	3	10	13	5	0			 | COWBOY KICK	0	0	0	0	0	0		
+1	168	false	The Outskirts of Cobb's Knob	Knob Goblin Barbecue Team	none	 | bowl of cottage cheese | decent brain	32	2	18	6	3	0				0	0	0	0	0	0		
+1	169	false	The Outskirts of Cobb's Knob	Knob Goblin Barbecue Team	none	 | bone with a price tag on it | bowl of cottage cheese | decent brain	30	2	17	4	7	0				0	0	0	0	0	0		
+1	170	false	The Outskirts of Cobb's Knob	Code Red	none	 | Knob Goblin encryption key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	171	true	Cobb's Knob Harem	Knob Goblin Harem Guard	none		0	0	0	0	0	0			 | USE THE FORCE | SABER BANISH	0	1	0	0	0	0		
+1	171	true	Cobb's Knob Harem	Knob Goblin Harem Girl	none	 | Knob Goblin harem pants | Knob Goblin harem veil | disease | finger cymbals	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+1	171	false	Cobb's Knob Harem	Plucked	none		0	-1	0	0	0	0	 | Knob Goblin Perfume (1)			0	0	0	0	0	0		
+1	172	TRUE	CONSUME: eat 1 boss brain	N/A	none		0	-1	0	0	0	7				0	0	0	0	0	0		
+1	172	false	Throne Room	The Knob Goblin King	none	 | dense meat stack (2) | Crown of the Goblin King | Cobb's Knob lab key | boss brain	15	2	54	35	18	0				0	0	0	0	0	0		
+1	173	false	The Haunted Ballroom	Having a Ball in the Ballroom	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	174	true	The Haunted Ballroom	terrible mutant	none	 | spirit gum | glob of undifferentiated tissue | good brain	30	8	66	27	21	0			 | ASDON MARTIN: BEAN BAG CANNON | OTOSCOPE	0	0	0	0	0	0		
+1	174	TRUE	CONSUME: eat 1 good brain	N/A	none		0	-1	0	0	0	4				0	0	0	0	0	0		
+1	174	TRUE	CONSUME: drink 1 perfect dark and stormy	N/A	XO Skeleton		0	-1	0	0	0	19				0	0	0	0	0	0		
+1	174	false	Dr. Gordon Stuart's Science Tent	Eldritch Tentacle	none		0	3	0	0	0	0			 | KODIAK MOMENT | COWBOY KICK	0	0	0	0	0	0		
+2	175	true	Boxing Daycare	Have a Boxing Daydream	XO Skeleton	 | punch-drunk punch	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	175	true	Deck of Every Card	XVI - The Tower	XO Skeleton	 | Sneaky Pete's key	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	175	true	Your Witchess Set	Witchess Rook	XO Skeleton	 | Greek fire	0	3	102	34	42	0			 | KODIAK MOMENT | DRAGOON PLATOON	0	0	0	0	0	0		
+2	175	true	The Haunted Ballroom	sausage goblin	XO Skeleton	 | magical sausage casing | good brain	119	3	134	40	39	0			 | KODIAK MOMENT | DRAGOON PLATOON	0	0	0	0	0	0		
+2	175	true	Boxing Daycare	Visit the Boxing Day Spa	XO Skeleton		0	-1	0	0	0	0	 | Muddled (100)			0	0	0	0	0	0		
+2	175	true	Chateau Painting	Black Crayon Crimbo Elf	XO Skeleton	 | crayon shavings | good brain	61	8	267	75	94	0		|LOV Enamorang|LOV Enamorang|jam band bootleg	 | BEAR-LY LEGAL	0	0	0	0	0	0		
+2	175	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton	 | training helmet | X	0	2	83	14	19	0				0	0	0	0	0	0		
+2	175	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		0	2	73	20	19	0				0	0	0	0	0	0		
+2	175	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		0	2	78	18	17	0				0	0	0	0	0	0		
+2	175	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton	 | iced plum wine	0	2	80	17	19	0				0	0	0	0	0	0		
+2	175	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		0	2	80	32	13	0				0	0	0	0	0	0		
+2	175	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton	 | O	0	2	80	18	27	0				0	0	0	0	0	0		
+2	175	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		0	2	84	25	17	0				0	0	0	0	0	0		
+2	175	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		0	2	95	28	10	0				0	0	0	0	0	0		
+2	175	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		0	2	82	34	24	0				0	0	0	0	0	0		
+2	175	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton	 | X	0	2	89	24	24	0				0	0	0	0	0	0		
+2	175	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	175	true	The Tunnel of L.O.V.E.	LOV Enforcer	XO Skeleton		53	20	0	0	0	0	 | Wolfish Form (1)	|electronics kit	 | BEAR-LY LEGAL | BECOME A WOLF	0	0	0	0	0	0		
+2	175	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	175	true	The Tunnel of L.O.V.E.	LOV Engineer	XO Skeleton	 | LOV Earrings | good brain	65	15	291	92	95	0		|electronics kit	 | BEAR-LY LEGAL | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SUMMON LOVE MOSQUITO	0	0	0	0	0	0		
+2	175	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	175	true	The Tunnel of L.O.V.E.	LOV Equivocator	XO Skeleton		0	17	0	0	0	0	 | Lovebotamy (50)		 | COWBOY KICK | BEAR-BACKRUB | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS	0	0	0	0	0	0		
+2	175	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	XO Skeleton	 | LOV Extraterrestrial Chocolate	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	175	true	The Neverending Party	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	175	false	The Neverending Party	party girl	XO Skeleton		0	23	0	0	0	0	 | The Applause That Refreshes (10) | Misty Form (1)	|Time-Spinner	 | KODIAK MOMENT | I CAN BEARLY HEAR YOU OVER THE APPLAUSE | SUMMON LOVE GNATS | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | BECOME A CLOUD OF MIST	0	0	0	0	0	0		
+2	176	true	The Neverending Party	party girl	XO Skeleton	 | runproof mascara | very small red dress | surprisingly capacious handbag | good brain	192	13	274	75	90	0		|gas can	 | KODIAK MOMENT	0	0	0	0	0	0		
+2	176	true	The Neverending Party	burnout	XO Skeleton	 | van key | jam band bootleg | denim jacket | good brain	185	10	278	75	88	0			 | BEAR-LY LEGAL | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | DRAGOON PLATOON	0	0	0	0	0	0		
+2	176	true	The Neverending Party	biker	XO Skeleton	 | gas can | Middle of the Road&trade; brand whiskey | neverending wallet chain | good brain	309	19	282	90	88	0			 | BEAR-LY LEGAL | DRAGOON PLATOON | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | SUMMON LOVE GNATS	0	0	0	0	0	0		
+2	176	true	The Neverending Party	&quot;plain&quot; girl	XO Skeleton	 | electronics kit | PB&J with the crusts cut off | O | good brain	328	8	256	79	103	0			 | DRAGOON PLATOON | BEAR-LY LEGAL	0	0	0	0	0	0		
+2	176	true	The Neverending Party	Gone Kitchin'	XO Skeleton		0	-1	0	0	0	0	 | Spiced Up (20)			0	0	0	0	0	0		
+2	176	true	Deck of Every Card	XXI - The World	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	176	true	The Neverending Party	biker	XO Skeleton	 | gas can | Middle of the Road&trade; brand whiskey | pentagram bandana | good brain	277	5	335	77	95	0		|electronics kit	 | DRAGOON PLATOON | KODIAK MOMENT	0	0	0	0	0	0		
+2	176	true	The Neverending Party	burnout	XO Skeleton	 | van key | jam band bootleg | good brain	224	11	345	89	74	0			 | BEAR-LY LEGAL | DRAGOON PLATOON	0	0	0	0	0	0		
+2	176	true	The Neverending Party	party girl	XO Skeleton	 | runproof mascara | very small red dress | good brain	338	12	359	79	82	0			 | DRAGOON PLATOON | BEAR-LY LEGAL	0	0	0	0	0	0		
+2	176	true	The Neverending Party	burnout	XO Skeleton	 | van key | jam band bootleg | X | good brain	212	11	337	104	78	0			 | DRAGOON PLATOON | SUMMON LOVE GNATS | SUMMON LOVE MOSQUITO | BEAR-LY LEGAL	0	0	0	0	0	0		
+2	176	true	The Neverending Party	jock	XO Skeleton	 | unremarkable duffel bag | Purple Beast energy drink | good brain	409	12	306	122	75	0			 | DRAGOON PLATOON | SUMMON LOVE GNATS | SUMMON LOVE MOSQUITO | BEAR-LY LEGAL	0	0	0	0	0	0		
+2	176	true	The Haunted Ballroom	tapdancing skeleton	Reassembled Blackbird		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	176	false	The Black Forest	Forty Shades of Black	Reassembled Blackbird	 | black map	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	177	false	The Black Forest	black friar	Reassembled Blackbird	 | carob chunk noodles | good brain | stick of firewood	0	2	105	38	23	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	178	false	The Black Forest	black friar	Reassembled Blackbird	 | black friar's tonsure | good brain | Gathered Meat-Clip | stick of firewood	0	2	113	35	30	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	179	false	The Black Forest	black magic woman	Reassembled Blackbird	 | black eye shadow | black magic powder | good brain | stick of firewood	255	2	107	32	34	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	180	false	The Black Forest	black widow	Reassembled Blackbird	 | stick of firewood	148	2	117	36	23	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	181	false	The Black Forest	You Found Your Thrill	Reassembled Blackbird		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	182	false	The Black Forest	Bee Persistent	Reassembled Blackbird		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	183	true	The Black Forest	Bee Rewarded	Reassembled Blackbird		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	183	false	The Black Forest	N/A	Reassembled Blackbird	 | beehive	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	184	false	The Black Forest	black adder	Reassembled Blackbird	 | sunken eyes | good brain	264	2	107	22	29	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	185	true	The Black Forest	Wooof! Wooooooof!	Reassembled Blackbird	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	185	false	The Black Forest	black adder	Reassembled Blackbird	 | good brain | Pok&eacute;-Gro fertilizer	302	2	98	23	29	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	186	false	The Black Forest	blackberry bush	Reassembled Blackbird	 | blackberry	0	2	107	28	20	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	187	false	The Black Forest	black panther	Reassembled Blackbird	 | good brain	415	2	97	18	34	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	188	false	The Black Forest	black panther	Reassembled Blackbird	 | Black No. 2 | stick of firewood	398	2	113	18	30	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	189	false	The Shore, Inc. Travel Agency	N/A	Reassembled Blackbird	 | your father's MacGuffin diary	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	192	false	The Copperhead Club	Shen Copperhead, Nightclub Owner	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	193	true	The Copperhead Club	Black Crayon Crimbo Elf	XO Skeleton	 | crayon shavings | good brain	0	4	318	80	78	0			 | DRAGOON PLATOON | KODIAK MOMENT	0	0	0	0	0	0		
+2	193	true	The Copperhead Club	sausage goblin	XO Skeleton	 | magical sausage casing | good brain	206	5	314	79	87	0			 | DRAGOON PLATOON | KODIAK MOMENT	0	0	0	0	0	0		
+2	193	false	Hippy Camp	War Hippy (space) cadet	XO Skeleton	 | round purple sunglasses | good brain | stick of firewood	14	2	111	23	38	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	194	false	Wartime Hippy Camp (Frat Disguise)	War Hippy (space) cadet	XO Skeleton	 | reinforced beaded headband | O | good brain	15	2	87	28	31	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	195	false	Wartime Hippy Camp (Frat Disguise)	War Hippy drill sergeant	XO Skeleton	 | bullet-proof corduroys | good brain | stick of firewood	14	2	87	30	27	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	196	TRUE	CONSUME: eat 1 hunter brain	N/A	XO Skeleton		0	-1	0	0	0	7				0	0	0	0	0	0		
+2	196	false	Wartime Hippy Camp (Frat Disguise)	Special Agent Wallace Burke Corrigan	XO Skeleton	 | hunter brain | Gathered Meat-Clip | stick of firewood	10	2	72	20	22	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	197	false	Wartime Hippy Camp (Frat Disguise)	War Hippy drill sergeant	XO Skeleton	 | good brain | stick of firewood	13	2	64	34	33	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	198	true	Wartime Hippy Camp (Frat Disguise)	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	198	false	Wartime Hippy Camp (Frat Disguise)	War Hippy (space) cadet	XO Skeleton	 | X | good brain	11	2	76	20	34	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	199	false	Wartime Hippy Camp (Frat Disguise)	War Hippy drill sergeant	XO Skeleton	 | bullet-proof corduroys | good brain | stick of firewood	12	2	79	25	28	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	200	false	Wartime Hippy Camp (Frat Disguise)	War Hippy drill sergeant	XO Skeleton	 | round purple sunglasses | good brain	14	2	67	31	15	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	201	false	Wartime Hippy Camp (Frat Disguise)	Blockin' Out the Scenery	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	202	false	The Haunted Ballroom	Strung-Up Quartet	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	203	true	The Haunted Ballroom	Curtains	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	203	true	The Haunted Ballroom	Curtains	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	203	true	The Haunted Ballroom	Curtains	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	203	false	The Haunted Ballroom	floating platter of hors d'oeuvres	XO Skeleton	 | desiccated apricot | flute of flat champagne	11	2	57	9	8	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	204	false	The Haunted Ballroom	zombie waltzers	XO Skeleton	 | decent brain	153	2	52	13	8	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	205	false	The Haunted Ballroom	We'll All Be Flat	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	206	false	The Spooky Forest	Tree's Last Stand	XO Skeleton	 | spooky sapling	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	207	false	The Spooky Forest	Through Thicket and Thinnet	XO Skeleton	 | Spooky-Gro fertilizer	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	208	true	The Copperhead Club	sausage goblin	XO Skeleton	 | magical sausage casing | O | good brain	186	6	209	84	102	0			 | DRAGOON PLATOON | SUMMON LOVE GNATS | RAVENOUS POUNCE	0	0	0	0	0	0		
+2	208	true	Deck of Every Card	Sheep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	208	false	The Hidden Temple	Such Great Heights	XO Skeleton	 | the Nostril of the Serpent	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	209	true	The Hidden Temple	Such Great Heights	XO Skeleton		0	-1	0	0	0	3	 | Smile of the Platypus (3) | That's Just Cloud-Talk, Man (3) | Bastille Budgeteer (3) | Spoon Boon (3) | Muddled (3) | substats.enh (3) | Triple-Sized (3) | items.enh (3) | familiar.enq (3) | Driving Stealthily (3)			0	0	0	0	0	0		
+2	209	false	The Hidden Temple	clan of cave bars	XO Skeleton	 | good brain	1156	2	81	38	40	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	210	false	The Hidden Temple	clan of cave bars	XO Skeleton	 | good brain	1128	2	100	30	30	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	211	false	The Hidden Temple	baa-relief sheep	XO Skeleton	 | stone wool	13	2	51	13	9	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	212	true	The Hidden Temple	The Hidden Heart of the Hidden Temple	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	212	false	The Hidden Temple	Now What?	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	213	false	The Hidden Temple	Beginning at the Beginning of Beginning	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	214	false	The Hidden Temple	No Visible Means of Support	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	215	TRUE	CONSUME: eat 1 hunter brain	N/A	XO Skeleton		0	-1	0	0	0	7				0	0	0	0	0	0		
+2	215	false	The Haunted Wine Cellar	Hank North, Photojournalist	XO Skeleton	 | hunter brain | X	10	2	61	15	23	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	216	true	The Haunted Wine Cellar	skeletal sommelier	XO Skeleton		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	216	true	The Haunted Wine Cellar	mad wino	XO Skeleton		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	216	false	The Haunted Wine Cellar	possessed wine rack	XO Skeleton	 | Gathered Meat-Clip	11	2	65	20	17	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	217	false	The Haunted Wine Cellar	possessed wine rack	XO Skeleton	 | actual tapas | bottle of Chateau de Vinegar	11	2	67	18	18	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	218	true	The Haunted Laundry Room	plaid ghost	XO Skeleton		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	218	true	The Haunted Laundry Room	possessed laundry press	XO Skeleton		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	218	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	XO Skeleton	 | fabric softener | good brain	170	2	49	23	27	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	219	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	XO Skeleton	 | bottle of laundry sherry | blasting soda | good brain	147	2	56	18	23	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	220	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	XO Skeleton	 | O | good brain	162	2	56	23	19	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	221	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	XO Skeleton	 | bottle of laundry sherry | good brain	147	2	61	18	18	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	222	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	XO Skeleton	 | good brain	156	3	59	20	18	0			 | INFECTIOUS BITE | DRAGOON PLATOON	0	0	0	0	0	0		
+2	223	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	XO Skeleton	 | fabric softener | good brain	141	3	60	14	22	0			 | INFECTIOUS BITE | DRAGOON PLATOON	0	0	0	0	0	0		
+2	224	false	Cook 1 bottle of Chateau de Vinegar + 1 blasting soda	N/A	XO Skeleton	 | unstable fulminate	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	225	true	The Smut Orc Logging Camp	sausage goblin	XO Skeleton	 | long hard screw | magical sausage casing | X | good brain	207	3	212	87	90	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	225	false	The Haunted Boiler Room	monstrous boiler	XO Skeleton	 | wine bomb | chunk of hot iron	14	2	59	29	19	0				0	0	0	0	0	0		
+2	226	true	Oil Peak	Pushin' Down on Me, Pushin' Down on You	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	226	false	Oil Peak	oil cartel	XO Skeleton	 | bubblin' crude | bubblin' crude | bubblin' crude	15	2	46	17	28	0				0	0	0	0	0	0		
+2	227	false	Oil Peak	oil cartel	XO Skeleton	 | bubblin' crude | bubblin' crude	12	2	59	15	19	0				0	0	0	0	0	0		
+2	228	false	Oil Peak	oil cartel	XO Skeleton	 | bubblin' crude | bubblin' crude | Gathered Meat-Clip	11	2	52	20	20	0				0	0	0	0	0	0		
+2	229	false	Oil Peak	oil cartel	XO Skeleton	 | bubblin' crude | bubblin' crude | O	11	2	54	13	27	0				0	0	0	0	0	0		
+2	230	false	Oil Peak	oil cartel	XO Skeleton	 | bubblin' crude | bubblin' crude	12	2	60	23	13	0				0	0	0	0	0	0		
+2	231	false	Oil Peak	Unimpressed with Pressure	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	232	false	Oil Peak	oil cartel	XO Skeleton	 | bubblin' crude | bubblin' crude	10	2	49	22	22	0				0	0	0	0	0	0		
+2	233	true	Combing the Beach	N/A	XO Skeleton		0	-1	0	0	0	0	 | Oiled, Slick (50)			0	0	0	0	0	0		
+2	233	false	A Mob of Zeppelin Protesters	Bench Warrant	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	234	false	A Mob of Zeppelin Protesters	Bench Warrant	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	235	false	A Mob of Zeppelin Protesters	Bench Warrant	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	236	false	A Mob of Zeppelin Protesters	Bench Warrant	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	237	true	A Mob of Zeppelin Protesters	Too Much Humanity	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	237	true	A Mob of Zeppelin Protesters	Not So Much With The Humanity	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	237	false	A Mob of Zeppelin Protesters	lynyrd skinner	XO Skeleton	 | sweet roll Alabama | lynyrd musk | good brain	226	2	54	27	20	0				0	0	0	0	0	0		
+2	238	true	The Red Zeppelin	Zeppelintro	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	238	true	The Red Zeppelin	red butler	XO Skeleton		0	0	0	0	0	0			 | USE THE FORCE | SABER FRIENDS	0	0	0	0	0	0		
+2	238	true	The Red Zeppelin	red butler	XO Skeleton	 | glark cable | red box | X | good brain	141	3	54	19	22	0		|glark cable	 | HUGS AND KISSES	0	0	1	0	0	0		
+2	238	false	The Red Zeppelin	red butler	XO Skeleton	 | red box | glark cable	162	3	53	20	22	0			 | HUGS AND KISSES	0	0	0	0	0	0		
+2	239	true	The Red Zeppelin	red butler	XO Skeleton	 | glark cable | good brain	142	2	49	29	25	0		|glark cable		0	0	1	0	0	0		
+2	239	false	The Red Zeppelin	red butler	XO Skeleton	 | glark cable | good brain	142	2	57	22	18	0				0	0	0	0	0	0		
+2	240	true	The Red Zeppelin	red skeleton	XO Skeleton		12	2	66	17	18	0		|glark cable		0	0	1	0	0	0		
+2	240	true	The Red Zeppelin	Red Herring	XO Skeleton	 | red box | O | good brain	248	2	59	24	20	0		|glark cable		0	0	1	0	0	0		
+2	240	false	The Red Zeppelin	Red Snapper	XO Skeleton	 | good brain	256	2	48	20	30	0				0	0	0	0	0	0		
+2	241	false	The Red Zeppelin	the man with the red buttons	XO Skeleton	 | red button (5) | button rouge | good brain	249	2	63	20	22	0				0	0	0	0	0	0		
+2	242	TRUE	CONSUME: eat 1 boss brain	N/A	XO Skeleton		0	-1	0	0	0	7				0	0	0	0	0	0		
+2	242	false	The Red Zeppelin	Ron &quot;The Weasel&quot; Copperhead	XO Skeleton	 | Copperhead Charm (rampant) | boss brain	440	2	58	25	23	0				0	0	0	0	0	0		
+2	243	true	The Smut Orc Logging Camp	Is There A Doctor In The House?	XO Skeleton	 | magical sausage casing | X | good brain	124	18	194	85	67	0		|exploding cigar	 | SUMMON LOVE GNATS | SUMMON LOVE MOSQUITO	0	0	0	0	0	0		
+2	243	false	The Smut Orc Logging Camp	smut orc nailer	XO Skeleton	 | good brain | stick of firewood	61	2	41	12	18	0				0	0	0	0	0	0		
+2	244	false	The Smut Orc Logging Camp	smut orc screwer	XO Skeleton	 | backwoods screwdriver | good brain | Gathered Meat-Clip	81	2	41	12	17	0				0	0	0	0	0	0		
+2	245	false	The Smut Orc Logging Camp	smut orc nailer	XO Skeleton	 | good brain | stick of firewood	63	2	42	10	17	0				0	0	0	0	0	0		
+2	246	false	The Smut Orc Logging Camp	The Frattlesnake	XO Skeleton	 | morningwood plank | The Lacrosse Stick of Lacoronado | good brain	13	2	59	18	23	0				0	0	0	0	0	0		
+2	247	false	The Copperhead Club	the Mob Penguin Capo	XO Skeleton	 | drum of tommy ammo | O | good brain	357	2	69	15	14	0				0	0	0	0	0	0		
+2	248	true	Cook 15 wad of dough + 15 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	248	true	An Overgrown Shrine (Northwest)	dense liana	XO Skeleton		15	1	5	0	0	0				0	0	0	0	0	0		
+2	248	true	An Overgrown Shrine (Northwest)	dense liana	XO Skeleton		15	1	5	0	0	0				0	0	0	0	0	0		
+2	248	true	An Overgrown Shrine (Northwest)	dense liana	XO Skeleton		14	1	5	0	0	0				0	0	0	0	0	0		
+2	248	false	An Overgrown Shrine (Northwest)	Earthbound and Down	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	249	true	An Overgrown Shrine (Southwest)	dense liana	XO Skeleton	 | X	13	1	5	0	0	0				0	0	0	0	0	0		
+2	249	true	An Overgrown Shrine (Southwest)	dense liana	XO Skeleton		11	1	5	0	0	0				0	0	0	0	0	0		
+2	249	true	An Overgrown Shrine (Southwest)	dense liana	XO Skeleton		14	1	5	0	0	0				0	0	0	0	0	0		
+2	249	false	An Overgrown Shrine (Southwest)	Water You Dune	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	250	true	An Overgrown Shrine (Northeast)	dense liana	XO Skeleton		15	1	5	0	0	0				0	0	0	0	0	0		
+2	250	true	An Overgrown Shrine (Northeast)	dense liana	XO Skeleton		10	1	5	0	0	0				0	0	0	0	0	0		
+2	250	true	An Overgrown Shrine (Northeast)	dense liana	XO Skeleton	 | O	15	1	5	0	0	0				0	0	0	0	0	0		
+2	250	false	An Overgrown Shrine (Northeast)	Air Apparent	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	251	true	An Overgrown Shrine (Southeast)	dense liana	XO Skeleton		10	1	5	0	0	0				0	0	0	0	0	0		
+2	251	true	An Overgrown Shrine (Southeast)	dense liana	XO Skeleton		14	1	5	0	0	0				0	0	0	0	0	0		
+2	251	true	An Overgrown Shrine (Southeast)	dense liana	XO Skeleton		15	1	5	0	0	0				0	0	0	0	0	0		
+2	251	false	An Overgrown Shrine (Southeast)	Fire When Ready	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	252	true	A Massive Ziggurat	dense liana	XO Skeleton	 | X	13	1	5	0	0	0				0	0	0	0	0	0		
+2	252	true	A Massive Ziggurat	dense liana	XO Skeleton		13	1	5	0	0	0				0	0	0	0	0	0		
+2	252	true	A Massive Ziggurat	dense liana	XO Skeleton		10	1	5	0	0	0				0	0	0	0	0	0		
+2	252	true	A Massive Ziggurat	Legend of the Temple in the Hidden City	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	252	false	The Hidden Apartment Building	pygmy witch accountant	XO Skeleton	 | adder | McClusky file (page 1)	248	2	56	24	12	0				0	0	0	0	0	0		
+2	253	true	The Hidden Apartment Building	pygmy witch lawyer	XO Skeleton		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	253	true	The Hidden Apartment Building	sausage goblin	XO Skeleton	 | magical sausage casing | good brain	141	5	167	88	91	0		|inkwell|jam band bootleg		0	0	0	0	0	0		
+2	253	true	The Hidden Apartment Building	pygmy janitor	XO Skeleton		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	253	false	The Hidden Apartment Building	pygmy shaman	XO Skeleton	 | O | good brain	228	2	66	18	12	0	 | Once-Cursed (10)			0	0	0	0	0	0		
+2	254	false	The Hidden Apartment Building	pygmy witch accountant	XO Skeleton	 | pygmy adder oil | McClusky file (page 2)	228	2	52	24	14	0				0	0	0	0	0	0		
+2	255	true	The Hidden Apartment Building	pygmy witch accountant	XO Skeleton	 | bone abacus | adder | short calculator	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+2	255	false	The Hidden Apartment Building	pygmy witch accountant	XO Skeleton	 | adder | short calculator | blue pixel | McClusky file (page 3) | good brain	254	2	52	22	17	0				0	0	0	0	0	0		
+2	256	false	The Hidden Apartment Building	pygmy shaman	XO Skeleton	 | colorful toad | crude voodoo doll | blue pixel | good brain	245	2	52	15	22	0	 | Twice-Cursed (10)			0	0	0	0	0	0		
+2	257	false	The Hidden Apartment Building	Action Elevator	XO Skeleton		0	-1	0	0	0	0	 | Thrice-Cursed (10)			0	0	0	0	0	0		
+2	258	false	The Hidden Apartment Building	pygmy shaman	XO Skeleton	 | colorful toad | voodoo glowskull | X | good brain	234	2	49	24	19	0	 | Thrice-Cursed (10)			0	0	0	0	0	0		
+2	259	true	The Hidden Apartment Building	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	259	false	The Hidden Apartment Building	pygmy shaman	XO Skeleton	 | green pixel | good brain	246	2	53	20	18	0	 | Thrice-Cursed (10)			0	0	0	0	0	0		
+2	260	false	The Hidden Apartment Building	pygmy shaman	XO Skeleton	 | blue pixel | good brain | Gathered Meat-Clip	248	2	44	20	24	0	 | Thrice-Cursed (10)			0	0	0	0	0	0		
+2	261	false	The Hidden Apartment Building	pygmy witch accountant	XO Skeleton	 | short calculator | pygmy adder oil | red pixel | McClusky file (page 4) | good brain	244	2	53	22	15	0				0	0	0	0	0	0		
+2	262	false	The Hidden Apartment Building	pygmy shaman	XO Skeleton	 | voodoo glowskull | good brain	192	2	44	25	20	0	 | Thrice-Cursed (10)			0	0	0	0	0	0		
+2	263	false	The Hidden Apartment Building	pygmy witch accountant	XO Skeleton	 | bone abacus | O | McClusky file (page 5) | good brain	291	3	52	18	24	0				0	0	0	0	0	0		
+2	264	false	The Hidden Apartment Building	pygmy witch accountant	XO Skeleton	 | green pixel | good brain	271	2	52	27	14	0				0	0	0	0	0	0		
+2	265	false	The Hidden Apartment Building	ancient protector spirit	XO Skeleton	 | moss-covered stone sphere | blue pixel | good brain	10	3	64	17	15	0				0	0	0	0	0	0		
+2	266	true	An Overgrown Shrine (Northwest)	Earthbound and Down	XO Skeleton	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	266	TRUE	CONSUME: eat 1 boss brain	N/A	XO Skeleton		0	-1	0	0	0	7				0	0	0	0	0	0		
+2	266	false	Summoning Chamber	Lord Spookyraven	XO Skeleton	 | Eye of Ed | Lord Spookyraven's ear trumpet | boss brain	10	2	113	48	40	0				0	0	0	0	0	0		
+2	267	false	The Hidden Office Building	pygmy witch accountant	XO Skeleton	 | recording of Donho's Bubbly Ballad | X | good brain	248	2	57	14	13	0				0	0	0	0	0	0		
+2	268	TRUE	CONSUME: eat 1 hunter brain	N/A	XO Skeleton		0	-1	0	0	0	7				0	0	0	0	0	0		
+2	268	false	The Hidden Office Building	zombie-huntin' feller	XO Skeleton	 | hunter brain	14	2	22	14	8	0				0	0	0	0	0	0		
+2	269	false	The Hidden Office Building	pygmy headhunter	XO Skeleton	 | briefcase | good brain	282	2	46	14	27	0				0	0	0	0	0	0		
+2	270	false	The Hidden Office Building	pygmy headhunter	XO Skeleton	 | headhunter necktie | briefcase	297	2	58	10	22	0				0	0	0	0	0	0		
+2	271	false	The Hidden Office Building	pygmy headhunter	XO Skeleton	 | pointed stick | briefcase | good brain | Gathered Meat-Clip	307	2	60	19	12	0				0	0	0	0	0	0		
+2	272	true	The Hidden Office Building	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	272	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	272	false	The Hidden Office Building	Working Holiday	XO Skeleton	 | boring binder clip	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	273	false	The Hidden Office Building	ancient protector spirit	XO Skeleton	 | crackling stone sphere | O | good brain	12	3	53	26	17	0				0	0	0	0	0	0		
+2	274	true	An Overgrown Shrine (Northeast)	Air Apparent	XO Skeleton	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	274	true	The Hidden Bowling Alley	drunk pygmy	XO Skeleton		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	274	true	The Hidden Bowling Alley	pygmy janitor	XO Skeleton		0	0	0	0	0	0			 | USE THE FORCE | SABER BANISH	0	1	0	0	0	0		
+2	274	false	The Hidden Bowling Alley	pygmy bowler	XO Skeleton	 | bowling ball | imitation White Russian | good brain	236	2	56	29	9	0				0	0	0	0	0	0		
+2	275	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	276	false	The Hidden Bowling Alley	pygmy orderlies	XO Skeleton	 | pill cup | good brain	367	2	45	23	25	0				0	0	0	0	0	0		
+2	277	false	The Hidden Bowling Alley	a pygmy bowler!	XO Skeleton	 | bowling ball | imitation White Russian | good brain	216	3	44	14	15	0			 | CHEAT CODE: REPLACE ENEMY	0	0	0	0	0	0	 | pygmy orderlies	
+2	278	false	The Copperhead Club	Shen Copperhead, Jerk	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	279	true	The Copperhead Club	sausage goblin	XO Skeleton	 | magical sausage casing | X | good brain	163	7	40	16	13	0			 | SUMMON LOVE GNATS | SUMMON LOVE MOSQUITO	0	0	0	0	0	0		
+2	279	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	280	false	The Hidden Bowling Alley	pygmy orderlies	XO Skeleton	 | pill cup | green pixel | good brain	360	3	33	14	9	0				0	0	0	0	0	0		
+2	281	false	The Hidden Bowling Alley	pygmy bowler	XO Skeleton	 | bowling ball | good brain	233	4	38	10	10	0			 | OFFER LATTE TO OPPONENT	0	0	0	1	0	0		
+2	282	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	283	true	The Hidden Bowling Alley	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	283	false	The Hidden Bowling Alley	pygmy bowler	XO Skeleton	 | bowling ball | imitation White Russian	197	3	35	10	12	0				0	0	0	0	0	0		
+2	284	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	285	true	The Hidden Bowling Alley	pygmy orderlies	XO Skeleton		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	285	false	The Hidden Bowling Alley	pygmy bowler	XO Skeleton	 | bowling ball | tiny bowler | imitation White Russian	221	2	32	11	11	0				0	0	0	0	0	0		
+2	286	false	The Hidden Bowling Alley	ancient protector spirit	XO Skeleton	 | scorched stone sphere | blue pixel | O | good brain	13	3	41	6	8	0				0	0	0	0	0	0		
+2	287	false	The Hidden Hospital	pygmy witch surgeon	XO Skeleton	 | head mirror | good brain	275	2	37	7	9	0				0	0	0	0	0	0		
+2	288	false	The Hidden Hospital	pygmy witch surgeon	XO Skeleton	 | blue pixel | bloodied surgical dungarees | good brain | Gathered Meat-Clip	349	2	36	7	8	0				0	0	0	0	0	0		
+2	289	false	The Hidden Hospital	ancient protector spirit	XO Skeleton	 | dripping stone sphere | good brain	15	4	37	11	8	0				0	0	0	0	0	0		
+2	290	true	An Overgrown Shrine (Southwest)	Water You Dune	XO Skeleton	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	290	true	An Overgrown Shrine (Southeast)	Fire When Ready	XO Skeleton	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	290	TRUE	CONSUME: eat 1 boss brain	N/A	XO Skeleton		0	-1	0	0	0	7				0	0	0	0	0	0		
+2	290	false	A Massive Ziggurat	Protector Spectre	XO Skeleton	 | ancient amulet | spectre scepter | X | boss brain	15	4	73	33	38	0				0	0	0	0	0	0		
+2	291	false	The Unquiet Garves	Smart Skelton	XO Skeleton	 | smart skull | crappy brain	12	2	16	1	2	0				0	0	0	0	0	0		
+2	292	false	The Unquiet Garves	lihc	XO Skeleton	 | lihc eye | crappy brain	78	3	15	0	3	0				0	0	0	0	0	0		
+2	293	false	The Unquiet Garves	zobmie	XO Skeleton	 | cranberries | wriggling worm | crappy brain	71	2	13	1	4	0				0	0	0	0	0	0		
+2	294	TRUE	CONSUME: eat 1 hunter brain	N/A	XO Skeleton		0	-1	0	0	0	7				0	0	0	0	0	0		
+2	294	false	The Unquiet Garves	rag-tag band of survivors	XO Skeleton	 | hunter brain	14	2	29	16	11	0				0	0	0	0	0	0		
+2	295	false	The Unquiet Garves	Smart Skelton	XO Skeleton	 | smart skull | O | crappy brain	14	2	13	0	4	0				0	0	0	0	0	0		
+2	296	false	The Unquiet Garves	the Snakeleton	XO Skeleton	 | The Shield of Brook | red pixel | good brain	15	2	30	13	11	0				0	0	0	0	0	0		
+2	297	false	The Copperhead Club	Perry Collins the bartender	XO Skeleton	 | electric copperhead potion | good brain	169	2	28	11	11	0				0	0	0	0	0	0		
+2	298	true	The Copperhead Club	sausage goblin	XO Skeleton	 | magical sausage casing | good brain	165	4	64	27	27	0	 | Wolfish Form (1)		 | BECOME A WOLF	0	0	0	0	0	0		
+2	298	false	The Copperhead Club	ninja dressed as a waiter	XO Skeleton	 | crappy waiter disguise | throwing fork | blue pixel | X | li'l ninja costume | good brain	11	2	28	10	16	0				0	0	0	0	0	0		
+2	299	false	The Copperhead Club	Shen Copperhead, Huge Jerk	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	300	false	The Copperhead Club	fan dancer	XO Skeleton	 | blowdart | dancing fan | good brain | Gathered Meat-Clip	207	2	33	6	12	0				0	0	0	0	0	0		
+2	301	false	The Hole in the Sky	The Burrowing Bishop	XO Skeleton	 | star | line	10	2	35	10	11	0				0	0	0	0	0	0		
+2	302	true	The Hole in the Sky	sausage goblin	XO Skeleton	 | red-hot sausage fork | magical sausage casing | red pixel | good brain	145	5	72	28	21	0			 | HUGS AND KISSES | CHEAT CODE: SHRINK ENEMY	0	0	0	0	0	0		
+2	302	false	The Hole in the Sky	The Hooded Warrior	XO Skeleton	 | star | star	15	2	37	18	14	0				0	0	0	0	0	0		
+2	303	false	The Hole in the Sky	The Snake With Like Ten Heads	XO Skeleton	 | The Eye of the Stars | O | good brain	10	2	35	19	14	0				0	0	0	0	0	0		
+2	304	false	The Hole in the Sky	The Trouser Snake	XO Skeleton	 | probability potion | line | line | Pok&eacute;-Gro fertilizer	15	2	33	17	9	0				0	0	0	0	0	0		
+2	305	false	The Hole in the Sky	The Family Jewels	XO Skeleton	 | star | star	13	2	38	10	16	0				0	0	0	0	0	0		
+2	306	false	The Hole in the Sky	The Trouser Snake	XO Skeleton	 | line | line | line	15	2	39	16	10	0				0	0	0	0	0	0		
+2	307	true	The Hole in the Sky	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	307	false	The Hole in the Sky	The Astronomer	XO Skeleton	 | plastic cup of beer | star chart | X	15	2	33	13	17	0				0	0	0	0	0	0		
+2	308	false	The Hole in the Sky	The Hooded Warrior	XO Skeleton	 | star | star | line	13	2	43	11	16	0				0	0	0	0	0	0		
+2	309	false	The Hole in the Sky	The Twig and Berries	XO Skeleton	 | line | star | star	15	2	28	25	12	0				0	0	0	0	0	0		
+2	310	false	The Copperhead Club	Riff Collins the bartender	XO Skeleton	 | handful of tips | electric copperhead potion | good brain	218	2	35	9	13	0				0	0	0	0	0	0		
+2	311	false	The Copperhead Club	waiter dressed as a ninja	XO Skeleton	 | shuriken salad | ninja eyeblack | good brain | Gathered Meat-Clip	63	2	33	10	13	0				0	0	0	0	0	0		
+2	312	true	The Copperhead Club	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	312	false	The Copperhead Club	Shen Copperhead, World's Biggest Jerk	XO Skeleton	 | Copperhead Charm	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	313	true	Inside the Palindome	Racecar Bob	XO Skeleton		0	0	0	0	0	0			 | USE THE FORCE | SABER FRIENDS	0	0	0	0	0	0		
+2	313	false	Inside the Palindome	Racecar Bob	XO Skeleton	 | enormous belt buckle | leather chaps | stunt nuts | O | good brain	288	2	28	13	7	0				0	0	0	0	0	0		
+2	314	false	Inside the Palindome	Racecar Bob	XO Skeleton	 | photograph of a dog | enormous belt buckle | leather chaps | stunt nuts | ketchup hound | good brain	242	3	33	6	8	0		|disposable instant camera		0	0	0	0	0	0		
+2	315	false	Inside the Palindome	Racecar Bob	XO Skeleton	 | enormous belt buckle | stunt nuts | ketchup hound | good brain	256	2	29	7	11	0				0	0	0	0	0	0		
+2	316	TRUE	CONSUME: eat 1 good brain	N/A	XO Skeleton		0	-1	0	0	0	4				0	0	0	0	0	0		
+2	316	TRUE	CONSUME: eat 1 good brain	N/A	XO Skeleton		0	-1	0	0	0	4				0	0	0	0	0	0		
+2	316	false	Inside the Palindome	Taco Cat	XO Skeleton	 | taco shell | catgut | cat appendix | good brain	199	2	27	11	10	0				0	0	0	0	0	0		
+2	317	false	Inside the Palindome	Do Geese See God?	XO Skeleton	 | photograph of God	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	318	false	Inside the Palindome	Last Egg Gets Al	XO Skeleton	 | photograph of an ostrich egg	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	319	false	Inside the Palindome	Rod Nevada, Vendor	XO Skeleton	 | photograph of a red nugget	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	320	false	Inside the Palindome	Drab Bard	XO Skeleton	 | olive | drab sonata | X | good brain	163	2	32	5	9	0				0	0	0	0	0	0		
+2	321	true	Inside the Palindome	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	321	true	Inside the Palindome	Bob Racecar	XO Skeleton	 | leather chaps | stunt nuts | ketchup hound | &quot;I Love Me, Vol. I&quot; | good brain	242	2	26	17	6	0				0	0	0	0	0	0		
+2	321	false	Dr. Awkward's Office	N/A	XO Skeleton	 | &quot;2 Love Me, Vol. 2&quot;	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	322	true	Cook 1 wet stew + 1 stunt nuts	N/A	XO Skeleton	 | wet stunt nut stew	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	322	TRUE	CONSUME: eat 1 boss brain	N/A	XO Skeleton		0	-1	0	0	0	7				0	0	0	0	0	0		
+2	322	false	Dr. Awkward's Office	Dr. Awkward	XO Skeleton	 | Staff of Fats | Drowsy Sword | boss brain	11	2	88	28	25	0				0	0	0	0	0	0		
+2	323	true	The Shore, Inc. Travel Agency	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	323	false	The Arid, Extra-Dry Desert	giant giant giant centipede	XO Skeleton	 | handful of sand	294	2	25	13	9	0	 | Ultrahydrated (10)			0	0	0	0	0	0		
+2	324	false	The Arid, Extra-Dry Desert	swarm of fire ants	XO Skeleton	 | ant agonist | ant sickle | handful of sand	98	2	27	10	11	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	325	false	The Arid, Extra-Dry Desert	rock scorpion	XO Skeleton	 | handful of sand | O	372	2	28	12	6	0				0	0	0	0	0	0		
+2	326	false	The Arid, Extra-Dry Desert	plaque of locusts	XO Skeleton	 | handful of sand | Gathered Meat-Clip	55	2	26	9	10	0				0	0	0	0	0	0		
+2	327	false	The Arid, Extra-Dry Desert	swarm of fire ants	XO Skeleton	 | handful of sand	97	2	26	7	13	0				0	0	0	0	0	0		
+2	328	true	The Arid, Extra-Dry Desert	A Sietch in Time	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	328	true	The Arid, Extra-Dry Desert	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	328	true	The Arid, Extra-Dry Desert	giant giant giant centipede	XO Skeleton	 | handful of sand	237	2	33	9	4	0	 | Ultrahydrated (3)		 | CHEST X-RAY	0	0	1	0	0	0		
+2	328	true	The Arid, Extra-Dry Desert	swarm of fire ants	XO Skeleton	 | ant agonist | X	106	2	30	6	10	0			 | CHEST X-RAY	0	0	1	0	0	0		
+2	328	true	The Arid, Extra-Dry Desert	plaque of locusts	XO Skeleton	 | honey-dipped locust | bronzed locust	54	2	29	6	10	0	 | Ultrahydrated (3)		 | CHEST X-RAY	0	0	1	0	0	0		
+2	328	false	The Arid, Extra-Dry Desert	rock scorpion	XO Skeleton	 | handful of sand	302	2	35	5	7	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	329	false	The Arid, Extra-Dry Desert	rock scorpion	XO Skeleton	 | worm-riding manual page	338	2	30	9	7	0				0	0	0	0	0	0		
+2	330	false	The Arid, Extra-Dry Desert	swarm of fire ants	XO Skeleton	 | ant pick	101	2	32	6	9	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	331	TRUE	CONSUME: eat 9 good brain	N/A	XO Skeleton		0	-1	0	0	0	36				0	0	0	0	0	0		
+2	331	false	The Arid, Extra-Dry Desert	plaque of locusts	XO Skeleton	 | honey-dipped locust | bronzed locust | handful of sand | O	55	2	27	12	5	0				0	0	0	0	0	0		
+2	332	false	The Arid, Extra-Dry Desert	cactuary	XO Skeleton	 | cactus fruit | handful of sand | bit-o-cactus | worm-riding manual page (3)	185	2	32	4	9	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	333	false	The Arid, Extra-Dry Desert	giant giant giant centipede	XO Skeleton	 | centipede eggs | handful of sand | handful of sand	294	2	27	13	7	0				0	0	0	0	0	0		
+2	334	false	The Arid, Extra-Dry Desert	plaque of locusts	XO Skeleton	 | honey-dipped locust | bronzed locust | handful of sand	55	3	26	10	8	0				0	0	0	0	0	0		
+2	335	false	The Arid, Extra-Dry Desert	swarm of fire ants	XO Skeleton	 | ant agonist | X | worm-riding manual page (2)	89	2	37	3	8	0				0	0	0	0	0	0		
+2	336	false	The Arid, Extra-Dry Desert	rock scorpion	XO Skeleton	 | handful of sand	405	2	29	7	10	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	337	false	The Arid, Extra-Dry Desert	giant giant giant centipede	XO Skeleton	 | handful of sand | Gathered Meat-Clip	247	2	33	10	3	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	338	false	The Arid, Extra-Dry Desert	rock scorpion	XO Skeleton	 | worm-riding manual page (2)	335	2	27	14	6	0				0	0	0	0	0	0		
+2	339	false	The Arid, Extra-Dry Desert	rock scorpion	XO Skeleton	 | worm-riding manual page (3)	418	2	22	9	15	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	340	false	The Arid, Extra-Dry Desert	plaque of locusts	XO Skeleton	 | honey-dipped locust | handful of sand | O	62	2	26	8	11	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	341	false	The Arid, Extra-Dry Desert	swarm of fire ants	XO Skeleton	 | handful of sand | worm-riding manual page (3)	111	2	31	10	6	0				0	0	0	0	0	0		
+2	342	false	The Arid, Extra-Dry Desert	giant giant giant centipede	XO Skeleton	 | centipede eggs	288	2	31	7	8	0				0	0	0	0	0	0		
+2	343	true	The Arid, Extra-Dry Desert	Playing Fetch*	XO Skeleton	 | tennis ball	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	343	false	The Arid, Extra-Dry Desert	cactuary	XO Skeleton	 | cactus fruit | handful of sand | bit-o-cactus | worm-riding manual page	164	2	29	9	8	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	344	false	The Oasis	blur	XO Skeleton	 | drum machine | Hugo's Weaving Manual | palm frond | carbonated water lily | X | good brain	209	3	28	5	12	0			 | OTOSCOPE	0	0	0	0	0	0		
+2	345	false	The Arid, Extra-Dry Desert	rock scorpion	XO Skeleton		370	2	35	7	4	0				0	0	0	0	0	0		
+2	346	false	The Arid, Extra-Dry Desert	rock scorpion	XO Skeleton	 | handful of sand	327	2	32	4	9	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	347	false	The Arid, Extra-Dry Desert	plaque of locusts	XO Skeleton	 | honey-dipped locust | bronzed locust | handful of sand	55	2	26	12	5	0				0	0	0	0	0	0		
+2	348	TRUE	CONSUME: drink 1 astral pilsner	N/A	XO Skeleton		0	-1	0	0	0	11				0	0	0	0	0	0		
+2	348	TRUE	CONSUME: drink 1 astral pilsner	N/A	XO Skeleton		0	-1	0	0	0	11				0	0	0	0	0	0		
+2	348	TRUE	CONSUME: drink 1 astral pilsner	N/A	XO Skeleton		0	-1	0	0	0	11				0	0	0	0	0	0		
+2	348	TRUE	CONSUME: drink 1 astral pilsner	N/A	XO Skeleton		0	-1	0	0	0	11				0	0	0	0	0	0		
+2	348	false	The Arid, Extra-Dry Desert	swarm of fire ants	XO Skeleton	 | handful of sand | Gathered Meat-Clip	92	2	26	13	7	0				0	0	0	0	0	0		
+2	349	false	The Upper Chamber	A Wheel -- How Fortunate!	XO Skeleton	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	350	false	The Upper Chamber	A Wheel -- How Fortunate!	XO Skeleton	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	351	false	The Upper Chamber	A Wheel -- How Fortunate!	XO Skeleton	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	352	false	The Upper Chamber	Iiti Kitty	XO Skeleton	 | leathery cat skin | ancient Magi-Wipes | Iiti Kitty Gumdrop | O | good brain	14	2	31	6	16	0				0	0	0	0	0	0		
+2	353	true	Cook 15 wad of dough + 15 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	353	true	The Upper Chamber	tomb bat	XO Skeleton		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	353	false	The Upper Chamber	Down Dooby-Doo Down Down	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	354	true	The Middle Chamber	tomb asp	XO Skeleton		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	354	false	The Middle Chamber	tomb rat	XO Skeleton	 | tomb ratchet | leathery rat skin | good brain	152	2	24	18	9	0				0	0	0	0	0	0		
+2	355	false	The Middle Chamber	tomb rat	XO Skeleton	 | leathery rat skin | unidentified jerky	124	2	32	10	11	0				0	0	0	0	0	0		
+2	356	true	The Middle Chamber	tomb servant	XO Skeleton		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	356	false	The Middle Chamber	tomb rat	XO Skeleton	 | good brain	165	2	33	9	10	0				0	0	0	0	0	0		
+2	357	false	The Middle Chamber	Further Down Dooby-Doo Down Down	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	358	false	The Middle Chamber	tomb rat	XO Skeleton	 | leathery rat skin | X | good brain	158	2	28	10	13	0				0	0	0	0	0	0		
+2	359	false	The Middle Chamber	tomb rat	XO Skeleton	 | good brain	151	2	36	7	11	0				0	0	0	0	0	0		
+2	360	true	The Middle Chamber	Ratchet-catcher	XO Skeleton	 | tomb ratchet	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	360	false	The Middle Chamber	tomb rat	XO Skeleton	 | tomb ratchet | good brain	145	2	32	9	10	0				0	0	0	0	0	0		
+2	361	false	The Middle Chamber	tomb rat	XO Skeleton	 | leathery rat skin | unidentified jerky | good brain	131	2	28	12	11	0				0	0	0	0	0	0		
+2	362	false	The Middle Chamber	Under Control	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	363	false	The Upper Chamber	A Wheel -- How Fortunate!	XO Skeleton	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	364	false	The Upper Chamber	Iiti Kitty	XO Skeleton	 | unidentified jerky | Iiti Kitty phone charm | ancient Magi-Wipes | good brain	11	2	36	12	6	0				0	0	0	0	0	0		
+2	365	false	The Upper Chamber	A Wheel -- How Fortunate!	XO Skeleton	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	366	false	The Upper Chamber	A Wheel -- How Fortunate!	XO Skeleton	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	367	false	The Upper Chamber	Iiti Kitty	XO Skeleton	 | leathery cat skin | ancient Magi-Wipes | ancient vinyl coin purse | mummy wrapping | O | good brain	13	2	37	6	15	0				0	0	0	0	0	0		
+2	368	false	The Upper Chamber	A Wheel -- How Fortunate!	XO Skeleton	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	369	false	The Lower Chambers	N/A	XO Skeleton	 | ancient bronze token	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	370	false	The Lower Chambers	N/A	XO Skeleton	 | ancient bomb	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	371	false	The Lower Chambers	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	372	false	The Lower Chambers	Ed the Undying	XO Skeleton	 | Gathered Meat-Clip	14	2	49	21	19	0				0	0	0	0	0	0		
+2	373	false	The Lower Chambers	Ed the Undying	XO Skeleton		13	2	48	20	26	0				0	0	0	0	0	0		
+2	374	false	The Lower Chambers	Ed the Undying	XO Skeleton		15	2	53	20	20	0				0	0	0	0	0	0		
+2	375	false	The Lower Chambers	Ed the Undying	XO Skeleton	 | X	15	2	39	20	29	0				0	0	0	0	0	0		
+2	376	false	The Lower Chambers	Ed the Undying	XO Skeleton		12	2	54	21	14	0				0	0	0	0	0	0		
+2	377	false	The Lower Chambers	Ed the Undying	XO Skeleton		15	2	56	15	19	0				0	0	0	0	0	0		
+2	378	false	The Lower Chambers	Ed the Undying	XO Skeleton	 | Holy MacGuffin | handful of confetti	14	2	48	23	18	0				0	0	0	0	0	0		
+2	379	false	The Defiled Cranny	giant swarm of ghuol whelps	XO Skeleton	 | good brain	11	3	35	5	10	0				0	0	0	0	0	0		
+2	380	false	The Defiled Cranny	giant swarm of ghuol whelps	XO Skeleton	 | O | good brain	14	3	30	13	7	0				0	0	0	0	0	0		
+2	381	false	The Defiled Cranny	gaunt ghuol	XO Skeleton	 | good brain	46	2	30	7	12	0				0	0	0	0	0	0		
+2	382	false	The Defiled Cranny	gluttonous ghuol	XO Skeleton	 | good brain	109	2	25	8	17	0				0	0	0	0	0	0		
+2	383	false	The Defiled Cranny	giant swarm of ghuol whelps	XO Skeleton	 | good brain | Gathered Meat-Clip	11	3	29	11	8	0				0	0	0	0	0	0		
+2	384	false	The Defiled Cranny	huge ghuol	XO Skeleton	 | ghuol ears | X | boss brain	543	2	50	18	23	0				0	0	0	0	0	0		
+2	385	true	Twin Peak	Welcome to the Great Overlook Lodge	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	385	false	Twin Peak	the Big Wheelin' Twins	XO Skeleton	 | good brain	118	2	38	13	9	0				0	0	0	0	0	0		
+2	386	false	Twin Peak	He Is the Arm, and He Sounds Like This	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	387	false	Twin Peak	Go Check It Out!	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	388	false	Twin Peak	Room 237	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	389	TRUE	CONSUME: eat 1 boss brain	N/A	XO Skeleton		0	-1	0	0	0	7				0	0	0	0	0	0		
+2	389	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	389	false	Hippy Camp	The Big Wisniewski	XO Skeleton	 | solid gold bowling ball | boss brain	10	4	141	75	68	0				0	0	0	0	0	0		
+2	390	true	Twin Peak	Now It's Dark	XO Skeleton	 | gold wedding ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	390	true	Cook 14 wad of dough + 14 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	390	true	A-Boo Peak	Faction Traction = Inaction	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	390	false	A-Boo Peak	Battlie Knight Ghost	XO Skeleton	 | psychokinetic energy blob | A-Boo clue | Battlie Light Saver | decent brain	12	3	25	8	4	0				0	0	0	0	0	0		
+2	391	false	A-Boo Peak	Claybender Sorcerer Ghost	XO Skeleton	 | psychokinetic energy blob | A-Boo clue | ectoplasmic orbs | decent brain	12	4	25	8	8	0				0	0	0	0	0	0		
+2	392	false	A-Boo Peak	Whatsian Commando Ghost	XO Skeleton	 | psychokinetic energy blob | A-Boo clue | ectoplasmic orbs | O | decent brain	13	3	20	14	7	0				0	0	0	0	0	0		
+2	393	false	A-Boo Peak	Dusken Raider Ghost	XO Skeleton	 | psychokinetic energy blob | A-Boo clue | Duskwalker syringe | ectoplasmic orbs | decent brain	12	3	22	10	3	0				0	0	0	0	0	0		
+2	394	false	A-Boo Peak	The Horror...	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	395	false	A-Boo Peak	The Horror...	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	396	false	A-Boo Peak	The Horror...	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	397	false	A-Boo Peak	Come On Ghosty, Light My Pyre	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	398	false	The Defiled Alcove	corpulent zobmie	XO Skeleton	 | cranberries | decent brain	202	2	10	3	8	0				0	0	0	0	0	0		
+2	399	false	The Defiled Alcove	modern zmobie	XO Skeleton	 | wriggling worm | decent brain | Pok&eacute;-Gro fertilizer	167	2	15	9	4	0				0	0	0	0	0	0		
+2	400	false	The Defiled Alcove	corpulent zobmie	XO Skeleton	 | X | decent brain	199	2	14	6	8	0				0	0	0	0	0	0		
+2	401	false	The Defiled Alcove	modern zmobie	XO Skeleton	 | decent brain | Gathered Meat-Clip	203	2	14	7	8	0				0	0	0	0	0	0		
+2	402	false	The Defiled Alcove	modern zmobie	XO Skeleton	 | decent brain	183	2	16	4	9	0				0	0	0	0	0	0		
+2	403	false	The Defiled Alcove	modern zmobie	XO Skeleton	 | wriggling worm | decent brain	151	2	16	5	9	0				0	0	0	0	0	0		
+2	404	true	The Defiled Alcove	Wooof! Wooooooof!	XO Skeleton		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	404	false	The Defiled Alcove	modern zmobie	XO Skeleton	 | decent brain | cartoon harpoon	152	2	16	2	12	0				0	0	0	0	0	0		
+2	405	TRUE	CONSUME: eat 1 boss brain	N/A	XO Skeleton		0	-1	0	0	0	7				0	0	0	0	0	0		
+2	405	false	The Defiled Alcove	conjoined zmombie	XO Skeleton	 | loose teeth | cranberries | cranberries | O | boss brain	904	2	35	19	17	0				0	0	0	0	0	0		
+2	406	TRUE	CONSUME: eat 1 boss brain	N/A	XO Skeleton	 | Uranium Omega of Temperance	0	-1	0	0	0	7				0	0	0	0	0	0		
+2	406	false	Haert of the Cyrpt	The Bonerdagon	XO Skeleton	 | skull of the Bonerdagon	13	2	0	0	0	0				0	0	0	0	0	0		
+2	407	true	Combing the Beach	N/A	XO Skeleton		0	-1	0	0	0	0	 | Pomp & Circumsands (50)			0	0	0	0	0	0		
+2	407	false	Sleaziest Adventurer Contest	Leonard	XO Skeleton	 | Leonard's glasses | good brain	15	2	29	18	19	0				0	0	0	0	0	0		
+2	408	false	Smoothest Adventurer Contest	Seannery the Conman	XO Skeleton	 | leather glove | good brain	15	3	33	14	19	0				0	0	0	0	0	0		
+2	409	false	Fastest Adventurer Contest	The Tasmanian Dervish	XO Skeleton	 | X | good brain	12	7	47	17	32	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	410	false	The Hedge Maze	'Allo	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	411	false	The Hedge Maze	Pooling Your Resources	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	412	false	The Hedge Maze	Of Mouseholes and Manholes	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	413	false	The Hedge Maze	Of Mouseholes and Manholes	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	414	false	The Hedge Maze	Mazel Tov!	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	415	true	Tower Door	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	415	true	The Bandit Crossroads	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	415	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | decent brain	11	2	17	7	14	0				0	0	0	0	0	0		
+2	416	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | good brain	13	2	14	6	13	0				0	0	0	0	0	0		
+2	417	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | good brain | Gathered Meat-Clip	10	2	15	8	9	0				0	0	0	0	0	0		
+2	418	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | good brain	12	2	15	7	12	0				0	0	0	0	0	0		
+2	419	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | fat loot token | decent brain	15	2	13	4	15	0				0	0	0	0	0	0		
+2	420	true	8-Bit Realm	Zol	XO Skeleton		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	420	true	8-Bit Realm	Bullet Bill	XO Skeleton		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	420	true	8-Bit Realm	Blooper	XO Skeleton		0	0	0	0	0	0			 | USE THE FORCE | SABER FRIENDS	0	0	0	0	0	0		
+2	420	false	8-Bit Realm	Blooper	XO Skeleton	 | white pixel | white pixel | white pixel | crappy brain	14	2	9	0	7	0				0	0	0	0	0	0		
+2	421	false	8-Bit Realm	Blooper	XO Skeleton	 | white pixel | white pixel | white pixel | crappy brain	13	3	10	1	5	0			 | OFFER LATTE TO OPPONENT	0	0	0	1	0	0		
+2	422	false	8-Bit Realm	Blooper	XO Skeleton	 | white pixel | white pixel | white pixel | crappy brain	14	2	9	1	5	0				0	0	0	0	0	0		
+2	423	true	8-Bit Realm	Tektite	XO Skeleton		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	423	false	8-Bit Realm	Blooper	XO Skeleton	 | white pixel | white pixel | white pixel | blue pixel | crappy brain	14	2	10	1	4	0				0	0	0	0	0	0		
+2	424	false	8-Bit Realm	a Blooper!	XO Skeleton	 | white pixel | white pixel | white pixel | O | crappy brain	10	4	10	2	4	0			 | CHEAT CODE: REPLACE ENEMY | CHEAT CODE: REPLACE ENEMY	0	0	0	0	0	0	 | Goomba | a Koopa Troopa!	
+2	425	true	8-Bit Realm	Dog Needs Food Badly	XO Skeleton	 | black pixel | green pixel | black pixel | black pixel | blue pixel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	425	TRUE	CONSUME: eat 1 good brain	N/A	XO Skeleton		0	-1	0	0	0	4				0	0	0	0	0	0		
+2	425	true	Tower Door	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	425	true	Tower Door	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	425	true	Tower Door	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	425	true	Tower Door	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	425	false	The Naughty Sorceress' Tower	wall of skin	XO Skeleton	 | red pixel	13	2	28	14	23	0		|beehive		0	0	0	0	0	0		
+2	426	false	The Naughty Sorceress' Tower	wall of meat	XO Skeleton		871	5	35	14	15	0				0	0	0	0	0	0		
+2	427	false	The Naughty Sorceress' Tower	wall of meat	XO Skeleton		830	6	36	13	15	0				0	0	0	0	0	0		
+2	428	true	Tower Door	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	428	TRUE	CONSUME: eat 1 good brain	N/A	XO Skeleton		0	-1	0	0	0	4				0	0	0	0	0	0		
+2	428	false	The Naughty Sorceress' Tower	wall of bones	XO Skeleton	 | X | good brain | Gathered Meat-Clip	11	2	143	74	67	0		|electric boning knife		0	0	0	0	0	0		
+2	429	false	The Naughty Sorceress' Tower	The Mirror in the Tower has the View that is True	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	430	TRUE	PILLKEEPER: Sunday - Surprise Me	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	430	false	The Naughty Sorceress' Tower	Shadow Zombie Master	XO Skeleton		0	1	0	0	0	0			 | RETURN	0	0	0	0	0	0		
+2	431	false	Cobb's Knob Harem	Hands On	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	432	TRUE	CONSUME: eat 1 good brain	N/A	XO Skeleton		0	-1	0	0	0	4				0	0	0	0	0	0		
+2	432	false	The Naughty Sorceress' Tower	Shadow Zombie Master	XO Skeleton	 | good brain	12	4	104	57	68	0		|gauze garter|gauze garter|scented massage oil		0	0	0	0	0	0		
+2	433	false	The Naughty Sorceress' Chamber	The Naughty Sorceress	XO Skeleton		14	3	5	5	0	0				0	0	0	0	0	0		
+2	434	true	The Naughty Sorceress' Chamber	The Naughty Sorceress (2)	XO Skeleton	 | good brain	12	4	5	5	0	0				0	0	0	0	0	0		
+2	434	false	The Naughty Sorceress' Chamber	Rene C. Corman	XO Skeleton	 | Instant Karma | Thwaitgold maggot statuette | good brain	15	4	36	12	19	0				0	0	0	0	0	0		

@@ -1,0 +1,1020 @@
+day	turnSpent	free?	location	encounterName	familiar	items	meat	rounds	mus	mys	mox	advsGained	effectsGained	itemsUsed	skillsUsed	freeRun?	banish	freeKill	sniff	spit	copy	macroFrom	
+1	1	true	Cargo Cultist Shorts	N/A	none	 | onyx pawn	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Smith 1 lump of Brituminous coal + 1 pasta spoon	N/A	none	 | Hand that Rocks the Ladle	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Smith 1 lump of Brituminous coal + 1 maiden wig	N/A	none	 | Hairpiece On Fire	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | You Learned Something Maybe! (50)			0	0	0	0	0	0		
+1	1	true	Boxing Daycare	Have a Boxing Daydream	none	 | glass of raw eggs	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Boxing Daycare	Enter the Boxing Daycare	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Deck of Every Card	1952 Mickey Mantle	none	 | 1952 Mickey Mantle card	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Deck of Every Card	XVI - The Tower	none	 | Jarlsberg's key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Cook 7 wad of dough + 7 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Cook 16 wad of dough + 16 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Rest in your bed in the Chateau	N/A	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Enforcer	Gelatinous Cubeling	 | Source essence | white pixel	0	9	14	41	20	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Engineer	Gelatinous Cubeling	 | LOV Epaulettes | Source essence (3)	0	9	13	41	23	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Equivocator	Gelatinous Cubeling	 | Source essence | bag of GORP | green pixel | soda water	0	8	17	57	17	0	 | Lovebotamy (50)	|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	Gelatinous Cubeling	 | LOV Extraterrestrial Chocolate	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Rest in your bed in the Chateau	N/A	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Rest in your bed in the Chateau	N/A	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Rest in your bed in the Chateau	N/A	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Rest in your bed in the Chateau	N/A	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Rest in your bed in the Chateau	N/A	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Rest in your bed in the Chateau	N/A	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Rest in your bed in the Chateau	N/A	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Spooky Forest	The Headless Horseman	Left-Hand Man	 | Source essence (2)	0	10	0	0	0	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	1	true	numberology 69	N/A	Left-Hand Man		0	-1	0	0	0	3				0	0	0	0	0	0		
+1	1	true	The Spooky Forest	sausage goblin	Gelatinous Cubeling	 | Source essence (2) | Meteorite-Ade | magical sausage casing | green pixel	210	11	19	87	28	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	1	false	The Haunted Pantry	undead elbow macaroni	Gelatinous Cubeling	 | Source essence (2) | magicalness-in-a-can	10	11	10	62	13	0		|Time-Spinner	 | GULP LATTE | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+1	2	true	Cook 5 wad of dough + 5 soda water	N/A	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	2	true	numberology 69	N/A	Gelatinous Cubeling		0	-1	0	0	0	3				0	0	0	0	0	0		
+1	2	false	The Haunted Pantry	possessed can of tomatoes	Gelatinous Cubeling	 | Source essence | razor-sharp can lid | tomato | eleven-foot pole | Special Seasoning	10	11	17	45	25	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	3	true	numberology 69	N/A	Gelatinous Cubeling		0	-1	0	0	0	3				0	0	0	0	0	0		
+1	3	false	The Haunted Pantry	undead elbow macaroni	Gelatinous Cubeling	 | Source essence (3) | water purification pills | magicalness-in-a-can	15	10	12	62	13	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+1	4	true	numberology 69	N/A	Gelatinous Cubeling		0	-1	0	0	0	3				0	0	0	0	0	0		
+1	4	false	The Haunted Pantry	fiendish can of asparagus	Gelatinous Cubeling	 | Source essence | razor-sharp can lid | stalk of asparagus | white pixel	10	10	23	57	13	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	5	false	The Haunted Pantry	flame-broiled meat blob	Gelatinous Cubeling	 | Source essence (3) | meat paste | meat paste | meat paste | ring of Detect Boring Doors	50	10	19	71	14	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	6	true	The Spooky Forest	terrible mutant	Gelatinous Cubeling	 | Source essence (3) | glob of undifferentiated tissue	22	9	19	92	32	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	6	false	The Haunted Pantry	A Sandwich Appears!	Gelatinous Cubeling	 | exorcised sandwich	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	7	false	The Haunted Kitchen	possessed silverware drawer	Gelatinous Cubeling	 | Source essence (3) | eggbeater | antique packet of ketchup | green pixel	0	9	17	57	20	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	8	true	The Spooky Forest	sausage goblin	Gelatinous Cubeling	 | Source essence (2) | Source terminal file: duplicate.edu | magical sausage casing | Pick-O-Matic lockpicks	175	11	28	85	25	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	8	false	The Haunted Kitchen	demonic icebox	Baby Sandworm	 | Source essence | cold powder | Meteorite-Ade | ancient frozen dinner | accidental cider | dire fudgesicle	42	10	13	63	13	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	9	false	The Haunted Kitchen	skullery maid	Baby Sandworm	 | Source essence (3) | bottle of popskull	30	10	13	57	18	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	10	false	The Haunted Kitchen	zombie chef	Baby Sandworm	 | Source essence (2) | hot powder | Camp Scout pup tent | fricasseed brains | stale baguette | bottle of cooking sherry | blue pixel | agua de vida	45	9	24	36	17	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	11	false	The Haunted Kitchen	zombie chef	Rogue Program	 | Source essence (3) | stale baguette | bottle of cooking sherry | zombie hollandaise | Game Grid token	45	8	12	45	9	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	12	false	The Haunted Kitchen	demonic icebox	Pair of Stomping Boots	 | Source essence (3) | ancient frozen dinner | leftovers of indeterminate origin | accidental cider | dire fudgesicle | red pixel	32	7	13	57	17	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	13	true	The Haunted Kitchen	Wooof! Wooooooof!	Pair of Stomping Boots		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+1	13	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	13	false	The Haunted Kitchen	possessed silverware drawer	Pair of Stomping Boots	 | Source essence (3) | Spookyraven billiards room key | corn holder | antique packet of ketchup	0	10	20	70	13	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	14	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	14	false	The Haunted Billiards Room	That's Your Cue	Pair of Stomping Boots	 | pool cue	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	15	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	15	false	The Haunted Billiards Room	Welcome To Our ool Table	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	16	false	The Haunted Billiards Room	Welcome To Our ool Table	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	17	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	17	true	The Spooky Forest	terrible mutant	Pair of Stomping Boots	 | Source essence (2) | glob of undifferentiated tissue | blue pixel	25	5	28	94	34	0			 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	17	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Rogue Program		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	17	true	The Haunted Billiards Room	Lights Out in the Billiards Room	Rogue Program		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	17	false	The Haunted Billiards Room	Welcome To Our ool Table	Rogue Program		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	18	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Rogue Program		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	18	true	The Outskirts of Cobb's Knob	sausage goblin	Rogue Program	 | Source essence (2) | magical sausage casing | green pixel | Game Grid token	162	10	42	87	27	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	18	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Rogue Program		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	18	false	The Haunted Billiards Room	Welcome To Our ool Table	Rogue Program		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	19	false	The Haunted Billiards Room	Welcome To Our ool Table	Rogue Program		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	20	false	The Haunted Billiards Room	chalkdust wraith	Rogue Program	 | psychokinetic energy blob | handful of hand chalk | red pixel | Special Seasoning	10	6	23	57	27	0			 | SUMMON LOVE GNATS | SHOOT GHOST | SHOOT GHOST | SHOOT GHOST | TRAP GHOST	0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Play against the Witchess Pieces	Rogue Program		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Witchess Rook	Rogue Program	 | Source essence | meadeorite | Greek fire	11	10	20	109	35	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Play against the Witchess Pieces	Rogue Program		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Witchess Bishop	Rogue Program	 | Source essence (2) | Sacramento wine	13	9	37	96	32	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Play against the Witchess Pieces	Rogue Program		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Witchess Bishop	Rogue Program	 | Source essence | CSA fire-starting kit | Sacramento wine	12	11	27	116	29	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | UTENSIL TWIST	0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Play against the Witchess Pieces	Rogue Program		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Witchess Bishop	Rogue Program	 | Source essence (2) | Sacramento wine | red pixel | Game Grid token	11	10	44	97	27	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | UTENSIL TWIST	0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Play against the Witchess Pieces	Rogue Program		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Witchess Bishop	Rogue Program	 | Source essence (3) | Sacramento wine	10	9	37	102	37	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | UTENSIL TWIST	0	0	0	0	0	0		
+1	21	false	The Haunted Billiards Room	pooltergeist	Rogue Program	 | Source essence | 1-ball | 6-ball	15	10	22	51	10	0		|Time-Spinner	 | MICROMETEORITE | CURSE OF WEAKSAUCE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	22	false	The Haunted Billiards Room	Welcome To Our ool Table	Rogue Program	 | Spookyraven library key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	23	false	The Haunted Library	banshee librarian	Steam-Powered Cheerleader	 | Source essence (3) | white pixel	0	10	17	49	13	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	24	true	Cook 4 wad of dough + 4 soda water	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	24	false	The Haunted Library	banshee librarian	Steam-Powered Cheerleader	 | Source essence | disintegrating quill pen	0	10	19	48	7	0	 | Strong Spirit (1)	|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	25	false	The Haunted Library	a banshee librarian!	Steam-Powered Cheerleader	 | Source essence (3) | killing jar	0	10	12	32	13	0		|Time-Spinner	 | MACROMETEORITE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0	 | bookbat	
+1	26	false	The Haunted Library	writing desk	Rogue Program	 | snifter of thoroughly aged brandy	0	11	18	51	18	0	 | On the Trail (40)	|Time-Spinner	 | TRANSCENDENT OLFACTION | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	1	0	0		
+1	27	false	The Haunted Library	writing desk	Rogue Program	 | disintegrating quill pen | inkwell | snifter of thoroughly aged brandy | Game Grid token	0	10	17	67	18	0		|Time-Spinner	 | GALLAPAGOSIAN MATING CALL | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	1	0	0		
+1	28	true	The Outskirts of Cobb's Knob	terrible mutant	Rogue Program	 | glob of undifferentiated tissue	25	8	30	102	33	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | CURSE OF WEAKSAUCE | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	28	false	The Haunted Library	writing desk	Rogue Program	 | inkwell | snifter of thoroughly aged brandy | blue pixel	0	10	10	68	18	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	29	true	The Haunted Library	Wooof! Wooooooof!	Rogue Program		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+1	29	false	The Haunted Library	writing desk	Rogue Program	 | CSA scoutmaster's &quot;water&quot; | snifter of thoroughly aged brandy	0	9	18	60	17	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+1	30	false	The Haunted Library	a writing desk!	Rogue Program	 | snifter of thoroughly aged brandy | Lady Spookyraven's necklace	0	3	10	50	9	0			 | MACROMETEORITE | MICROMETEORITE	0	0	0	0	0	0	 | banshee librarian	
+1	31	true	The Outskirts of Cobb's Knob	sausage goblin	Rogue Program	 | magical sausage casing | blue pixel	147	9	35	92	34	0		|Time-Spinner	 | MICROMETEORITE | CURSE OF WEAKSAUCE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	31	false	The Dark Heart of the Woods	G imp	Space Jellyfish	 | hot jelly | hot wing | Imp Ale | stick of firewood	100	11	13	56	22	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT JELLY | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	32	false	The Dark Heart of the Woods	G imp	Space Jellyfish	 | hot wing | Imp Ale | red pixel | Special Seasoning | stick of firewood	106	10	15	62	10	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT JELLY | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	33	false	The Dark Heart of the Woods	P imp	Space Jellyfish	 | hot jelly | hot wing	92	9	15	56	5	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT JELLY | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	34	false	The Dark Heart of the Woods	Fallen Archfiend	Rogue Program	 | infernal insoles | pink slime	154	8	18	53	8	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	35	false	The Dark Heart of the Woods	Moon Over the Dark Heart	Rogue Program	 | hot plate	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	36	false	The Dark Heart of the Woods	G imp	Rogue Program	 | Imp Ale | vitamin G pill	83	8	14	50	19	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | CURSE OF WEAKSAUCE | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	37	true	The Dark Heart of the Woods	Wooof! Wooooooof!	Rogue Program		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+1	37	false	The Dark Heart of the Woods	Running the Lode	Rogue Program		350	-1	0	0	0	0				0	0	0	0	0	0		
+1	38	true	The Dark Heart of the Woods	G imp	Rogue Program	 | hot wing | Imp Ale | red pixel	97	2	13	57	12	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	38	true	The Dark Heart of the Woods	P imp	Rogue Program	 | Imp Ale | white pixel | Game Grid token	96	2	17	40	22	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	38	true	The Dark Heart of the Woods	Fallen Archfiend	Pocket Professor	 | pink slime	136	2	12	48	20	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	38	true	The Dark Heart of the Woods	Fallen Archfiend	Pocket Professor	 | infernal insoles | pink slime	143	2	15	50	15	0			 | SHATTERING PUNCH	0	0	1	0	0	0		
+1	38	false	The Dark Heart of the Woods	I, Martin	Pocket Professor	 | martini	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	39	true	The Dark Heart of the Woods	P imp	Pocket Professor	 | hot wing | Imp Ale | diamond-studded cane	103	2	22	37	19	0			 | SHATTERING PUNCH	0	0	1	0	0	0		
+1	39	true	The Dark Heart of the Woods	P imp	Pocket Professor	 | bag of GORF | hot wing | Imp Ale	101	2	19	48	13	0			 | SHATTERING PUNCH	0	0	1	0	0	0		
+1	39	true	The Dark Heart of the Woods	P imp	Pocket Professor	 | hot wing | Imp Ale | diamond-studded cane | green pixel	98	2	18	47	14	0			 | GINGERBREAD MOB HIT	0	0	1	0	0	0		
+1	39	false	The Dark Heart of the Woods	Fallen Archfiend	Pocket Professor	 | almost-dead walkie-talkie | pink slime | green pixel | stick of firewood	139	9	23	44	14	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	40	false	The Dark Heart of the Woods	Imp Be Nimble, Imp Be Quick	Pocket Professor	 | box of birthday candles	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	41	false	The Dark Neck of the Woods	W imp	Pocket Professor	 | Imp Ale | ruby W | wussiness potion	97	8	20	45	10	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	42	false	The Dark Neck of the Woods	How Do We Do It? Quaint and Curious Volume!	Pocket Professor		250	-1	0	0	0	0				0	0	0	0	0	0		
+1	43	false	The Dark Neck of the Woods	Hellion	Pocket Professor	 | hellion cube	11	9	20	48	14	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	44	false	The Dark Neck of the Woods	P imp	Pocket Professor	 | hot wing | Imp Ale | diamond-studded cane	85	8	14	45	18	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	45	false	The Dark Neck of the Woods	Strike One!	Pocket Professor	 | imp unity ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	46	false	The Dark Neck of the Woods	W imp	Pocket Professor	 | Imp Ale | ruby W | wussiness potion | stick of firewood	86	9	18	41	19	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	47	true	Dr. Gordon Stuart's Science Tent	Eldritch Tentacle named Lblglblrghblrggl	Pocket Professor	 | eldritch effluvium | eldritch effluvium | strange leaflet	14	2	44	92	37	0			 | SAUCESTORM	0	0	0	0	0	0		
+1	47	true	Chateau Painting	Black Crayon Crimbo Elf	Pocket Professor	 | crayon shavings	10	10	28	115	52	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	47	true	The Haunted Bathroom	sausage goblin	Pocket Professor	 | magical sausage casing | white pixel	202	10	29	123	29	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	47	false	The Dark Neck of the Woods	Olive My Love To You, Oh.	Pocket Professor	 | olive | olive	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	48	true	Evoke Eldritch Horror	Sssshhsssblllrrggghsssssggggrrgglsssshhssslblgl	Pocket Professor	 | eldritch effluvium (3)	0	6	0	0	0	0			 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	48	false	The Dark Neck of the Woods	W imp	Pocket Professor	 | Imp Ale | wussiness potion | infernal fife	81	10	22	51	15	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	49	true	The Dark Neck of the Woods	Wooof! Wooooooof!	Pocket Professor		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+1	49	false	The Dark Neck of the Woods	Dodecahedrariffic!	Pocket Professor	 | dodecagram	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	50	false	The Dark Elbow of the Woods	Deep Imp Act	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	51	false	The Dark Elbow of the Woods	G imp	Pocket Professor	 | Imp Ale | leather mask | red pixel	115	8	14	34	17	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	52	false	The Dark Elbow of the Woods	Demoninja	Pocket Professor	 | hot katana blade | ninja hot pants | li'l ninja costume | Special Seasoning	137	9	16	35	15	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The Haunted Conservatory	The ghost of Lord Montague Spookyraven	Pocket Professor	 | psychokinetic energy blob (3)	13	9	9	43	17	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	Boxing Daycare	Visit the Boxing Day Spa	Pocket Professor		0	-1	0	0	0	0	 | Uncucumbered (100)			0	0	0	0	0	0		
+1	53	true	The Neverending Party	N/A	Crimbo Shrub		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	53	true	The Neverending Party	biker	Crimbo Shrub	 | gas can | Middle of the Road&trade; brand whiskey	254	8	110	286	99	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The Neverending Party	&quot;plain&quot; girl	Crimbo Shrub	 | CSA obedience grenade | electronics kit | PB&J with the crusts cut off	210	9	125	269	75	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The Neverending Party	party girl	Crimbo Shrub	 | runproof mascara | very small red dress | surprisingly capacious handbag	243	8	125	283	88	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The Neverending Party	party girl	Crimbo Shrub	 | runproof mascara | very small red dress | noticeable pumps	212	9	98	272	98	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The Neverending Party	burnout	Crimbo Shrub	 | van key | jam band bootleg | denim jacket | ratty knitted cap	124	10	100	276	93	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The Neverending Party	biker	Crimbo Shrub	 | gas can | Middle of the Road&trade; brand whiskey	220	10	108	269	108	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The Neverending Party	biker	Crimbo Shrub	 | Middle of the Road&trade; brand whiskey | pentagram bandana	207	10	108	313	75	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The Neverending Party	A Room With a View...  Of a Bed	Crimbo Shrub		0	-1	0	0	0	0	 | Tomes of Opportunity (20)			0	0	0	0	0	0		
+1	53	true	The Neverending Party	&quot;plain&quot; girl	Crimbo Shrub	 | electronics kit | PB&J with the crusts cut off | ponytail clip	271	10	108	297	100	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The Neverending Party	jock	Crimbo Shrub	 | unremarkable duffel bag | Purple Beast energy drink | shoe ad T-shirt	321	9	130	327	73	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The Deep Machine Tunnels	Interpreter of Logic	Machine Elf		10	10	12	0	0	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The Deep Machine Tunnels	Detector of Brightnesses	Machine Elf		85	10	0	0	0	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The Deep Machine Tunnels	Facilitator of Algorithms	Machine Elf	 | Deep Machine Tunnels snowglobe	14	10	0	0	0	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The Deep Machine Tunnels	Smeller of Sounds	Machine Elf		15	9	6	0	12	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The Deep Machine Tunnels	Believer of Knowledge and Diagrams	Machine Elf	 | white pixel	10	9	0	17	0	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		13	9	22	48	12	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		14	10	18	59	15	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		13	10	18	56	17	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		13	8	15	64	31	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub	 | CSA cheerfulness ration | white pixel	11	10	27	54	15	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		13	9	18	71	17	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub	 | iced plum wine	15	10	23	76	12	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		14	9	24	73	15	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		14	10	29	59	22	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		12	10	33	67	17	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	God Lobster	the God Lobster	God Lobster		0	10	63	170	60	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	53	true	God Lobster	the God Lobster	God Lobster		0	9	58	177	58	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	53	true	God Lobster	the God Lobster	God Lobster		0	9	55	189	58	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+1	53	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	53	false	The Dark Elbow of the Woods	Imp Art, Some Wisdom	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	54	false	The Dark Elbow of the Woods	Demoninja	Fist Turkey	 | hot katana blade | ninja hot pants | demon skin | stick of firewood	294	7	23	47	8	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS	0	0	0	0	0	0		
+1	55	true	Rest in your bed in the Chateau	N/A	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	true	Rest in your bed in the Chateau	N/A	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	true	Smith 1 lump of Brituminous coal + 1 frilly skirt	N/A	Fist Turkey	 | Vicar's Tutu	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	true	Your Witchess Set	Witchess Puzzles	Trick-or-Treating Tot		0	-1	0	0	0	0	 | Puzzle Champ (25) | items.enh (100) | meat.enh (100) | items.enh (100)			0	0	0	0	0	0		
+1	55	true	Wandering 328 minutes down the beach	Comb the Beach (328 minutes down the beach)	Trick-or-Treating Tot	 | driftwood pants	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	true	Wandering 5740 minutes down the beach	Comb the Beach (5740 minutes down the beach)	Trick-or-Treating Tot	 | sand dollar	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	true	Wandering 901 minutes down the beach	Comb the Beach (901 minutes down the beach)	Trick-or-Treating Tot	 | dull fish scale	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	true	Wandering 182 minutes down the beach	Comb the Beach (182 minutes down the beach)	Trick-or-Treating Tot	 | sand dollar	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	true	Wandering 1320 minutes down the beach	Comb the Beach (1320 minutes down the beach)	Trick-or-Treating Tot	 | dull fish scale	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	true	Wandering 8373 minutes down the beach	Comb the Beach (8373 minutes down the beach)	Trick-or-Treating Tot	 | dull fish scale	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	true	Wandering 6893 minutes down the beach	Comb the Beach (6893 minutes down the beach)	Trick-or-Treating Tot	 | sand dollar	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	true	Wandering 5758 minutes down the beach	Comb the Beach (5758 minutes down the beach)	Trick-or-Treating Tot	 | cyan seashell	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	true	Wandering 1564 minutes down the beach	Comb the Beach (1564 minutes down the beach)	Trick-or-Treating Tot	 | dull fish scale	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	true	Wandering 5251 minutes down the beach	Comb the Beach (5251 minutes down the beach)	Trick-or-Treating Tot	 | dull fish scale	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	true	Deck of Every Card	Island	Trick-or-Treating Tot	 | blue mana	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	true	The Dark Elbow of the Woods	L imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	55	false	The Dark Elbow of the Woods	A Secret, But Not the Secret You're Looking For	Pair of Stomping Boots	 | bottle of whiskey | bottle of tequila | bottle of vodka	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	56	true	The Dark Elbow of the Woods	Demoninja	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	56	true	The Dark Elbow of the Woods	L imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	56	false	The Dark Elbow of the Woods	Butter Knife?  I'll Take the Knife	Pair of Stomping Boots	 | eldritch butterknife	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	57	true	Friar Ceremony Location	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	57	false	Guano Junction	How I Wonder What You're At	Pair of Stomping Boots	 | sonar-in-a-biscuit | sonar-in-a-biscuit	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	58	true	The Beanbat Chamber	magical fruit bat	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	58	true	Cook 6 wad of dough + 6 soda water	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	58	true	The Beanbat Chamber	a beanbat!	Pair of Stomping Boots	 | thanksgiving turkey | enchanted bean | sonar-in-a-biscuit	155	6	5	31	3	0			 | MACROMETEORITE | MACROMETEORITE | MACROMETEORITE | MACROMETEORITE | ASDON MARTIN: MISSILE LAUNCHER	0	0	0	0	0	0	 | musical fruit bat | a magical fruit bat! | a musical fruit bat! | a magical fruit bat!	
+1	58	true	The Penultimate Fantasy Airship	The Beginning of the End of the Penultimate Fantasy	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	58	true	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	58	true	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	58	true	The Penultimate Fantasy Airship	Burly Sidekick	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	58	false	The Penultimate Fantasy Airship	Random Lack of an Encounter	Pair of Stomping Boots	 | model airship	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	59	true	Boxing Daycare	Have a Boxing Daydream	Trick-or-Treating Tot	 | body spradium	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	59	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | Source essence (3) | red-hot sausage fork | magical sausage casing	264	4	80	208	84	0			 | LECTURE ON RELATIVITY | EXTRACT	0	0	0	0	0	1		
+2	59	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | Source essence (2) | magical sausage casing	248	4	79	223	80	0			 | LECTURE ON RELATIVITY | EXTRACT	0	0	0	0	0	1		
+2	59	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | Source essence | bag of GORP | magical sausage casing	206	4	79	237	69	0			 | LECTURE ON RELATIVITY | EXTRACT	0	0	0	0	0	1		
+2	59	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | Source essence (2) | meteoreo | red-hot sausage fork | magical sausage casing	259	4	87	221	74	0			 | LECTURE ON RELATIVITY | EXTRACT	0	0	0	0	0	1		
+2	59	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | Source essence (3) | magical sausage casing	238	4	73	249	72	0			 | LECTURE ON RELATIVITY | EXTRACT	0	0	0	0	0	1		
+2	59	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | Source essence (2) | magical sausage casing	276	4	77	232	82	0			 | LECTURE ON RELATIVITY | EXTRACT	0	0	0	0	0	1		
+2	59	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | Source essence (2) | magical sausage casing	262	4	99	208	82	0			 | LECTURE ON RELATIVITY | EXTRACT	0	0	0	0	0	1		
+2	59	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | Source essence | water purification pills | magical sausage casing	234	4	78	263	69	0			 | LECTURE ON RELATIVITY | EXTRACT	0	0	0	0	0	1		
+2	59	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | Source essence (2) | red-hot sausage fork | magical sausage casing	224	4	85	238	80	0			 | LECTURE ON RELATIVITY | EXTRACT	0	0	0	0	0	1		
+2	59	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | Source essence | magical sausage casing	224	3	115	204	85	0			 | EXTRACT	0	0	0	0	0	0		
+2	59	true	Chateau Painting	Black Crayon Crimbo Elf	Reanimated Reanimator	 | Source essence | crayon shavings	0	10	120	272	87	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM | SAUCESTORM	0	0	0	0	0	0		
+2	59	true	Boxing Daycare	Enter the Boxing Daycare	Reanimated Reanimator		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	59	true	Deck of Every Card	1952 Mickey Mantle	Reanimated Reanimator	 | 1952 Mickey Mantle card	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	59	true	Deck of Every Card	Sheep	Reanimated Reanimator		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	59	true	Deck of Every Card	XVI - The Tower	Reanimated Reanimator	 | Sneaky Pete's key	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	59	true	Cook 14 wad of dough + 14 soda water	N/A	Reanimated Reanimator		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	59	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	59	true	The Tunnel of L.O.V.E.	LOV Enforcer	Baby Sandworm	 | Source essence (3) | Meteorite-Ade | red pixel	0	12	154	395	150	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SAUCESTORM | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	59	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	59	true	The Tunnel of L.O.V.E.	LOV Engineer	Baby Sandworm	 | LOV Epaulettes | Source essence (3) | blue pixel	0	17	148	438	138	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SAUCESTORM | SUMMON LOVE STINKBUG | SAUCESTORM | SAUCESTORM | SAUCESTORM | SAUCESTORM | SAUCESTORM | SAUCESTORM	0	0	0	0	0	0		
+2	59	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	59	true	The Tunnel of L.O.V.E.	LOV Equivocator	Baby Sandworm	 | Source essence	0	12	132	446	161	0	 | Wandering Eye Surgery (50)	|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM | SAUCESTORM	0	0	0	0	0	0		
+2	59	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	Baby Sandworm	 | LOV Enamorang	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	59	true	Your Witchess Set	Play against the Witchess Pieces	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	59	true	Your Witchess Set	Witchess Knight	Baby Sandworm	 | Source essence | Camp Scout pup tent | jumping horseradish | agua de vida	0	10	43	165	35	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	59	true	Your Witchess Set	Play against the Witchess Pieces	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	59	true	Your Witchess Set	Witchess Bishop	Rogue Program	 | Sacramento wine	0	10	63	197	53	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	59	true	Your Witchess Set	Play against the Witchess Pieces	Rogue Program		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	59	true	Your Witchess Set	Witchess Bishop	Rogue Program	 | Sacramento wine	0	9	52	219	52	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	59	true	Your Witchess Set	Play against the Witchess Pieces	Rogue Program		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	59	true	Your Witchess Set	Witchess Bishop	Rogue Program	 | Sacramento wine	0	9	59	184	67	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	59	true	Your Witchess Set	Play against the Witchess Pieces	Rogue Program		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	59	true	Your Witchess Set	Witchess Bishop	Rogue Program	 | Sacramento wine	0	10	69	192	49	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	59	true	Dr. Gordon Stuart's Science Tent	Eldritch Tentacle named Shhhhhblllrrggghshhhhhsssss	Rogue Program	 | eldritch effluvium | eldritch effluvium | eldritch effluvium | red pixel	0	5	49	145	38	0			 | CURSE OF WEAKSAUCE | SAUCESTORM | SAUCESTORM | SAUCESTORM	0	0	0	0	0	0		
+2	59	true	Evoke Eldritch Horror	Eldritch Tentacle named Sssshhsssshhhhhbrghbrgh	Rogue Program	 | meteoreo | eldritch effluvium | eldritch effluvium | Game Grid token	0	5	38	153	44	0			 | CURSE OF WEAKSAUCE | SAUCESTORM | SAUCESTORM | SAUCESTORM	0	0	0	0	0	0		
+2	59	false	The Deep Machine Tunnels	Tan Forwards In Time	Machine Elf	 | abstraction: purpose | abstraction: category | abstraction: action | abstraction: perception | abstraction: category | abstraction: certainty	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	60	false	numberology 51	War Frat 151st Infantryman	Pair of Stomping Boots	 | orc paste	0	2	0	2	6	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+2	61	true	The Boss Bat's Lair	slime blob	Bloovian Groose	 | green slime glob | orange slime glob | blue pixel	0	8	82	322	94	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	61	false	The Laugh Floor	Carbuncle Top	Steam-Powered Cheerleader	 | hilarious comedy prop | Special Seasoning	0	9	12	78	20	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	62	true	Cook 6 wad of dough + 6 soda water	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	62	false	The Laugh Floor	Victor the Insult Comic Hellhound	Steam-Powered Cheerleader	 | CSA fire-starting kit | Victor, the Insult Comic Hellhound Puppet	0	9	24	55	18	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	63	false	The Laugh Floor	CH Imp	Steam-Powered Cheerleader	 | imp air	132	10	13	57	25	0		|Time-Spinner	 | GALLAPAGOSIAN MATING CALL | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	1	0	0		
+2	64	false	numberology 51	War Frat 151st Infantryman	Fist Turkey	 | distressed denim pants | beer helmet | bejeweled pledge pin | bottle opener belt buckle | perforated battle paddle | keg shield | beer bomb | flask flops	0	2	23	94	30	0	 | Everything Looks Yellow (100)		 | DISINTEGRATE	0	0	0	0	0	0		
+2	65	false	The Laugh Floor	Pr Imp	Steam-Powered Cheerleader	 | imp air	261	8	17	50	27	0	 | Resilient Spirit (1)	|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	66	true	numberology 69	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	3				0	0	0	0	0	0		
+2	66	true	The Boss Bat's Lair	sausage goblin	Bloovian Groose	 | magical sausage casing	387	10	80	355	87	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	66	false	The Laugh Floor	Pr Imp	Steam-Powered Cheerleader	 | imp air	222	8	13	57	25	0	 | Cool Spirit (1)	|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	67	false	The Laugh Floor	BL Imp	Steam-Powered Cheerleader	 | imp air	141	8	27	53	22	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	68	true	The Laugh Floor	Wooof! Wooooooof!	Steam-Powered Cheerleader		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	68	false	The Laugh Floor	Larry of the Field of Signs	Steam-Powered Cheerleader	 | observational glasses	0	8	14	63	23	0	 | Frisky Spirit (1)	|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	69	true	numberology 69	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	3				0	0	0	0	0	0		
+2	69	false	The Laugh Floor	BL Imp	Steam-Powered Cheerleader	 | imp air | blue pixel	174	8	21	65	25	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	70	false	Infernal Rackets Backstage	serialbus	Steam-Powered Cheerleader	 | bus pass	145	11	24	53	20	0	 | On the Trail (40)	|Time-Spinner	 | TRANSCENDENT OLFACTION | GALLAPAGOSIAN MATING CALL | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	2	0	0		
+2	71	true	Cook 6 wad of dough + 6 soda water	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	71	false	The Outskirts of Cobb's Knob	sleeping Knob Goblin Guard	Fist Turkey	 | viking helmet | Knob Goblin scimitar | Ambitious Turkey	22	4	17	51	12	0			 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO	0	0	0	0	0	0		
+2	72	true	Cook 6 wad of dough + 6 soda water	N/A	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	72	true	Cook 1 wad of dough + 1 soda water	N/A	Fist Turkey	 | loaf of soda bread	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	72	true	The Boss Bat's Lair	slime blob	Bloovian Groose	 | green slime glob | orange slime glob | groose grease	0	8	84	324	97	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	72	false	The Outskirts of Cobb's Knob	Sub-Assistant Knob Mad Scientist	Fist Turkey	 | CSA scoutmaster's &quot;water&quot; | Knob Goblin pants | strongness elixir | Knob Goblin firecracker | Special Seasoning	571	7	14	63	19	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS	0	0	0	0	0	0		
+2	73	false	The Outskirts of Cobb's Knob	Knob Goblin Assistant Chef	Fist Turkey	 | Knob Goblin pants | chef's hat	34	4	24	53	19	0			 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO	0	0	0	0	0	0		
+2	74	false	The Outskirts of Cobb's Knob	Lunchboxing	Fist Turkey	 | Knob Goblin lunchbox	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	75	false	The Outskirts of Cobb's Knob	Knob Goblin Barbecue Team	Fist Turkey	 | bowl of cottage cheese | Knob Goblin tongs | Knob Goblin pants | blue pixel	618	5	17	49	22	0			 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+2	76	true	The Boss Bat's Lair	sausage goblin	Bloovian Groose	 | magical sausage casing	393	9	103	291	112	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	76	false	The Outskirts of Cobb's Knob	Sub-Assistant Knob Mad Scientist	Fist Turkey	 | bone with a price tag on it | strongness elixir | Knob Goblin firecracker	279	8	9	48	30	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+2	77	false	The Outskirts of Cobb's Knob	Knob Goblin Assistant Chef	Fist Turkey	 | chef's hat	26	4	17	51	19	0			 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO	0	0	0	0	0	0		
+2	78	true	The Outskirts of Cobb's Knob	Wooof! Wooooooof!	Fist Turkey		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	78	false	The Outskirts of Cobb's Knob	Code Red	Fist Turkey	 | Knob Goblin encryption key	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	79	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	79	false	Infernal Rackets Backstage	Primo Donno	Steam-Powered Cheerleader	 | giant marshmallow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	80	true	Cook 4 wad of dough + 4 soda water	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	80	false	Infernal Rackets Backstage	serialbus	Steam-Powered Cheerleader	 | bus pass	139	9	23	48	24	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	81	false	Infernal Rackets Backstage	serialbus	Steam-Powered Cheerleader	 | bus pass	153	9	24	42	18	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	82	false	Infernal Rackets Backstage	A Dicey Situation	Steam-Powered Cheerleader	 | gin-soaked blotter paper	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	83	true	The Haunted Bathroom	slime blob	Fist Turkey	 | green slime glob | orange slime glob | Ambitious Turkey	15	9	93	261	92	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	83	false	Infernal Rackets Backstage	Suckubus? You Hardly Know Us!	Steam-Powered Cheerleader	 | beer-scented teddy bear	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	84	false	Infernal Rackets Backstage	serialbus	Steam-Powered Cheerleader	 | bus pass	164	9	23	46	20	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	85	false	Infernal Rackets Backstage	inkubus	Steam-Powered Cheerleader		280	9	20	45	20	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	86	false	Infernal Rackets Backstage	A Pertinent Imp	Steam-Powered Cheerleader	 | comfy pillow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	87	true	Infernal Rackets Backstage	Wooof! Wooooooof!	Steam-Powered Cheerleader		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	87	false	Infernal Rackets Backstage	Entour Rage	Steam-Powered Cheerleader	 | booze-soaked cherry	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	88	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	88	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	88	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	88	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	88	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	88	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	88	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	88	false	Infernal Rackets Backstage	serialbus	Steam-Powered Cheerleader	 | bus pass | white pixel	152	8	19	59	25	0	 | Fiery Spirit (1)	|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	89	TRUE	CONSUME: chew 1 steel-scented air freshener	N/A	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	89	true	The Haunted Bathroom	sausage goblin	Fist Turkey	 | magical sausage casing	298	8	74	293	114	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SAUCESTORM	0	0	0	0	0	0		
+2	89	false	The Boss Bat's Lair	a tumbleweed!	Bloovian Groose		12	5	5	48	5	0			 | MACROMETEORITE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0	 | beefy bodyguard bat	
+2	90	false	The Boss Bat's Lair	a tumbleweed!	Bloovian Groose	 | bag of GORF | green pixel | Special Seasoning	12	5	12	34	10	0			 | MACROMETEORITE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0	 | beefy bodyguard bat	
+2	91	true	The Overgrown Lot	Drawing Lots	Rogue Program		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	91	false	The Overgrown Lot	sewer snake with a sewer snake in it	Rogue Program	 | fraudwort | carton of snake milk | carton of snake milk | sewer snake	35	8	13	46	18	0		|Time-Spinner	 | GULP LATTE | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS	0	0	0	0	0	0		
+2	92	false	The Overgrown Lot	malt liquor golem	Rogue Program	 | premium malt liquor | premium malt liquor | brown paper pants | brown paper bag mask | green pixel | Game Grid token	12	7	17	48	13	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS	0	0	0	0	0	0		
+2	93	false	The Overgrown Lot	malt liquor golem	Rogue Program	 | swindleblossom | premium malt liquor | premium malt liquor | brown paper pants | brown paper bag mask	14	8	12	55	19	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	94	false	The Overgrown Lot	dire pigeon	Rogue Program	 | pigeon egg | jaunty feather | Game Grid token	41	6	17	54	15	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+2	95	false	The Overgrown Lot	cooler wino	Rogue Program	 | shysterweed | mostly-broken sunglasses | unflavored wine cooler | unflavored wine cooler	15	5	12	53	15	0			 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+2	96	false	The Overgrown Lot	Lots of Options	Rogue Program	 | shysterweed | fraudwort	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	97	true	The Overgrown Lot	Boooooze Hound	Rogue Program	 | bottle of vodka | bottle of whiskey | bottle of vodka | unflavored wine cooler | bottle of vodka	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	97	false	The Overgrown Lot	malt liquor golem	Rogue Program	 | fraudwort | premium malt liquor | premium malt liquor | brown paper pants | brown paper bag mask | red pixel	13	8	10	49	18	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	98	false	The Overgrown Lot	sewer snake with a sewer snake in it	Rogue Program	 | shysterweed | carton of snake milk | carton of snake milk | sewer snake	33	7	12	60	9	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS	0	0	0	0	0	0		
+2	99	false	The Overgrown Lot	malt liquor golem	Rogue Program	 | swindleblossom | premium malt liquor | premium malt liquor | brown paper pants | brown paper bag mask	13	8	8	53	17	0		|Time-Spinner	 | MICROMETEORITE | COWBOY KICK | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	100	false	The Boss Bat's Lair	The Boss Bat	Bloovian Groose	 | dense meat stack | batskin belt | Boss Bat britches	11	8	19	51	15	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	101	false	The Spooky Forest	Consciousness of a Stream	Rogue Program	 | mosquito larva	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	102	false	The Spooky Forest	spooky vampire	Rogue Program	 | Game Grid token	34	4	8	33	10	0			 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+2	103	false	The Spooky Forest	bar	Rogue Program	 | bar skin | Special Seasoning	89	7	17	33	8	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+2	104	true	Madness Bakery	the ghost of Monsieur Baguelle	Rogue Program	 | psychokinetic energy blob (5) | smoldering bagel punch	11	6	18	48	21	0			 | SUMMON LOVE GNATS | SHOOT GHOST | SHOOT GHOST | SHOOT GHOST | TRAP GHOST	0	0	0	0	0	0		
+2	104	false	The Spooky Forest	triffid	Rogue Program	 | moxie weed | spooky stick	14	3	8	35	10	0			 | MICROMETEORITE | SUMMON LOVE MOSQUITO	0	0	0	0	0	0		
+2	105	true	The Haunted Bathroom	sausage goblin	Rogue Program	 | magical sausage casing | red pixel	310	7	105	221	99	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SAUCESTORM	0	0	0	0	0	0		
+2	105	false	The Spooky Forest	wolfman	Rogue Program		55	7	8	27	12	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+2	106	false	The Spooky Forest	bar	Rogue Program	 | CSA obedience grenade | bar skin | Game Grid token	72	5	7	28	10	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+2	107	true	The Spooky Forest	Wooof! Wooooooof!	Pocket Professor		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	107	false	The Spooky Forest	Consciousness of a Stream	Pocket Professor	 | tree-holed coin	300	-1	0	0	0	0				0	0	0	0	0	0		
+2	108	false	The Spooky Forest	Through Thicket and Thinnet	Pocket Professor	 | Spooky-Gro fertilizer	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	109	false	The Spooky Forest	O Lith, Mon	Pocket Professor	 | Spooky Temple map	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	110	false	The Spooky Forest	Tree's Last Stand	Pocket Professor	 | spooky sapling	150	-1	0	0	0	0				0	0	0	0	0	0		
+2	111	false	Cobb's Knob Harem	Knob Goblin Madam	Steam-Powered Cheerleader	 | Knob Goblin perfume | whalebone corset | red pixel	12	8	2	36	19	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	112	true	Cook 6 wad of dough + 6 soda water	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	112	true	Cobb's Knob Harem	Knob Goblin Harem Girl	Steam-Powered Cheerleader	 | Knob Goblin harem pants | Knob Goblin harem veil | harem girl t-shirt | disease | finger cymbals | blue pixel	13	2	7	41	13	0	 | Frisky Spirit (1)		 | ASDON MARTIN: MISSILE LAUNCHER	0	0	0	0	0	0		
+2	112	true	Cook 8 wad of dough + 8 soda water	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	112	true	Cook 1 wad of dough + 1 soda water	N/A	Steam-Powered Cheerleader	 | loaf of soda bread	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	112	false	Throne Room	The Knob Goblin King	Pocket Professor	 | dense meat stack (2) | Crown of the Goblin King | Cobb's Knob lab key | blue pixel	14	8	24	81	23	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	113	false	The Shore, Inc. Travel Agency	N/A	Pocket Professor	 | Shore Inc. Ship Trip Scrip	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	116	false	The Shore, Inc. Travel Agency	N/A	Pocket Professor	 | Shore Inc. Ship Trip Scrip	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	119	false	The Shore, Inc. Travel Agency	N/A	Pocket Professor	 | Shore Inc. Ship Trip Scrip	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	122	true	Wartime Hippy Camp	War Hippy drill sergeant	Steam-Powered Cheerleader	 | bullet-proof corduroys	14	2	17	57	19	0			 | CHEST X-RAY	0	0	1	0	0	0		
+2	122	true	Wartime Hippy Camp	War Hippy (space) cadet	Steam-Powered Cheerleader	 | white pixel	15	2	24	50	24	0	 | Wise Spirit (1)		 | CHEST X-RAY	0	0	1	0	0	0		
+2	122	true	Wartime Hippy Camp	War Hippy (space) cadet	Steam-Powered Cheerleader	 | round purple sunglasses | bullet-proof corduroys	11	2	18	53	19	0			 | CHEST X-RAY	0	0	1	0	0	0		
+2	122	true	Wartime Hippy Camp	War Hippy drill sergeant	Steam-Powered Cheerleader		15	2	30	46	17	0			 | SHATTERING PUNCH	0	0	1	0	0	0		
+2	122	true	Wartime Hippy Camp	War Hippy drill sergeant	Steam-Powered Cheerleader	 | round purple sunglasses | white pixel	11	2	17	61	17	0			 | SHATTERING PUNCH	0	0	1	0	0	0		
+2	122	true	Wartime Hippy Camp	War Hippy (space) cadet	Steam-Powered Cheerleader		10	2	24	49	20	0			 | SHATTERING PUNCH	0	0	1	0	0	0		
+2	122	true	Wartime Hippy Camp	War Hippy (space) cadet	Steam-Powered Cheerleader	 | round purple sunglasses | bullet-proof corduroys	15	2	18	45	28	0			 | GINGERBREAD MOB HIT	0	0	1	0	0	0		
+2	122	false	Wartime Hippy Camp	War Hippy drill sergeant	Steam-Powered Cheerleader	 | bullet-proof corduroys | green pixel	12	8	12	52	32	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	123	false	Wartime Hippy Camp	War Hippy drill sergeant	Steam-Powered Cheerleader	 | round purple sunglasses | bullet-proof corduroys	11	7	22	45	34	0	 | Wise Spirit (1)	|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	124	true	The Haunted Bathroom	sausage goblin	Pocket Professor	 | magical sausage casing	252	7	93	226	92	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SAUCESTORM	0	0	0	0	0	0		
+2	124	false	Wartime Hippy Camp	Blockin' Out the Scenery	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	125	true	The Haunted Bedroom	animated mahogany nightstand	Pocket Professor		0	3	0	0	0	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	125	true	The Haunted Bedroom	animated rustic nightstand	Pocket Professor		0	3	0	0	0	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	125	true	Cook 9 wad of dough + 9 soda water	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	125	false	The Haunted Bedroom	One Ornate Nightstand	Pocket Professor	 | green pixel | Lord Spookyraven's spectacles	14	8	17	34	14	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	126	true	The Haunted Bedroom	Wardr&ouml;b nightstand	Pocket Professor		0	3	0	0	0	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | REFLEX HAMMER	1	1	0	0	0	0		
+2	126	false	The Haunted Bedroom	One Ornate Nightstand	Pocket Professor	 | disposable instant camera	13	8	10	46	9	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	127	false	The Haunted Bedroom	One Ornate Nightstand	Pocket Professor		12	8	7	45	19	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	128	true	The Haunted Bedroom	Lights Out in the Bedroom	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	128	false	The Haunted Bedroom	One Elegant Nightstand	Pocket Professor	 | white pixel | Special Seasoning | Lady Spookyraven's finest gown	10	8	13	41	16	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	129	true	The Haunted Gallery	Out in the Garden	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	129	false	The Haunted Gallery	empty suit of armor	Pocket Professor	 | CSA cheerfulness ration | antique spear	14	10	12	40	29	0		|rock band flyers|Time-Spinner	 | GULP LATTE | SUMMON LOVE GNATS | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | PORTSCAN | SAUCESTORM	0	0	0	0	0	0		
+2	130	false	The Haunted Gallery	Government agent	Fist Turkey	 | government cheese | government-issue identification badge	270	7	108	215	85	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+2	131	false	The Haunted Gallery	cubist bull	Pocket Professor	 | broken sword | white pixel	298	9	7	42	17	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | PORTSCAN | SAUCESTORM	0	0	0	0	0	0		
+2	132	false	The Haunted Gallery	Government agent	Pocket Professor	 | government cheese | government-issue identification badge	251	10	94	230	88	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | PORTSCAN | SAUCESTORM	0	0	0	0	0	0		
+2	133	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	133	false	The Haunted Gallery	Government agent	Pocket Professor	 | burned government manual fragment | government cheese | government-issue identification badge	274	9	116	211	85	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	134	false	The Haunted Gallery	Louvre It or Leave It (The Persistence of Memory)	Pocket Professor	 | Lady Spookyraven's dancing shoes	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	135	true	Boxing Daycare	Visit the Boxing Day Spa	Pocket Professor		0	-1	0	0	0	0	 | Uncucumbered (100)			0	0	0	0	0	0		
+2	135	true	The Neverending Party	N/A	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	135	true	The Neverending Party	party girl	Red-Nosed Snapper	 | runproof mascara | very small red dress | noticeable pumps | surprisingly capacious handbag	327	9	170	430	213	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	135	true	The Neverending Party	&quot;plain&quot; girl	Red-Nosed Snapper	 | electronics kit | PB&J with the crusts cut off | dorky glasses | ponytail clip | red pixel	405	9	170	473	165	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	135	true	The Neverending Party	burnout	Red-Nosed Snapper	 | spices | van key | jam band bootleg | denim jacket | ratty knitted cap	167	9	180	404	235	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	135	true	The Neverending Party	biker	Red-Nosed Snapper	 | spices | gas can | Middle of the Road&trade; brand whiskey | pentagram bandana	377	9	213	454	170	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	135	true	The Neverending Party	&quot;plain&quot; girl	Red-Nosed Snapper	 | spices | electronics kit | PB&J with the crusts cut off | ponytail clip	351	9	188	443	193	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	135	true	The Neverending Party	A Room With a View...  Of a Bed	Red-Nosed Snapper		0	-1	0	0	0	0	 | Tomes of Opportunity (20)			0	0	0	0	0	0		
+2	135	true	The Neverending Party	jock	Red-Nosed Snapper	 | spices | unremarkable duffel bag | Purple Beast energy drink | green pixel	493	9	220	496	188	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	135	true	The Neverending Party	burnout	Red-Nosed Snapper	 | spices | van key | jam band bootleg | green pixel	156	9	208	531	174	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	135	true	The Neverending Party	party girl	Red-Nosed Snapper	 | spices | runproof mascara | very small red dress | green pixel	316	9	205	534	188	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	135	true	The Neverending Party	burnout	Red-Nosed Snapper	 | spices | van key | jam band bootleg	186	9	191	512	223	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	135	true	The Deep Machine Tunnels	Arbiter of Significance and Patterns	Machine Elf	 | abstraction: joy	14	10	6	0	15	0		|abstraction: action|seal tooth|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	135	true	The Deep Machine Tunnels	Measurer of Processes and Intentions	Machine Elf	 | green pixel	12	9	15	0	0	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	135	true	The Deep Machine Tunnels	Determiner of Diagrams	Machine Elf		15	9	0	19	0	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	135	true	The Deep Machine Tunnels	Perceiver of Smells	Machine Elf		14	9	0	20	0	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	135	true	The Deep Machine Tunnels	Determiner of Knowledge	Machine Elf		13	9	0	0	16	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	135	TRUE	CONSUME: chew 1 orc paste	N/A	Crimbo Shrub		0	-1	0	0	0	5	 | Fratty Flavor (10)			0	0	0	0	0	0		
+2	135	TRUE	CONSUME: chew 1 agua de vida	N/A	Crimbo Shrub	 | empty agua de vida bottle	0	-1	0	0	0	8				0	0	0	0	0	0		
+2	135	TRUE	CONSUME: chew 1 agua de vida	N/A	Crimbo Shrub	 | empty agua de vida bottle	0	-1	0	0	0	7				0	0	0	0	0	0		
+2	135	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		0	7	0	0	0	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	135	false	The Overgrown Lot	cooler wino	Pocket Professor	 | CSA discount card | mostly-broken sunglasses | unflavored wine cooler | unflavored wine cooler | handful of stubble | green pixel	13	8	13	36	7	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	136	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	136	false	The Overgrown Lot	Lots of Options	Pocket Professor	 | swindleblossom	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	137	false	The Haunted Bathroom	cosmetics wraith	Pocket Professor	 | Lady Spookyraven's powder puff | old eyebrow pencil | old rosewater cream | old bronzer	14	7	18	59	15	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SAUCESTORM	0	0	0	0	0	0		
+2	138	false	The Haunted Ballroom	Having a Ball in the Ballroom	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	139	true	Combing the Beach	N/A	Pocket Professor		0	-1	0	0	0	0	 | Hot-Headed (50)			0	0	0	0	0	0		
+2	139	true	Combing the Beach	N/A	Pocket Professor		0	-1	0	0	0	0	 | Cold as Nice (50)			0	0	0	0	0	0		
+2	139	true	Combing the Beach	N/A	Pocket Professor		0	-1	0	0	0	0	 | A Brush with Grossness (50)			0	0	0	0	0	0		
+2	139	true	Combing the Beach	N/A	Pocket Professor		0	-1	0	0	0	0	 | Oiled, Slick (50)			0	0	0	0	0	0		
+2	139	false	The Tavern Cellar	drunken rat king	Pocket Professor	 | rat whisker | rat whisker | rat whisker | rat whisker | rat appendix | rat appendix | rat appendix | tangle of rat tails | white pixel	117	4	25	69	22	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	140	true	Cook 6 wad of dough + 6 soda water	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	140	true	Combing the Beach	N/A	Pocket Professor		0	-1	0	0	0	0	 | Does It Have a Skull In There?? (50)			0	0	0	0	0	0		
+2	140	false	The Tavern Cellar	drunken rat king	Pocket Professor	 | rat whisker | rat whisker | rat whisker | rat appendix | rat appendix | rat appendix | tangle of rat tails	114	4	27	80	15	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	141	true	The Tavern Cellar	1984 Had Nothing on This Cellar	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	141	false	The Tavern Cellar	drunken rat king	Pocket Professor	 | rat whisker | rat whisker | rat whisker | rat appendix | rat appendix | rat appendix | tangle of rat tails	112	4	27	72	22	0		|rock band flyers|Time-Spinner	 | SUMMON LOVE GNATS | SAUCESTORM	0	0	0	0	0	0		
+2	142	false	The Tavern Cellar	Those Who Came Before You	Pocket Professor	 | glittery mascara | shiny ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	143	true	The Tavern Cellar	A Rat's Home...	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	143	true	Cook 6 wad of dough + 6 soda water	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	143	true	The Tavern Cellar	1984 Had Nothing on This Cellar	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	143	true	Cook 6 wad of dough + 6 soda water	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	143	true	The Tavern Cellar	A Rat's Home...	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	143	true	Cook 7 wad of dough + 7 soda water	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	143	false	The Tavern Cellar	drunken rat king	Pocket Professor	 | rat whisker | rat whisker | rat whisker | rat appendix | rat appendix | rat appendix | tangle of rat tails | Special Seasoning	135	7	7	39	19	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | UTENSIL TWIST	0	0	0	0	0	0		
+2	144	true	Cook 6 wad of dough + 6 soda water	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	144	false	The Tavern Cellar	Of Course!	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	145	true	Cook 6 wad of dough + 6 soda water	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	145	true	The Goatlet	sabre-toothed goat	Steam-Powered Cheerleader		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	145	true	Combing the Beach	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0	 | Resting Beach Face (50)			0	0	0	0	0	0		
+2	145	false	The Defiled Alcove	modern zmobie	Cute Meteor		0	2	0	0	0	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	146	true	The Goatlet	drunk goat	Steam-Powered Cheerleader		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	146	false	The Defiled Alcove	modern zmobie	Cute Meteor		139	2	23	66	13	0			 | GULP LATTE	0	0	0	0	0	0		
+2	147	true	The Haunted Ballroom	sausage goblin	Pocket Professor	 | magical sausage casing	215	9	110	273	124	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	147	true	Cook 4 wad of dough + 4 soda water	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	147	false	The Goatlet	dairy goat	Steam-Powered Cheerleader	 | goat cheese | glass of goat's milk | Shivering Ch&egrave;vre | goat cheese | glass of goat's milk	155	11	22	55	20	0	 | On the Trail (40)	|Time-Spinner|exploding cigar|exploding cigar	 | TRANSCENDENT OLFACTION | GALLAPAGOSIAN MATING CALL | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | DUPLICATE	0	0	0	2	0	0		
+2	148	false	The Defiled Alcove	modern zmobie	Cute Meteor	 | wriggling worm	203	2	17	53	18	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	149	false	The Defiled Alcove	modern zmobie	Cute Meteor	 | wriggling worm	182	2	23	45	22	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	150	false	The Defiled Alcove	modern zmobie	Cute Meteor		0	2	0	0	0	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	151	true	The Defiled Alcove	Wooof! Wooooooof!	Cute Meteor		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	151	false	The Defiled Alcove	conjoined zmombie	Cute Meteor	 | loose teeth | cranberries | cranberries	740	3	30	81	34	0			 | MICROMETEORITE | SUMMON LOVE MOSQUITO	0	0	0	0	0	0		
+2	152	false	The Defiled Nook	toothy sklelton	Steam-Powered Cheerleader	 | loose teeth | loose teeth | skeleton bone | bone flute | evil eye	11	8	15	58	17	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	153	false	The Defiled Nook	spiny skelelton	Steam-Powered Cheerleader	 | skeleton bone | smart skull | spiked femur | evil eye | skelelton spine | succulent marrow	10	8	15	52	19	0	 | Wise Spirit (1)	|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	154	false	The Defiled Nook	spiny skelelton	Steam-Powered Cheerleader	 | skeleton bone | smart skull | spiked femur | evil eye | skelelton spine | succulent marrow	13	8	17	53	17	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	155	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		15	8	33	40	14	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	155	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		13	8	33	38	12	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	155	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub	 | iced plum wine	10	8	22	48	18	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	155	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub	 | green pixel	11	8	23	54	17	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	155	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub	 | CSA bravery badge | blue pixel	12	8	20	53	19	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	155	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub	 | blue pixel	10	8	33	53	17	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	155	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		12	8	36	60	13	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	155	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		15	8	28	54	19	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	155	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		13	8	25	60	18	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	155	true	God Lobster	the God Lobster	God Lobster		0	8	109	254	102	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	155	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	155	true	God Lobster	the God Lobster	God Lobster		0	8	105	250	114	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	155	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	155	true	God Lobster	the God Lobster	God Lobster		0	8	117	244	121	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	155	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	155	false	The Defiled Nook	toothy sklelton	Steam-Powered Cheerleader	 | loose teeth | loose teeth | skeleton bone | bone flute | evil eye | Special Seasoning	12	7	12	38	24	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+2	156	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	156	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	156	true	Cook 1 scrumptious reagent + 1 cranberries	N/A	Trick-or-Treating Tot	 | cranberry cordial	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	156	true	Cook 1 scrumptious reagent + 1 cranberries	N/A	Trick-or-Treating Tot	 | cranberry cordial	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	156	true	Cook 1 scrumptious reagent + 1 glass of goat's milk	N/A	Trick-or-Treating Tot	 | milk of magnesium	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	156	true	Cook 1 scrumptious reagent + 1 glass of goat's milk	N/A	Trick-or-Treating Tot	 | milk of magnesium	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	156	true	Your Witchess Set	Witchess Puzzles	Trick-or-Treating Tot		0	-1	0	0	0	0	 | Puzzle Champ (25) | items.enh (100) | meat.enh (100)			0	0	0	0	0	0		
+2	156	true	Wandering 1713 minutes down the beach	Comb the Beach (1713 minutes down the beach)	Trick-or-Treating Tot	 | sand dollar	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	156	true	Wandering 552 minutes down the beach	Comb the Beach (552 minutes down the beach)	Trick-or-Treating Tot	 | driftwood pants	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	156	true	Wandering 8508 minutes down the beach	Comb the Beach (8508 minutes down the beach)	Trick-or-Treating Tot	 | cyan seashell	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	156	true	Wandering 9634 minutes down the beach	Comb the Beach (9634 minutes down the beach)	Trick-or-Treating Tot	 | sea cucumber	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	156	true	Wandering 620 minutes down the beach	Comb the Beach (620 minutes down the beach)	Trick-or-Treating Tot	 | dull fish scale	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	156	true	Boxing Daycare	Have a Boxing Daydream	Trick-or-Treating Tot	 | bauxite bow-tie	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	156	true	Combing the Beach	N/A	Pocket Professor		0	-1	0	0	0	0	 | Do I Know You From Somewhere? (50)			0	0	0	0	0	0		
+3	156	true	The Penultimate Fantasy Airship	Hammering the Armory	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	156	true	The Penultimate Fantasy Airship	Burly Sidekick	Pair of Stomping Boots	 | Mohawk wig | cocoa eggshell fragment | tiny house | armgun	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+3	156	false	The Penultimate Fantasy Airship	Gesundheitgeist!	Pair of Stomping Boots	 | Tissue Paper Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	157	true	The Penultimate Fantasy Airship	Quiet Healer	Pair of Stomping Boots	 | amulet of extreme plot significance | scroll of drastic healing | soft green echo eyedrop antidote	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+3	157	true	The Penultimate Fantasy Airship	Spunky Princess	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	157	false	The Penultimate Fantasy Airship	Don't Chew on That Spirit!	Pair of Stomping Boots	 | Tin Foil Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	158	true	The Penultimate Fantasy Airship	Protagonist	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	158	true	The Penultimate Fantasy Airship	Burly Sidekick	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	158	true	The Penultimate Fantasy Airship	Protagonist	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	158	false	The Penultimate Fantasy Airship	The Most Absorbent Spirit Ever	Pair of Stomping Boots	 | Gauze Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	159	false	The Penultimate Fantasy Airship	Rip Rop Wrappety Do	Pair of Stomping Boots	 | Plastic Wrap Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	160	true	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	160	true	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	160	true	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	160	true	The Penultimate Fantasy Airship	Spunky Princess	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	160	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	160	false	The Penultimate Fantasy Airship	F-F-Fantastic!	Pair of Stomping Boots	 | S.O.C.K.	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	161	false	The Castle in the Clouds in the Sky (Basement)	You Don't Mess Around with Gym	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	162	true	The Castle in the Clouds in the Sky (Ground Floor)	Huzzah!	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	162	true	The Castle in the Clouds in the Sky (Ground Floor)	There's No Ability Like Possibility	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	162	true	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	162	false	The Castle in the Clouds in the Sky (Ground Floor)	Home on the Free Range	Pair of Stomping Boots	 | electric boning knife	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	163	true	The Castle in the Clouds in the Sky (Ground Floor)	Possibility Giant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	163	true	The Castle in the Clouds in the Sky (Ground Floor)	Home on the Free Range	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	163	true	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	163	true	The Castle in the Clouds in the Sky (Ground Floor)	Procrastination Giant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	163	true	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	163	true	The Castle in the Clouds in the Sky (Ground Floor)	Putting Off Is Off-Putting	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	163	true	The Castle in the Clouds in the Sky (Ground Floor)	Putting Off Is Off-Putting	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	163	true	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	163	true	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	163	true	The Castle in the Clouds in the Sky (Ground Floor)	Home on the Free Range	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	163	true	The Castle in the Clouds in the Sky (Ground Floor)	Huzzah!	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	163	true	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	163	true	The Castle in the Clouds in the Sky (Ground Floor)	Possibility Giant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	163	false	The Castle in the Clouds in the Sky (Ground Floor)	Top of the Castle, Ma	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	164	true	The Castle in the Clouds in the Sky (Top Floor)	Goth Giant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	164	false	The Castle in the Clouds in the Sky (Top Floor)	Steampunk Giant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	165	false	The Castle in the Clouds in the Sky (Top Floor)	Keep On Turnin' the Wheel in the Sky	Pair of Stomping Boots	 | giant discarded plastic fork	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	166	false	The Black Forest	Forty Shades of Black	Pair of Stomping Boots	 | black map	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	167	true	The Black Forest	sausage goblin	Pair of Stomping Boots	 | spices | magical sausage casing	258	2	112	253	130	0				0	0	0	0	0	0		
+3	167	false	The Black Forest	black adder	Pair of Stomping Boots	 | spices | adder bladder | black snake skin | sunken eyes	353	2	20	40	18	0				0	0	0	0	0	0		
+3	168	false	The Black Forest	a black panther!	Cat Burglar	 | spices | meteoreo | Black No. 2 | broken wings	1152	3	0	0	8	0			 | MACROMETEORITE	0	0	0	0	0	0	 | black magic woman	
+3	169	false	The Black Forest	black friar	Pair of Stomping Boots	 | gooey paste | spices | tangerine | bag of GORP	10	2	0	2	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+3	170	false	The Black Forest	blackberry bush	Pair of Stomping Boots	 | spices | blackberry | blackberry | blackberry | stick of firewood	11	4	10	41	9	0			 | OTOSCOPE	0	0	0	0	0	0		
+3	171	true	Sonofa Beach	a lobsterfrogman!	Pair of Stomping Boots		0	0	0	0	0	0			 | MACROMETEORITE | USE THE FORCE | SABER FRIENDS	0	0	0	0	0	0	 | terrible mutant	
+3	171	false	Sonofa Beach	lobsterfrogman	Pair of Stomping Boots	 | spices | barrel of gunpowder	249	2	20	45	9	0				0	0	0	0	0	0		
+3	172	false	Sonofa Beach	lobsterfrogman	Pair of Stomping Boots	 | spices | barrel of gunpowder	271	2	24	44	15	0				0	0	0	0	0	0		
+3	173	true	Sonofa Beach	lobsterfrogman	Pair of Stomping Boots		0	0	0	0	0	0			 | USE THE FORCE | SABER FRIENDS	0	0	0	0	0	0		
+3	173	true	Cook 14 wad of dough + 14 soda water	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	173	true	Cook 1 wad of dough + 1 soda water	N/A	Pair of Stomping Boots	 | loaf of soda bread	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	173	false	Sonofa Beach	lobsterfrogman	Pair of Stomping Boots	 | spices | barrel of gunpowder	271	2	15	36	23	0				0	0	0	0	0	0		
+3	174	false	Sonofa Beach	lobsterfrogman	Baby Sandworm	 | spices | water purification pills | barrel of gunpowder	239	2	41	50	13	0				0	0	0	0	0	0		
+3	175	TRUE	CONSUME: chew 1 agua de vida	N/A	Baby Sandworm	 | empty agua de vida bottle	0	-1	0	0	0	5				0	0	0	0	0	0		
+3	175	false	Sonofa Beach	lobsterfrogman	Baby Sandworm	 | spices | barrel of gunpowder | agua de vida	267	2	13	37	28	0				0	0	0	0	0	0		
+3	176	true	photocopied monster	mountain man	Baby Sandworm	 | asbestos ore | asbestos ore | linoleum ore | linoleum ore | chrome ore | chrome ore | asbestos ore | asbestos ore | linoleum ore | linoleum ore | chrome ore | chrome ore	13	3	14	29	18	0			 | DUPLICATE | ASDON MARTIN: MISSILE LAUNCHER	0	0	0	0	0	0		
+3	176	false	The Black Forest	black adder	Baby Sandworm	 | adder bladder | agua de vida	396	2	20	34	13	0				0	0	0	0	0	0		
+3	177	true	The Black Forest	Wooof! Wooooooof!	Baby Sandworm	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	177	false	The Black Forest	black widow	Baby Sandworm	 | meteoreo | black pension check | black picnic basket	179	2	15	44	27	0				0	0	0	0	0	0		
+3	178	false	The Black Forest	The Blackberry Cobbler	Baby Sandworm	 | blackberry galoshes	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	179	false	The Black Forest	black widow	Baby Sandworm	 | black pension check | stick of firewood	203	2	19	44	20	0				0	0	0	0	0	0		
+3	180	false	The Black Forest	blackberry bush	Baby Sandworm	 | blackberry | Special Seasoning | stick of firewood	10	2	15	43	27	0				0	0	0	0	0	0		
+3	181	false	The Black Forest	blackberry bush	Baby Sandworm	 | blackberry	13	2	18	28	28	0				0	0	0	0	0	0		
+3	182	TRUE	CONSUME: chew 1 agua de vida	N/A	Baby Sandworm	 | empty agua de vida bottle	0	-1	0	0	0	7				0	0	0	0	0	0		
+3	182	TRUE	CONSUME: chew 1 agua de vida	N/A	Baby Sandworm	 | empty agua de vida bottle	0	-1	0	0	0	6				0	0	0	0	0	0		
+3	182	TRUE	CONSUME: chew 1 gooey paste	N/A	Baby Sandworm		0	-1	0	0	0	5				0	0	0	0	0	0		
+3	182	TRUE	CONSUME: chew 1 groose grease	N/A	Baby Sandworm		0	-1	0	0	0	7	 | Just the Best Anapests (50)			0	0	0	0	0	0		
+3	182	false	The Black Forest	black panther	Baby Sandworm	 | meteoreo | Camp Scout pup tent | Black No. 2 | agua de vida	573	2	18	29	14	0				0	0	0	0	0	0		
+3	183	false	The Black Forest	black widow	Baby Sandworm	 | black pension check	186	2	22	36	20	0				0	0	0	0	0	0		
+3	184	false	The Black Forest	black friar	Baby Sandworm		10	2	17	42	23	0				0	0	0	0	0	0		
+3	185	false	The Black Forest	black magic woman	Baby Sandworm	 | black eye shadow | black magic powder	342	2	12	47	20	0				0	0	0	0	0	0		
+3	186	false	The Shore, Inc. Travel Agency	N/A	Baby Sandworm	 | your father's MacGuffin diary	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	189	false	The Goatlet	dairy goat	Artistic Goth Kid	 | goat cheese | Shivering Ch&egrave;vre	192	2	17	26	22	0				0	0	0	0	0	0		
+3	190	false	The Haunted Ballroom	zombie waltzers	Artistic Goth Kid	 | ballroom blintz | white pixel	176	2	10	31	23	0				0	0	0	0	0	0		
+3	191	true	The Haunted Ballroom	sausage goblin	Artistic Goth Kid	 | magical sausage casing | red pixel	249	2	107	231	123	0				0	0	0	0	0	0		
+3	191	false	The Haunted Ballroom	tapdancing skeleton	Artistic Goth Kid		15	2	10	29	10	0				0	0	0	0	0	0		
+3	192	false	The Hidden Temple	Such Great Heights	Artistic Goth Kid	 | the Nostril of the Serpent	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	193	true	The Hidden Temple	The Hidden Heart of the Hidden Temple	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	193	false	The Hidden Temple	Now What?	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	194	false	The Hidden Temple	Beginning at the Beginning of Beginning	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	195	false	The Hidden Temple	No Visible Means of Support	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	196	true	Next to that Barrel with Something Burning in it	batwinged gremlin	Artistic Goth Kid		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+3	196	false	Next to that Barrel with Something Burning in it	batwinged gremlin	Artistic Goth Kid	 | molybdenum hammer	190	14	15	45	18	0		|seal tooth|seal tooth|seal tooth|seal tooth|seal tooth|seal tooth|seal tooth|seal tooth|seal tooth|seal tooth|seal tooth|seal tooth|molybdenum magnet		0	0	0	0	0	0		
+3	197	true	Over Where the Old Tires Are	spider gremlin	Cat Burglar		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+3	197	false	Over Where the Old Tires Are	erudite gremlin	Cat Burglar	 | molybdenum crescent wrench	320	5	17	34	14	0		|seal tooth|seal tooth|seal tooth|molybdenum magnet		0	0	0	0	0	0		
+3	198	false	Near an Abandoned Refrigerator	spider gremlin	Cat Burglar	 | molybdenum pliers | CSA fire-starting kit | Special Seasoning	283	5	12	37	18	0		|seal tooth|seal tooth|seal tooth|molybdenum magnet		0	0	0	0	0	0		
+3	199	false	Out by that Rusted-Out Car	vegetable gremlin	Cat Burglar	 | molybdenum screwdriver	255	4	9	42	14	0		|seal tooth|seal tooth|molybdenum magnet		0	0	0	0	0	0		
+3	200	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Melodramedary		0	2	7	0	5	0				0	0	0	0	0	0		
+3	201	false	The Arid, Extra-Dry Desert	plaque of locusts	Melodramedary	 | honey-dipped locust | handful of sand	102	2	18	32	15	0				0	0	0	0	0	0		
+3	202	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Melodramedary		477	2	19	32	17	0				0	0	0	0	0	0		
+3	203	false	The Arid, Extra-Dry Desert	rock scorpion	Melodramedary		0	2	0	5	4	0				0	0	0	0	0	0		
+3	204	false	The Arid, Extra-Dry Desert	swarm of fire ants	Melodramedary	 | ant agonist	181	2	13	34	15	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+3	205	true	The Hidden Park	sausage goblin	Pocket Professor		0	3	0	5	0	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+3	205	true	The Hidden Park	sausage goblin	Pocket Professor	 | magical sausage casing	235	3	93	176	88	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+3	205	true	The Hidden Park	sausage goblin	Pocket Professor	 | magical sausage casing	228	3	75	197	88	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+3	205	true	The Hidden Park	sausage goblin	Pocket Professor		0	3	0	0	0	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+3	205	true	The Hidden Park	sausage goblin	Pocket Professor	 | magical sausage casing	295	3	90	188	83	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+3	205	true	The Hidden Park	sausage goblin	Pocket Professor	 | CSA scoutmaster's &quot;water&quot; | magical sausage casing	248	3	80	192	89	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+3	205	true	The Hidden Park	sausage goblin	Pocket Professor	 | magical sausage casing	246	2	83	193	93	0				0	0	0	0	0	0		
+3	205	true	The Arid, Extra-Dry Desert	Wooof! Wooooooof!	Melodramedary	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	205	true	The Arid, Extra-Dry Desert	A Sietch in Time	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	205	true	The Arid, Extra-Dry Desert	swarm of fire ants	Melodramedary		184	2	12	31	11	0	 | Ultrahydrated (3)		 | SHATTERING PUNCH	0	0	1	0	0	0		
+3	205	false	The Arid, Extra-Dry Desert	cactuary	Melodramedary	 | handful of sand	326	2	11	32	11	0				0	0	0	0	0	0		
+3	206	false	The Arid, Extra-Dry Desert	plaque of locusts	Melodramedary	 | bronzed locust | handful of sand	100	2	9	26	13	0				0	0	0	0	0	0		
+3	207	true	The Arid, Extra-Dry Desert	swarm of fire ants	Melodramedary		0	2	0	0	0	0	 | Ultrahydrated (3)		 | CHEST X-RAY	0	0	1	0	0	0		
+3	207	true	The Arid, Extra-Dry Desert	swarm of fire ants	Melodramedary	 | ant agonist | handful of sand | worm-riding manual page (2)	176	2	19	27	7	0			 | CHEST X-RAY	0	0	1	0	0	0		
+3	207	true	The Arid, Extra-Dry Desert	rock scorpion	Melodramedary	 | scorpion whip | handful of sand | handful of sand	816	2	11	24	18	0			 | CHEST X-RAY	0	0	1	0	0	0		
+3	207	false	The Arid, Extra-Dry Desert	rock scorpion	Melodramedary	 | handful of sand	658	2	13	18	16	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+3	208	false	The Arid, Extra-Dry Desert	cactuary	Melodramedary	 | cactus fruit | handful of sand | bit-o-cactus | worm-riding manual page (2)	339	2	18	22	7	0				0	0	0	0	0	0		
+3	209	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Melodramedary	 | centipede eggs | handful of sand | Special Seasoning	560	2	13	22	14	0				0	0	0	0	0	0		
+3	210	true	The Arid, Extra-Dry Desert	sausage goblin	Melodramedary	 | magical sausage casing | worm-riding manual page (3)	283	2	66	169	78	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+3	210	false	The Arid, Extra-Dry Desert	rock scorpion	Melodramedary		0	2	4	0	0	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+3	211	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Melodramedary	 | handful of sand	523	2	7	25	23	0				0	0	0	0	0	0		
+3	212	false	The Arid, Extra-Dry Desert	plaque of locusts	Melodramedary	 | bag of GORF | handful of sand | worm-riding manual page (3)	106	2	12	30	7	0				0	0	0	0	0	0		
+3	213	false	The Arid, Extra-Dry Desert	swarm of fire ants	Melodramedary		174	2	5	32	11	0				0	0	0	0	0	0		
+3	214	true	The Arid, Extra-Dry Desert	sausage goblin	Melodramedary	 | magical sausage casing | worm-riding manual page (2)	244	2	80	163	71	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+3	214	false	The Hidden Park	Dr. Henry "Dakota" Fanning, Ph.D., R.I.P.	Bloovian Groose	 | antique machete | cool whip	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	215	false	The Copperhead Club	Shen Copperhead, Nightclub Owner	Bloovian Groose		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	216	false	genie summoned monster	blur	Bloovian Groose	 | drum machine | Hugo's Weaving Manual | palm frond	623	2	20	26	8	0				0	0	0	0	0	0		
+3	217	true	Lair of the Ninja Snowmen	Ninja Snowman Janitor	Melodramedary		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+3	217	false	Lair of the Ninja Snowmen	Ninja Snowman	Melodramedary	 | plain snowcone | li'l ninja costume	0	2	11	27	10	0				0	0	0	0	0	0		
+3	218	false	Lair of the Ninja Snowmen	a Ninja Snowman!	Melodramedary	 | cold ninja mask | frigid ninja stars | plain snowcone	0	3	15	20	9	0			 | MACROMETEORITE	0	0	0	0	0	0	 | Ninja Snowman Weaponmaster	
+3	219	false	Lair of the Ninja Snowmen	ninja snowman assassin	Melodramedary	 | ninja rope	0	3	6	47	11	0			 | DIGITIZE	0	0	0	0	0	1		
+3	220	false	Lair of the Ninja Snowmen	Ninja Snowman	Melodramedary	 | frigid ninja stars | plain snowcone	0	2	7	26	10	0				0	0	0	0	0	0		
+3	221	false	Lair of the Ninja Snowmen	ninja snowman assassin	Melodramedary	 | ninja crampons	0	2	22	21	16	0	 | Demonic Taint (5)			0	0	0	0	0	0		
+3	222	false	Lair of the Ninja Snowmen	the Frozen Solid Snake	Melodramedary	 | The First Pizza | Special Seasoning	0	2	15	36	18	0				0	0	0	0	0	0		
+3	223	false	The Copperhead Club	waiter dressed as a ninja	Melodramedary	 | crappy waiter disguise | shuriken salad | ninja eyeblack | white pixel	98	2	17	31	11	0				0	0	0	0	0	0		
+3	224	true	The Copperhead Club	Andy Collins the bartender	Melodramedary		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+3	224	true	Combing the Beach	N/A	Melodramedary		0	-1	0	0	0	0	 | Oiled, Slick (50)			0	0	0	0	0	0		
+3	224	false	A Mob of Zeppelin Protesters	Bench Warrant	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	225	false	A Mob of Zeppelin Protesters	Bench Warrant	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	226	false	A Mob of Zeppelin Protesters	Bench Warrant	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	227	false	A Mob of Zeppelin Protesters	Bench Warrant	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	228	true	A Mob of Zeppelin Protesters	Too Much Humanity	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	228	true	A Mob of Zeppelin Protesters	Not So Much With The Humanity	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	228	true	The Red Zeppelin	Zeppelintro	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	228	false	The Red Zeppelin	ninja snowman assassin	Melodramedary	 | ninja carabiner	0	2	14	32	9	0				0	0	0	0	0	0		
+3	229	true	Your Witchess Set	Witchess Ox	Melodramedary	 | ox-head shield	0	7	70	172	79	0			 | MICROMETEORITE | RAISE BACKUP DANCER | RAISE BACKUP DANCER | RAISE BACKUP DANCER | RAISE BACKUP DANCER	0	0	0	0	0	0		
+3	229	true	Your Witchess Set	Witchess Knight	Melodramedary	 | jumping horseradish	0	5	30	63	27	0	 | Tingling Feeling (5)		 | DIGITIZE | WAVE OF SAUCE | WAVE OF SAUCE	0	0	0	0	0	1		
+3	229	true	Your Witchess Set	N/A	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	229	true	The Red Zeppelin	the man with the red buttons	Ms. Puck Man		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+3	229	true	The Red Zeppelin	red skeleton	Ms. Puck Man		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+3	229	true	The Red Zeppelin	Red Herring	Ms. Puck Man		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+3	229	false	The Red Zeppelin	a red butler!	Ms. Puck Man	 | glark cable | green pixel | yellow pixel	288	5	8	27	10	0	 | On the Trail (40)		 | CHEAT CODE: REPLACE ENEMY | TRANSCENDENT OLFACTION | GALLAPAGOSIAN MATING CALL	0	0	0	2	0	0	 | Red Snapper	
+3	230	true	The Red Zeppelin	red butler	Ms. Puck Man	 | glark cable | yellow pixel	310	2	12	24	10	0		|glark cable		0	0	1	0	0	0		
+3	230	true	The Red Zeppelin	red butler	Ms. Puck Man	 | CSA obedience grenade | glark cable | yellow pixel	262	2	9	28	9	0		|glark cable		0	0	1	0	0	0		
+3	230	true	The Red Zeppelin	red butler	Ms. Puck Man	 | glark cable | yellow pixel	296	2	10	22	14	0		|glark cable		0	0	1	0	0	0		
+3	230	true	The Red Zeppelin	red butler	Ms. Puck Man	 | red box | yellow pixel	266	2	11	27	12	0	 | Got Your Boots On (5)	|glark cable		0	0	1	0	0	0		
+3	230	false	The Red Zeppelin	red butler	Ms. Puck Man	 | glark cable | yellow pixel	292	2	9	29	8	0				0	0	0	0	0	0		
+3	231	false	The Red Zeppelin	Ron &quot;The Weasel&quot; Copperhead	Ms. Puck Man	 | Copperhead Charm (rampant) | yellow pixel	902	2	10	25	20	0		|glark cable		0	0	1	0	0	0		
+3	232	false	The Haunted Ballroom	floating platter of hors d'oeuvres	Ms. Puck Man	 | dehydrated caviar | desiccated apricot | flute of flat champagne | yellow pixel	0	2	3	11	4	0				0	0	0	0	0	0		
+3	233	false	The Haunted Ballroom	We'll All Be Flat	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	234	true	The Copperhead Club	sausage goblin	Ms. Puck Man	 | magical sausage casing | yellow pixel	247	2	80	179	64	0				0	0	0	0	0	0		
+3	234	true	An Overgrown Shrine (Northwest)	dense liana	Ms. Puck Man	 | red pixel | yellow pixel | power pill	0	1	6	0	0	0	 | Human-Horror Hybrid (5)			0	0	0	0	0	0		
+3	234	true	An Overgrown Shrine (Northwest)	dense liana	Ms. Puck Man	 | yellow pixel	0	1	0	4	0	0				0	0	0	0	0	0		
+3	234	true	An Overgrown Shrine (Northwest)	dense liana	Ms. Puck Man	 | red pixel | yellow pixel	0	1	0	0	6	0				0	0	0	0	0	0		
+3	234	true	An Overgrown Shrine (Southwest)	dense liana	Ms. Puck Man	 | yellow pixel	0	1	9	0	0	0				0	0	0	0	0	0		
+3	234	true	An Overgrown Shrine (Southwest)	dense liana	Ms. Puck Man	 | yellow pixel	0	1	0	0	7	0				0	0	0	0	0	0		
+3	234	true	An Overgrown Shrine (Southwest)	dense liana	Ms. Puck Man	 | yellow pixel	0	1	0	6	7	0	 | Omphalotus Omnipresence (5)			0	0	0	0	0	0		
+3	234	true	An Overgrown Shrine (Southeast)	dense liana	Ms. Puck Man	 | yellow pixel	0	1	5	7	0	0				0	0	0	0	0	0		
+3	234	true	An Overgrown Shrine (Southeast)	dense liana	Ms. Puck Man	 | yellow pixel	0	1	0	0	6	0				0	0	0	0	0	0		
+3	234	true	An Overgrown Shrine (Southeast)	dense liana	Ms. Puck Man	 | yellow pixel	0	1	0	0	4	0				0	0	0	0	0	0		
+3	234	true	An Overgrown Shrine (Northeast)	dense liana	Ms. Puck Man	 | yellow pixel	0	1	0	0	7	0				0	0	0	0	0	0		
+3	234	true	An Overgrown Shrine (Northeast)	dense liana	Ms. Puck Man	 | CSA cheerfulness ration | yellow pixel | power pill	0	1	6	0	0	0	 | Disco Neuropathy (5)			0	0	0	0	0	0		
+3	234	true	An Overgrown Shrine (Northeast)	dense liana	Ms. Puck Man	 | yellow pixel	0	1	0	5	0	0				0	0	0	0	0	0		
+3	234	false	An Overgrown Shrine (Northeast)	Air Apparent	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	235	false	An Overgrown Shrine (Southeast)	Fire When Ready	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	236	false	An Overgrown Shrine (Southwest)	Water You Dune	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	237	false	An Overgrown Shrine (Northwest)	Earthbound and Down	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	238	true	The Hidden Office Building	Witchess Knight	Ms. Puck Man	 | jumping horseradish | yellow pixel	0	2	39	58	21	0				0	0	0	0	0	0		
+3	238	true	Your Witchess Set	N/A	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	238	true	The Hidden Apartment Building	pygmy witch lawyer	Ms. Puck Man		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+3	238	false	The Hidden Apartment Building	pygmy janitor	Ms. Puck Man	 | book of matches | short-handled mop | jungle floor wax | yellow pixel	280	3	17	15	13	0			 | OTOSCOPE	0	0	0	0	0	0		
+3	239	false	The Hidden Apartment Building	a pygmy shaman!	Ms. Puck Man	 | giraffe-necked turtle | yellow pixel	392	3	14	28	5	0			 | CHEAT CODE: REPLACE ENEMY	0	0	0	0	0	0	 | pygmy witch accountant	
+3	240	false	The Hidden Apartment Building	pygmy shaman	Ms. Puck Man	 | voodoo glowskull | yellow pixel	416	3	11	17	19	0	 | Once-Cursed (10) | On the Trail (40) | Al Dente Inferno (5)		 | TRANSCENDENT OLFACTION	0	0	0	1	0	0		
+3	241	true	The Hidden Apartment Building	pygmy shaman	Ms. Puck Man	 | almost-dead walkie-talkie | Wet Russian | yellow pixel	465	2	11	18	11	0	 | Twice-Cursed (10)	|power pill		0	0	1	0	0	0		
+3	241	true	The Hidden Apartment Building	pygmy shaman	Ms. Puck Man	 | voodoo glowskull | yellow pixel	500	2	8	24	13	0	 | Thrice-Cursed (10)	|power pill		0	0	1	0	0	0		
+3	241	false	The Hidden Apartment Building	pygmy shaman	Bloovian Groose	 | crude voodoo doll | voodoo glowskull | groose grease	640	2	11	34	12	0	 | Thrice-Cursed (10)			0	0	0	0	0	0		
+3	242	false	The Hidden Apartment Building	pygmy shaman	Bloovian Groose	 | green pixel | Special Seasoning	654	3	18	25	12	0	 | Thrice-Cursed (10)			0	0	0	0	0	0		
+3	243	false	The Hidden Apartment Building	ancient protector spirit	Bloovian Groose	 | moss-covered stone sphere | psychokinetic energy blob | groose grease	0	2	10	36	10	0	 | Memento Moir&eacute; (5)			0	0	0	0	0	0		
+3	244	false	The Hidden Bowling Alley	pygmy bowler	Melodramedary	 | &quot;meat&quot; stick | bowling ball | bowling ball | imitation White Russian | bowling ball | bowling ball | tiny bowler	494	3	15	31	14	0			 | %FN, SPIT ON THEM	0	0	0	0	1	0		
+3	245	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	246	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	247	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	248	true	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	248	true	The Copperhead Club	terrible mutant	Melodramedary	 | glob of undifferentiated tissue	34	5	63	145	77	0			 | MICROMETEORITE | WAVE OF SAUCE	0	0	0	0	0	0		
+3	248	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	249	true	The Hidden Bowling Alley	a drunk pygmy!	Ms. Puck Man		0	4	0	0	0	0			 | MACROMETEORITE | MACROMETEORITE | MACROMETEORITE | SNOKEBOMB	1	1	0	0	0	0	 | pygmy janitor | a drunk pygmy! | some pygmy orderlies!	
+3	249	false	The Hidden Bowling Alley	pygmy bowler	Ms. Puck Man	 | vial of hamethyst juice | bowling ball | yellow pixel	448	2	14	29	8	0				0	0	0	0	0	0		
+3	250	false	The Hidden Bowling Alley	ancient protector spirit	Ms. Puck Man	 | scorched stone sphere | psychokinetic energy blob | yellow pixel	0	3	10	26	18	0				0	0	0	0	0	0		
+3	251	true	An Overgrown Shrine (Southeast)	Fire When Ready	Ms. Puck Man	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	251	true	An Overgrown Shrine (Northwest)	Earthbound and Down	Ms. Puck Man	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	251	false	Mist-Shrouded Peak	panicking Knott Yeti	Ms. Puck Man	 | yellow pixel	760	2	11	19	13	0	 | Quadrilled (5)		 | SHATTERING PUNCH	0	0	1	0	0	0		
+3	252	false	Mist-Shrouded Peak	panicking Knott Yeti	Ms. Puck Man	 | gnat lasagna | yeti fur | yellow pixel | power pill	741	2	12	18	11	0			 | GINGERBREAD MOB HIT	0	0	1	0	0	0		
+3	253	false	Mist-Shrouded Peak	panicking Knott Yeti	Ms. Puck Man	 | yeti fur | yellow pixel	699	2	6	27	10	0		|power pill		0	0	1	0	0	0		
+3	254	false	The Defiled Niche	dirty old lihc	Ms. Puck Man	 | salacious crumbs | yellow pixel	0	3	6	11	4	0			 | GALLAPAGOSIAN MATING CALL	0	0	0	1	0	0		
+3	255	true	The Defiled Niche	senile lihc	Ms. Puck Man		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+3	255	true	The Defiled Niche	Urning Your Keep	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	255	true	The Defiled Niche	slick lihc	Ms. Puck Man		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+3	255	false	The Defiled Niche	dirty old lihc	Ms. Puck Man	 | CSA discount card | yellow pixel	0	2	4	11	2	0				0	0	0	0	0	0		
+3	256	false	The Defiled Niche	dirty old lihc	Ms. Puck Man	 | salacious crumbs | blue pixel | yellow pixel	0	2	7	7	4	0	 | Human-Hippy Hybrid (5)			0	0	0	0	0	0		
+3	257	false	The Copperhead Club	Shen Copperhead, Jerk	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	258	true	The Copperhead Club	Witchess Knight	Ms. Puck Man	 | jumping horseradish | yellow pixel	0	3	29	51	27	0				0	0	0	0	0	0		
+3	258	true	The Copperhead Club	sausage goblin	Ms. Puck Man	 | magical sausage casing | yellow pixel	191	3	48	113	43	0			 | WAVE OF SAUCE | WAVE OF SAUCE	0	0	0	0	0	0		
+3	258	true	The Defiled Niche	Urning Your Keep	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	258	true	The Defiled Niche	Urning Your Keep	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	258	false	The Defiled Niche	a dirty old lihc!	Ms. Puck Man	 | salacious crumbs | yellow pixel | Special Seasoning	0	3	3	10	6	0			 | CHEAT CODE: REPLACE ENEMY	0	0	0	0	0	0	 | basic lihc	
+3	259	true	The Defiled Niche	Urning Your Keep	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	259	false	The Defiled Niche	dirty old lihc	Ms. Puck Man	 | salacious crumbs | yellow pixel	0	2	3	9	5	0				0	0	0	0	0	0		
+3	260	true	Deck of Every Card	Island	Ms. Puck Man	 | blue mana	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	260	true	Deck of Every Card	Ancestral Recall	Ms. Puck Man	 | blue mana	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	260	false	Mist-Shrouded Peak	Groar	Ms. Puck Man	 | Groar's fur | dense meat stack (5) | yellow pixel	0	3	27	35	14	0	 | Holiday Bliss (5)			0	0	0	0	0	0		
+3	261	true	numberology 69	N/A	Ms. Puck Man		0	-1	0	0	0	3				0	0	0	0	0	0		
+3	261	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	261	true	The Tunnel of L.O.V.E.	LOV Enforcer	Ms. Puck Man	 | yellow pixel	0	4	58	108	42	0			 | WAVE OF SAUCE | WAVE OF SAUCE | WAVE OF SAUCE	0	0	0	0	0	0		
+3	261	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	261	true	The Tunnel of L.O.V.E.	LOV Engineer	Ms. Puck Man	 | LOV Eardigan | yellow pixel | power pill	0	11	49	113	47	0			 | MICROMETEORITE	0	0	0	0	0	0		
+3	261	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	261	true	The Tunnel of L.O.V.E.	LOV Equivocator	Ms. Puck Man	 | yellow pixel	0	6	48	112	54	0	 | Open Heart Surgery (50)		 | MICROMETEORITE	0	0	0	0	0	0		
+3	261	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	Ms. Puck Man	 | LOV Extraterrestrial Chocolate	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	261	true	The Defiled Niche	Wooof! Wooooooof!	Cat Burglar	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	261	false	The Defiled Niche	dirty old lihc	Cat Burglar	 | salacious crumbs	0	3	5	9	4	0				0	0	0	0	0	0		
+3	262	true	The Defiled Niche	Urning Your Keep	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	262	true	The Defiled Niche	Urning Your Keep	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	262	true	The Defiled Niche	Urning Your Keep	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	262	false	The Defiled Niche	dirty old lihc	Cat Burglar		0	2	1	8	7	0	 | Triangle, Man (5)			0	0	0	0	0	0		
+3	263	true	numberology 69	N/A	Cat Burglar		0	-1	0	0	0	3				0	0	0	0	0	0		
+3	263	true	The Defiled Niche	Urning Your Keep	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	263	false	The Defiled Niche	dirty old lihc	Cat Burglar	 | salacious crumbs | green pixel	0	2	7	13	3	0				0	0	0	0	0	0		
+3	264	false	The Defiled Niche	gargantulihc	Cat Burglar	 | lihc eye | lihc eye | lihc face	0	2	12	32	13	0				0	0	0	0	0	0		
+3	265	true	The Defiled Nook	party skelteon	Cat Burglar		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+3	265	true	The Defiled Nook	Skull, Skull, Skull	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	265	false	The Defiled Nook	toothy sklelton	Cat Burglar	 | loose teeth | loose teeth | skeleton bone | evil eye	0	2	6	14	4	0				0	0	0	0	0	0		
+3	266	true	The Defiled Nook	Seeing-Eyes Dog	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	266	true	numberology 69	N/A	Cat Burglar		0	-1	0	0	0	3				0	0	0	0	0	0		
+3	266	false	The Defiled Nook	giant skeelton	Cat Burglar	 | skeleton bone | skeleton bone | skeleton bone	0	2	16	32	19	0				0	0	0	0	0	0		
+3	267	true	The Haunted Wine Cellar	skeletal sommelier	Cat Burglar		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+3	267	false	The Haunted Wine Cellar	possessed wine rack	Cat Burglar		0	4	9	20	20	0	 | Make Meat FA$T! (5)		 | OFFER LATTE TO OPPONENT | GALLAPAGOSIAN MATING CALL	0	0	0	2	0	0		
+3	268	false	The Haunted Wine Cellar	possessed wine rack	Cat Burglar	 | dusty bottle of spooky Pinot Noir | dusty bottle of glassy Marsala | actual tapas	0	2	8	32	14	0				0	0	0	0	0	0		
+3	269	false	The Haunted Wine Cellar	possessed wine rack	Cat Burglar	 | dusty bottle of glassy Marsala | dusty bottle of spooky Pinot Noir | actual tapas | bottle of Chateau de Vinegar | Special Seasoning	0	2	16	26	9	0				0	0	0	0	0	0		
+3	270	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	Cat Burglar	 | fabric softener | fabric hardener | bottle of laundry sherry | red pixel	342	3	13	24	4	0			 | GALLAPAGOSIAN MATING CALL	0	0	0	1	0	0		
+3	271	true	The Haunted Laundry Room	possessed laundry press	Cat Burglar		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+3	271	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza!	Cat Burglar	 | bloodstain stick | fabric softener | fabric hardener | bottle of laundry sherry	245	3	7	19	13	0			 | MACROMETEORITE	0	0	0	0	0	0	 | plaid ghost	
+3	272	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	Cat Burglar	 | bloodstain stick | fabric softener | fabric hardener | bottle of laundry sherry | blue pixel | blasting soda	302	2	14	16	9	0	 | Full-Body Tan (5)			0	0	0	0	0	0		
+3	273	true	Cook 1 bottle of Chateau de Vinegar + 1 blasting soda	N/A	Cat Burglar	 | unstable fulminate	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	273	true	The Batrat and Ratbat Burrow	batrat	Cat Burglar		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+3	273	true	The Batrat and Ratbat Burrow	ratbat	Cat Burglar	 | CSA bravery badge | rat appendix | ratgut | red pixel	110	2	2	8	18	0			 | SHATTERING PUNCH	0	0	1	0	0	0		
+3	273	true	The Batrat and Ratbat Burrow	Black Crayon Manloid	Artistic Goth Kid	 | crayon shavings	0	6	40	111	82	0			 | MICROMETEORITE	0	0	0	0	0	0		
+3	273	true	The Batrat and Ratbat Burrow	Black Crayon Manloid	Artistic Goth Kid	 | crayon shavings	0	3	53	126	66	0			 | MICROMETEORITE	0	0	0	0	0	0		
+3	273	false	The Batrat and Ratbat Burrow	the Batsnake	Artistic Goth Kid	 | The Stankara Stone	0	2	14	26	32	0				0	0	0	0	0	0		
+3	274	true	numberology 69	N/A	Artistic Goth Kid		0	-1	0	0	0	3				0	0	0	0	0	0		
+3	274	true	The Hidden Hospital	pygmy witch nurse	Artistic Goth Kid		0	0	0	0	0	0			 | USE THE FORCE | SABER BANISH	0	1	0	0	0	0		
+3	274	false	The Hidden Hospital	pygmy witch surgeon	Artistic Goth Kid	 | head mirror	603	2	17	30	25	0	 | Superhuman Sarcasm (5)			0	0	0	0	0	0		
+3	275	true	The Hidden Hospital	Black Crayon Man	Artistic Goth Kid	 | crayon shavings	0	3	53	119	75	0				0	0	0	0	0	0		
+3	275	true	The Hidden Hospital	a pygmy janitor!	Bloovian Groose		0	2	0	0	0	0			 | MACROMETEORITE | KGB TRANQUILIZER DART	1	1	0	0	0	0	 | pygmy orderlies	
+3	275	false	The Hidden Hospital	a pygmy witch surgeon!	Bloovian Groose	 | half-size scalpel	1038	3	14	33	21	0			 | MACROMETEORITE	0	0	0	0	0	0	 | pygmy orderlies	
+3	276	false	The Hidden Hospital	pygmy witch surgeon	Bloovian Groose	 | surgical mask	979	2	12	29	30	0				0	0	0	0	0	0		
+3	277	false	The Hidden Hospital	ancient protector spirit	Bloovian Groose	 | dripping stone sphere | psychokinetic energy blob	0	2	12	29	15	0			 | WAVE OF SAUCE	0	0	0	0	0	0		
+3	278	true	The Hidden Office Building	pygmy headhunter	Bloovian Groose		0	1	0	0	0	0		|divine champagne popper		1	1	0	0	0	0		
+3	278	false	The Hidden Office Building	a pygmy witch accountant!	Bloovian Groose	 | adder | short calculator | pygmy adder oil | McClusky file (page 1)	867	3	11	30	19	0	 | Eyes for Miles (5)		 | MACROMETEORITE	0	0	0	0	0	0	 | pygmy witch lawyer	
+3	279	true	The Hidden Office Building	pygmy witch lawyer	Bloovian Groose	 | groose grease	993	2	10	29	13	0			 | GINGERBREAD MOB HIT	0	0	1	0	0	0		
+3	279	false	The Hidden Office Building	pygmy witch accountant	Bloovian Groose	 | bone abacus | adder | green pixel | McClusky file (page 2)	890	2	13	27	13	0				0	0	0	0	0	0		
+3	280	false	The Hidden Office Building	Working Holiday	Bloovian Groose	 | boring binder clip	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	281	false	The Copperhead Club	Where There's Smoke...	Bloovian Groose		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	282	true	Boxing Daycare	Enter the Boxing Daycare	Bloovian Groose		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	282	true	Cobb's Knob Treasury	The ghost of Ebenoozer Screege	Fist Turkey	 | psychokinetic energy blob (4)	100	8	4	21	4	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	282	true	Cook 3 wad of dough + 3 soda water	N/A	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	282	true	Your Witchess Set	Play against the Witchess Pieces	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	282	true	Your Witchess Set	Witchess Bishop	Fist Turkey	 | Sacramento wine | blue pixel	294	5	55	114	45	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+3	282	true	Your Witchess Set	Play against the Witchess Pieces	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	282	true	Your Witchess Set	Witchess Bishop	Fist Turkey	 | Sacramento wine | Ambitious Turkey	0	4	47	113	58	0	 | Sappy Blood (5)		 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+3	282	true	Your Witchess Set	Play against the Witchess Pieces	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	282	true	Your Witchess Set	Witchess Bishop	Fist Turkey	 | Sacramento wine	566	5	37	121	58	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+3	282	true	Dr. Gordon Stuart's Science Tent	Eldritch Tentacle named Brghbrghblllrrggghshhhhhssss	Fist Turkey	 | eldritch effluvium | eldritch effluvium | Ambitious Turkey	0	4	32	80	39	0			 | SAUCESTORM | SAUCESTORM | SAUCESTORM	0	0	0	0	0	0		
+3	282	true	Evoke Eldritch Horror	Eldritch Tentacle named Blrgsssshhssssssshhsssblllrrgggh	Fist Turkey	 | eldritch effluvium | eldritch effluvium | eldritch effluvium	0	3	38	79	33	0			 | SAUCESTORM | SAUCESTORM	0	0	0	0	0	0		
+3	282	false	The Defiled Cranny	gluttonous ghuol	Space Jellyfish	 | ghuol ears | ghuol egg | ghuol guolash | Special Seasoning	269	4	33	50	19	0			 | GULP LATTE | SAUCESTORM | SAUCESTORM	0	0	0	0	0	0		
+3	283	true	Cook 4 wad of dough + 4 soda water	N/A	Space Jellyfish		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	283	true	Cook 3 wad of dough + 3 soda water	N/A	Space Jellyfish		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	283	false	The Defiled Cranny	gaunt ghuol	Space Jellyfish	 | ghuol egg | ghuol ears	83	2	27	60	14	0			 | SAUCESTORM	0	0	0	0	0	0		
+3	284	true	The Spooky Forest	The Headless Horseman	Fist Turkey	 | psychokinetic energy blob (5)	10	4	4	21	8	0			 | SUMMON LOVE GNATS | SHOOT GHOST | SHOOT GHOST	0	0	0	0	0	0		
+3	284	false	The Defiled Cranny	giant swarm of ghuol whelps	Space Jellyfish		10	3	21	50	25	0			 | SAUCESTORM | SAUCESTORM	0	0	0	0	0	0		
+3	285	true	Cook 3 wad of dough + 3 soda water	N/A	Space Jellyfish		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	285	true	Cook 3 wad of dough + 3 soda water	N/A	Space Jellyfish		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	285	false	The Defiled Cranny	giant swarm of ghuol whelps	Space Jellyfish		10	3	21	50	25	0			 | SAUCESTORM | SAUCESTORM	0	0	0	0	0	0		
+3	286	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	286	false	The Goatlet	a dairy goat!	Steam-Powered Cheerleader	 | CSA all-purpose soap | goat cheese | glass of goat's milk | Shivering Ch&egrave;vre | white pixel	175	11	14	27	4	0	 | On the Trail (40)	|Time-Spinner	 | CHEAT CODE: REPLACE ENEMY | TRANSCENDENT OLFACTION | GALLAPAGOSIAN MATING CALL | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	2	0	0	 | sabre-toothed goat	
+3	287	false	The Defiled Cranny	huge ghuol	Space Jellyfish	 | ghuol egg | ghuol ears	918	3	39	84	37	0			 | SAUCESTORM | SAUCESTORM	0	0	0	0	0	0		
+3	288	true	Cook 3 wad of dough + 3 soda water	N/A	Space Jellyfish		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	288	true	Cook 4 wad of dough + 4 soda water	N/A	Space Jellyfish		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	288	true	The Hidden Office Building	Witchess Knight	Fist Turkey	 | Source essence (2) | jumping horseradish	311	6	29	107	38	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+3	288	false	The Goatlet	dairy goat	Steam-Powered Cheerleader	 | Source essence (2) | goat cheese | glass of goat's milk	182	9	9	38	17	0	 | Cool Spirit (1)	|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	289	false	Haert of the Cyrpt	The Bonerdagon	Machine Elf	 | skull of the Bonerdagon	14	12	0	0	0	0	 | Inner Elf (1)	|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM | SAUCESTORM | SAUCESTORM | SAUCESTORM	0	0	0	0	0	0		
+3	290	false	The Castle in the Clouds in the Sky (Top Floor)	Raver Giant	Fist Turkey	 | Source essence (2) | Mick's IcyVapoHotness Rub | giant needle | white pixel | Ambitious Turkey	611	8	13	41	20	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	291	true	The Hidden Office Building	sausage goblin	Fist Turkey	 | magical sausage casing	737	5	68	189	73	0			 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+3	291	false	The Castle in the Clouds in the Sky (Top Floor)	Goth Giant	Fist Turkey	 | Source essence | thin black candle | awful poetry journal | giant tube of black lipstick	511	6	17	44	12	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE GNATS	0	0	0	0	0	0		
+3	292	true	The Hidden Office Building	terrible mutant	Fist Turkey	 | Source essence (2) | glob of undifferentiated tissue	603	5	92	162	85	0			 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+3	292	false	The Castle in the Clouds in the Sky (Top Floor)	Goth Giant	Fist Turkey	 | Source essence | thin black candle | awful poetry journal | giant tube of black lipstick	541	5	18	41	10	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | EXTRACT	0	0	0	0	0	0		
+3	293	false	The Castle in the Clouds in the Sky (Top Floor)	Punk Rock Giant	Fist Turkey	 | Source essence | giant safety pin | stolen sushi | punk patch | Special Seasoning	222	8	17	44	17	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	294	true	The Castle in the Clouds in the Sky (Top Floor)	Wooof! Wooooooof!	Fist Turkey		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+3	294	false	The Castle in the Clouds in the Sky (Top Floor)	Goth Giant	Fist Turkey	 | Source essence (2) | thin black candle | awful poetry journal | giant tube of black lipstick | Ambitious Turkey	580	4	9	46	13	0			 | MICROMETEORITE | SUMMON LOVE MOSQUITO | EXTRACT	0	0	0	0	0	0		
+3	295	false	The Castle in the Clouds in the Sky (Top Floor)	Copper Feel	Fist Turkey	 | steam-powered model rocketship	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	296	false	The Smut Orc Logging Camp	smut orc nailer	Steam-Powered Cheerleader	 | long hard screw | orcish nailing lube	92	4	10	34	7	0			 | MICROMETEORITE | STUFFED MORTAR SHELL | SAUCEGEYSER	0	0	0	0	0	0		
+3	297	true	Cook 4 wad of dough + 4 soda water	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	297	false	The Smut Orc Logging Camp	smut orc jacker	Steam-Powered Cheerleader	 | morningwood plank | orcish hand lotion	96	4	8	34	9	0			 | MICROMETEORITE | STUFFED MORTAR SHELL | SAUCEGEYSER	0	0	0	0	0	0		
+3	298	false	The Smut Orc Logging Camp	smut orc nailer	Steam-Powered Cheerleader	 | thick caulk | morningwood plank | orcish nailing lube	91	4	10	29	10	0			 | MICROMETEORITE | STUFFED MORTAR SHELL | SAUCEGEYSER	0	0	0	0	0	0		
+3	299	true	Boxing Daycare	Visit the Boxing Day Spa	Steam-Powered Cheerleader		0	-1	0	0	0	0	 | Uncucumbered (100)			0	0	0	0	0	0		
+3	299	true	The Neverending Party	N/A	Crimbo Shrub		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	299	true	The Neverending Party	party girl	Crimbo Shrub	 | Source essence (3) | runproof mascara | very small red dress | noticeable pumps | surprisingly capacious handbag	317	10	230	532	213	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The Neverending Party	&quot;plain&quot; girl	Crimbo Shrub	 | Source essence | electronics kit | PB&J with the crusts cut off | ponytail clip	306	10	243	484	240	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The Neverending Party	biker	Crimbo Shrub	 | Source essence (3) | gas can | Middle of the Road&trade; brand whiskey | neverending wallet chain | pentagram bandana | white pixel	343	10	273	491	235	0		|Time-Spinner	 | CURSE OF WEAKSAUCE | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The Neverending Party	A Room With a View...  Of a Bed	Crimbo Shrub		0	-1	0	0	0	0	 | Tomes of Opportunity (20)			0	0	0	0	0	0		
+3	299	true	The Neverending Party	jock	Crimbo Shrub	 | Source essence (2) | unremarkable duffel bag | Purple Beast energy drink | cosmetic football | green pixel	433	9	233	562	260	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The Neverending Party	jock	Crimbo Shrub	 | Source essence (3) | unremarkable duffel bag | Purple Beast energy drink | shoe ad T-shirt	439	9	240	586	238	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The Neverending Party	biker	Crimbo Shrub	 | Source essence | gas can | Middle of the Road&trade; brand whiskey	308	9	275	555	250	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The Neverending Party	&quot;plain&quot; girl	Crimbo Shrub	 | Source essence | electronics kit | PB&J with the crusts cut off | ponytail clip	271	9	250	593	228	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The Neverending Party	&quot;plain&quot; girl	Crimbo Shrub	 | Source essence | PB&J with the crusts cut off	354	9	253	574	238	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The Neverending Party	burnout	Crimbo Shrub	 | Source essence (3) | van key | jam band bootleg | ratty knitted cap | red pixel	177	9	233	627	228	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The Deep Machine Tunnels	Enjoyer of Magnitudes and Intensity	Machine Elf	 | abstraction: sensation | Deep Machine Tunnels snowglobe	11	8	0	0	0	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The Deep Machine Tunnels	Visualizer of Answers	Machine Elf	 | bag of QWOP	173	8	5	0	0	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The Deep Machine Tunnels	Measurer of Algorithms	Machine Elf	 | abstraction: motion | abstraction: action	182	9	0	0	0	0		|abstraction: sensation|seal tooth|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The Deep Machine Tunnels	Detector of Brightnesses and Mouthfeels	Machine Elf		11	8	0	31	0	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The Deep Machine Tunnels	Smeller of Smells and Sounds	Machine Elf		10	8	0	0	25	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub	 | ice rice	10	2	18	28	5	0			 | MICROMETEORITE	0	0	0	0	0	0		
+3	299	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		12	3	23	22	8	0			 | MICROMETEORITE | SUMMON LOVE MOSQUITO	0	0	0	0	0	0		
+3	299	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		10	4	19	31	9	0			 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+3	299	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		11	4	19	38	8	0			 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+3	299	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub	 | training legwarmers	11	8	25	27	12	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		14	8	23	33	13	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		11	8	19	58	4	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub	 | ice rice | red pixel	15	8	30	42	9	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		11	8	33	41	13	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		14	8	29	45	8	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	God Lobster	the God Lobster	God Lobster		0	8	123	324	112	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	299	true	God Lobster	the God Lobster	God Lobster		0	8	117	306	132	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	299	true	God Lobster	the God Lobster	God Lobster		0	8	147	290	115	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SAUCESTORM	0	0	0	0	0	0		
+3	299	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	299	false	The Smut Orc Logging Camp	Blech House	Steam-Powered Cheerleader	 | raging hardwood plank	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Your Witchess Set	Witchess Puzzles	Trick-or-Treating Tot		0	-1	0	0	0	0	 | Puzzle Champ (25) | items.enh (100) | meat.enh (100)			0	0	0	0	0	0		
+3	300	true	Wandering 1035 minutes down the beach	Comb the Beach (1035 minutes down the beach)	Trick-or-Treating Tot	 | kelp	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Wandering 8209 minutes down the beach	Comb the Beach (8209 minutes down the beach)	Trick-or-Treating Tot	 | driftwood hat	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Wandering 8653 minutes down the beach	Comb the Beach (8653 minutes down the beach)	Trick-or-Treating Tot	 | green seashell	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Wandering 1558 minutes down the beach	Comb the Beach (1558 minutes down the beach)	Trick-or-Treating Tot	 | pristine fish scale	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Wandering 7552 minutes down the beach	Comb the Beach (7552 minutes down the beach)	Trick-or-Treating Tot	 | spearfish fishing spear	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Wandering 8472 minutes down the beach	Comb the Beach (8472 minutes down the beach)	Trick-or-Treating Tot	 | dull fish scale	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Wandering 9126 minutes down the beach	Comb the Beach (9126 minutes down the beach)	Trick-or-Treating Tot	 | dull fish scale	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Wandering 5908 minutes down the beach	Comb the Beach (5908 minutes down the beach)	Trick-or-Treating Tot	 | waders	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	300	true	Wandering 8502 minutes down the beach	Comb the Beach (8502 minutes down the beach)	Trick-or-Treating Tot	 | taco shell	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	300	TRUE	CONSUME: chew 1 groose grease	N/A	Trick-or-Treating Tot		0	-1	0	0	0	8	 | Just the Best Anapests (50)			0	0	0	0	0	0		
+4	300	TRUE	CONSUME: chew 2 groose grease	N/A	Trick-or-Treating Tot		0	-1	0	0	0	13	 | Just the Best Anapests (50) | Just the Best Anapests (50)			0	0	0	0	0	0		
+4	300	true	Boxing Daycare	Have a Boxing Daydream	Trick-or-Treating Tot	 | body spradium	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	300	false	The Copperhead Club	Shen Copperhead, Huge Jerk	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	301	true	The Copperhead Club	sausage goblin	Pocket Professor	 | spices | magical sausage casing	245	3	128	372	150	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+4	301	true	The Copperhead Club	sausage goblin	Pocket Professor	 | spices | magical sausage casing	226	3	129	380	144	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+4	301	true	The Copperhead Club	sausage goblin	Pocket Professor	 | spices | bag of GORP | magical sausage casing	288	3	144	386	127	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+4	301	true	The Copperhead Club	sausage goblin	Pocket Professor	 | spices | magical sausage casing	258	3	152	362	145	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+4	301	true	The Copperhead Club	sausage goblin	Pocket Professor	 | spices | red-hot sausage fork | magical sausage casing	277	2	135	367	154	0				0	0	0	0	0	0		
+4	301	true	The Hidden Apartment Building	Wooof! Wooooooof!	Pocket Professor	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	301	true	The Hidden Apartment Building	a pygmy witch lawyer!	Ms. Puck Man		0	2	0	0	0	0			 | MACROMETEORITE | SNOKEBOMB	1	1	0	0	0	0	 | pygmy janitor	
+4	301	false	The Hidden Apartment Building	pygmy witch accountant	Ms. Puck Man	 | spices | adder | pygmy adder oil | yellow pixel | McClusky file (page 3)	616	3	18	36	19	0			 | TRANSCENDENT OLFACTION | GALLAPAGOSIAN MATING CALL	0	0	0	2	0	0		
+4	302	false	The Hidden Apartment Building	pygmy witch accountant	Ms. Puck Man	 | spices | adder | short calculator | yellow pixel | McClusky file (page 4) | Special Seasoning	561	3	13	37	20	0			 | OFFER LATTE TO OPPONENT	0	0	0	1	0	0		
+4	303	false	The Hidden Apartment Building	pygmy witch accountant	Ms. Puck Man	 | spices | bone abacus | adder | pygmy adder oil | yellow pixel | McClusky file (page 5)	678	2	0	6	0	0				0	0	0	0	0	0		
+4	304	false	The Hidden Office Building	pygmy witch accountant	Ms. Puck Man	 | spices | Meteorite-Ade | water purification pills | pygmy adder oil | yellow pixel	647	2	24	42	9	0				0	0	0	0	0	0		
+4	305	false	The Hidden Office Building	ancient protector spirit	Ms. Puck Man	 | spices | crackling stone sphere | yellow pixel	0	2	23	48	17	0				0	0	0	0	0	0		
+4	306	true	An Overgrown Shrine (Northeast)	Air Apparent	Ms. Puck Man	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	306	true	An Overgrown Shrine (Southwest)	Water You Dune	Ms. Puck Man	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	306	true	A Massive Ziggurat	dense liana	Ms. Puck Man	 | yellow pixel	0	1	0	0	0	0				0	0	0	0	0	0		
+4	306	true	A Massive Ziggurat	dense liana	Ms. Puck Man	 | yellow pixel	0	1	0	0	0	0				0	0	0	0	0	0		
+4	306	true	A Massive Ziggurat	dense liana	Ms. Puck Man	 | yellow pixel	0	1	0	7	0	0				0	0	0	0	0	0		
+4	306	false	A Massive Ziggurat	Protector Spectre	Ms. Puck Man	 | metal meteoroid | ancient amulet | spectre scepter | yellow pixel	0	2	35	130	28	0				0	0	0	0	0	0		
+4	307	false	The Hatching Chamber	larval filthworm	XO Skeleton	 | filthworm hatchling scent gland | X	202	3	15	45	14	0			 | HUGS AND KISSES	0	0	0	0	0	0		
+4	308	false	The Feeding Chamber	filthworm drone	XO Skeleton	 | filthworm drone scent gland	284	3	17	39	19	0			 | HUGS AND KISSES	0	0	0	0	0	0		
+4	309	false	The Royal Guard Chamber	filthworm royal guard	XO Skeleton	 | filthworm royal guard scent gland | Camp Scout pup tent	417	3	22	32	19	0			 | HUGS AND KISSES	0	0	0	0	0	0		
+4	310	false	The Filthworm Queen's Chamber	the queen filthworm	XO Skeleton	 | heart of the filthworm queen	3866	2	18	44	18	0				0	0	0	0	0	0		
+4	311	true	The Unquiet Garves	sausage goblin	Pocket Professor	 | magical sausage casing	265	3	119	344	144	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+4	311	true	The Unquiet Garves	sausage goblin	Pocket Professor	 | magical sausage casing	241	3	120	348	147	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+4	311	true	The Unquiet Garves	sausage goblin	Pocket Professor	 | magical sausage casing	237	3	146	341	137	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+4	311	true	The Unquiet Garves	sausage goblin	Pocket Professor	 | magical sausage casing	276	3	130	324	158	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+4	311	true	The Unquiet Garves	sausage goblin	Pocket Professor	 | meadeorite | magical sausage casing	269	3	155	327	127	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+4	311	true	The Unquiet Garves	sausage goblin	Pocket Professor	 | magical sausage casing	276	2	153	304	149	0				0	0	0	0	0	0		
+4	311	false	The Unquiet Garves	the Snakeleton	Pocket Professor	 | The Shield of Brook	0	2	14	39	25	0				0	0	0	0	0	0		
+4	312	false	The Copperhead Club	Shen Copperhead, World's Biggest Jerk	Pocket Professor	 | Copperhead Charm	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	313	true	Inside the Palindome	Evil Olive	Red-Nosed Snapper		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+4	313	false	Inside the Palindome	Racecar Bob	Red-Nosed Snapper	 | photograph of a dog | mesh cap | enormous belt buckle | stunt nuts | ketchup hound	471	3	21	32	12	0		|disposable instant camera		0	0	0	0	0	0		
+4	314	false	Inside the Palindome	Last Egg Gets Al	Red-Nosed Snapper	 | photograph of an ostrich egg	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	315	false	Inside the Palindome	Do Geese See God?	Red-Nosed Snapper	 | photograph of God	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	316	false	Inside the Palindome	Rod Nevada, Vendor	Red-Nosed Snapper	 | photograph of a red nugget	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	317	false	Inside the Palindome	a Drab Bard!	Red-Nosed Snapper	 | CSA fire-starting kit | olive | drab sonata | guitar pick | Special Seasoning	331	3	13	31	23	0			 | MACROMETEORITE	0	0	0	0	0	0	 | Flock of Stab-bats	
+4	318	true	numberology 69	N/A	Red-Nosed Snapper		0	-1	0	0	0	3				0	0	0	0	0	0		
+4	318	true	Inside the Palindome	Tan Gnat	Red-Nosed Snapper		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+4	318	false	Inside the Palindome	Drab Bard	Red-Nosed Snapper	 | olive | drab sonata	312	2	10	44	9	0				0	0	0	0	0	0		
+4	319	false	Inside the Palindome	Bob Racecar	Red-Nosed Snapper	 | leather chaps | stunt nuts | ketchup hound	479	2	13	23	14	0				0	0	0	0	0	0		
+4	320	true	Inside the Palindome	Racecar Bob	Red-Nosed Snapper	 | mesh cap | enormous belt buckle | leather chaps | stunt nuts | ketchup hound | &quot;I Love Me, Vol. I&quot;	441	2	19	19	14	0				0	0	0	0	0	0		
+4	320	false	Dr. Awkward's Office	N/A	Red-Nosed Snapper	 | &quot;2 Love Me, Vol. 2&quot;	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	321	false	The Haunted Boiler Room	a monstrous boiler!	Red-Nosed Snapper	 | wine bomb	0	3	27	41	15	0			 | MACROMETEORITE	0	0	0	0	0	0	 | steam elemental	
+4	322	false	Whitey's Grove	whitesnake	Red-Nosed Snapper	 | white snake skin | bird rib	35	2	18	31	28	0				0	0	0	0	0	0		
+4	323	false	Whitey's Grove	a white lion!	Cat Burglar	 | lion oil	163	5	14	21	7	0			 | MACROMETEORITE | MACROMETEORITE | MACROMETEORITE	0	0	0	0	0	0	 | Knight in White Satin | a white chocolate golem! | a whitesnake!	
+4	324	true	Cook 1 bird rib + 1 lion oil	N/A	Cat Burglar	 | wet stew	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	324	true	Cook 1 wet stew + 1 stunt nuts	N/A	Cat Burglar	 | wet stunt nut stew	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	324	true	genie summoned monster	The Camel's Toe	Cat Burglar	 | star | star | line | line | star | star | line | line	0	9	25	63	25	0	 | Bat-Adjacent Form (1)		 | DUPLICATE | BECOME A BAT | MICROMETEORITE | WAVE OF SAUCE | WAVE OF SAUCE | WAVE OF SAUCE	0	0	0	0	0	0		
+4	324	false	Dr. Awkward's Office	Dr. Awkward	Cat Burglar	 | Staff of Fats | Drowsy Sword	0	3	40	122	61	0				0	0	0	0	0	0		
+4	326	false	Summoning Chamber	Lord Spookyraven	Cat Burglar	 | Eye of Ed | Lord Spookyraven's ear trumpet	0	3	38	130	50	0			 | WAVE OF SAUCE | WAVE OF SAUCE	0	0	0	0	0	0		
+4	327	true	Smith 1 lump of Brituminous coal + 1 loose purse strings	N/A	Cat Burglar	 | Half a Purse	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	327	true	Combing the Beach	N/A	Cat Burglar		0	-1	0	0	0	0	 | Do I Know You From Somewhere? (50)			0	0	0	0	0	0		
+4	327	true	numberology 69	N/A	Cat Burglar		0	-1	0	0	0	3				0	0	0	0	0	0		
+4	327	true	numberology 69	N/A	Cat Burglar		0	-1	0	0	0	3				0	0	0	0	0	0		
+4	327	true	numberology 69	N/A	Cat Burglar		0	-1	0	0	0	3				0	0	0	0	0	0		
+4	327	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey		0	3	24	51	25	0			 | SING ALONG	0	0	0	0	0	0		
+4	328	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey	 | Gathered Meat-Clip	0	3	23	62	24	0			 | SING ALONG	0	0	0	0	0	0		
+4	329	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey	 | CSA scoutmaster's &quot;water&quot; | brigand brittle	0	3	23	67	27	0			 | SING ALONG	0	0	0	0	0	0		
+4	330	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey	 | brigand brittle	0	5	29	49	22	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF	0	0	0	0	0	0		
+4	331	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey	 | brigand brittle	0	5	18	56	13	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF	0	0	0	0	0	0		
+4	332	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey	 | brigand brittle	91	4	20	47	32	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF	0	0	0	0	0	0		
+4	333	true	The Themthar Hills	Wooof! Wooooooof!	Hobo Monkey	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	333	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey	 | brigand brittle	95	4	15	54	22	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF	0	0	0	0	0	0		
+4	334	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey	 | brigand brittle	0	4	19	51	22	0	 | Wolfish Form (1)		 | BECOME A WOLF | SING ALONG	0	0	0	0	0	0		
+4	335	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey	 | brigand brittle	0	2	14	52	20	0				0	0	0	0	0	0		
+4	336	false	The Upper Chamber	slime blob	Hobo Monkey		81	3	0	0	0	0				0	0	0	0	0	0		
+4	337	true	The Upper Chamber	sausage goblin	Artistic Goth Kid	 | magical sausage casing	643	6	143	283	131	0			 | WAVE OF SAUCE | MICROMETEORITE	0	0	0	0	0	0		
+4	337	true	The Upper Chamber	tomb servant	Artistic Goth Kid	 | canopic jar | ancient protein powder | secret mummy herbs and spices	395	2	24	48	30	0			 | GINGERBREAD MOB HIT	0	0	1	0	0	0		
+4	337	false	The Upper Chamber	A Wheel -- How Fortunate!	Artistic Goth Kid	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	338	true	The Upper Chamber	Iiti Kitty	Artistic Goth Kid	 | leathery cat skin | ancient Magi-Wipes | mummy wrapping	0	2	23	55	19	0			 | SHATTERING PUNCH	0	0	1	0	0	0		
+4	338	false	The Upper Chamber	Down Dooby-Doo Down Down	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	339	true	Smith 1 lump of Brituminous coal + 1 third-hand lantern	N/A	Artistic Goth Kid	 | A Light that Never Goes Out	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	339	false	The Middle Chamber	a tomb rat king!	Artistic Goth Kid	 | tomb ratchet | tomb ratchet | tomb ratchet | leathery rat skin | leathery rat skin | leathery rat skin | unidentified jerky | unidentified jerky | unidentified jerky	1139	8	30	82	35	0	 | On the Trail (40)	|tangle of rat tails	 | MACROMETEORITE | MACROMETEORITE | TRANSCENDENT OLFACTION | GALLAPAGOSIAN MATING CALL | MICROMETEORITE	0	0	0	2	0	0	 | tomb asp | a tomb servant! | a tomb rat!	
+4	340	false	The Middle Chamber	a tomb rat king!	Artistic Goth Kid	 | tomb ratchet | tomb ratchet | tomb ratchet | leathery rat skin | leathery rat skin | leathery rat skin | unidentified jerky | unidentified jerky	1262	4	33	82	33	0		|tangle of rat tails	 | MICROMETEORITE	0	0	0	0	0	0	 | tomb rat	
+4	341	false	The Middle Chamber	a tomb rat king!	Artistic Goth Kid	 | tomb ratchet | tomb ratchet | tomb ratchet | leathery rat skin | leathery rat skin | leathery rat skin | unidentified jerky | unidentified jerky	1303	4	28	90	30	0		|tangle of rat tails	 | MICROMETEORITE	0	0	0	0	0	0	 | tomb rat	
+4	342	true	The Middle Chamber	tomb asp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+4	342	true	The Middle Chamber	tomb rat	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+4	342	false	The Middle Chamber	Further Down Dooby-Doo Down Down	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	343	true	The Middle Chamber	tomb rat	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+4	343	true	The Middle Chamber	tomb rat	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+4	343	true	The Middle Chamber	tomb servant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+4	343	true	The Middle Chamber	tomb rat	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+4	343	false	The Middle Chamber	Under Control	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	344	false	The Lower Chambers	N/A	Pair of Stomping Boots	 | ancient bronze token	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	345	false	The Lower Chambers	N/A	Pair of Stomping Boots	 | ancient bomb	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	346	false	The Lower Chambers	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	347	false	The Lower Chambers	Ed the Undying	Pair of Stomping Boots	 | bag of GORF | Gathered Meat-Clip	0	2	30	75	36	0				0	0	0	0	0	0		
+4	348	false	The Lower Chambers	Ed the Undying	Pair of Stomping Boots		0	2	38	72	29	0				0	0	0	0	0	0		
+4	349	false	The Lower Chambers	Ed the Undying	Pair of Stomping Boots		0	2	35	68	28	0				0	0	0	0	0	0		
+4	350	false	The Lower Chambers	Ed the Undying	Pair of Stomping Boots		0	2	39	56	34	0				0	0	0	0	0	0		
+4	351	false	The Lower Chambers	Ed the Undying	Pair of Stomping Boots		0	2	23	68	28	0				0	0	0	0	0	0		
+4	352	false	The Lower Chambers	Ed the Undying	Pair of Stomping Boots		0	2	28	62	33	0				0	0	0	0	0	0		
+4	353	false	The Lower Chambers	Ed the Undying	Pair of Stomping Boots	 | Holy MacGuffin | handful of confetti	0	2	30	67	22	0				0	0	0	0	0	0		
+4	354	false	The Battlefield (Frat Uniform)	I Am The Brotherhood	Pair of Stomping Boots	 | perforated battle paddle | PADL Phone	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	355	false	The Battlefield (Frat Uniform)	War Hippy Green Gourmet	Pair of Stomping Boots	 | hippy paste	0	2	0	2	7	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+4	356	false	The Battlefield (Frat Uniform)	War Hippy Infantryman	Pair of Stomping Boots	 | hippy protest button	0	2	15	45	18	0				0	0	0	0	0	0		
+4	357	false	The Battlefield (Frat Uniform)	War Hippy Airborne Commander	Pair of Stomping Boots	 | purple clay bead | ferret bait | ferret bait	0	2	22	42	22	0				0	0	0	0	0	0		
+4	358	false	The Battlefield (Frat Uniform)	War Hippy Sky Captain	Pair of Stomping Boots	 | pink clay bead | bullet-proof corduroys | ferret bait | water pipe bomb	0	2	16	48	23	0				0	0	0	0	0	0		
+4	359	false	The Battlefield (Frat Uniform)	War Hippy F.R.O.G.	Pair of Stomping Boots	 | hippy paste | Gathered Meat-Clip	0	2	0	2	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+4	360	false	The Battlefield (Frat Uniform)	War Hippy Airborne Commander	Pair of Stomping Boots	 | purple clay bead | round purple sunglasses | ferret bait | ferret bait | water pipe bomb	0	2	20	53	12	0				0	0	0	0	0	0		
+4	361	true	The Battlefield (Frat Uniform)	Wooof! Wooooooof!	Pair of Stomping Boots	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	361	false	The Battlefield (Frat Uniform)	War Hippy Green Gourmet	Pair of Stomping Boots	 | pink clay bead | oversized pipe | water pipe bomb | Hippy Army MPE	0	2	14	49	25	0				0	0	0	0	0	0		
+4	362	true	Cook 23 wad of dough + 23 soda water	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	362	TRUE	CONSUME: chew 1 hippy paste	N/A	Pair of Stomping Boots		0	-1	0	0	0	7	 | Hippy Flavor (10)			0	0	0	0	0	0		
+4	362	true	greasy desk bell	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	362	false	The Battlefield (Frat Uniform)	War Hippy Elite Rigger	Pair of Stomping Boots	 | pink clay bead | wicker shield | water pipe bomb	0	2	19	48	23	0				0	0	0	0	0	0		
+4	363	false	The Battlefield (Frat Uniform)	War Hippy Baker	Pair of Stomping Boots	 | CSA obedience grenade | bullet-proof corduroys | reinforced beaded headband | hippy protest button | wicker shield | water pipe bomb	0	2	17	45	22	0				0	0	0	0	0	0		
+4	364	false	The Battlefield (Frat Uniform)	War Hippy Rigger	Pair of Stomping Boots	 | bullet-proof corduroys | round purple sunglasses | hippy protest button	0	2	25	32	19	0				0	0	0	0	0	0		
+4	365	false	The Battlefield (Frat Uniform)	Mobile Armored Sweat Lodge	Pair of Stomping Boots	 | didgeridooka	0	2	17	37	30	0				0	0	0	0	0	0		
+4	366	false	The Battlefield (Frat Uniform)	War Hippy Windtalker	Pair of Stomping Boots	 | green clay bead | communications windchimes | communications windchimes	0	2	23	44	15	0				0	0	0	0	0	0		
+4	367	false	The Battlefield (Frat Uniform)	Green Ops Soldier	Pair of Stomping Boots	 | green clay bead | gas balloon | henna face paint	0	2	20	46	20	0				0	0	0	0	0	0		
+4	368	false	The Battlefield (Frat Uniform)	War Hippy Naturopathic Homeopath	Pair of Stomping Boots	 | hippy medical kit | filthy poultice | natural fennel soda	0	2	18	51	18	0				0	0	0	0	0	0		
+4	369	false	The Battlefield (Frat Uniform)	War Hippy Elite Rigger	Pair of Stomping Boots	 | pink clay bead | oversized pipe | water pipe bomb	0	2	14	41	28	0				0	0	0	0	0	0		
+4	370	false	The Battlefield (Frat Uniform)	War Hippy Elite Rigger	Pair of Stomping Boots	 | pink clay bead | round purple sunglasses | oversized pipe | Gathered Meat-Clip	0	2	27	41	15	0				0	0	0	0	0	0		
+4	371	false	The Battlefield (Frat Uniform)	War Hippy Elite Rigger	Pair of Stomping Boots	 | pink clay bead | bullet-proof corduroys | communications windchimes | oversized pipe | water pipe bomb	0	2	17	41	27	0				0	0	0	0	0	0		
+4	372	false	The Battlefield (Frat Uniform)	War Hippy Airborne Commander	Pair of Stomping Boots	 | purple clay bead | communications windchimes | ferret bait | water pipe bomb	0	2	17	46	22	0				0	0	0	0	0	0		
+4	373	false	The Battlefield (Frat Uniform)	War Hippy Elder Shaman	Pair of Stomping Boots	 | Lockenstock&trade; sandals | carbonated soy milk | funky dried mushroom	0	2	24	45	22	0				0	0	0	0	0	0		
+4	374	true	The Battlefield (Frat Uniform)	Playing Fetch*	Pair of Stomping Boots	 | tennis ball	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	374	false	The Battlefield (Frat Uniform)	War Hippy Elite Rigger	Pair of Stomping Boots	 | pink clay bead | water pipe bomb	0	2	19	45	19	0				0	0	0	0	0	0		
+4	375	false	The Battlefield (Frat Uniform)	War Hippy Elite Fire Spinner	Pair of Stomping Boots	 | fire poi	0	2	13	44	27	0				0	0	0	0	0	0		
+4	376	false	Hippy Camp	The Big Wisniewski	Pair of Stomping Boots	 | solid gold bowling ball | Iron Beta of Industry	0	5	75	181	105	0			 | MICROMETEORITE	0	0	0	0	0	0		
+4	377	true	Combing the Beach	N/A	Pair of Stomping Boots		0	-1	0	0	0	0	 | Cold as Nice (50)			0	0	0	0	0	0		
+4	377	false	The Smut Orc Logging Camp	smut orc pipelayer	Pair of Stomping Boots	 | messy butt joint | weirdwood plank | long hard screw | freshwater pearl necklace	135	2	21	14	14	0			 | SAUCEGEYSER	0	0	0	0	0	0		
+4	378	false	The Smut Orc Logging Camp	smut orc nailer	Pair of Stomping Boots	 | thick caulk | raging hardwood plank | orcish nailing lube | stick of firewood	127	2	10	22	10	0			 | SAUCEGEYSER	0	0	0	0	0	0		
+4	379	false	The Smut Orc Logging Camp	smut orc screwer	Pair of Stomping Boots	 | long hard screw | raging hardwood plank | backwoods screwdriver	147	2	13	22	9	0			 | SAUCEGEYSER	0	0	0	0	0	0		
+4	380	true	The Smut Orc Logging Camp	Wooof! Wooooooof!	Pair of Stomping Boots		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+4	380	false	The Smut Orc Logging Camp	Blech House	Pair of Stomping Boots	 | raging hardwood plank | messy butt joint	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	381	false	The Smut Orc Logging Camp	smut orc jacker	Pair of Stomping Boots	 | weirdwood plank | messy butt joint | orc wrist | stick of firewood	136	2	8	19	8	0			 | SAUCEGEYSER	0	0	0	0	0	0		
+4	382	true	Deck of Every Card	Island	Pair of Stomping Boots	 | blue mana	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	382	true	Deck of Every Card	Ancestral Recall	Pair of Stomping Boots	 | blue mana	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	382	false	The Hole in the Sky	The Pork Sword	Pair of Stomping Boots	 | CSA cheerfulness ration | star | star | line | Gathered Meat-Clip	0	3	13	26	12	0			 | WAVE OF SAUCE | WAVE OF SAUCE	0	0	0	0	0	0		
+4	383	false	The Hole in the Sky	The Junk	Pair of Stomping Boots	 | star | line | line	0	2	19	31	7	0				0	0	0	0	0	0		
+4	384	true	Twin Peak	Welcome to the Great Overlook Lodge	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	384	true	Oil Peak	Pushin' Down on Me, Pushin' Down on You	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	384	false	Oil Peak	oil cartel	Pair of Stomping Boots	 | bubblin' crude | bubblin' crude | bubblin' crude	0	2	11	41	16	0			 | SAUCEGEYSER	0	0	0	0	0	0		
+4	385	false	Oil Peak	oil cartel	Pair of Stomping Boots	 | bubblin' crude | bubblin' crude	0	2	22	29	18	0			 | SAUCEGEYSER	0	0	0	0	0	0		
+4	386	false	Oil Peak	oil cartel	Pair of Stomping Boots	 | bubblin' crude | bubblin' crude	0	2	15	35	18	0			 | SAUCEGEYSER	0	0	0	0	0	0		
+4	387	false	Oil Peak	oil cartel	Pair of Stomping Boots	 | bubblin' crude | bubblin' crude | bubblin' crude	0	2	22	36	11	0			 | SAUCEGEYSER	0	0	0	0	0	0		
+4	388	false	Oil Peak	oil cartel	Pair of Stomping Boots	 | bubblin' crude | bubblin' crude | bubblin' crude	0	2	9	40	19	0			 | SAUCEGEYSER	0	0	0	0	0	0		
+4	389	true	Oil Peak	Wooof! Wooooooof!	Pair of Stomping Boots	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	389	false	Oil Peak	Unimpressed with Pressure	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	390	true	A-Boo Peak	Faction Traction = Inaction	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	390	true	A-Boo Peak	sausage goblin	Pair of Stomping Boots	 | magical sausage casing	288	2	100	204	115	0			 | SAUCEGEYSER	0	0	0	0	0	0		
+4	390	true	Twin Peak	Mismatched Twins	Pair of Stomping Boots		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+4	390	false	Twin Peak	He Is the Arm, and He Sounds Like This	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	391	false	Twin Peak	Synecdoche, Twin Peak	Cat Burglar	 | miniature boiler	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	392	true	Twin Peak	the Big Wheelin' Twins	Cat Burglar		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+4	392	false	Twin Peak	Go Check It Out!	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	393	true	Twin Peak	Creepy Ginger Twin	Cat Burglar		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+4	393	TRUE	HEIST: Stealing an item!	N/A	Cat Burglar	 | rusty hedge trimmers	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	393	false	Twin Peak	bearpig topiary animal	Cat Burglar	 | pestopiary	12	2	18	25	14	0				0	0	0	0	0	0		
+4	394	false	rusty hedge trimmers	Room 237	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	395	false	Twin Peak	bearpig topiary animal	Cat Burglar	 | rusty hedge trimmers | pestopiary	12	2	11	25	9	0	 | Everything Looks Yellow (100)		 | DISINTEGRATE	0	0	0	0	0	0		
+4	396	true	rusty hedge trimmers	Now It's Dark	Cat Burglar	 | gold wedding ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	396	false	A-Boo Peak	Dusken Raider Ghost	Cat Burglar	 | psychokinetic energy blob | A-Boo clue | Duskwalker syringe | ectoplasmic orbs	12	3	12	18	7	0			 | MICROMETEORITE	0	0	0	0	0	0		
+4	397	false	A-Boo Peak	Dusken Raider Ghost	Cat Burglar	 | psychokinetic energy blob | A-Boo clue | Duskwalker syringe | Duskwalker fangs | ectoplasmic orbs	15	3	3	25	6	0			 | MICROMETEORITE	0	0	0	0	0	0		
+4	398	false	A-Boo Peak	Whatsian Commando Ghost	Cat Burglar	 | psychokinetic energy blob | A-Boo clue | T.U.R.D.S. Key | Whatsian Ionic Pliers | Gathered Meat-Clip	14	3	8	22	4	0			 | MICROMETEORITE	0	0	0	0	0	0		
+4	399	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	399	true	The Tunnel of L.O.V.E.	LOV Enforcer	Cat Burglar		11	3	48	152	68	0			 | SAUCEGEYSER | SAUCEGEYSER	0	0	0	0	0	0		
+4	399	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	399	true	The Tunnel of L.O.V.E.	LOV Engineer	Cat Burglar	 | LOV Earrings	12	9	64	141	67	0			 | SAUCEGEYSER | SAUCEGEYSER | MICROMETEORITE	0	0	0	0	0	0		
+4	399	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	399	true	The Tunnel of L.O.V.E.	LOV Equivocator	Cat Burglar		14	9	65	131	76	0	 | Open Heart Surgery (50)		 | MICROMETEORITE | SAUCEGEYSER	0	0	0	0	0	0		
+4	399	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	Cat Burglar	 | LOV Extraterrestrial Chocolate	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	399	false	A-Boo Peak	The Horror...	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	400	false	A-Boo Peak	The Horror...	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	401	false	A-Boo Peak	The Horror...	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	402	false	A-Boo Peak	Space Tourist Explorer Ghost	Cat Burglar	 | psychokinetic energy blob | Space Tours Tripple	15	2	5	19	5	0				0	0	0	0	0	0		
+4	403	false	A-Boo Peak	Come On Ghosty, Light My Pyre	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	404	false	Fastest Adventurer Contest	The Tasmanian Dervish	Cat Burglar		13	6	20	47	20	0			 | MICROMETEORITE | SAUCEGEYSER	0	0	0	0	0	0		
+4	405	false	Smoothest Adventurer Contest	Seannery the Conman	Cat Burglar	 | leather glove	14	2	14	33	12	0			 | SAUCEGEYSER	0	0	0	0	0	0		
+4	406	false	Sleaziest Adventurer Contest	Leonard	Mu	 | CSA discount card | Leonard's glasses	11	2	10	37	13	0			 | SAUCEGEYSER	0	0	0	0	0	0		
+4	407	false	The Hedge Maze	'Allo	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	408	false	The Hedge Maze	Pooling Your Resources	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	409	false	The Hedge Maze	Of Mouseholes and Manholes	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	410	false	The Hedge Maze	Mazel Tov!	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	411	true	Tower Door	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	411	true	Tower Door	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	411	false	The Naughty Sorceress' Tower	wall of skin	Mu		0	4	0	0	0	0			 | BELCH THE RAINBOW | BELCH THE RAINBOW | BELCH THE RAINBOW	0	0	0	0	0	0		
+4	412	true	Boxing Daycare	Enter the Boxing Daycare	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	412	true	Cook 15 wad of dough + 15 soda water	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	412	true	Rest in your bed in the Chateau	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	412	true	Rest in your bed in the Chateau	N/A	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	412	true	Rest in your bed in the Chateau	N/A	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	412	true	Rest in your bed in the Chateau	N/A	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	412	true	Rest in your bed in the Chateau	N/A	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	412	true	Rest in your bed in the Chateau	N/A	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	412	true	Rest in your bed in the Chateau	N/A	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	412	true	Rest in your bed in the Chateau	N/A	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	412	true	Inside the Palindome	Emily Koops, a spooky lime	Fist Turkey	 | psychokinetic energy blob (5) | Liam's mail | Ambitious Turkey	0	6	28	38	23	0			 | SUMMON LOVE GNATS | SHOOT GHOST | SHOOT GHOST | SHOOT GHOST | TRAP GHOST	0	0	0	0	0	0		
+4	412	true	Your Witchess Set	Play against the Witchess Pieces	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	412	true	Your Witchess Set	Witchess Bishop	Fist Turkey	 | Sacramento wine | Ambitious Turkey	256	4	50	114	45	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO	0	0	0	0	0	0		
+4	412	true	Your Witchess Set	Play against the Witchess Pieces	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	412	true	Your Witchess Set	Witchess Bishop	Fist Turkey	 | Sacramento wine	0	3	45	121	43	0			 | MICROMETEORITE | SUMMON LOVE MOSQUITO	0	0	0	0	0	0		
+4	412	true	Your Witchess Set	Play against the Witchess Pieces	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	412	true	Your Witchess Set	Witchess Bishop	Fist Turkey	 | Sacramento wine	0	4	59	106	45	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO	0	0	0	0	0	0		
+4	412	true	Your Witchess Set	Play against the Witchess Pieces	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	412	true	Your Witchess Set	Witchess Bishop	Fist Turkey	 | Sacramento wine	0	3	43	117	50	0			 | MICROMETEORITE | SUMMON LOVE MOSQUITO	0	0	0	0	0	0		
+4	412	true	Your Witchess Set	Play against the Witchess Pieces	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	412	true	Your Witchess Set	Witchess Bishop	Fist Turkey	 | Sacramento wine	0	4	42	133	42	0		|Time-Spinner	 | MICROMETEORITE | SUMMON LOVE MOSQUITO	0	0	0	0	0	0		
+4	412	true	Dr. Gordon Stuart's Science Tent	Eldritch Tentacle named Lblglssssssssblrggl	Fist Turkey	 | eldritch effluvium | eldritch effluvium | eldritch effluvium	0	3	28	90	29	0			 | UTENSIL TWIST | UTENSIL TWIST	0	0	0	0	0	0		
+4	412	true	Evoke Eldritch Horror	Sssshhsssblllrrggghsssssggggrrgglsssshhssslblgl	Fist Turkey	 | eldritch effluvium (2)	0	6	0	0	0	0		|Time-Spinner	 | CHEST X-RAY | SHATTERING PUNCH | MICROMETEORITE | SUMMON LOVE MOSQUITO	0	0	2	0	0	0		
+4	412	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Warbear Drone		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	412	false	The Naughty Sorceress' Tower	wall of skin	Warbear Drone		0	4	0	0	0	0			 | BELCH THE RAINBOW | BELCH THE RAINBOW | BELCH THE RAINBOW	0	0	0	0	0	0		
+4	413	true	Your Witchess Set	Witchess Puzzles	Mu		0	-1	0	0	0	0	 | Puzzle Champ (25)			0	0	0	0	0	0		
+4	413	false	The Naughty Sorceress' Tower	wall of skin	Mu		0	4	0	0	0	0			 | HEADBUTT | HEADBUTT | HEADBUTT	0	0	0	0	0	0		
+4	414	false	The Naughty Sorceress' Tower	wall of skin	Mu		0	5	23	19	20	0			 | HEADBUTT | HEADBUTT | SHELL UP | HEADBUTT	0	0	0	0	0	0		
+4	415	false	The Naughty Sorceress' Tower	wall of meat	Mu		1717	4	15	33	25	0			 | MICROMETEORITE | SAUCEGEYSER | SAUCEGEYSER	0	0	0	0	0	0		
+4	416	false	The Naughty Sorceress' Tower	wall of bones	Mu		0	2	94	169	74	0		|electric boning knife		0	0	0	0	0	0		
+4	417	false	The Castle in the Clouds in the Sky (Basement)	You Never Know What You're Gonna Find	Mu	 | ruby W | metallic A | lowercase N | original G | heavy D	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	418	true	The Naughty Sorceress' Tower	The Mirror in the Tower has the View that is True	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	418	false	The Naughty Sorceress' Tower	Shadow Pastamancer	Mu		0	3	67	142	71	0		|gauze garter|gauze garter|gauze garter|gauze garter		0	0	0	0	0	0		
+4	419	false	The Naughty Sorceress' Chamber	The Naughty Sorceress	Mu		0	8	0	2	0	0			 | MICROMETEORITE	0	0	0	0	0	0		
+4	420	true	The Naughty Sorceress' Chamber	The Naughty Sorceress (2)	Mu		0	14	0	8	0	0			 | MICROMETEORITE | CURSE OF WEAKSAUCE	0	0	0	0	0	0		
+4	420	true	The Naughty Sorceress' Chamber	The Naughty Sorceress (3)	Mu	 | Breathetastic&trade; Premium Canned Air (3) | plexiglass pocketwatch | Special Seasoning	0	1	128	310	120	0				0	0	0	0	0	0		
+4	420	true	Boxing Daycare	Enter the Boxing Daycare	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	420	true	Boxing Daycare	Enter the Boxing Daycare	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	420	true	Boxing Daycare	Enter the Boxing Daycare	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	420	false	Boxing Daycare	Enter the Boxing Daycare	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		

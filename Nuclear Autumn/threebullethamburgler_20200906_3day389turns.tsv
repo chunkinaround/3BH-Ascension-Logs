@@ -1,0 +1,936 @@
+day	turnSpent	free?	location	encounterName	familiar	items	meat	rounds	mus	mys	mox	advsGained	effectsGained	itemsUsed	skillsUsed	freeRun?	banish	freeKill	sniff	spit	copy	macroFrom	
+1	1	true	Boxing Daycare	Have a Boxing Daydream	Ms. Puck Man	 | body spradium	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Deck of Every Card	N/A	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Haunted Pantry	sausage goblin	Mu	 | rad	0	2	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Enforcer	Mu	 | tombstone-shaped Crimboween cookie | rad	0	3	9	9	24	0			 | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Engineer	Mu	 | LOV Eardigan | ten-leaf clover | rad	0	3	19	14	12	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Equivocator	Mu	 | rad	0	4	9	21	37	0	 | Lovebotamy (50)			0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	Mu	 | LOV Enamorang	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	false	The Thinknerd Warehouse	Thinknerd Moving Robot	Melodramedary	 | rad | returned Thinknerd package	0	4	19	11	36	0		|exploding cigar		0	0	0	0	0	0		
+1	2	true	The Spooky Forest	angry ghost	Melodramedary	 | psychokinetic energy blob | rad | moosemeat pie	0	3	0	0	0	0		|exploding cigar		0	0	0	0	0	0		
+1	2	true	Deck of Every Card	VI - The Lovers	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	2	false	The Thinknerd Warehouse	Thinknerd Sorting Robot	Melodramedary	 | occult jelly donut | rad | Gathered Meat-Clip	0	2	21	15	31	0				0	0	0	0	0	0		
+1	3	false	The Thinknerd Warehouse	Thinknerd Moving Robot	Melodramedary	 | rad	0	2	23	19	31	0				0	0	0	0	0	0		
+1	4	false	The Thinknerd Warehouse	Thinknerd Packing Robot	Melodramedary	 | rad	0	2	19	14	42	0				0	0	0	0	0	0		
+1	5	false	The Thinknerd Warehouse	Thinknerd Sorting Robot	Melodramedary	 | rad	0	2	19	20	35	0				0	0	0	0	0	0		
+1	6	true	The Thinknerd Warehouse	Wooof! Wooooooof!	Melodramedary	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	6	false	The Thinknerd Warehouse	Thinknerd Packing Robot	Melodramedary	 | robot grease | rad | returned Thinknerd package	0	2	10	20	44	0				0	0	0	0	0	0		
+1	7	false	The Thinknerd Warehouse	Thinknerd Sorting Robot	Melodramedary	 | rad	0	2	14	18	39	0				0	0	0	0	0	0		
+1	8	false	The Thinknerd Warehouse	Inspecting Some Packages, Heh Heh	Melodramedary	 | Thinknerd Blind-Packed Toy	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	9	false	The Thinknerd Warehouse	Thinknerd Moving Robot	Melodramedary	 | rad | robot grease | rad	0	2	14	22	39	0				0	0	0	0	0	0		
+1	10	true	The Spooky Forest	sausage goblin	Melodramedary	 | Source essence (2) | magical sausage casing | rad	94	3	22	25	49	0			 | EXTRACT	0	0	0	0	0	0		
+1	10	false	The Thinknerd Warehouse	Thinknerd Sorting Robot	Melodramedary	 | robot grease | rad	0	2	15	29	38	0				0	0	0	0	0	0		
+1	11	false	The Thinknerd Warehouse	Thinknerd Packing Robot	Melodramedary	 | rad	0	2	19	15	42	0				0	0	0	0	0	0		
+1	12	false	The Thinknerd Warehouse	Thinknerd Packing Robot	Melodramedary	 | rad	0	2	18	18	41	0				0	0	0	0	0	0		
+1	13	false	The Thinknerd Warehouse	Thinknerd Packing Robot	Melodramedary	 | rad | rad	0	2	20	14	40	0				0	0	0	0	0	0		
+1	14	false	The Thinknerd Warehouse	Thinknerd Packing Robot	Melodramedary	 | rad | returned Thinknerd package | Gathered Meat-Clip	0	2	19	18	37	0				0	0	0	0	0	0		
+1	15	false	The Thinknerd Warehouse	Picking a Package to Pack	Melodramedary		300	-1	0	0	0	0				0	0	0	0	0	0		
+1	16	false	The Thinknerd Warehouse	Thinknerd Moving Robot	Melodramedary	 | rad | robot grease | rad	0	2	21	19	32	0				0	0	0	0	0	0		
+1	17	false	The Thinknerd Warehouse	Thinknerd Packing Robot	Melodramedary	 | rad	0	2	19	18	35	0				0	0	0	0	0	0		
+1	18	false	The Thinknerd Warehouse	Thinknerd Sorting Robot	Melodramedary	 | rad	0	2	14	15	44	0				0	0	0	0	0	0		
+1	19	false	The Thinknerd Warehouse	Thinknerd Sorting Robot	Melodramedary	 | rad	0	2	30	13	38	0				0	0	0	0	0	0		
+1	20	false	The Thinknerd Warehouse	Thinknerd Sorting Robot	Melodramedary	 | rad	0	2	26	23	29	0				0	0	0	0	0	0		
+1	21	false	The Thinknerd Warehouse	Thinknerd Moving Robot	Melodramedary	 | rad | returned Thinknerd package	0	2	17	23	31	0				0	0	0	0	0	0		
+1	22	false	The Thinknerd Warehouse	A Heapigng Helpigng of Melvign	Melodramedary	 | Professor What garment	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	23	true	The Neverending Party	N/A	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	23	true	The Neverending Party	jock	Melodramedary	 | unremarkable duffel bag | Purple Beast energy drink | shoe ad T-shirt | rad	234	2	41	44	108	0				0	0	0	0	0	0		
+1	23	true	Boxing Daycare	Visit the Boxing Day Spa	Melodramedary		0	-1	0	0	0	0	 | Ten out of Ten (100)			0	0	0	0	0	0		
+1	23	true	Combing the Beach	N/A	Melodramedary		0	-1	0	0	0	0	 | Pomp & Circumsands (50)			0	0	0	0	0	0		
+1	23	true	The Neverending Party	burnout	Melodramedary	 | rad	77	2	76	79	215	0				0	0	0	0	0	0		
+1	23	true	The Spooky Forest	sausage goblin	Melodramedary	 | magical sausage casing | rad	106	2	87	79	218	0				0	0	0	0	0	0		
+1	23	true	The X-32-F Combat Training Snowman	Is This Thing On?  (No.)	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	23	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | rad | agua de vida	0	2	17	9	67	0				0	0	0	0	0	0		
+1	23	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | rad | hot wing | rad	0	2	14	25	58	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	23	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | rad	0	2	19	17	72	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	23	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | Ludovico Pastaco | rad	0	2	22	19	70	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	23	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | extra-spicy bloody mary | red-hot sausage fork | rad | agua de vida	0	2	17	11	87	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	23	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | morning dew | rad	0	2	17	17	96	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	23	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | iced plum wine | rad | agua de vida	0	2	30	22	85	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	23	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | rad	0	2	33	30	87	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	23	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | rad	0	2	21	41	96	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	23	true	The X-32-F Combat Training Snowman	mutant X-32-F Combat Training Snowman	Baby Sandworm	 | rad	0	2	41	22	120	0	 | Bad Haircut (1)			0	0	0	0	0	0		
+1	23	true	The Deep Machine Tunnels	Revolver of Devices	Machine Elf	 | rad	23	2	0	0	15	0				0	0	0	0	0	0		
+1	23	true	The Deep Machine Tunnels	Sufferer of Smells	Machine Elf	 | rad | Deep Machine Tunnels snowglobe	0	2	0	7	0	0				0	0	0	0	0	0		
+1	23	true	The Deep Machine Tunnels	Facilitator of Progressions	Machine Elf	 | rad | rad	28	2	0	4	5	0				0	0	0	0	0	0		
+1	23	true	The Deep Machine Tunnels	Conceiver of Notions	Machine Elf	 | rad	26	2	5	0	0	0				0	0	0	0	0	0		
+1	23	true	The Deep Machine Tunnels	Revolver of Mechanisms	Machine Elf	 | rad	0	2	5	0	5	0				0	0	0	0	0	0		
+1	23	true	The Neverending Party	&quot;plain&quot; girl	Machine Elf	 | PB&J with the crusts cut off | rad | abstraction: thought	156	2	85	138	218	0				0	0	0	0	0	0		
+1	23	true	The Neverending Party	party girl	Machine Elf	 | rad | very small red dress | rad | abstraction: purpose	165	2	125	87	251	0				0	0	0	0	0	0		
+1	23	true	The Neverending Party	biker	Machine Elf	 | rad | Ben-Gal&trade; Balm | Middle of the Road&trade; brand whiskey | pentagram bandana | rad | abstraction: category | Evilometer | strange leaflet	164	2	114	103	256	0				0	0	0	0	0	0		
+1	23	true	The Neverending Party	&quot;plain&quot; girl	Machine Elf	 | electronics kit | PB&J with the crusts cut off | rad | abstraction: thought	125	2	112	111	253	0				0	0	0	0	0	0		
+1	23	true	The Neverending Party	biker	Machine Elf	 | rad | gas can | rad	155	2	107	119	284	0				0	0	0	0	0	0		
+1	23	true	The Neverending Party	Basement Urges	Machine Elf		0	-1	0	0	0	0	 | The Best Hair You've Ever Had (20)			0	0	0	0	0	0		
+1	23	true	The Neverending Party	burnout	Machine Elf	 | jam band bootleg | denim jacket | rad	99	2	123	100	317	0				0	0	0	0	0	0		
+1	23	true	The Neverending Party	&quot;plain&quot; girl	Machine Elf	 | rad | abstraction: thought	161	2	119	100	317	0				0	0	0	0	0	0		
+1	23	false	The Spooky Forest	triffid	Artistic Goth Kid	 | ant agonist | spooky stick | rad	0	2	11	17	80	0				0	0	0	0	0	0		
+1	24	true	The Spooky Forest	Black Crayon Flower	Artistic Goth Kid	 | rad | crayon shavings | rad	0	2	133	115	330	0				0	0	0	0	0	0		
+1	24	true	The Outskirts of Cobb's Knob	angry ghost	Artistic Goth Kid	 | psychokinetic energy blob | rad | ghostly ectoplasm | rad	0	2	106	108	373	0				0	0	0	0	0	0		
+1	24	true	Combing the Beach	N/A	Melodramedary		0	-1	0	0	0	0	 | A Brush with Grossness (50)			0	0	0	0	0	0		
+1	24	true	Combing the Beach	N/A	Melodramedary		0	-1	0	0	0	0	 | Hot-Headed (50)			0	0	0	0	0	0		
+1	24	false	The Haunted Kitchen	skullery maid	Melodramedary	 | rad	26	2	15	13	38	0				0	0	0	0	0	0		
+1	25	false	The Haunted Kitchen	possessed silverware drawer	Melodramedary	 | corn holder | rad	0	2	16	18	32	0				0	0	0	0	0	0		
+1	26	false	The Haunted Kitchen	zombie chef	Melodramedary	 | sleaze powder | stale baguette | zombie hollandaise | rad	29	2	24	7	37	0				0	0	0	0	0	0		
+1	27	true	The Haunted Kitchen	sausage goblin	Melodramedary	 | rad | spooky powder | magical sausage casing | rad	86	2	76	52	185	0				0	0	0	0	0	0		
+1	27	false	The Haunted Kitchen	possessed silverware drawer	Melodramedary	 | rad | Gathered Meat-Clip	0	2	12	7	48	0				0	0	0	0	0	0		
+1	28	false	The Haunted Kitchen	paper towelgeist	Melodramedary	 | stench powder | antique packet of ketchup | rad	0	2	16	14	38	0				0	0	0	0	0	0		
+1	29	TRUE	CONSUME: drink 1 iced plum wine	N/A	Melodramedary		0	-1	0	0	0	14				0	0	0	0	0	0		
+1	29	TRUE	CONSUME: drink 1 splendid martini	N/A	Melodramedary		0	-1	0	0	0	10	 | Items Are Forever (40)			0	0	0	0	0	0		
+1	29	false	The Haunted Kitchen	zombie chef	Melodramedary	 | Spookyraven billiards room key | stale baguette | bottle of cooking sherry | zombie hollandaise | rad	34	2	15	18	32	0				0	0	0	0	0	0		
+1	30	false	The Haunted Billiards Room	pooltergeist	Melodramedary	 | 1-ball | 6-ball | 7-ball | rad	14	2	16	15	42	0				0	0	0	0	0	0		
+1	31	false	The Haunted Billiards Room	chalkdust wraith	Melodramedary	 | psychokinetic energy blob | handful of hand chalk | white pixel | rad	15	2	15	11	50	0				0	0	0	0	0	0		
+1	32	false	The Haunted Billiards Room	pooltergeist	XO Skeleton	 | 8-ball | 2-ball | 5-ball | 6-ball | rad | X	12	2	12	17	37	0				0	0	0	0	0	0		
+1	33	false	The Haunted Billiards Room	pooltergeist	XO Skeleton	 | 1-ball | rad	11	2	12	11	33	0				0	0	0	0	0	0		
+1	34	false	The Haunted Billiards Room	That's Your Cue	XO Skeleton	 | pool cue	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	35	true	The Outskirts of Cobb's Knob	angry ghost	XO Skeleton	 | psychokinetic energy blob | ghostly ectoplasm | blue pixel | rad	39	4	72	67	147	0		|gas can		0	0	0	0	0	0		
+1	35	false	The Haunted Billiards Room	pooltergeist	XO Skeleton	 | rad | 3-ball | 6-ball | rad	10	2	16	20	32	0				0	0	0	0	0	0		
+1	36	false	The Haunted Billiards Room	chalkdust wraith	XO Skeleton	 | psychokinetic energy blob | handful of hand chalk | rad	11	2	18	13	32	0				0	0	0	0	0	0		
+1	37	true	The Haunted Billiards Room	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	37	false	The Haunted Billiards Room	chalkdust wraith	XO Skeleton	 | psychokinetic energy blob | handful of hand chalk | green pixel | rad | O	13	2	16	11	40	0				0	0	0	0	0	0		
+1	38	false	The Haunted Billiards Room	pooltergeist	XO Skeleton	 | rad	15	2	25	6	38	0				0	0	0	0	0	0		
+1	39	false	The Haunted Billiards Room	Welcome To Our ool Table	XO Skeleton	 | Spookyraven library key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	40	true	The Haunted Library	bookbat	XO Skeleton		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	40	true	Chateau Painting	Black Crayon Crimbo Elf	XO Skeleton	 | Source essence | crayon shavings | rad	10	4	76	61	180	0			 | DIGITIZE | EXTRACT	0	0	0	0	0	1		
+1	40	false	The Haunted Library	writing desk	XO Skeleton	 | inkwell | snifter of thoroughly aged brandy | green pixel | rad | Gathered Meat-Clip	10	2	13	14	43	0				0	0	0	0	0	0		
+1	41	true	The Haunted Library	Take a Look, it's in a Book!	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	41	false	The Haunted Library	mutant banshee librarian	XO Skeleton	 | killing jar | psychokinetic energy blob | rad | X	12	3	16	11	47	0			 | HUGS AND KISSES	0	0	0	0	0	0		
+1	42	false	The Haunted Library	writing desk	XO Skeleton	 | inkwell | rad	14	2	10	10	48	0				0	0	0	0	0	0		
+1	43	true	The Haunted Library	banshee librarian	XO Skeleton		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	43	false	The Haunted Library	writing desk	XO Skeleton	 | rad | disintegrating quill pen | inkwell | green pixel | rad	11	2	17	11	40	0				0	0	0	0	0	0		
+1	44	false	The Haunted Library	writing desk	XO Skeleton	 | snifter of thoroughly aged brandy | green pixel | rad	13	2	21	11	29	0				0	0	0	0	0	0		
+1	45	true	The Haunted Library	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	45	false	The Haunted Library	writing desk	XO Skeleton	 | white pixel | rad | Lady Spookyraven's necklace	15	2	23	11	35	0				0	0	0	0	0	0		
+1	46	true	The Outskirts of Cobb's Knob	mutant sausage goblin	XO Skeleton	 | rad | magical sausage casing | white pixel | rad | O	111	2	76	46	106	0				0	0	0	0	0	0		
+1	46	false	The Outskirts of Cobb's Knob	Knob Goblin Barbecue Team	XO Skeleton	 | bowl of cottage cheese | Knob Goblin tongs | Knob Goblin pants | rad	26	2	5	9	38	0				0	0	0	0	0	0		
+1	47	true	The Outskirts of Cobb's Knob	Black Crayon Crimbo Elf	XO Skeleton	 | crayon shavings | blue pixel | rad	37	2	61	54	108	0				0	0	0	0	0	0		
+1	47	true	Deck of Every Card	Ancestral Recall	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	47	true	Deck of Every Card	XVI - The Tower	Pocket Professor	 | Sneaky Pete's key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	47	true	Deck of Every Card	1952 Mickey Mantle	Pocket Professor	 | 1952 Mickey Mantle card	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	47	true	Deck of Every Card	Mountain	Pocket Professor	 | red mana	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	47	true	Deck of Every Card	Three of Cups	Pocket Professor	 | bottle of Ooze-O | Cursed Punch | green beer	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	47	true	Deck of Every Card	Four of Wands	Pocket Professor		0	-1	0	0	0	0	 | Ponderous Potency (5) | Sugar, Hello (5) | Just the Brown Ones (5) | Burning Ears (5)			0	0	0	0	0	0		
+1	47	false	Guano Junction	How I Wonder What You're At	Pocket Professor	 | sonar-in-a-biscuit | sonar-in-a-biscuit	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	48	true	The Beanbat Chamber	a beanbat!	Pocket Professor	 | enchanted bean | sonar-in-a-biscuit	0	0	0	0	0	0			 | CHEAT CODE: REPLACE ENEMY | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0	 | musical fruit bat	
+1	48	false	The Goatlet	mutant dairy goat	Pocket Professor	 | rad | goat cheese | rad	93	2	20	25	37	0				0	0	0	0	0	0		
+1	49	true	The Goatlet	drunk goat	Pocket Professor		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	49	false	The Goatlet	a dairy goat!	Pocket Professor	 | goat cheese | rad	90	3	12	18	37	0			 | CHEAT CODE: REPLACE ENEMY	0	0	0	0	0	0	 | sabre-toothed goat	
+1	50	false	The Goatlet	dairy goat	Pocket Professor	 | goat cheese | glass of goat's milk | blue pixel | rad	96	2	15	21	40	0				0	0	0	0	0	0		
+1	51	false	The Boss Bat's Lair	beefy bodyguard bat	Cat Burglar	 | rad	670	2	13	14	15	0				0	0	0	0	0	0		
+1	52	false	The Boss Bat's Lair	beefy bodyguard bat	Cat Burglar	 | rad (2) | Gathered Meat-Clip	590	2	10	7	24	0				0	0	0	0	0	0		
+1	53	false	The Boss Bat's Lair	mutant beefy bodyguard bat	Cat Burglar	 | rad | rad (2)	744	2	13	7	24	0				0	0	0	0	0	0		
+1	54	false	The Boss Bat's Lair	beefy bodyguard bat	Cat Burglar	 | rad (2)	684	2	7	11	22	0				0	0	0	0	0	0		
+1	55	false	The Boss Bat's Lair	beefy bodyguard bat	Cat Burglar	 | rad | beefy pill | rad (2)	636	2	8	9	25	0				0	0	0	0	0	0		
+1	56	true	The Boss Bat's Lair	Wooof! Wooooooof!	Cat Burglar	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	56	false	The Boss Bat's Lair	The Boss Bat	Cat Burglar	 | rad | dense meat stack | batskin belt | rad (2)	13	2	8	13	24	0				0	0	0	0	0	0		
+1	57	true	The Spooky Forest	The Headless Horseman	Pair of Stomping Boots	 | psychokinetic energy blob (4) | ghostly reins | rad (2)	10	5	15	9	43	0			 | SHOOT GHOST | SHOOT GHOST | SHOOT GHOST | TRAP GHOST	0	0	0	0	0	0		
+1	57	true	The Spooky Forest	spooky vampire	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	57	false	The Spooky Forest	Consciousness of a Stream	Pair of Stomping Boots	 | mosquito larva	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	58	TRUE	CONSUME: eat 3 magical sausage	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	58	true	The Spooky Forest	warwelf	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	58	true	The Penultimate Fantasy Airship	The Beginning of the End of the Penultimate Fantasy	Reanimated Reanimator		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	58	true	The Penultimate Fantasy Airship	sausage goblin	Reanimated Reanimator	 | magical sausage casing | red pixel | rad (2)	126	3	50	45	119	0			 | WINK AT	0	0	0	0	0	1		
+1	58	false	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	Cat Burglar	 | cocoa eggshell fragment | rad (2)	374	2	23	14	32	0				0	0	0	0	0	0		
+1	59	false	The Penultimate Fantasy Airship	Random Lack of an Encounter	Cat Burglar	 | model airship	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	60	TRUE	CONSUME: eat 1 jumping horseradish	N/A	Cat Burglar		0	-1	0	0	0	11	 | Kicked in the Sinuses (50)			0	0	0	0	0	0		
+1	60	false	The Penultimate Fantasy Airship	Protagonist	Cat Burglar	 | super-spiky hair gel | phonics down | rad (2)	233	2	21	11	32	0				0	0	0	0	0	0		
+1	61	TRUE	CONSUME: eat 1 jumping horseradish	N/A	Cat Burglar		0	-1	0	0	0	12	 | Kicked in the Sinuses (50)			0	0	0	0	0	0		
+1	61	true	Time-Spinner	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	61	TRUE	CONSUME: eat 1 jumping horseradish	N/A	Cat Burglar		0	-1	0	0	0	12	 | Kicked in the Sinuses (50)			0	0	0	0	0	0		
+1	61	true	Time-Spinner	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	61	false	The Penultimate Fantasy Airship	Spunky Princess	Cat Burglar	 | titanium assault umbrella | tiny house | cocoa eggshell fragment | blue pixel | rad (2)	458	2	23	13	28	0				0	0	0	0	0	0		
+1	62	false	The Penultimate Fantasy Airship	Gesundheitgeist!	Cat Burglar	 | Tissue Paper Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	63	true	The Penultimate Fantasy Airship	sausage goblin	Cat Burglar	 | rad | magical sausage casing | rad (2)	288	2	50	46	112	0				0	0	0	0	0	0		
+1	63	TRUE	CONSUME: chew 1 body spradium	N/A	Pair of Stomping Boots		500	-1	0	0	0	0	 | Boxing Day Glow (100)			0	0	0	0	0	0		
+1	63	true	Combing the Beach	N/A	Pair of Stomping Boots		0	-1	0	0	0	0	 | Do I Know You From Somewhere? (50)			0	0	0	0	0	0		
+1	63	false	The Spooky Forest	Consciousness of a Stream	Pair of Stomping Boots	 | tree-holed coin	300	-1	0	0	0	0				0	0	0	0	0	0		
+1	64	false	The Spooky Forest	O Lith, Mon	Pair of Stomping Boots	 | Spooky Temple map	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	65	false	The Spooky Forest	Tree's Last Stand	Pair of Stomping Boots	 | spooky sapling	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	66	false	The Dark Heart of the Woods	Moon Over the Dark Heart	Pair of Stomping Boots	 | hot plate	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	67	true	The Penultimate Fantasy Airship	Black Crayon Crimbo Elf	Pocket Professor		0	3	0	0	5	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	67	true	The Penultimate Fantasy Airship	Black Crayon Crimbo Elf	Pocket Professor	 | rad | crayon shavings | rad (2)	14	3	75	60	92	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	67	true	The Penultimate Fantasy Airship	Black Crayon Crimbo Elf	Pocket Professor	 | crayon shavings | rad (2)	11	3	64	60	95	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	67	true	The Penultimate Fantasy Airship	Black Crayon Crimbo Elf	Pocket Professor		0	2	0	0	0	0				0	0	0	0	0	0		
+1	67	true	The Penultimate Fantasy Airship	Quiet Healer	Pocket Professor	 | amulet of extreme plot significance | scroll of drastic healing | soft green echo eyedrop antidote	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+1	67	true	The Penultimate Fantasy Airship	Burly Sidekick	Pocket Professor	 | Mohawk wig | cocoa eggshell fragment | tiny house | armgun	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+1	67	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pocket Professor	 | rad | metallic A | photoprotoneutron torpedo | oversized pizza cutter | magilaser blastercannon | rad (2)	11	2	18	22	40	0				0	0	0	0	0	0		
+1	68	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | magical sausage casing | rad (2)	215	3	55	63	116	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	68	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | magical sausage casing | rad (2)	200	3	55	59	114	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	68	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | rad | magical sausage casing | rad (2)	212	3	53	56	121	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	68	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor		0	2	0	0	0	0				0	0	0	0	0	0		
+1	68	true	The Defiled Niche	Urning Your Keep	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	68	true	God Lobster	the God Lobster	God Lobster	 | rad (2)	0	2	58	42	98	0				0	0	0	0	0	0		
+1	68	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	68	true	God Lobster	mutant God Lobster	God Lobster	 | rad (2)	0	2	61	45	93	0				0	0	0	0	0	0		
+1	68	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	68	true	God Lobster	the God Lobster	God Lobster	 | rad (2)	0	2	68	49	93	0				0	0	0	0	0	0		
+1	68	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	68	TRUE	CONSUME: drink 1 astral pilsner	N/A	Melodramedary		0	-1	0	0	0	22				0	0	0	0	0	0		
+1	68	true	The Shore, Inc. Travel Agency	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	68	false	The Penultimate Fantasy Airship	Don't Chew on That Spirit!	Pair of Stomping Boots	 | Tin Foil Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	69	true	The Penultimate Fantasy Airship	Quiet Healer	Pair of Stomping Boots		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	69	false	The Penultimate Fantasy Airship	The Most Absorbent Spirit Ever	Pair of Stomping Boots	 | Gauze Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	70	false	The Penultimate Fantasy Airship	mutant MagiMechTech MechaMech	Pair of Stomping Boots	 | rad | metallic A | glowing red eye | photoprotoneutron torpedo | rad (2)	10	2	12	15	57	0				0	0	0	0	0	0		
+1	71	false	The Penultimate Fantasy Airship	Rip Rop Wrappety Do	Pair of Stomping Boots	 | Plastic Wrap Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	72	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pair of Stomping Boots	 | metallic A | photoprotoneutron torpedo | rad (2)	11	2	10	23	38	0				0	0	0	0	0	0		
+1	73	false	The Outskirts of Cobb's Knob	Lunchboxing	Pair of Stomping Boots	 | Knob Goblin lunchbox	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	74	true	The Penultimate Fantasy Airship	Wooof! Wooooooof!	Pair of Stomping Boots	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	74	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pair of Stomping Boots	 | metallic A | glowing red eye | photoprotoneutron torpedo | rad (2) | Nightmare Fuel	15	2	20	21	35	0				0	0	0	0	0	0		
+1	75	true	The Dark Elbow of the Woods	Demoninja	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	75	false	The Dark Elbow of the Woods	Deep Imp Act	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	76	false	The Dark Elbow of the Woods	Imp Art, Some Wisdom	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	77	true	The Dark Elbow of the Woods	G imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	77	true	The Dark Elbow of the Woods	L imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	77	false	The Dark Elbow of the Woods	A Secret, But Not the Secret You're Looking For	Pair of Stomping Boots	 | bottle of vodka | bottle of rum | bottle of whiskey	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	78	true	The Dark Elbow of the Woods	sausage goblin	Pair of Stomping Boots	 | rad	0	2	0	0	0	0				0	0	0	0	0	0		
+1	78	false	The Dark Elbow of the Woods	Butter Knife?  I'll Take the Knife	Pair of Stomping Boots	 | eldritch butterknife	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	79	true	The Dark Heart of the Woods	P imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	79	true	The Dark Heart of the Woods	G imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	79	true	The Dark Heart of the Woods	Fallen Archfiend	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	79	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pair of Stomping Boots	 | metallic A | glowing red eye | photoprotoneutron torpedo | rad (2)	15	2	16	14	44	0				0	0	0	0	0	0		
+1	80	false	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	Pair of Stomping Boots	 | soft green echo eyedrop antidote | rad (2)	397	2	18	14	35	0				0	0	0	0	0	0		
+1	81	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	81	false	The Penultimate Fantasy Airship	F-F-Fantastic!	Pocket Professor	 | S.O.C.K.	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	82	TRUE	CONSUME: eat 1 Knob pasty	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	82	false	The Castle in the Clouds in the Sky (Basement)	You Don't Mess Around with Gym	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	83	false	genie summoned monster	mountain man	Pocket Professor	 | asbestos ore | asbestos ore | linoleum ore | chrome ore | rad (2)	14	6	20	15	37	0		|exploding cigar	 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	84	false	genie summoned monster	mutant mountain man	Pocket Professor	 | rad | asbestos ore | linoleum ore | chrome ore | rad (2)	12	2	20	25	34	0		|exploding cigar		0	0	0	0	0	0		
+1	85	false	The Haunted Bedroom	animated ornate nightstand	Pocket Professor		0	3	0	0	0	0		|exploding cigar		0	0	0	0	0	0		
+1	86	true	The Haunted Bedroom	Wardr&ouml;b nightstand	Pocket Professor		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	86	true	The Haunted Bedroom	animated rustic nightstand	Pocket Professor		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	86	true	The Haunted Bedroom	animated mahogany nightstand	Pocket Professor		0	0	0	0	0	0			 | USE THE FORCE | SABER BANISH	0	1	0	0	0	0		
+1	86	false	The Haunted Bedroom	One Ornate Nightstand	Pocket Professor	 | almost-dead walkie-talkie | rad (2) | Lord Spookyraven's spectacles	13	3	18	13	29	0				0	0	0	0	0	0		
+1	87	false	The Haunted Bedroom	One Ornate Nightstand	Pocket Professor	 | rad | rad (2)	558	2	8	25	30	0				0	0	0	0	0	0		
+1	88	false	The Haunted Bedroom	animated ornate nightstand	Pocket Professor		0	2	0	0	0	0				0	0	0	0	0	0		
+1	89	false	The Haunted Bedroom	One Elegant Nightstand	Pocket Professor	 | rad (2) | Lady Spookyraven's finest gown	10	2	16	10	28	0				0	0	0	0	0	0		
+1	90	false	Hippy Camp	Getting Ahead in Life	Space Jellyfish	 | filthy knitted dread sack	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	91	false	Hippy Camp	crusty hippy jewelry maker	Space Jellyfish	 | stench jelly | hemp string | beach glass bead | rad (2)	13	3	15	22	27	0			 | EXTRACT JELLY	0	0	0	0	0	0		
+1	92	TRUE	CONSUME: chew 1 stench jelly	N/A	Space Jellyfish		0	-1	0	0	0	0	 | Stench Jellied (50)			0	0	0	0	0	0		
+1	92	false	Hippy Camp	filthy hippy	Space Jellyfish	 | stench jelly | tambourine bells | patchouli incense stick | filthy knitted dread sack | double-barreled sling | rad (2) | Nightmare Fuel	11	3	18	6	40	0			 | EXTRACT JELLY	0	0	0	0	0	0		
+1	93	TRUE	CONSUME: chew 1 stench jelly	N/A	Space Jellyfish		0	-1	0	0	0	0	 | Stench Jellied (50)			0	0	0	0	0	0		
+1	93	false	The Dark Heart of the Woods	Running the Lode	Space Jellyfish		350	-1	0	0	0	0				0	0	0	0	0	0		
+1	94	false	The Dark Heart of the Woods	I, Martin	Space Jellyfish	 | martini	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	95	true	The Castle in the Clouds in the Sky (Ground Floor)	sausage goblin	Space Jellyfish		0	7	0	0	0	0		|Time-Spinner	 | SUMMON LOVE STINKBUG | SUMMON LOVE GNATS	0	0	0	0	0	0		
+1	95	true	The Castle in the Clouds in the Sky (Ground Floor)	There's No Ability Like Possibility	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	95	true	The Castle in the Clouds in the Sky (Ground Floor)	There's No Ability Like Possibility	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	95	false	The Castle in the Clouds in the Sky (Ground Floor)	Home on the Free Range	Pocket Professor	 | electric boning knife	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	96	false	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	Pocket Professor	 | giant heirloom grape tomato | rad (2)	257	2	15	34	41	0				0	0	0	0	0	0		
+1	97	true	The Castle in the Clouds in the Sky (Ground Floor)	Black Crayon Crimbo Elf	Pocket Professor	 | rad | crayon shavings | rad (2)	11	3	56	40	102	0		|exploding cigar		0	0	0	0	0	0		
+1	97	false	The Castle in the Clouds in the Sky (Ground Floor)	Putting Off Is Off-Putting	Artistic Goth Kid	 | very overdue library book	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	98	true	The Castle in the Clouds in the Sky (Ground Floor)	Black Crayon Undead Thing	Artistic Goth Kid		0	2	0	0	0	0				0	0	0	0	0	0		
+1	98	false	The Castle in the Clouds in the Sky (Ground Floor)	Procrastination Giant	Artistic Goth Kid	 | procrastination potion | blue pixel | rad (2)	431	3	20	18	54	0				0	0	0	0	0	0		
+1	99	false	The Castle in the Clouds in the Sky (Ground Floor)	Possibility Giant	Artistic Goth Kid	 | probability potion | chaos butterfly | rad (2)	466	2	18	25	51	0				0	0	0	0	0	0		
+1	100	true	The Castle in the Clouds in the Sky (Ground Floor)	There's No Ability Like Possibility	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	100	true	The Castle in the Clouds in the Sky (Ground Floor)	Home on the Free Range	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	100	false	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	Artistic Goth Kid	 | rad | Ye Olde Bawdy Limerick | Ye Olde Medieval Insult | white pixel | rad (2)	342	2	37	17	48	0				0	0	0	0	0	0		
+1	101	true	The Castle in the Clouds in the Sky (Ground Floor)	Black Crayon Manloid	Artistic Goth Kid	 | crayon shavings | red pixel | rad (2)	14	3	41	44	93	0				0	0	0	0	0	0		
+1	101	false	The Castle in the Clouds in the Sky (Ground Floor)	Top of the Castle, Ma	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	102	false	The Dark Heart of the Woods	P imp	Artistic Goth Kid		0	3	0	0	0	0				0	0	0	0	0	0		
+1	103	false	The Dark Heart of the Woods	mutant G imp	Artistic Goth Kid	 | Imp Ale | vitamin G pill | rad (3) | stick of firewood	92	2	10	14	29	0				0	0	0	0	0	0		
+1	104	false	The Dark Heart of the Woods	G imp	Artistic Goth Kid	 | hot wing | Imp Ale | rad (3) | stick of firewood	77	2	13	10	27	0				0	0	0	0	0	0		
+1	105	false	The Dark Heart of the Woods	Imp Be Nimble, Imp Be Quick	Artistic Goth Kid	 | box of birthday candles	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	106	true	The Haunted Gallery	Black Crayon Demon	Artistic Goth Kid		0	2	7	0	0	0				0	0	0	0	0	0		
+1	106	true	The Haunted Gallery	mutant empty suit of armor	Artistic Goth Kid	 | antique helmet | rad (3)	15	2	14	6	33	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	106	true	The Haunted Gallery	Out in the Garden	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	106	true	The Haunted Gallery	guy with a pitchfork, and his wife	Artistic Goth Kid	 | rad (3)	131	2	14	13	23	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	106	true	The Haunted Gallery	cubist bull	Artistic Goth Kid		0	2	0	0	0	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	106	true	The Haunted Gallery	empty suit of armor	Artistic Goth Kid		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	106	true	The Haunted Gallery	cubist bull	Artistic Goth Kid		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	106	true	The Haunted Gallery	guy with a pitchfork, and his wife	Artistic Goth Kid		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	106	false	The Haunted Gallery	Louvre It or Leave It (The Persistence of Memory)	Artistic Goth Kid	 | Lady Spookyraven's dancing shoes	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	107	true	The Defiled Nook	sausage goblin	Artistic Goth Kid		0	2	0	0	0	0			 | THROAT REFRIGERANT	0	0	0	0	0	0		
+1	107	false	The Defiled Nook	spiny skelelton	Artistic Goth Kid	 | skeleton bone | smart skull | spiked femur | evil eye | skelelton spine | succulent marrow | rad (3)	11	2	10	15	30	0				0	0	0	0	0	0		
+1	108	false	The Defiled Nook	party skelteon	Artistic Goth Kid	 | rad | skeleton bone | margarita | loose teeth | rad (3)	12	2	9	14	32	0				0	0	0	0	0	0		
+1	109	false	The Defiled Nook	spiny skelelton	XO Skeleton		0	2	0	0	0	0				0	0	0	0	0	0		
+1	110	false	The Haunted Gallery	mutant empty suit of armor	Artistic Goth Kid	 | rad (3) | Nightmare Fuel	10	2	15	17	32	0				0	0	0	0	0	0		
+1	111	true	The Haunted Gallery	Louvre It or Leave It	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	111	false	The Haunted Bathroom	mutant claw-foot bathtub	Artistic Goth Kid		0	2	0	0	0	0				0	0	0	0	0	0		
+1	112	true	The Haunted Bathroom	Black Crayon Golem	Artistic Goth Kid	 | crayon shavings | rad (3)	13	2	71	50	119	0				0	0	0	0	0	0		
+1	112	false	The Haunted Bathroom	toilet papergeist	Artistic Goth Kid	 | roll of toilet paper | rad (3)	13	2	15	16	35	0				0	0	0	0	0	0		
+1	113	true	The Haunted Bathroom	sausage goblin	Artistic Goth Kid		0	2	0	0	0	0				0	0	0	0	0	0		
+1	113	false	The Haunted Bathroom	malevolent hair clog	Artistic Goth Kid	 | gob of wet hair | rad (3)	14	2	18	16	33	0				0	0	0	0	0	0		
+1	114	false	The Haunted Bathroom	toilet papergeist	Artistic Goth Kid	 | roll of toilet paper | rad (3)	15	2	13	10	35	0				0	0	0	0	0	0		
+1	115	false	The Haunted Bathroom	claw-foot bathtub	Artistic Goth Kid	 | bottle of Monsieur Bubble | fancy bath salts | rad (3)	14	2	17	8	34	0				0	0	0	0	0	0		
+1	116	false	The Defiled Nook	mutant toothy sklelton	Artistic Goth Kid	 | loose teeth | loose teeth | skeleton bone | bone flute | evil eye | rad (3)	12	2	7	11	42	0				0	0	0	0	0	0		
+1	117	true	The Defiled Nook	Skull, Skull, Skull	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	117	false	The Defiled Nook	toothy sklelton	Artistic Goth Kid	 | rad | loose teeth | skeleton bone | evil eye | rad (3)	11	2	13	17	29	0				0	0	0	0	0	0		
+1	118	true	The Defiled Nook	Skull, Skull, Skull	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	118	true	The Defiled Nook	Seeing-Eyes Dog	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	118	false	The Defiled Nook	giant skeelton	Artistic Goth Kid	 | skeleton bone | skeleton bone | skeleton bone | rad (3)	15	2	30	30	48	0				0	0	0	0	0	0		
+1	119	false	genie summoned monster	Orcish Frat Boy Spy	He-Boulder	 | rad | distressed denim pants | beer helmet | bejeweled pledge pin | rad (3)	11	3	17	16	50	0	 | Everything Looks Yellow (150)	|Time-Spinner	 | POINT AT YOUR OPPONENT	0	0	0	0	0	0		
+1	120	true	The Outskirts of Cobb's Knob	When Rocks Attack	He-Boulder		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	120	true	The Outskirts of Cobb's Knob	When Rocks Attack	He-Boulder		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	120	true	The Outskirts of Cobb's Knob	When Rocks Attack	He-Boulder		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	120	false	The Outskirts of Cobb's Knob	The Ghost of Dr. Hobo Jones	He-Boulder	 | Dr. Hobo's map	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	121	true	The Outskirts of Cobb's Knob	sleeping Knob Goblin Guard	He-Boulder		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	121	false	The Outskirts of Cobb's Knob	A Funny Thing Happened...	Artistic Goth Kid		75	-1	0	0	0	0				0	0	0	0	0	0		
+1	122	false	The Outskirts of Cobb's Knob	Sub-Assistant Knob Mad Scientist	Artistic Goth Kid	 | bone with a price tag on it	0	2	0	0	0	0				0	0	0	0	0	0		
+1	123	false	The Outskirts of Cobb's Knob	Code Red	Artistic Goth Kid	 | Knob Goblin encryption key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	124	true	Cobb's Knob Harem	a Knob Goblin Harem Girl!	Artistic Goth Kid	 | Knob Goblin harem pants | Knob Goblin harem veil | disease | finger cymbals	0	0	0	0	0	0			 | CHEAT CODE: REPLACE ENEMY | CHEAT CODE: REPLACE ENEMY | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0	 | Knob Goblin Madam | a Knob Goblin Harem Guard!	
+1	124	false	Cobb's Knob Harem	Plucked	Artistic Goth Kid		0	-1	0	0	0	0	 | Knob Goblin Perfume (1)			0	0	0	0	0	0		
+1	125	TRUE	CONSUME: eat 3 magical sausage	N/A	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	125	true	Throne Room	Inside Cobb's Knob	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	125	TRUE	CONSUME: drink 1 astral pilsner	N/A	Trick-or-Treating Tot		0	-1	0	0	0	22				0	0	0	0	0	0		
+1	125	false	Throne Room	The Knob Goblin King	Artistic Goth Kid	 | dense meat stack (2) | Crown of the Goblin King | Cobb's Knob lab key | rad (3) | Nightmare Fuel	13	2	27	27	76	0				0	0	0	0	0	0		
+1	126	true	Combing the Beach	N/A	Trick-or-Treating Tot		0	-1	0	0	0	0	 | You Learned Something Maybe! (50)			0	0	0	0	0	0		
+1	126	true	Boxing Daycare	Enter the Boxing Daycare	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	126	true	Wandering 7287 minutes down the beach	Comb the Beach (7287 minutes down the beach)	Trick-or-Treating Tot	 | cyan seashell	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	126	true	Wandering 2863 minutes down the beach	Comb the Beach (2863 minutes down the beach)	Trick-or-Treating Tot	 | piece of coral	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	126	true	Wandering 9406 minutes down the beach	Comb the Beach (9406 minutes down the beach)	Trick-or-Treating Tot	 | sand dollar	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	126	true	Wandering 5414 minutes down the beach	Comb the Beach (5414 minutes down the beach)	Trick-or-Treating Tot	 | sand dollar	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	126	true	Wandering 7836 minutes down the beach	Comb the Beach (7836 minutes down the beach)	Trick-or-Treating Tot	 | dull fish scale	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	126	true	Wandering 6343 minutes down the beach	Comb the Beach (6343 minutes down the beach)	Trick-or-Treating Tot	 | driftwood pants	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	126	true	Boxing Daycare	Have a Boxing Daydream	Trick-or-Treating Tot	 | body spradium	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	126	true	Deck of Every Card	XVI - The Tower	Trick-or-Treating Tot	 | Boris's key	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	126	false	photocopied monster	mutant ninja snowman assassin	Reanimated Reanimator	 | li'l ninja costume | rad (3) | ninja rope	0	3	25	25	54	0			 | WINK AT	0	0	0	0	0	1		
+2	127	TRUE	CONSUME: drink 1 astral pilsner	N/A	Baby Sandworm		0	-1	0	0	0	22				0	0	0	0	0	0		
+2	127	TRUE	CONSUME: drink 1 astral pilsner	N/A	Baby Sandworm		0	-1	0	0	0	22				0	0	0	0	0	0		
+2	127	true	Combing the Beach	N/A	Baby Sandworm		0	-1	0	0	0	0	 | Pomp & Circumsands (50)			0	0	0	0	0	0		
+2	127	true	Boxing Daycare	Visit the Boxing Day Spa	Baby Sandworm		0	-1	0	0	0	0	 | Ten out of Ten (100)			0	0	0	0	0	0		
+2	127	true	The Neverending Party	N/A	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	127	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	127	true	The Tunnel of L.O.V.E.	LOV Enforcer	Baby Sandworm	 | LOV Elixir #3 | rad (3) | agua de vida	0	3	133	111	309	0				0	0	0	0	0	0		
+2	127	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	127	true	The Tunnel of L.O.V.E.	LOV Engineer	Baby Sandworm	 | LOV Earrings | rad (3)	0	2	187	139	373	0				0	0	0	0	0	0		
+2	127	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	127	true	The Tunnel of L.O.V.E.	mutant LOV Equivocator	Baby Sandworm	 | ten-leaf clover | rad (3)	0	2	158	165	400	0	 | Lovebotamy (50)			0	0	0	0	0	0		
+2	127	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	Baby Sandworm	 | LOV Enamorang	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	127	true	The Neverending Party	jock	Baby Sandworm	 | salacious screwdiver | unremarkable duffel bag | Purple Beast energy drink | rad (3)	445	2	233	214	426	0				0	0	0	0	0	0		
+2	127	true	The Neverending Party	party girl	Baby Sandworm	 | runproof mascara | very small red dress | surprisingly capacious handbag | rad (3)	237	2	209	235	462	0				0	0	0	0	0	0		
+2	127	true	The Neverending Party	jock	Baby Sandworm	 | unremarkable duffel bag | Purple Beast energy drink | rad (3)	380	2	193	208	513	0				0	0	0	0	0	0		
+2	127	true	The Neverending Party	biker	Baby Sandworm	 | gas can | Middle of the Road&trade; brand whiskey | rad (3) | agua de vida	232	2	145	204	399	0				0	0	0	0	0	0		
+2	127	true	The Neverending Party	burnout	Baby Sandworm	 | van key | jam band bootleg | rad (3)	107	2	221	204	507	0				0	0	0	0	0	0		
+2	127	true	The Neverending Party	Basement Urges	Baby Sandworm		0	-1	0	0	0	0	 | The Best Hair You've Ever Had (20)			0	0	0	0	0	0		
+2	127	true	The Neverending Party	mutant &quot;plain&quot; girl	Baby Sandworm	 | electronics kit | PB&J with the crusts cut off | dorky glasses | ponytail clip | rad (3)	265	2	192	241	566	0				0	0	0	0	0	0		
+2	127	true	The Neverending Party	party girl	Baby Sandworm	 | 8-ball | runproof mascara | noticeable pumps | rad (3)	270	2	276	247	572	0				0	0	0	0	0	0		
+2	127	true	The Neverending Party	burnout	Baby Sandworm	 | van key | jam band bootleg | denim jacket | ratty knitted cap | rad (3)	135	2	235	236	633	0				0	0	0	0	0	0		
+2	127	true	The Neverending Party	burnout	Baby Sandworm	 | van key | rad (3)	132	2	227	239	653	0				0	0	0	0	0	0		
+2	127	true	God Lobster	the God Lobster	God Lobster	 | rad (3)	0	2	230	176	483	0				0	0	0	0	0	0		
+2	127	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	127	true	God Lobster	the God Lobster	God Lobster	 | rad (3)	0	2	210	198	497	0				0	0	0	0	0	0		
+2	127	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	127	false	Hippy Camp	War Hippy (space) cadet	God Lobster	 | reinforced beaded headband | rad (3) | Nightmare Fuel	13	2	46	60	136	0				0	0	0	0	0	0		
+2	128	false	Wartime Hippy Camp (Frat Disguise)	War Hippy (space) cadet	God Lobster	 | rad (3)	11	2	46	46	153	0				0	0	0	0	0	0		
+2	129	false	Wartime Hippy Camp (Frat Disguise)	Blockin' Out the Scenery	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	130	false	genie summoned monster	The Camel's Toe	XO Skeleton	 | star | star | line | line | rad (3) | X	14	3	36	68	119	0			 | DIGITIZE	0	0	0	0	0	1		
+2	131	TRUE	CONSUME: drink 1 astral pilsner	N/A	Reassembled Blackbird		0	-1	0	0	0	22				0	0	0	0	0	0		
+2	131	false	Hippy Camp	The Big Wisniewski	XO Skeleton	 | solid gold bowling ball | rad (3)	13	6	230	152	527	0			 | THROAT REFRIGERANT | THROAT REFRIGERANT	0	0	0	0	0	0		
+2	132	false	The Black Forest	Forty Shades of Black	Reassembled Blackbird	 | black map	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	133	false	The Black Forest	black panther	Reassembled Blackbird	 | broken wings | rad (3)	441	2	36	60	126	0				0	0	0	0	0	0		
+2	134	false	The Black Forest	black friar	Reassembled Blackbird	 | rad (3)	14	2	52	38	133	0				0	0	0	0	0	0		
+2	135	false	The Black Forest	black adder	Reassembled Blackbird	 | adder bladder | black snake skin | sunken eyes	313	2	0	0	0	0				0	0	0	0	0	0		
+2	136	false	The Black Forest	black widow	XO Skeleton	 | black pension check | rad (3)	165	2	41	41	143	0				0	0	0	0	0	0		
+2	137	false	The Black Forest	You Found Your Thrill	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	138	false	The Black Forest	Bee Persistent	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	139	true	The Black Forest	Bee Rewarded	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	139	false	The Black Forest	N/A	XO Skeleton	 | beehive	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	140	false	The Black Forest	The Camel's Toe	XO Skeleton	 | star | star | line | line | rad (3)	12	2	54	57	119	0				0	0	0	0	0	0		
+2	141	true	The Black Forest	Wooof! Wooooooof!	XO Skeleton		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	141	false	The Black Forest	black magic woman	XO Skeleton	 | little black book | rad (3)	303	2	57	49	106	0				0	0	0	0	0	0		
+2	142	false	The Black Forest	blackberry bush	XO Skeleton	 | blackberry | blackberry | rad (3) | O	10	2	60	38	106	0				0	0	0	0	0	0		
+2	143	false	The Black Forest	black panther	XO Skeleton	 | rad (3) | Nightmare Fuel	465	2	60	46	106	0				0	0	0	0	0	0		
+2	144	false	The Black Forest	black friar	XO Skeleton	 | forged identification documents | Mornington crescent roll | black friar's tonsure | rad (3) | stick of firewood	14	2	49	68	89	0				0	0	0	0	0	0		
+2	145	false	The Shore, Inc. Travel Agency	N/A	XO Skeleton	 | your father's MacGuffin diary	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	148	true	Deck of Every Card	Sheep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	148	false	The Hidden Temple	Such Great Heights	XO Skeleton	 | the Nostril of the Serpent	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	149	true	The Hidden Temple	The Hidden Heart of the Hidden Temple	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	149	false	The Hidden Temple	Now What?	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	150	false	The Hidden Temple	Beginning at the Beginning of Beginning	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	151	false	The Hidden Temple	No Visible Means of Support	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	152	true	An Overgrown Shrine (Northeast)	mutant dense liana	XO Skeleton	 | rad (4)	13	1	0	0	0	0				0	0	0	0	0	0		
+2	152	true	An Overgrown Shrine (Northeast)	mutant dense liana	XO Skeleton	 | rad (4) | X	15	1	0	0	0	0				0	0	0	0	0	0		
+2	152	true	An Overgrown Shrine (Northeast)	dense liana	XO Skeleton	 | rad (4)	11	1	0	7	0	0				0	0	0	0	0	0		
+2	152	false	An Overgrown Shrine (Northeast)	Air Apparent	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	153	false	The Hidden Office Building	ninja snowman assassin	XO Skeleton	 | rad (4) | ninja crampons	11	2	38	52	120	0				0	0	0	0	0	0		
+2	154	true	The Hidden Office Building	sausage goblin	XO Skeleton	 | magical sausage casing | rad (4)	239	2	203	208	474	0				0	0	0	0	0	0		
+2	154	true	An Overgrown Shrine (Northwest)	dense liana	XO Skeleton	 | rad (4)	13	1	0	0	0	0				0	0	0	0	0	0		
+2	154	true	An Overgrown Shrine (Northwest)	dense liana	XO Skeleton	 | rad (4) | O	10	1	0	0	0	0				0	0	0	0	0	0		
+2	154	true	An Overgrown Shrine (Northwest)	dense liana	XO Skeleton	 | green pixel | rad (4)	11	1	0	0	0	0				0	0	0	0	0	0		
+2	154	false	An Overgrown Shrine (Northwest)	Earthbound and Down	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	155	true	An Overgrown Shrine (Southwest)	dense liana	XO Skeleton	 | red pixel | rad (4)	14	1	0	0	0	0				0	0	0	0	0	0		
+2	155	true	An Overgrown Shrine (Southwest)	dense liana	XO Skeleton	 | blue pixel | rad (4)	11	1	0	0	0	0				0	0	0	0	0	0		
+2	155	true	An Overgrown Shrine (Southwest)	mutant dense liana	XO Skeleton	 | rad (4) | X	14	1	0	0	0	0				0	0	0	0	0	0		
+2	155	false	An Overgrown Shrine (Southwest)	Water You Dune	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	156	true	An Overgrown Shrine (Southeast)	dense liana	XO Skeleton	 | blue pixel | rad (4)	14	1	0	0	0	0				0	0	0	0	0	0		
+2	156	true	An Overgrown Shrine (Southeast)	dense liana	XO Skeleton	 | rad (4)	12	1	0	0	0	0				0	0	0	0	0	0		
+2	156	true	An Overgrown Shrine (Southeast)	dense liana	XO Skeleton	 | rad (4)	15	1	0	0	0	0				0	0	0	0	0	0		
+2	156	false	The Hidden Office Building	angry ghost	XO Skeleton		0	12	0	0	0	0				0	0	0	0	0	0		
+2	157	false	An Overgrown Shrine (Southeast)	Fire When Ready	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	158	true	The Hidden Apartment Building	pygmy witch lawyer	XO Skeleton		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	158	true	The Hidden Apartment Building	pygmy janitor	XO Skeleton		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	158	false	The Hidden Apartment Building	mutant pygmy witch accountant	XO Skeleton	 | bone abacus | pygmy adder oil | rad (4) | McClusky file (page 1)	407	2	21	32	50	0				0	0	0	0	0	0		
+2	159	false	The Hidden Apartment Building	mutant pygmy shaman	XO Skeleton	 | colorful toad | voodoo glowskull | white pixel | rad (4) | O	287	3	22	26	56	0	 | Once-Cursed (10)		 | OFFER LATTE TO OPPONENT	0	0	0	1	0	0		
+2	160	false	The Hidden Apartment Building	mutant Camel's Toe	XO Skeleton	 | star | line | line | rad (4)	10	2	22	21	63	0				0	0	0	0	0	0		
+2	161	false	The Hidden Apartment Building	a pygmy shaman!	XO Skeleton	 | colorful toad | voodoo glowskull | rad (4)	310	3	17	23	50	0			 | CHEAT CODE: REPLACE ENEMY	0	0	0	0	0	0	 | pygmy witch accountant	
+2	162	false	The Hidden Apartment Building	pygmy shaman	XO Skeleton	 | smirking shrunken head | colorful toad | voodoo glowskull | rad (4)	330	2	22	29	41	0	 | Twice-Cursed (10)			0	0	0	0	0	0		
+2	163	false	The Hidden Apartment Building	mutant pygmy shaman	XO Skeleton	 | crude voodoo doll | red pixel | rad (4) | X	306	2	29	18	56	0	 | Thrice-Cursed (10)			0	0	0	0	0	0		
+2	164	true	The Hidden Apartment Building	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	164	false	The Hidden Apartment Building	ancient protector spirit	XO Skeleton	 | moss-covered stone sphere | rad (4)	12	3	23	30	42	0				0	0	0	0	0	0		
+2	165	false	The Copperhead Club	Shen Copperhead, Nightclub Owner	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	166	false	The Copperhead Club	mutant ninja dressed as a waiter	Pocket Professor		0	2	0	0	0	0				0	0	0	0	0	0		
+2	167	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing | rad (4)	169	3	115	108	239	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+2	167	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing | rad (4)	156	3	90	106	269	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+2	167	true	The Copperhead Club	mutant sausage goblin	Pocket Professor		0	3	0	0	0	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+2	167	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing | rad (4)	147	3	98	123	243	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+2	167	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing | rad (4)	138	3	96	106	267	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+2	167	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing | rad (4)	145	3	106	118	246	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+2	167	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing | rad (4)	142	3	113	118	237	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+2	167	true	The Copperhead Club	sausage goblin	Pocket Professor		0	3	0	0	0	0			 | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+2	167	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing | rad (4)	168	2	98	103	273	0				0	0	0	0	0	0		
+2	167	true	The Copperhead Club	angry ghost	Pocket Professor	 | ghostly ectoplasm | rad (4)	11	2	92	98	213	0				0	0	0	0	0	0		
+2	167	false	A Mob of Zeppelin Protesters	Bench Warrant	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	168	false	A Mob of Zeppelin Protesters	Bench Warrant	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	169	false	A Mob of Zeppelin Protesters	Bench Warrant	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	170	false	A Mob of Zeppelin Protesters	Bench Warrant	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	171	true	A Mob of Zeppelin Protesters	Too Much Humanity	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	171	true	A Mob of Zeppelin Protesters	Not So Much With The Humanity	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	171	false	The Hidden Office Building	pygmy witch accountant	Pocket Professor	 | rad (4) | McClusky file (page 2) | Nightmare Fuel	308	2	19	19	63	0				0	0	0	0	0	0		
+2	172	true	The Hidden Office Building	pygmy headhunter	XO Skeleton		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	172	false	The Hidden Office Building	Working Holiday	XO Skeleton	 | boring binder clip	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	173	false	The Hidden Office Building	pygmy witch accountant	XO Skeleton	 | bone abacus | pygmy adder oil | rad (4) | McClusky file (page 3)	365	2	17	29	54	0				0	0	0	0	0	0		
+2	174	false	The Hidden Office Building	Is There A Doctor In The House?	XO Skeleton	 | short calculator | pygmy adder oil | rad (4) | McClusky file (page 4)	330	2	22	18	62	0				0	0	0	0	0	0		
+2	175	true	The Hidden Office Building	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	175	false	The Hidden Office Building	pygmy witch accountant	XO Skeleton	 | bone abacus | pygmy adder oil | rad (4) | McClusky file (page 5)	349	2	0	0	0	0				0	0	0	0	0	0		
+2	176	false	The Hidden Office Building	mutant ninja snowman assassin	XO Skeleton	 | rad (4) | O | ninja carabiner	11	2	27	22	47	0				0	0	0	0	0	0		
+2	177	false	The Hidden Office Building	mutant ancient protector spirit	XO Skeleton	 | crackling stone sphere | rad (4)	14	2	23	40	22	0				0	0	0	0	0	0		
+2	178	true	An Overgrown Shrine (Northeast)	Air Apparent	XO Skeleton	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	178	true	An Overgrown Shrine (Northwest)	Earthbound and Down	XO Skeleton	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	178	true	The Copperhead Club	angry ghost	XO Skeleton	 | ghostly ectoplasm | rad (4)	10	2	90	91	188	0				0	0	0	0	0	0		
+2	178	true	The Copperhead Club	sausage goblin	XO Skeleton	 | magical sausage casing | rad (4)	148	2	98	80	192	0				0	0	0	0	0	0		
+2	178	true	The Hidden Hospital	pygmy orderlies	Melodramedary		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	178	true	The Hidden Hospital	pygmy janitor	Melodramedary		0	0	0	0	0	0			 | USE THE FORCE | SABER BANISH	0	1	0	0	0	0		
+2	178	false	The Hidden Hospital	pygmy witch nurse	Melodramedary	 | Source essence | rad (4)	188	3	22	18	41	0			 | EXTRACT	0	0	0	0	0	0		
+2	179	false	The Hidden Hospital	mutant pygmy witch surgeon	Melodramedary	 | rad (4) | surgical apron	363	2	21	23	48	0				0	0	0	0	0	0		
+2	180	false	The Hidden Hospital	pygmy witch surgeon	Melodramedary	 | rad (4) | surgical mask	316	2	13	23	45	0				0	0	0	0	0	0		
+2	181	false	The Hidden Hospital	pygmy witch surgeon	Melodramedary	 | rad (4) | head mirror	367	2	25	13	44	0				0	0	0	0	0	0		
+2	182	true	The Hidden Hospital	sausage goblin	Melodramedary	 | magical sausage casing | rad (4)	161	2	106	96	174	0				0	0	0	0	0	0		
+2	182	false	The Hidden Hospital	ancient protector spirit	Melodramedary	 | dripping stone sphere | rad (4)	14	2	18	25	47	0				0	0	0	0	0	0		
+2	183	false	The Hidden Bowling Alley	pygmy bowler	Melodramedary	 | bowling ball | rad (4) | Nightmare Fuel	323	2	19	21	47	0				0	0	0	0	0	0		
+2	184	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	185	true	The Hidden Bowling Alley	drunk pygmy	Melodramedary		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	185	false	The Hidden Bowling Alley	pygmy bowler	Melodramedary	 | bowling ball | rad (4)	355	2	14	15	58	0				0	0	0	0	0	0		
+2	186	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	187	false	The Hidden Bowling Alley	pygmy bowler	Melodramedary	 | bowling ball | imitation White Russian | rad (4)	348	2	19	17	48	0				0	0	0	0	0	0		
+2	188	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	189	false	The Hidden Bowling Alley	pygmy bowler	Melodramedary	 | bowling ball | imitation White Russian | bowling ball | imitation White Russian | rad (4)	276	3	17	26	43	0			 | %FN, SPIT ON THEM	0	0	0	0	1	0		
+2	190	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	191	false	The Hidden Bowling Alley	mutant ancient protector spirit	Melodramedary	 | scorched stone sphere | rad (4)	11	3	23	21	54	0				0	0	0	0	0	0		
+2	192	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	192	false	The Copperhead Club	The Camel's Toe	XO Skeleton	 | star | star | line | line | rad (4) | X	12	2	27	17	40	0				0	0	0	0	0	0		
+2	193	false	The Castle in the Clouds in the Sky (Top Floor)	Keep On Turnin' the Wheel in the Sky	XO Skeleton	 | giant discarded torn-up glove | Uranium Omega of Temperance	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	194	true	The Red Zeppelin	Zeppelintro	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	194	true	The Red Zeppelin	mutant Red Snapper	XO Skeleton		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	194	true	The Red Zeppelin	mutant man with the red buttons	XO Skeleton		0	0	0	0	0	0			 | USE THE FORCE | SABER BANISH	0	1	0	0	0	0		
+2	194	false	The Red Zeppelin	red skeleton	XO Skeleton	 | red blood cells | Red Army camouflage kit | rad (4)	14	2	11	14	45	0				0	0	0	0	0	0		
+2	195	false	The Red Zeppelin	a red skeleton!	XO Skeleton	 | red box | rad (4)	14	4	11	17	34	0			 | CHEAT CODE: REPLACE ENEMY | CHEAT CODE: REPLACE ENEMY	0	0	0	0	0	0	 | red skeleton | a Red Herring!	
+2	196	false	The Red Zeppelin	a red butler!	XO Skeleton	 | glark cable | rad (4)	201	4	23	9	29	0			 | CHEAT CODE: REPLACE ENEMY | OFFER LATTE TO OPPONENT	0	0	0	1	0	0	 | mutant Red Herring	
+2	197	true	The Red Zeppelin	mutant red butler	XO Skeleton	 | glark cable | rad (4)	218	3	26	14	43	0		|glark cable	 | HUGS AND KISSES	0	0	1	0	0	0		
+2	197	true	The Red Zeppelin	mutant red butler	XO Skeleton	 | glark cable | rad (4) | O	204	2	17	27	38	0		|glark cable		0	0	1	0	0	0		
+2	197	true	The Red Zeppelin	red butler	XO Skeleton	 | glark cable | rad (4)	209	2	13	23	41	0		|glark cable		0	0	1	0	0	0		
+2	197	true	The Red Zeppelin	mutant red butler	XO Skeleton	 | glark cable | rad (4)	207	2	14	23	45	0		|glark cable		0	0	1	0	0	0		
+2	197	true	The Red Zeppelin	red skeleton	XO Skeleton	 | red blood cells | Red Army camouflage kit | red pixel | rad (4)	12	2	17	11	43	0		|glark cable		0	0	1	0	0	0		
+2	197	false	The Red Zeppelin	red butler	XO Skeleton	 | rad (4) | X	187	2	18	17	37	0				0	0	0	0	0	0		
+2	198	false	The Red Zeppelin	mutant red butler	XO Skeleton	 | glark cable | rad (4)	221	2	19	10	53	0				0	0	0	0	0	0		
+2	199	true	The Red Zeppelin	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	199	false	The Red Zeppelin	Ron &quot;The Weasel&quot; Copperhead	XO Skeleton	 | Copperhead Charm (rampant) | rad (4) | Nightmare Fuel	769	3	15	14	47	0		|glark cable		0	0	1	0	0	0		
+2	200	true	The Arid, Extra-Dry Desert	mutant sausage goblin	Melodramedary	 | magical sausage casing | rad (4)	182	2	96	80	182	0	 | Ultrahydrated (10)			0	0	0	0	0	0		
+2	200	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Melodramedary	 | centipede eggs | rad (4)	321	2	15	22	45	0				0	0	0	0	0	0		
+2	201	false	The Arid, Extra-Dry Desert	mutant ninja snowman assassin	Melodramedary	 | rad (4)	13	2	22	17	56	0				0	0	0	0	0	0		
+2	202	false	The Arid, Extra-Dry Desert	mutant cactuary	Melodramedary	 | cactus fruit | handful of sand | green pixel | rad (5)	224	2	23	23	41	0				0	0	0	0	0	0		
+2	203	false	The Arid, Extra-Dry Desert	plaque of locusts	Melodramedary	 | rad (5)	69	2	22	22	34	0				0	0	0	0	0	0		
+2	204	true	The Arid, Extra-Dry Desert	A Sietch in Time	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	204	true	The Arid, Extra-Dry Desert	rock scorpion	Melodramedary	 | handful of sand | handful of sand | rad (5)	436	2	22	22	34	0	 | Ultrahydrated (3)		 | CHEST X-RAY	0	0	1	0	0	0		
+2	204	true	The Shore, Inc. Travel Agency	N/A	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	204	true	The Arid, Extra-Dry Desert	swarm of fire ants	Melodramedary	 | ant agonist | rad (5) | worm-riding manual page	124	2	13	14	53	0	 | Ultrahydrated (3)		 | CHEST X-RAY	0	0	1	0	0	0		
+2	204	true	The Arid, Extra-Dry Desert	mutant swarm of fire ants	Melodramedary	 | ant agonist | rad (5)	127	2	26	22	40	0	 | Ultrahydrated (3)		 | CHEST X-RAY	0	0	1	0	0	0		
+2	204	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Melodramedary	 | handful of sand | white pixel | rad (5) | worm-riding manual page (3)	323	2	17	18	45	0				0	0	0	0	0	0		
+2	205	false	The Arid, Extra-Dry Desert	plaque of locusts	Melodramedary	 | honey-dipped locust | bronzed locust | blue pixel | rad (5)	80	2	23	11	43	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	206	true	The Arid, Extra-Dry Desert	Wooof! Wooooooof!	Melodramedary	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	206	true	The Arid, Extra-Dry Desert	sausage goblin	Melodramedary	 | magical sausage casing | rad (5)	180	2	63	92	193	0				0	0	0	0	0	0		
+2	206	false	The Arid, Extra-Dry Desert	rock scorpion	Melodramedary	 | rad (5)	449	2	10	26	43	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	207	false	The Arid, Extra-Dry Desert	rock scorpion	Melodramedary	 | rad (5) | worm-riding manual page (2)	498	2	21	11	47	0				0	0	0	0	0	0		
+2	208	false	The Arid, Extra-Dry Desert	mutant plaque of locusts	Melodramedary	 | rad (5)	69	2	22	19	44	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	209	false	The Arid, Extra-Dry Desert	mutant cactuary	Melodramedary	 | rad (5) | worm-riding manual page (2)	265	2	17	26	45	0				0	0	0	0	0	0		
+2	210	false	The Arid, Extra-Dry Desert	mutant swarm of fire ants	Melodramedary	 | handful of sand | rad (5) | Nightmare Fuel	142	2	22	18	50	0				0	0	0	0	0	0		
+2	211	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Melodramedary	 | centipede eggs | handful of sand | rad (5)	186	2	19	17	44	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	212	false	The Arid, Extra-Dry Desert	mutant swarm of fire ants	Melodramedary	 | handful of sand | rad (5) | worm-riding manual page (2)	73	2	18	23	50	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	213	false	The Arid, Extra-Dry Desert	plaque of locusts	Melodramedary	 | bronzed locust | handful of sand | rad (5)	43	2	21	18	38	0				0	0	0	0	0	0		
+2	214	false	The Arid, Extra-Dry Desert	mutant rock scorpion	Melodramedary	 | handful of sand | handful of sand | rad (5) | worm-riding manual page (3)	293	2	22	30	37	0				0	0	0	0	0	0		
+2	215	true	The Arid, Extra-Dry Desert	sausage goblin	Melodramedary	 | magical sausage casing | rad (5)	105	2	77	76	185	0				0	0	0	0	0	0		
+2	215	false	The Arid, Extra-Dry Desert	plaque of locusts	Melodramedary	 | honey-dipped locust | rad (5) | worm-riding manual page (2)	51	2	19	18	38	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	216	false	The Oasis	blur	Melodramedary	 | rad (5)	196	2	18	17	43	0				0	0	0	0	0	0		
+2	217	false	The Oasis	a swarm of scarab beatles!	Melodramedary	 | rocky raccoon | Hugo's Weaving Manual | palm frond | red pixel | rad (5)	278	5	14	13	43	0			 | CHEAT CODE: REPLACE ENEMY | CHEAT CODE: REPLACE ENEMY | CHEAT CODE: REPLACE ENEMY	0	0	0	0	0	0	 | oasis monster | a swarm of scarab beatles! | an oasis monster!	
+2	218	false	The Oasis	swarm of scarab beatles	Melodramedary	 | rad (5)	215	2	26	25	32	0				0	0	0	0	0	0		
+2	219	false	The Oasis	mutant rolling stone	XO Skeleton	 | mother's little helper | rad (5)	11	3	21	26	31	0				0	0	0	0	0	0		
+2	220	false	The Oasis	swarm of scarab beatles	XO Skeleton	 | rocky raccoon | hot date | rad (5)	228	2	19	10	38	0				0	0	0	0	0	0		
+2	221	false	The Oasis	mutant blur	XO Skeleton	 | drum machine | green pixel | rad (5) | O | Nightmare Fuel	170	3	11	25	41	0			 | OTOSCOPE	0	0	0	0	0	0		
+2	222	true	The Oasis	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	222	false	The Oasis	All Across the Sands	XO Skeleton	 | stone rose	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	223	false	The Copperhead Club	fan dancer	XO Skeleton	 | blowdart | rad (5)	139	2	19	21	31	0				0	0	0	0	0	0		
+2	224	true	The Smut Orc Logging Camp	sausage goblin	Artistic Goth Kid	 | magical sausage casing | rad (5)	89	2	67	76	180	0			 | THROAT REFRIGERANT	0	0	0	0	0	0		
+2	224	true	The Smut Orc Logging Camp	Black Crayon Goblin	Artistic Goth Kid	 | Ferrigno's Elixir of Power | long hard screw | crayon shavings | white pixel | rad (5)	12	2	79	72	166	0			 | THROAT REFRIGERANT	0	0	0	0	0	0		
+2	224	false	The Smut Orc Logging Camp	mutant smut orc nailer	Artistic Goth Kid	 | long hard screw | long hard screw | weirdwood plank | rad (5) | stick of firewood	52	2	10	24	25	0			 | THROAT REFRIGERANT	0	0	0	0	0	0		
+2	225	true	The Smut Orc Logging Camp	Black Crayon Frat Orc	Artistic Goth Kid	 | crayon shavings | rad (5)	12	2	110	99	203	0			 | THROAT REFRIGERANT	0	0	0	0	0	0		
+2	225	false	The Smut Orc Logging Camp	The Frattlesnake	Artistic Goth Kid	 | The Lacrosse Stick of Lacoronado | rad (5) | stick of firewood	13	2	28	25	31	0			 | THROAT REFRIGERANT	0	0	0	0	0	0		
+2	226	false	The Smut Orc Logging Camp	smut orc jacker	Artistic Goth Kid	 | raging hardwood plank | orcish hand lotion | rad (5)	54	2	21	11	22	0			 | THROAT REFRIGERANT	0	0	0	0	0	0		
+2	227	true	The Smut Orc Logging Camp	Black Crayon Frat Orc	Artistic Goth Kid	 | crayon shavings | rad (5)	11	2	50	65	119	0			 | THROAT REFRIGERANT	0	0	0	0	0	0		
+2	227	false	The Smut Orc Logging Camp	smut orc pipelayer	Cat Burglar	 | weirdwood plank | rad (5) | stick of firewood	105	2	5	3	27	0			 | THROAT REFRIGERANT	0	0	0	0	0	0		
+2	228	false	The Smut Orc Logging Camp	smut orc screwer	Cat Burglar	 | messy butt joint | thick caulk | white pixel | rad (5)	117	2	14	5	11	0			 | THROAT REFRIGERANT	0	0	0	0	0	0		
+2	229	true	Combing the Beach	N/A	Cat Burglar		0	-1	0	0	0	0	 | Oiled, Slick (50)			0	0	0	0	0	0		
+2	229	false	The Smut Orc Logging Camp	Blech House	Cat Burglar	 | raging hardwood plank	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	230	false	The Smut Orc Logging Camp	mutant smut orc screwer	Cat Burglar	 | messy butt joint | rad (5)	110	2	10	7	24	0			 | THROAT REFRIGERANT	0	0	0	0	0	0		
+2	231	true	The Smut Orc Logging Camp	Wooof! Wooooooof!	Cat Burglar	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	231	false	The Smut Orc Logging Camp	smut orc pipelayer	Cat Burglar	 | morningwood plank | orcish rubber | rad (5) | stick of firewood	98	2	5	8	23	0			 | THROAT REFRIGERANT	0	0	0	0	0	0		
+2	232	false	The Smut Orc Logging Camp	The Camel's Toe	Cat Burglar	 | star | line | rad (5)	10	2	20	11	34	0			 | THROAT REFRIGERANT	0	0	0	0	0	0		
+2	233	TRUE	CONSUME: eat 1 jumping horseradish	N/A	Cat Burglar		0	-1	0	0	0	11	 | Kicked in the Sinuses (50)			0	0	0	0	0	0		
+2	233	true	genie summoned monster	Witchess Knight	Cat Burglar	 | jumping horseradish | rad (5)	15	3	27	36	88	0			 | DIGITIZE	0	0	0	0	0	1		
+2	233	false	The Copperhead Club	Shen Copperhead, Jerk	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	234	false	The Unquiet Garves	grave rober	Cat Burglar	 | dead guy's watch | grave robbing shovel | rad (5)	13	2	3	4	11	0				0	0	0	0	0	0		
+2	235	true	The Unquiet Garves	Black Crayon Frat Orc	Artistic Goth Kid	 | crayon shavings | rad (5)	10	2	59	49	148	0				0	0	0	0	0	0		
+2	235	true	The Unquiet Garves	sausage goblin	Artistic Goth Kid	 | magical sausage casing | rad (5)	206	3	64	38	150	0				0	0	0	0	0	0		
+2	235	false	The Unquiet Garves	the Snakeleton	Artistic Goth Kid	 | The Shield of Brook | rad (5) | Nightmare Fuel	14	3	11	13	48	0				0	0	0	0	0	0		
+2	236	false	The Copperhead Club	Shen Copperhead, Huge Jerk	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	237	false	The Castle in the Clouds in the Sky (Top Floor)	Goth Giant	Cat Burglar	 | thin black candle | rad (5)	663	2	7	6	32	0				0	0	0	0	0	0		
+2	238	false	The Castle in the Clouds in the Sky (Top Floor)	Punk Rock Giant	Cat Burglar	 | stolen sushi | rad (5)	244	2	11	6	34	0				0	0	0	0	0	0		
+2	239	false	The Castle in the Clouds in the Sky (Top Floor)	Steampunk Giant	Cat Burglar	 | steampunk potion | rad (5)	452	2	13	13	29	0				0	0	0	0	0	0		
+2	240	false	The Castle in the Clouds in the Sky (Top Floor)	Goth Giant	Cat Burglar	 | thin black candle | rad (5)	530	2	11	9	22	0				0	0	0	0	0	0		
+2	241	TRUE	CONSUME: eat 1 jumping horseradish	N/A	Cat Burglar		0	-1	0	0	0	11	 | Kicked in the Sinuses (50)			0	0	0	0	0	0		
+2	241	true	The Castle in the Clouds in the Sky (Top Floor)	Witchess Knight	Cat Burglar	 | jumping horseradish | rad (5)	15	3	30	26	74	0				0	0	0	0	0	0		
+2	241	false	The Castle in the Clouds in the Sky (Top Floor)	Copper Feel	Cat Burglar	 | steam-powered model rocketship	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	242	false	The Hole in the Sky	The Pork Sword	Artistic Goth Kid	 | star | rad (5)	14	2	18	8	38	0				0	0	0	0	0	0		
+2	243	false	The Hole in the Sky	mutant Junk	Artistic Goth Kid	 | rad | line | line | rad (5)	14	2	14	16	47	0				0	0	0	0	0	0		
+2	244	false	The Hole in the Sky	One-Eyed Willie	Artistic Goth Kid	 | almost-dead walkie-talkie | star | line | line | rad (5)	14	2	13	14	37	0				0	0	0	0	0	0		
+2	245	false	The Hole in the Sky	The Skinflute	Artistic Goth Kid	 | star | rad (5)	14	2	14	11	40	0				0	0	0	0	0	0		
+2	246	false	The Hole in the Sky	mutant The Snake With Like Ten Heads	Artistic Goth Kid	 | rad | The Eye of the Stars | rad (5)	12	3	14	18	43	0				0	0	0	0	0	0		
+2	247	false	The Copperhead Club	Shen Copperhead, World's Biggest Jerk	Artistic Goth Kid	 | Copperhead Charm	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	248	true	Inside the Palindome	sausage goblin	Artistic Goth Kid	 | rad | magical sausage casing | rad (5)	193	4	25	22	69	0				0	0	0	0	0	0		
+2	248	false	Inside the Palindome	Bob Racecar	Red-Nosed Snapper	 | rad | leather chaps | stunt nuts | ketchup hound | rad (5)	377	3	13	4	32	0			 | OFFER LATTE TO OPPONENT	0	0	0	1	0	0		
+2	249	false	Inside the Palindome	Evil Olive	Red-Nosed Snapper	 | jumbo olive | rad (5) | Nightmare Fuel	12	2	13	11	31	0				0	0	0	0	0	0		
+2	250	false	Inside the Palindome	Flock of Stab-bats	Red-Nosed Snapper	 | rad (5)	495	2	10	8	34	0				0	0	0	0	0	0		
+2	251	true	Inside the Palindome	Taco Cat	Red-Nosed Snapper		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	251	false	Inside the Palindome	Last Egg Gets Al	Red-Nosed Snapper	 | photograph of an ostrich egg	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	252	false	Inside the Palindome	Do Geese See God?	Red-Nosed Snapper	 | photograph of God	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	253	false	Inside the Palindome	Racecar Bob	Red-Nosed Snapper	 | leather chaps | ketchup hound | rad (6)	375	2	5	7	40	0				0	0	0	0	0	0		
+2	254	false	Inside the Palindome	mutant Racecar Bob	Red-Nosed Snapper	 | ketchup hound | rad (6)	343	2	10	13	40	0				0	0	0	0	0	0		
+2	255	false	Inside the Palindome	Rod Nevada, Vendor	Red-Nosed Snapper	 | photograph of a red nugget	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	256	true	Inside the Palindome	Flock of Stab-bats	Red-Nosed Snapper		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	256	false	Inside the Palindome	Bob Racecar	Red-Nosed Snapper	 | leather chaps | ketchup hound | rad (6)	348	2	7	11	29	0				0	0	0	0	0	0		
+2	257	true	Inside the Palindome	Wooof! Wooooooof!	Red-Nosed Snapper	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	257	true	Inside the Palindome	Racecar Bob	Red-Nosed Snapper	 | rad | leather chaps | ketchup hound | rad (6) | &quot;I Love Me, Vol. I&quot;	348	2	9	6	34	0				0	0	0	0	0	0		
+2	257	false	Dr. Awkward's Office	N/A	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	258	false	Inside the Palindome	mutant Drab Bard	Red-Nosed Snapper	 | olive | drab sonata | rad (6)	237	2	14	10	29	0				0	0	0	0	0	0		
+2	259	false	Inside the Palindome	Tan Gnat	Red-Nosed Snapper	 | suntan lotion of moxiousness | gnatwing | filet of tangy gnat (&quot;fotelif&quot;) | glass of gnat milk | rad (6)	73	2	10	10	25	0				0	0	0	0	0	0		
+2	260	false	Inside the Palindome	Racecar Bob	Red-Nosed Snapper	 | stunt nuts | ketchup hound | rad (6)	316	2	11	8	31	0				0	0	0	0	0	0		
+2	261	TRUE	CONSUME: eat 1 jumping horseradish	N/A	Red-Nosed Snapper		0	-1	0	0	0	10	 | Kicked in the Sinuses (50)			0	0	0	0	0	0		
+2	261	true	Inside the Palindome	Witchess Knight	Red-Nosed Snapper	 | rad | jumping horseradish | rad (6)	15	6	22	28	74	0				0	0	0	0	0	0		
+2	261	false	Inside the Palindome	Evil Olive	Red-Nosed Snapper	 | olive | bottle of gin | rad (6)	15	2	7	10	32	0				0	0	0	0	0	0		
+2	262	false	Inside the Palindome	mutant Bob Racecar	Red-Nosed Snapper	 | photograph of a dog | leather chaps | ketchup hound | rad (6)	391	3	4	10	44	0		|disposable instant camera		0	0	0	0	0	0		
+2	263	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	263	true	Cook 1 wet stew + 1 stunt nuts	N/A	Red-Nosed Snapper	 | wet stunt nut stew	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	263	true	The Dark Neck of the Woods	How Do We Do It? Quaint and Curious Volume!	Red-Nosed Snapper		250	-1	0	0	0	0				0	0	0	0	0	0		
+2	263	true	Dr. Awkward's Office	N/A	Red-Nosed Snapper	 | &quot;2 Love Me, Vol. 2&quot;	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	263	false	Dr. Awkward's Office	Dr. Awkward	Red-Nosed Snapper	 | Staff of Fats | Drowsy Sword | rad (6) | Nightmare Fuel	14	2	47	35	89	0				0	0	0	0	0	0		
+2	265	false	The Haunted Bathroom	mutant claw-foot bathtub	Red-Nosed Snapper	 | bottle of Monsieur Bubble | fancy bath salts | rad (6)	11	2	5	9	15	0				0	0	0	0	0	0		
+2	266	true	The Haunted Bathroom	Wooof! Wooooooof!	Red-Nosed Snapper	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	266	false	The Haunted Bathroom	cosmetics wraith	Red-Nosed Snapper	 | Lady Spookyraven's powder puff | old eyebrow pencil | old rosewater cream | old bronzer | rad (6)	14	2	3	8	19	0				0	0	0	0	0	0		
+2	267	false	The Haunted Ballroom	Having a Ball in the Ballroom	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	268	true	The Haunted Ballroom	Lights Out in the Ballroom	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	268	false	The Haunted Ballroom	floating platter of hors d'oeuvres	Artistic Goth Kid	 | dehydrated caviar | desiccated apricot | flute of flat champagne | rad (6)	10	2	11	4	28	0				0	0	0	0	0	0		
+2	269	true	Combing the Beach	N/A	Pair of Stomping Boots		0	-1	0	0	0	0	 | Do I Know You From Somewhere? (50)			0	0	0	0	0	0		
+2	269	false	The Haunted Ballroom	Strung-Up Quartet	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	270	true	The Haunted Ballroom	Curtains	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	270	true	The Haunted Ballroom	Curtains	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	270	true	The Haunted Ballroom	tapdancing skeleton	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	270	true	The Haunted Ballroom	Curtains	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	270	true	The Haunted Ballroom	zombie waltzers	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	270	true	The Haunted Ballroom	Curtains	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	270	true	The Haunted Ballroom	floating platter of hors d'oeuvres	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	270	false	The Haunted Ballroom	We'll All Be Flat	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	271	false	The Dark Neck of the Woods	Strike One!	Pair of Stomping Boots	 | imp unity ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	272	true	The Dark Neck of the Woods	Hellion	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	272	true	The Dark Neck of the Woods	W imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	272	true	The Dark Neck of the Woods	P imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	272	false	The Dark Neck of the Woods	Olive My Love To You, Oh.	Pair of Stomping Boots	 | olive | olive	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	273	false	The Dark Neck of the Woods	Dodecahedrariffic!	Pair of Stomping Boots	 | dodecagram	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	274	true	Friar Ceremony Location	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	274	true	The Haunted Wine Cellar	skeletal sommelier	Pair of Stomping Boots		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	274	false	The Haunted Wine Cellar	possessed wine rack	Pair of Stomping Boots	 | dusty bottle of spooky Pinot Noir | dusty bottle of vinegar Port | rad (6)	12	2	13	22	28	0				0	0	0	0	0	0		
+2	275	true	The Haunted Wine Cellar	mad wino	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	275	true	The Haunted Wine Cellar	mad wino	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	275	true	The Haunted Wine Cellar	mutant mad wino	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	275	true	The Haunted Wine Cellar	mad wino	Pair of Stomping Boots		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	275	false	The Haunted Wine Cellar	possessed wine rack	Pair of Stomping Boots	 | dusty bottle of vinegar Port | rad (6)	13	2	19	13	22	0				0	0	0	0	0	0		
+2	276	false	The Haunted Wine Cellar	possessed wine rack	Pair of Stomping Boots	 | rad | dusty bottle of spooky Pinot Noir | dusty bottle of bad Muscat | rad (6) | bottle of Chateau de Vinegar	13	2	17	10	27	0				0	0	0	0	0	0		
+2	277	true	The Haunted Laundry Room	possessed laundry press	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	277	true	The Haunted Laundry Room	mutant possessed laundry press	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	277	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	Pair of Stomping Boots	 | bloodstain stick | fabric hardener | rad (6)	174	2	7	6	36	0				0	0	0	0	0	0		
+2	278	false	The Haunted Laundry Room	mutant possessed laundry press	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	279	false	The Haunted Laundry Room	plaid ghost	Pair of Stomping Boots	 | psychokinetic energy blob | plaid swatch | rad (6)	10	2	11	13	26	0				0	0	0	0	0	0		
+2	280	true	Deck of Every Card	The Race Card	Stooper		0	-1	0	0	0	0	 | Racing! (20)			0	0	0	0	0	0		
+2	280	false	Deck of Every Card	shifty pirate	Stooper	 | sunken chest | rad (6) | li'l pirate costume	154	2	8	4	17	0				0	0	0	0	0	0		
+2	281	true	Deck of Every Card	Three of Wands	Stooper		0	-1	0	0	0	0	 | Dirge of Dreadfulness (5) | Rainbow Bright (5) | Buttery, Boy (5)			0	0	0	0	0	0		
+2	281	true	Deck of Every Card	Lead Pipe	Stooper	 | lead pipe	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	281	true	Deck of Every Card	Five of Coins	Stooper		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	281	true	The Haunted Laundry Room	Bastille Battalion	Stooper		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	281	true	The Haunted Laundry Room	Bastille Battalion	Stooper		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	281	true	The Haunted Laundry Room	plaid ghost	Stooper		0	0	0	0	0	0			 | USE THE FORCE | SABER BANISH	0	1	0	0	0	0		
+2	281	false	The Haunted Laundry Room	mutant cabinet of Dr. Limpieza	Stooper	 | bottle of laundry sherry | rad (6)	173	3	17	9	30	0			 | OFFER LATTE TO OPPONENT	0	0	0	1	0	0		
+2	282	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	Stooper	 | rad | fabric hardener | green pixel | rad (6) | Nightmare Fuel	169	2	11	8	36	0				0	0	0	0	0	0		
+2	283	true	The Haunted Laundry Room	Wooof! Wooooooof!	Stooper	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	283	false	The Haunted Laundry Room	mutant cabinet of Dr. Limpieza	Stooper	 | rad | fabric softener | rad (6)	190	2	13	16	28	0				0	0	0	0	0	0		
+2	284	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	Stooper	 | rad (6)	178	2	14	11	22	0				0	0	0	0	0	0		
+2	285	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza!	Stooper	 | rad | rad (6)	198	3	8	15	27	0			 | CHEAT CODE: REPLACE ENEMY	0	0	0	0	0	0	 | mutant possessed laundry press	
+2	286	false	The Haunted Laundry Room	mutant cabinet of Dr. Limpieza	Stooper	 | bloodstain stick | red pixel | rad (6)	183	2	10	13	34	0				0	0	0	0	0	0		
+2	287	false	The Haunted Laundry Room	mutant cabinet of Dr. Limpieza	Stooper	 | fabric softener | fabric hardener | rad (6)	174	2	14	17	27	0				0	0	0	0	0	0		
+2	288	TRUE	CONSUME: drink 1 astral pilsner	N/A	Stooper		0	-1	0	0	0	22				0	0	0	0	0	0		
+2	288	TRUE	CONSUME: drink 1 splendid martini	N/A	Stooper		0	-1	0	0	0	11	 | Goldentongue (40)			0	0	0	0	0	0		
+2	288	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza!	Stooper	 | bottle of laundry sherry | rad (6) | blasting soda	175	3	8	11	30	0			 | CHEAT CODE: REPLACE ENEMY	0	0	0	0	0	0	 | possessed laundry press	
+2	289	true	Rest in your bed in the Chateau	N/A	Reanimated Reanimator		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	289	true	Boxing Daycare	Have a Boxing Daydream	Reanimated Reanimator	 | bauxite boxers	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	289	false	Cook 1 bottle of Chateau de Vinegar + 1 blasting soda	N/A	Reanimated Reanimator	 | unstable fulminate	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	290	false	Mist-Shrouded Peak	panicking Knott Yeti	Reanimated Reanimator	 | yeti fur | rad (6)	574	2	8	18	27	0				0	0	0	0	0	0		
+3	291	false	Mist-Shrouded Peak	panicking Knott Yeti	Reanimated Reanimator	 | yeti fur | ten-leaf clover | rad (6) | Nightmare Fuel	672	2	14	14	26	0				0	0	0	0	0	0		
+3	292	false	Mist-Shrouded Peak	panicking Knott Yeti	Reanimated Reanimator	 | yeti fur	587	2	17	9	28	0				0	0	0	0	0	0		
+3	293	false	Mist-Shrouded Peak	Groar	Reanimated Reanimator	 | Groar's fur | dense meat stack (5)	0	3	21	25	57	0				0	0	0	0	0	0		
+3	294	true	An Overgrown Shrine (Southeast)	Fire When Ready	Reanimated Reanimator	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	294	true	An Overgrown Shrine (Northeast)	Air Apparent	Reanimated Reanimator		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	294	false	The Hidden Park	boaraffe	Reanimated Reanimator	 | long pork | blue pixel	346	2	10	18	38	0				0	0	0	0	0	0		
+3	295	true	An Overgrown Shrine (Southwest)	Water You Dune	Reanimated Reanimator	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	295	true	A Massive Ziggurat	dense liana	Reanimated Reanimator		0	1	0	0	0	0				0	0	0	0	0	0		
+3	295	true	A Massive Ziggurat	dense liana	Reanimated Reanimator	 | white pixel	0	1	0	0	4	0				0	0	0	0	0	0		
+3	295	true	A Massive Ziggurat	dense liana	Reanimated Reanimator	 | blue pixel	0	1	5	0	0	0				0	0	0	0	0	0		
+3	295	TRUE	CONSUME: eat 1 hardboiled egg	N/A	Reanimated Reanimator		0	-1	0	0	0	8	 | Too Noir For Snoir (50)			0	0	0	0	0	0		
+3	295	false	A Massive Ziggurat	Protector Spectre	Reanimated Reanimator	 | ancient amulet | spectre scepter	0	3	40	39	84	0				0	0	0	0	0	0		
+3	296	false	The Haunted Boiler Room	monstrous boiler	Reanimated Reanimator	 | wine bomb	0	2	0	0	0	0				0	0	0	0	0	0		
+3	297	false	The Tavern Cellar	mutant bunch of drunken rats	Reanimated Reanimator	 | rat whisker | rat appendix | rad (6)	51	2	14	19	41	0				0	0	0	0	0	0		
+3	298	false	The Tavern Cellar	drunken rat king	Reanimated Reanimator	 | rat whisker | rat whisker | rat whisker | tangle of rat tails | rad (6)	126	2	27	19	29	0				0	0	0	0	0	0		
+3	299	false	The Tavern Cellar	bunch of drunken rats	Reanimated Reanimator	 | rat whisker | rat appendix | blue pixel | rad (6)	60	2	18	11	40	0				0	0	0	0	0	0		
+3	300	false	The Tavern Cellar	bunch of drunken rats	Reanimated Reanimator	 | rat whisker | rat whisker | rat whisker	63	2	14	16	42	0				0	0	0	0	0	0		
+3	301	false	The Tavern Cellar	bunch of drunken rats	Reanimated Reanimator	 | rat whisker | rat appendix	57	2	19	11	41	0				0	0	0	0	0	0		
+3	302	false	The Tavern Cellar	Those Who Came Before You	Cat Burglar	 | moxie weed | shiny ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	303	TRUE	HEIST: Stealing an item!	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	303	false	The Tavern Cellar	mutant drunken rat king	Cat Burglar	 | rat whisker | rat whisker | rat whisker | rat whisker | rat appendix | tangle of rat tails | Nightmare Fuel	177	2	17	19	38	0				0	0	0	0	0	0		
+3	304	false	The Tavern Cellar	Of Course!	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	305	false	Summoning Chamber	Lord Spookyraven	Cat Burglar	 | Eye of Ed | Lord Spookyraven's ear trumpet	0	3	48	48	100	0				0	0	0	0	0	0		
+3	306	true	Oil Peak	Pushin' Down on Me, Pushin' Down on You	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	306	false	Oil Peak	oil cartel	Cat Burglar		0	3	0	0	0	0				0	0	0	0	0	0		
+3	307	false	Oil Peak	oil cartel	Cat Burglar	 | bubblin' crude	0	3	20	24	36	0				0	0	0	0	0	0		
+3	308	true	Oil Peak	sausage goblin	Cat Burglar	 | magical sausage casing | rad (7)	295	4	51	41	114	0				0	0	0	0	0	0		
+3	308	false	Oil Peak	oil cartel	Cat Burglar		0	3	0	0	0	0				0	0	0	0	0	0		
+3	309	false	Oil Peak	oil cartel	Cat Burglar	 | bubblin' crude | bubblin' crude	0	3	20	14	47	0				0	0	0	0	0	0		
+3	310	false	Oil Peak	oil cartel	Cat Burglar	 | bubblin' crude | bubblin' crude	0	3	25	21	34	0				0	0	0	0	0	0		
+3	311	false	Oil Peak	Unimpressed with Pressure	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	312	false	Oil Peak	mutant oil cartel	Cat Burglar	 | bubblin' crude | bubblin' crude	0	4	17	15	53	0				0	0	0	0	0	0		
+3	313	true	Oil Peak	Wooof! Wooooooof!	Cat Burglar	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	313	false	Oil Peak	oil cartel	Cat Burglar	 | bubblin' crude | bubblin' crude | bubblin' crude	0	4	21	10	44	0				0	0	0	0	0	0		
+3	314	true	The Upper Chamber	mutant tomb bat	Cat Burglar		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+3	314	true	The Upper Chamber	tomb servant	Cat Burglar		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+3	314	false	The Upper Chamber	Iiti Kitty	Cat Burglar	 | rad | leathery cat skin | ancient Magi-Wipes | ancient vinyl coin purse | mummy wrapping | Iiti Kitty Gumdrop | rad (7)	10	2	20	20	54	0				0	0	0	0	0	0		
+3	315	false	The Upper Chamber	A Wheel -- How Fortunate!	Cat Burglar	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	316	true	The Upper Chamber	sausage goblin	Cat Burglar	 | rad | magical sausage casing | rad (7)	276	2	54	64	122	0				0	0	0	0	0	0		
+3	316	false	The Upper Chamber	Down Dooby-Doo Down Down	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	317	false	The Middle Chamber	tomb rat	Artistic Goth Kid	 | leathery rat skin | rad (7)	207	2	30	22	53	0				0	0	0	0	0	0		
+3	318	true	The Middle Chamber	Black Crayon Beast	Artistic Goth Kid	 | crayon shavings | rad (7)	13	2	63	63	122	0				0	0	0	0	0	0		
+3	318	true	The Middle Chamber	mutant tomb asp	Pair of Stomping Boots		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+3	318	false	The Middle Chamber	a tomb rat king!	Pair of Stomping Boots	 | tomb ratchet | tomb ratchet | tomb ratchet | leathery rat skin | leathery rat skin | leathery rat skin | unidentified jerky | unidentified jerky | rad (7) | Nightmare Fuel	405	5	25	29	68	0	 | Bat-Adjacent Form (1)	|tangle of rat tails	 | OTOSCOPE | BECOME A BAT	0	0	0	0	0	0	 | tomb rat	
+3	319	false	The Middle Chamber	a tomb rat king!	Pair of Stomping Boots	 | tomb ratchet | tomb ratchet | tomb ratchet | leathery rat skin | leathery rat skin | leathery rat skin | unidentified jerky | unidentified jerky | unidentified jerky | rad (7)	320	5	37	28	57	0	 | Bat-Adjacent Form (1)	|tangle of rat tails	 | OTOSCOPE | BECOME A BAT	0	0	0	0	0	0	 | tomb rat	
+3	320	false	The Middle Chamber	Further Down Dooby-Doo Down Down	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	321	false	The Middle Chamber	tomb rat	Pair of Stomping Boots	 | leathery rat skin | unidentified jerky | rad (7)	164	2	24	17	48	0				0	0	0	0	0	0		
+3	322	false	The Middle Chamber	tomb rat	Pair of Stomping Boots	 | tomb ratchet | leathery rat skin | unidentified jerky | rad (7)	186	2	25	14	52	0				0	0	0	0	0	0		
+3	323	true	The Middle Chamber	sausage goblin	Pair of Stomping Boots	 | magical sausage casing | rad (7)	165	2	60	73	126	0				0	0	0	0	0	0		
+3	323	true	The Middle Chamber	Ratchet-catcher	Pair of Stomping Boots	 | tomb ratchet	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	323	false	The Middle Chamber	tomb rat	Pair of Stomping Boots	 | tomb ratchet | leathery rat skin | unidentified jerky | rad (7)	213	3	21	22	45	0			 | OTOSCOPE	0	0	0	0	0	0		
+3	324	false	The Middle Chamber	Under Control	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	325	false	The Lower Chambers	N/A	Pair of Stomping Boots	 | ancient bronze token	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	326	true	The Defiled Cranny	mutant sausage goblin	Reanimated Reanimator		0	2	0	0	0	0				0	0	0	0	0	0		
+3	326	false	The Defiled Cranny	mutant giant swarm of ghuol whelps	Reanimated Reanimator	 | rad (7)	15	3	18	15	44	0			 | WINK AT	0	0	0	0	0	1		
+3	327	false	The Lower Chambers	N/A	Reanimated Reanimator	 | ancient bomb	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	328	false	The Lower Chambers	N/A	Reanimated Reanimator		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	329	false	The Lower Chambers	mutant Ed the Undying	Mu		13	2	39	35	71	0				0	0	0	0	0	0		
+3	330	false	The Lower Chambers	Ed the Undying	Mu		15	2	33	24	80	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	true	The Lower Chambers	N/A	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	false	The Lower Chambers	Ed the Undying	Mu		0	0	0	0	0	0				0	0	0	0	0	0		
+3	333	false	The Defiled Cranny	Ed the Undying	Mu		15	2	31	30	68	0				0	0	0	0	0	0		
+3	334	false	The Defiled Cranny	Ed the Undying	Mu	 | Nightmare Fuel	13	2	38	21	70	0				0	0	0	0	0	0		
+3	335	false	The Defiled Cranny	Ed the Undying	Mu	 | Holy MacGuffin | handful of confetti	14	2	29	32	68	0				0	0	0	0	0	0		
+3	336	true	Twin Peak	Welcome to the Great Overlook Lodge	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	336	false	rusty hedge trimmers	Room 237	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	337	false	rusty hedge trimmers	Go Check It Out!	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	338	false	rusty hedge trimmers	He Is the Arm, and He Sounds Like This	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	339	true	rusty hedge trimmers	Now It's Dark	Mu	 | gold wedding ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	339	true	The Defiled Niche	basic lihc	Mu		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+3	339	false	The Defiled Niche	dirty old lihc	Mu	 | rad	0	2	0	0	0	0				0	0	0	0	0	0		
+3	340	true	The Defiled Niche	slick lihc	Mu		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+3	340	true	The Defiled Niche	senile lihc	Mu		0	0	0	0	0	0			 | USE THE FORCE | SABER BANISH	0	1	0	0	0	0		
+3	340	false	The Defiled Niche	mutant dirty old lihc	Mu	 | salacious crumbs	13	2	13	14	23	0				0	0	0	0	0	0		
+3	341	false	The Defiled Niche	dirty old lihc	Mu	 | rad | salacious crumbs	14	2	13	10	23	0				0	0	0	0	0	0		
+3	342	true	The Defiled Niche	Urning Your Keep	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	342	false	The Defiled Niche	dirty old lihc	Mu		0	2	0	0	0	0				0	0	0	0	0	0		
+3	343	true	The Defiled Niche	Urning Your Keep	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	343	false	The Defiled Niche	mutant dirty old lihc	Mu	 | rad	15	2	16	14	21	0				0	0	0	0	0	0		
+3	344	true	The Defiled Niche	Wooof! Wooooooof!	Mu	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	344	false	The Defiled Niche	dirty old lihc	Mu	 | salacious crumbs	11	2	14	9	23	0				0	0	0	0	0	0		
+3	345	false	The Defiled Niche	dirty old lihc	Mu	 | salacious crumbs	13	2	15	5	27	0				0	0	0	0	0	0		
+3	346	true	The Defiled Niche	Urning Your Keep	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	346	true	The Defiled Niche	Urning Your Keep	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	346	false	The Defiled Niche	mutant dirty old lihc	Mu	 | salacious crumbs	14	2	5	7	11	0				0	0	0	0	0	0		
+3	347	false	The Defiled Niche	gargantulihc	Mu	 | rad	0	2	0	0	0	0				0	0	0	0	0	0		
+3	348	false	The Defiled Cranny	Is There A Doctor In The House?	Mu	 | Nightmare Fuel	49	2	3	2	15	0				0	0	0	0	0	0		
+3	349	false	The Defiled Cranny	gluttonous ghuol	Mu		0	2	0	0	0	0				0	0	0	0	0	0		
+3	350	false	The Defiled Cranny	gaunt ghuol	Mu	 | ghuol egg | dieting pill	59	2	5	3	10	0				0	0	0	0	0	0		
+3	351	false	A-Boo Peak	The "Journalist"	Mu	 | A-Boo clue | A-Boo clue	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	352	false	A-Boo Peak	The "Journalist"	Mu	 | A-Boo clue | A-Boo clue	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	353	true	Combing the Beach	N/A	Mu		0	-1	0	0	0	0	 | Does It Have a Skull In There?? (50)			0	0	0	0	0	0		
+3	353	true	Combing the Beach	N/A	Mu		0	-1	0	0	0	0	 | Cold as Nice (50)			0	0	0	0	0	0		
+3	353	false	A-Boo Peak	The Horror...	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	354	false	A-Boo Peak	The Horror...	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	355	false	A-Boo Peak	The Horror...	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	356	false	A-Boo Peak	The Horror...	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	357	false	A-Boo Peak	Come On Ghosty, Light My Pyre	Mu		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	358	true	Deck of Every Card	The Race Card	Mu		0	-1	0	0	0	0	 | Racing! (20)			0	0	0	0	0	0		
+3	358	true	Combing the Beach	N/A	Mu		0	-1	0	0	0	0	 | Resting Beach Face (50) | init.enh (100)			0	0	0	0	0	0		
+3	358	false	The Defiled Alcove	corpulent zobmie	Oily Woim		0	2	0	0	0	0				0	0	0	0	0	0		
+3	359	true	The Defiled Alcove	Turn Your Head and Coffin	Oily Woim		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	359	false	The Defiled Alcove	modern zmobie	Oily Woim	 | rad (8)	138	2	7	8	14	0				0	0	0	0	0	0		
+3	360	false	The Defiled Alcove	mutant grave rober zmobie	Oily Woim	 | rusty grave robbing shovel | rad (8)	96	2	8	3	20	0				0	0	0	0	0	0		
+3	361	false	The Defiled Alcove	grave rober zmobie	Oily Woim		0	2	0	0	0	0				0	0	0	0	0	0		
+3	362	false	The Defiled Alcove	modern zmobie	Oily Woim	 | rad (8)	128	2	3	6	20	0				0	0	0	0	0	0		
+3	363	false	The Defiled Alcove	modern zmobie	Oily Woim	 | rad (8) | wriggling worm	132	2	6	6	16	0				0	0	0	0	0	0		
+3	364	true	The Defiled Alcove	Wooof! Wooooooof!	Oily Woim	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	364	false	The Defiled Alcove	modern zmobie	Oily Woim	 | rad (8)	114	2	5	6	17	0				0	0	0	0	0	0		
+3	365	false	The Defiled Alcove	conjoined zmombie	Oily Woim	 | cranberries | cranberries | rad (8)	624	2	19	13	41	0				0	0	0	0	0	0		
+3	366	false	The Defiled Cranny	mutant giant swarm of ghuol whelps	Oily Woim	 | rad (8) | Nightmare Fuel	0	2	9	5	14	0				0	0	0	0	0	0		
+3	367	true	The Defiled Cranny	Wooof! Wooooooof!	Oily Woim	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	367	false	The Defiled Cranny	mutant big swarm of ghuol whelps	Oily Woim	 | rad (8)	0	2	17	9	18	0				0	0	0	0	0	0		
+3	368	false	The Defiled Cranny	mutant gluttonous ghuol	Oily Woim	 | huge spoon | rad (8)	104	2	11	10	24	0				0	0	0	0	0	0		
+3	369	false	The Defiled Cranny	huge ghuol	Oily Woim		0	2	0	0	0	0				0	0	0	0	0	0		
+3	370	false	Haert of the Cyrpt	The Bonerdagon	Oily Woim	 | skull of the Bonerdagon	0	2	0	0	0	0				0	0	0	0	0	0		
+3	371	false	Hottest Adventurer Contest	The Lavalier	Oily Woim	 | rad (8)	0	2	28	25	59	0				0	0	0	0	0	0		
+3	372	false	Strongest Adventurer Contest	Mr. Loathing	Oily Woim	 | muscle oil | rad (8)	0	2	31	29	52	0				0	0	0	0	0	0		
+3	373	false	Fastest Adventurer Contest	The Tasmanian Dervish	Oily Woim	 | rad (8)	0	3	25	35	58	0				0	0	0	0	0	0		
+3	374	TRUE	CONSUME: eat 1 jumping horseradish	N/A	Oily Woim		0	-1	0	0	0	11	 | Kicked in the Sinuses (50)			0	0	0	0	0	0		
+3	374	TRUE	CONSUME: eat 1 jumping horseradish	N/A	Oily Woim		0	-1	0	0	0	12	 | Kicked in the Sinuses (50)			0	0	0	0	0	0		
+3	374	true	Time-Spinner	N/A	Oily Woim		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	374	TRUE	CONSUME: eat 1 jumping horseradish	N/A	Oily Woim		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	374	true	Time-Spinner	N/A	Oily Woim		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	374	true	Deck of Every Card	XVI - The Tower	Oily Woim	 | Jarlsberg's key	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	374	false	photocopied monster	ghost	Oily Woim	 | white pixel | white pixel | white pixel | white pixel | white pixel | rad (8)	0	2	7	5	22	0				0	0	0	0	0	0		
+3	375	false	The Hedge Maze	'Allo	Oily Woim		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	376	false	The Hedge Maze	Pooling Your Resources	Oily Woim		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	377	false	The Hedge Maze	Of Mouseholes and Manholes	Oily Woim		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	378	false	The Hedge Maze	Mazel Tov!	Oily Woim		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	379	true	Tower Door	N/A	Oily Woim		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	379	false	The Naughty Sorceress' Tower	wall of skin	Oily Woim	 | rad (8)	0	2	20	15	33	0		|beehive		0	0	0	0	0	0		
+3	380	false	The Naughty Sorceress' Tower	wall of meat	Cat Burglar	 | rad (8)	651	3	18	11	40	0				0	0	0	0	0	0		
+3	381	false	The Naughty Sorceress' Tower	wall of meat	Cat Burglar	 | rad (8) | Nightmare Fuel	967	5	13	13	42	0				0	0	0	0	0	0		
+3	382	false	The Naughty Sorceress' Tower	wall of bones	Cat Burglar	 | rad (8)	0	2	72	61	165	0		|electric boning knife		0	0	0	0	0	0		
+3	383	false	The Castle in the Clouds in the Sky (Basement)	You Never Know What You're Gonna Find	Cat Burglar	 | ruby W | metallic A | lowercase N | original G | heavy D	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	384	TRUE	PILLKEEPER: Sunday - Surprise Me	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	384	false	The Naughty Sorceress' Tower	The Mirror in the Tower has the View that is True	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	385	false	Cobb's Knob Harem	Hands On	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	386	false	The Naughty Sorceress' Tower	Shadow Apprentice Accordion Thief	Cat Burglar		0	9	0	0	0	0		|scented massage oil|scented massage oil|bronzed locust		0	0	0	0	0	0		
+3	387	TRUE	CONSUME: drink 1 splendid martini	N/A	Mu		0	-1	0	0	0	11	 | Goldentongue (40)			0	0	0	0	0	0		
+3	387	TRUE	CONSUME: drink 1 splendid martini	N/A	Mu		0	-1	0	0	0	14	 | Items Are Forever (40)			0	0	0	0	0	0		
+3	387	TRUE	CONSUME: drink 1 splendid martini	N/A	Mu		0	-1	0	0	0	14	 | For Your Brain Only (40)			0	0	0	0	0	0		
+3	387	false	The Naughty Sorceress' Tower	Shadow Apprentice Accordion Thief	Cat Burglar	 | rad (8)	0	7	53	63	123	0		|scented massage oil|scented massage oil		0	0	0	0	0	0		
+3	388	false	The Naughty Sorceress' Chamber	The Naughty Sorceress	Mu	 | rad (8)	0	3	6	0	2	0				0	0	0	0	0	0		
+3	389	true	The Naughty Sorceress' Chamber	The Naughty Sorceress (2)	Mu	 | rad (8)	0	3	0	0	2	0				0	0	0	0	0	0		
+3	389	TRUE	CONSUME: drink 1 splendid martini	N/A	Mu		0	-1	0	0	0	11	 | Punch Another Day (40)			0	0	0	0	0	0		
+3	389	true	The Naughty Sorceress' Chamber	The Naughty Sorceress (3)	Mu	 | rad (8) | Thwaitgold cockroach statuette	0	1	132	136	317	0				0	0	0	0	0	0		
