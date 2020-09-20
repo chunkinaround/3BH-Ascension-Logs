@@ -1,0 +1,835 @@
+day	turnSpent	free?	location	encounterName	familiar	items	meat	rounds	mus	mys	mox	advsGained	effectsGained	itemsUsed	skillsUsed	freeRun?	banish	freeKill	sniff	spit	copy	macroFrom	
+1	1	true	God Lobster	the God Lobster	God Lobster		0	4	22	10	7	0			 | STUFFED MORTAR SHELL | CLOBBER	0	0	0	0	0	0		
+1	1	true	God Lobster	Granted a Boon	God Lobster	 | God Lobster's Scepter	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	God Lobster	the God Lobster	God Lobster		0	4	21	6	19	0			 | STUFFED MORTAR SHELL | GULP LATTE	0	0	0	0	0	0		
+1	1	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0	 | Intuition of the God Lobster (33)			0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Enforcer	Baby Sandworm		15	4	77	40	16	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Engineer	Baby Sandworm	 | LOV Eardigan | bag of GORP | agua de vida	14	6	77	26	20	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Equivocator	Baby Sandworm		14	3	113	16	45	0	 | Lovebotamy (50)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	Baby Sandworm	 | LOV Enamorang	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm		14	3	53	22	28	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm		11	3	62	24	28	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm		11	3	82	16	25	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	1	TRUE	CONSUME: chew 1 agua de vida	N/A	Baby Sandworm	 | empty agua de vida bottle	0	-1	0	0	0	5				0	0	0	0	0	0		
+1	1	TRUE	CONSUME: chew 1 agua de vida	N/A	Baby Sandworm	 | empty agua de vida bottle	0	-1	0	0	0	5				0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | water purification pills | agua de vida	15	3	77	24	14	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	Is There A Doctor In The House?	Baby Sandworm		11	3	60	40	32	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | meadeorite	13	3	86	22	28	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | ancient medicinal herbs	15	4	73	38	35	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	1	TRUE	CONSUME: chew 1 agua de vida	N/A	Baby Sandworm	 | empty agua de vida bottle	0	-1	0	0	0	6				0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | agua de vida	14	4	82	44	14	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm		14	4	82	26	44	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER	0	0	0	0	0	0		
+1	1	false	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm		0	3	0	0	0	0			 | STUFFED MORTAR SHELL | WAVE OF SAUCE	0	0	0	0	0	0		
+1	2	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | meteoreo	10	4	88	40	32	0			 | STUFFED MORTAR SHELL | WAVE OF SAUCE | CANNELLONI CANNON	0	0	0	0	0	0		
+1	2	true	Rest in your bed in the Chateau	N/A	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	2	true	The Neverending Party	N/A	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	2	true	The Neverending Party	N/A	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	2	true	The Neverending Party	biker	Baby Sandworm	 | gas can | Middle of the Road&trade; brand whiskey | neverending wallet chain	182	6	157	63	68	0			 | STUFFED MORTAR SHELL | MICROMETEORITE | ARMY OF TODDLERS	0	0	0	0	0	0		
+1	2	true	The Neverending Party	party girl	Baby Sandworm	 | Camp Scout pup tent | runproof mascara | agua de vida | Cobb's Knob map | Evilometer	211	7	139	60	44	0			 | STUFFED MORTAR SHELL | MICROMETEORITE | WAVE OF SAUCE | SAUCEGEYSER	0	0	0	0	0	0		
+1	2	true	The Neverending Party	&quot;plain&quot; girl	Hobo Monkey	 | electronics kit | PB&J with the crusts cut off	407	5	141	46	49	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+1	2	true	The Spooky Forest	spooky mummy	Hobo Monkey		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	2	true	The Neverending Party	jock	Hobo Monkey	 | meteoreo | Purple Beast energy drink	608	6	141	58	48	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+1	2	true	The Neverending Party	burnout	Hobo Monkey	 | van key | jam band bootleg	423	6	137	42	46	0			 | GULP LATTE | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+1	2	true	The Neverending Party	burnout	Hobo Monkey		395	5	130	50	49	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+1	2	true	The Neverending Party	burnout	Hobo Monkey	 | jam band bootleg	353	5	141	42	46	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+1	2	true	The Neverending Party	biker	Hobo Monkey	 | gas can | Middle of the Road&trade; brand whiskey | pentagram bandana	677	6	139	56	52	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+1	2	true	The Neverending Party	biker	Hobo Monkey		702	6	146	56	48	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+1	2	true	The Neverending Party	party girl	Hobo Monkey	 | runproof mascara | very small red dress	688	5	150	54	54	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+1	2	true	Cook 5 wad of dough + 5 soda water	N/A	Hobo Monkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	2	true	The Spooky Forest	wolfman	Hobo Monkey		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+1	2	true	The Spooky Forest	triffid	Hobo Monkey		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	2	false	Guano Junction	How I Wonder What You're At	Hobo Monkey	 | sonar-in-a-biscuit | sonar-in-a-biscuit	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	3	false	The Beanbat Chamber	beanbat	He-Boulder	 | enchanted bean | sonar-in-a-biscuit	173	5	64	14	34	0	 | Everything Looks Yellow (150)	|seal tooth|seal tooth|seal tooth	 | POINT AT YOUR OPPONENT	0	0	0	0	0	0		
+1	4	true	The Boss Bat's Lair	beefy bodyguard bat	Hobo Monkey		0	0	0	0	0	0				0	0	0	0	0	0		
+1	4	false	The Boss Bat's Lair	N/A	Hobo Monkey	 | CSA fire-starting kit | Gathered Meat-Clip	1126	3	84	20	12	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	5	false	The Boss Bat's Lair	beefy bodyguard bat	Hobo Monkey		1550	3	69	28	16	0			 | STUFFED MORTAR SHELL | SING ALONG | SING ALONG	0	0	0	0	0	0		
+1	6	false	The Boss Bat's Lair	beefy bodyguard bat	Hobo Monkey		1156	3	64	34	16	0			 | STUFFED MORTAR SHELL | SING ALONG	0	0	0	0	0	0		
+1	7	false	The Boss Bat's Lair	beefy bodyguard bat	Hobo Monkey		1220	3	75	18	22	0			 | STUFFED MORTAR SHELL | SING ALONG	0	0	0	0	0	0		
+1	8	false	The Boss Bat's Lair	beefy bodyguard bat	Hobo Monkey		1267	3	60	34	26	0			 | STUFFED MORTAR SHELL | SING ALONG	0	0	0	0	0	0		
+1	9	true	The Boss Bat's Lair	Wooof! Wooooooof!	Hobo Monkey		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+1	9	false	The Boss Bat's Lair	beefy bodyguard bat	Hobo Monkey		1268	3	71	18	26	0			 | STUFFED MORTAR SHELL | SING ALONG	0	0	0	0	0	0		
+1	10	true	The Spooky Forest	angry ghost	Hobo Monkey	 | ghostly ectoplasm	90	3	157	52	68	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER	0	0	0	0	0	0		
+1	10	true	The Spooky Forest	sausage goblin	Hobo Monkey	 | magical sausage casing	447	4	163	64	62	0			 | STUFFED MORTAR SHELL | WAVE OF SAUCE | SAUCEGEYSER	0	0	0	0	0	0		
+1	10	true	Your Witchess Set	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	10	true	Your Witchess Set	Play against the Witchess Pieces	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	10	true	Your Witchess Set	Witchess Queen	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	10	false	genie summoned monster	mountain man	XO Skeleton	 | asbestos ore | linoleum ore | linoleum ore | chrome ore | chrome ore | asbestos ore | linoleum ore | chrome ore | chrome ore	10	6	67	14	19	0		|exploding cigar	 | MICROMETEORITE | DUPLICATE | STUFFED MORTAR SHELL | SAUCEGEYSER	0	0	0	0	0	0		
+1	11	false	genie summoned monster	ghost	XO Skeleton	 | psychokinetic energy blob | white pixel | white pixel | white pixel | white pixel | white pixel	13	4	56	20	16	0		|LOV Enamorang	 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	12	false	photocopied monster	ninja snowman assassin	XO Skeleton	 | Source essence (2) | li'l ninja costume | CSA scoutmaster's &quot;water&quot; | ninja rope	10	5	68	24	22	0			 | DIGITIZE | EXTRACT | STUFFED MORTAR SHELL | SAUCEGEYSER	0	0	0	0	0	1		
+1	13	true	Deck of Every Card	XVI - The Tower	XO Skeleton	 | Sneaky Pete's key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	13	true	The Goatlet	sausage goblin	XO Skeleton	 | magical sausage casing | O	224	4	99	43	34	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER	0	0	0	0	0	0		
+1	13	true	The Goatlet	Puddle Puncher	XO Skeleton	 | figurine of a cold seal	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	13	true	The Goatlet	drunk goat	XO Skeleton		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+1	13	false	The Goatlet	a dairy goat!	XO Skeleton	 | goat cheese | Shivering Ch&egrave;vre	156	4	41	13	14	0	 | On the Trail (40)		 | MACROMETEORITE | TRANSCENDENT OLFACTION	0	0	0	1	0	0	 | sabre-toothed goat	
+1	14	true	The Goatlet	Puddle Puncher	XO Skeleton	 | figurine of a cold seal	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	14	false	The Goatlet	dairy goat	XO Skeleton	 | goat cheese	160	2	60	20	19	0				0	0	0	0	0	0		
+1	15	true	The Goatlet	Puddle Puncher	XO Skeleton	 | figurine of a cold seal	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	15	false	The Goatlet	dairy goat	XO Skeleton	 | almost-dead walkie-talkie | goat cheese | glass of goat's milk | Gathered Meat-Clip	179	2	60	16	18	0				0	0	0	0	0	0		
+1	16	false	Madness Bakery	the ghost of Monsieur Baguelle	XO Skeleton	 | Pok&eacute;-Gro fertilizer	0	3	0	0	0	0			 | SHOOT GHOST | SHOOT GHOST	0	0	0	0	0	0		
+1	17	true	Madness Bakery	the ghost of Monsieur Baguelle	XO Skeleton	 | psychokinetic energy blob (5) | smoldering bagel punch | X	15	5	53	17	26	0			 | SHOOT GHOST | SHOOT GHOST | SHOOT GHOST | TRAP GHOST	0	0	0	0	0	0		
+1	17	false	The Boss Bat's Lair	The Boss Bat	XO Skeleton	 | dense meat stack | batskin belt	13	2	57	15	16	0				0	0	0	0	0	0		
+1	18	true	The Spooky Forest	bar	XO Skeleton		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+1	18	true	The Spooky Forest	spooky vampire	XO Skeleton	 | Source essence (2)	0	2	0	0	0	0			 | EXTRACT | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	18	false	The Spooky Forest	Consciousness of a Stream	XO Skeleton	 | tree-holed coin	300	-1	0	0	0	0				0	0	0	0	0	0		
+1	19	true	The Spooky Forest	warwelf	XO Skeleton		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	19	false	The Spooky Forest	spooky mummy	XO Skeleton	 | spooky shrunken head | ancient pills	49	2	54	15	21	0				0	0	0	0	0	0		
+1	20	false	The Spooky Forest	ninja snowman assassin	XO Skeleton	 | ninja crampons | strange leaflet	10	2	87	22	25	0		|exploding cigar		0	0	0	0	0	0		
+1	21	true	The Outskirts of Cobb's Knob	angry ghost	XO Skeleton	 | psychokinetic energy blob | ghostly ectoplasm | ghostly ectoplasm	14	5	133	53	32	0			 | SHOOT GHOST | SHOOT GHOST | SHOOT GHOST | TRAP GHOST	0	0	0	0	0	0		
+1	21	true	The Spooky Forest	spooky vampire	XO Skeleton		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	21	false	The Spooky Forest	O Lith, Mon	XO Skeleton	 | Spooky Temple map	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	22	false	The Spooky Forest	Through Thicket and Thinnet	XO Skeleton	 | Spooky-Gro fertilizer	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	23	false	The Spooky Forest	spooky mummy	XO Skeleton	 | spooky shrunken head | O	40	2	48	9	18	0				0	0	0	0	0	0		
+1	24	false	The Spooky Forest	Tree's Last Stand	XO Skeleton	 | spooky sapling	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	25	false	The Haunted Kitchen	skullery maid	XO Skeleton	 | bottle of popskull	61	2	56	14	19	0				0	0	0	0	0	0		
+1	26	false	The Outskirts of Cobb's Knob	ghost	XO Skeleton	 | psychokinetic energy blob | white pixel | white pixel | white pixel | white pixel | white pixel	0	2	60	17	27	0				0	0	0	0	0	0		
+1	27	true	The Outskirts of Cobb's Knob	sausage goblin	XO Skeleton	 | bag of GORF | magical sausage casing	275	6	122	37	46	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER | WAVE OF SAUCE	0	0	0	0	0	0		
+1	27	false	The Spooky Forest	Consciousness of a Stream	Pair of Stomping Boots	 | mosquito larva	500	-1	0	0	0	0				0	0	0	0	0	0		
+1	28	false	The Outskirts of Cobb's Knob	A Funny Thing Happened...	Pair of Stomping Boots		75	-1	0	0	0	0				0	0	0	0	0	0		
+1	29	false	The Haunted Kitchen	paper towelgeist	XO Skeleton	 | X	0	2	49	14	22	0				0	0	0	0	0	0		
+1	30	false	The Haunted Kitchen	demonic icebox	XO Skeleton	 | ancient frozen dinner | leftovers of indeterminate origin | accidental cider | dire fudgesicle	44	2	53	17	16	0				0	0	0	0	0	0		
+1	31	true	The Haunted Kitchen	possessed silverware drawer	XO Skeleton	 | antique packet of ketchup	0	2	57	7	15	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	31	true	The Haunted Kitchen	paper towelgeist	XO Skeleton		0	2	53	14	11	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	31	true	The Haunted Kitchen	sausage goblin	XO Skeleton	 | spooky powder | red-hot sausage fork | magical sausage casing	265	3	109	45	46	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER	0	0	0	0	0	0		
+1	31	false	The Haunted Kitchen	zombie chef	XO Skeleton	 | Spookyraven billiards room key | fricasseed brains | stale baguette | bottle of cooking sherry | O	57	2	40	15	23	0				0	0	0	0	0	0		
+1	32	true	The Outskirts of Cobb's Knob	angry ghost	XO Skeleton	 | psychokinetic energy blob | ghostly ectoplasm	29	5	129	48	48	0			 | SHOOT GHOST | SHOOT GHOST | SHOOT GHOST | TRAP GHOST	0	0	0	0	0	0		
+1	32	true	Cook 8 wad of dough + 8 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	32	false	The Outskirts of Cobb's Knob	Up In Their Grill	XO Skeleton	 | 11-inch knob sausage	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	33	false	The Haunted Billiards Room	chalkdust wraith	XO Skeleton	 | psychokinetic energy blob | handful of hand chalk	0	2	49	13	27	0				0	0	0	0	0	0		
+1	34	true	The Haunted Billiards Room	Lights Out in the Billiards Room	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	34	false	The Haunted Billiards Room	pooltergeist	XO Skeleton	 | Gathered Meat-Clip	13	2	50	7	18	0				0	0	0	0	0	0		
+1	35	false	The Haunted Billiards Room	chalkdust wraith	XO Skeleton	 | psychokinetic energy blob | handful of hand chalk | X	15	2	48	14	12	0				0	0	0	0	0	0		
+1	36	false	The Haunted Billiards Room	That's Your Cue	XO Skeleton	 | pool cue	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	37	false	The Haunted Billiards Room	chalkdust wraith	XO Skeleton	 | psychokinetic energy blob | handful of hand chalk	15	2	37	17	13	0				0	0	0	0	0	0		
+1	38	false	The Haunted Billiards Room	Welcome To Our ool Table	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	39	true	The Haunted Billiards Room	pooltergeist	XO Skeleton		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+1	39	false	The Haunted Billiards Room	chalkdust wraith	XO Skeleton	 | psychokinetic energy blob | handful of hand chalk	12	3	30	11	27	0				0	0	0	0	0	0		
+1	40	true	The Haunted Billiards Room	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	40	false	The Haunted Billiards Room	ninja snowman assassin	XO Skeleton	 | ninja carabiner	12	3	63	21	19	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER	0	0	0	0	0	0		
+1	41	false	The Haunted Billiards Room	chalkdust wraith	XO Skeleton	 | psychokinetic energy blob | handful of hand chalk	12	3	38	14	12	0				0	0	0	0	0	0		
+1	42	false	The Haunted Billiards Room	chalkdust wraith	XO Skeleton	 | psychokinetic energy blob | CSA obedience grenade | handful of hand chalk | O	13	3	42	9	14	0				0	0	0	0	0	0		
+1	43	false	The Haunted Billiards Room	chalkdust wraith	XO Skeleton	 | psychokinetic energy blob | handful of hand chalk	11	3	48	10	10	0				0	0	0	0	0	0		
+1	44	false	The Haunted Billiards Room	chalkdust wraith	XO Skeleton	 | psychokinetic energy blob | handful of hand chalk	15	3	34	8	21	0	 | Driving Stealthily (30)			0	0	0	0	0	0		
+1	45	false	The Haunted Billiards Room	Welcome To Our ool Table	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	46	false	The Haunted Billiards Room	chalkdust wraith	XO Skeleton	 | psychokinetic energy blob | handful of hand chalk	11	3	42	13	14	0				0	0	0	0	0	0		
+1	47	false	The Haunted Billiards Room	chalkdust wraith	XO Skeleton	 | psychokinetic energy blob | handful of hand chalk | X	14	3	37	6	21	0				0	0	0	0	0	0		
+1	48	false	The Haunted Billiards Room	Welcome To Our ool Table	XO Skeleton	 | Spookyraven library key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	49	false	Chateau Painting	lobsterfrogman	XO Skeleton	 | barrel of gunpowder | Gathered Meat-Clip	179	5	73	19	22	0			 | DIGITIZE | STUFFED MORTAR SHELL | SAUCEGEYSER	0	0	0	0	0	1		
+1	50	true	The Outskirts of Cobb's Knob	sausage goblin	XO Skeleton	 | bone with a price tag on it | magical sausage casing	263	3	110	32	42	0			 | SAUCEGEYSER | SAUCEGEYSER	0	0	0	0	0	0		
+1	50	false	The Outskirts of Cobb's Knob	The Ghost of Dr. Hobo Jones	Mini-Hipster	 | Dr. Hobo's map	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	51	true	The Outskirts of Cobb's Knob	Sub-Assistant Knob Mad Scientist	Mini-Hipster		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	51	true	The Outskirts of Cobb's Knob	When Rocks Attack	Mini-Hipster		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	51	true	The Outskirts of Cobb's Knob	random scenester	Mini-Hipster		10	5	103	38	32	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER | SAUCEGEYSER	0	0	0	0	0	0		
+1	51	true	God Lobster	the God Lobster	God Lobster	 | Source essence (2)	78	15	110	36	37	0			 | STUFFED MORTAR SHELL | MICROMETEORITE | EXTRACT | SING ALONG | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER	0	0	0	0	0	0		
+1	51	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	51	true	The Deep Machine Tunnels	Appreciator of Mouthfeels	Machine Elf		15	6	0	18	0	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER | SAUCEGEYSER | CLOBBER	0	0	0	0	0	0		
+1	51	true	The Deep Machine Tunnels	Disbeliever of Thoughts	Machine Elf	 | Source essence (3) | Deep Machine Tunnels snowglobe	10	20	0	0	0	0			 | SUMMON LOVE GNATS | EXTRACT | SING ALONG | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | STUFFED MORTAR SHELL | CLOBBER	0	0	0	0	0	0		
+1	51	true	The Deep Machine Tunnels	Reckoner of Designs and Diagrams	Machine Elf	 | Source essence | abstraction: sensation	14	18	0	0	0	0			 | SUMMON LOVE GNATS | EXTRACT | SING ALONG | CLOBBER | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER	0	0	0	0	0	0		
+1	51	true	The Deep Machine Tunnels	Advancer of Mechanisms and Movements	Machine Elf	 | Source essence (3) | abstraction: motion | abstraction: action	12	21	0	0	13	0		|abstraction: sensation	 | SUMMON LOVE GNATS | EXTRACT | SING ALONG | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | STUFFED MORTAR SHELL | CLOBBER	0	0	0	0	0	0		
+1	51	true	The Deep Machine Tunnels	Appreciator of Brightnesses and Smells	Machine Elf	 | Source essence (2) | abstraction: sensation | abstraction: action	10	16	0	0	4	0			 | SUMMON LOVE GNATS | EXTRACT | SING ALONG | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER	0	0	0	0	0	0		
+1	51	true	Your Witchess Set	Witchess King	XO Skeleton	 | dented scepter	13	16	113	31	45	0		|electronics kit|Time-Spinner	 | MICROMETEORITE | CURSE OF WEAKSAUCE	0	0	0	0	0	0		
+1	51	true	Your Witchess Set	Witchess Pawn	XO Skeleton	 | armored prawn	11	2	71	17	21	0				0	0	0	0	0	0		
+1	51	true	Your Witchess Set	Witchess Rook	XO Skeleton	 | Greek fire | O	11	5	114	35	37	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER | SAUCEGEYSER | SAUCEGEYSER	0	0	0	0	0	0		
+1	51	true	Deck of Every Card	Island	XO Skeleton	 | blue mana	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	51	true	Deck of Every Card	Ancestral Recall	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	51	true	Cook 16 wad of dough + 16 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	51	true	genie summoned monster	Orcish Frat Boy Spy	XO Skeleton	 | Source essence (2) | distressed denim pants | beer helmet | bejeweled pledge pin	11	3	60	15	21	0			 | EXTRACT | ASDON MARTIN: MISSILE LAUNCHER	0	0	0	0	0	0		
+1	51	true	The Haunted Library	Take a Look, it's in a Book!	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	51	false	The Haunted Library	writing desk	XO Skeleton	 | CSA cheerfulness ration | inkwell | snifter of thoroughly aged brandy	13	3	33	10	13	0			 | TRANSCENDENT OLFACTION | GALLAPAGOSIAN MATING CALL	0	0	0	2	0	0		
+1	52	true	The Haunted Library	bookbat	XO Skeleton		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	52	true	The Haunted Library	banshee librarian	XO Skeleton	 | disintegrating quill pen | killing jar	0	0	0	0	0	0			 | USE THE FORCE, THREEBULLETHAMBURGLER | SABER YELLOW RAY	0	0	0	0	0	0		
+1	52	false	The Haunted Library	writing desk	XO Skeleton	 | inkwell | snifter of thoroughly aged brandy	15	3	27	9	10	0			 | USE THE FORCE, THREEBULLETHAMBURGLER	0	0	0	0	0	0		
+1	53	false	The Haunted Library	writing desk	XO Skeleton	 | inkwell | X	15	2	36	7	7	0				0	0	0	0	0	0		
+1	54	false	The Haunted Library	a writing desk!	XO Skeleton	 | inkwell | snifter of thoroughly aged brandy	11	3	21	4	11	0			 | MACROMETEORITE	0	0	0	0	0	0	 | banshee librarian	
+1	55	false	The Haunted Library	writing desk	XO Skeleton	 | disintegrating quill pen | inkwell | snifter of thoroughly aged brandy | Lady Spookyraven's necklace	11	2	32	10	12	0				0	0	0	0	0	0		
+1	56	true	The Haunted Bedroom	Wardr&ouml;b nightstand	XO Skeleton		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	56	false	The Haunted Bedroom	One Ornate Nightstand	XO Skeleton	 | disposable instant camera	15	3	32	9	15	0	 | On the Trail (40)		 | TRANSCENDENT OLFACTION	0	0	0	1	0	0		
+1	57	false	The Haunted Bedroom	lobsterfrogman	XO Skeleton	 | barrel of gunpowder	220	3	46	22	19	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	58	true	The Haunted Bedroom	animated rustic nightstand	XO Skeleton		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	58	false	The Haunted Bedroom	One Ornate Nightstand	Nanorhino	 | Lord Spookyraven's spectacles	11	4	36	16	9	0	 | Nanobrawny (50)		 | CLOBBER | CLOBBER | CLOBBER	0	0	0	0	0	0		
+1	59	false	The Haunted Bedroom	animated ornate nightstand	Nanorhino		0	1	0	0	0	0			 | UNLEASH NANITES	0	0	0	0	0	0		
+1	60	true	Your Witchess Set	Witchess Puzzles	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	60	true	Your Witchess Set	Witchess Puzzles	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	60	TRUE	CONSUME: chew 1 Purple Beast energy drink	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	60	true	Your Witchess Set	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	60	TRUE	CONSUME: chew 1 agua de vida	N/A	Trick-or-Treating Tot	 | empty agua de vida bottle	0	-1	0	0	0	7				0	0	0	0	0	0		
+1	60	true	Evoke Eldritch Horror	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	60	true	The Penultimate Fantasy Airship	The Beginning of the End of the Penultimate Fantasy	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	60	true	The Penultimate Fantasy Airship	sausage goblin	Baby Sandworm	 | magical sausage casing | agua de vida	248	5	198	64	90	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+2	60	true	Cook 7 wad of dough + 7 soda water	N/A	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	60	true	The Haunted Bedroom	sausage goblin	Pair of Stomping Boots	 | magical sausage casing	235	9	194	78	74	0			 | STUFFED MORTAR SHELL | MICROMETEORITE | CLOBBER | CLOBBER	0	0	0	0	0	0		
+2	60	true	The Haunted Bedroom	animated mahogany nightstand	Pair of Stomping Boots		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	60	true	The Haunted Bedroom	Wardr&ouml;b nightstand	Pair of Stomping Boots		0	0	0	0	0	0			 | USE THE FORCE, THREEBULLETHAMBURGLER | SABER BANISH	0	1	0	0	0	0		
+2	60	false	The Haunted Bedroom	One Ornate Nightstand	Pair of Stomping Boots	 | bag of GORP	12	2	79	32	34	0				0	0	0	0	0	0		
+2	61	true	The Haunted Bedroom	Wooof! Wooooooof!	Pair of Stomping Boots	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	61	true	The Haunted Bedroom	animated ornate nightstand	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	61	true	The Haunted Bedroom	animated ornate nightstand	Pair of Stomping Boots		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+2	61	true	The Haunted Bedroom	animated ornate nightstand	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	61	false	The Haunted Bedroom	One Elegant Nightstand	Pair of Stomping Boots	 | Gathered Meat-Clip | Lady Spookyraven's finest gown	13	3	73	58	22	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	62	false	genie summoned monster	ghost	Pair of Stomping Boots	 | psychokinetic energy blob | white pixel | white pixel | white pixel | white pixel | white pixel	12	6	106	46	47	0			 | DIGITIZE | SHOOT GHOST | SHOOT GHOST | SHOOT GHOST | TRAP GHOST	0	0	0	0	0	1		
+2	63	false	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	Artistic Goth Kid	 | Meteorite-Ade | tiny house	530	3	111	42	42	0			 | STUFFED MORTAR SHELL | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	64	true	The Penultimate Fantasy Airship	sausage goblin	Artistic Goth Kid	 | magical sausage casing	265	3	210	70	100	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER	0	0	0	0	0	0		
+2	64	true	The Penultimate Fantasy Airship	Black Crayon Goblin	Artistic Goth Kid	 | crayon shavings	10	4	207	78	94	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER | SAUCEGEYSER	0	0	0	0	0	0		
+2	64	true	The Penultimate Fantasy Airship	Black Crayon Goblin	Artistic Goth Kid	 | water purification pills | crayon shavings	13	7	177	116	92	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER | SAUCEGEYSER | CLOBBER | CLOBBER | CLOBBER	0	0	0	0	0	0		
+2	64	false	The Penultimate Fantasy Airship	Gesundheitgeist!	Artistic Goth Kid	 | Tissue Paper Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	65	true	The Penultimate Fantasy Airship	Black Crayon Goblin	Artistic Goth Kid	 | Source essence | crayon shavings	12	6	187	106	88	0			 | SAUCEGEYSER | STUFFED MORTAR SHELL | EXTRACT | COWBOY KICK	0	0	0	0	0	0		
+2	65	true	The Penultimate Fantasy Airship	Hammering the Armory	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	65	false	The Penultimate Fantasy Airship	Burly Sidekick	Artistic Goth Kid	 | cocoa eggshell fragment | tiny house | armgun	477	4	125	32	56	0	 | Meteor Showered (1) | Berry Experiential (20) | Berry Statistical (20)	|Snarf berry	 | METEOR SHOWER	0	0	0	0	0	0		
+2	66	true	Cook 16 wad of dough + 16 soda water	N/A	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	66	true	The Penultimate Fantasy Airship	Protagonist	Artistic Goth Kid		0	0	0	0	0	0				0	0	0	0	0	0		
+2	66	true	The Penultimate Fantasy Airship	N/A	Artistic Goth Kid		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	66	true	The Penultimate Fantasy Airship	Spunky Princess	Artistic Goth Kid		0	0	0	0	0	0			 | TRANSCENDENT OLFACTION | USE THE FORCE, THREEBULLETHAMBURGLER | SABER BANISH	0	1	0	1	0	0		
+2	66	false	The Penultimate Fantasy Airship	Random Lack of an Encounter	Artistic Goth Kid	 | model airship	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	67	false	The Penultimate Fantasy Airship	Don't Chew on That Spirit!	Artistic Goth Kid	 | Tin Foil Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	68	true	The Penultimate Fantasy Airship	sausage goblin	Artistic Goth Kid	 | Meteorite-Ade | magical sausage casing	281	3	279	76	104	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+2	68	true	The Penultimate Fantasy Airship	Hammering the Armory	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	68	true	The Penultimate Fantasy Airship	Hammering the Armory	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	68	true	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Artistic Goth Kid		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	68	false	The Penultimate Fantasy Airship	Quiet Healer	Artistic Goth Kid	 | amulet of extreme plot significance | soft green echo eyedrop antidote | Tears of the Quiet Healer	407	3	99	48	48	0			 | GALLAPAGOSIAN MATING CALL	0	0	0	1	0	0		
+2	69	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Artistic Goth Kid	 | metallic A | glowing red eye | photoprotoneutron torpedo	15	3	106	36	68	0			 | CLOBBER	0	0	0	0	0	0		
+2	70	true	The Penultimate Fantasy Airship	ghost	Artistic Goth Kid	 | psychokinetic energy blob | white pixel | white pixel | white pixel | white pixel | white pixel	11	4	118	26	49	0			 | STUFFED MORTAR SHELL | OTOSCOPE	0	0	0	0	0	0		
+2	70	false	The Penultimate Fantasy Airship	Wooof! Wooooooof!	Artistic Goth Kid	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	71	true	The Penultimate Fantasy Airship	sausage goblin	Artistic Goth Kid	 | Source essence (2) | magical sausage casing	302	7	247	98	116	0			 | STUFFED MORTAR SHELL | EXTRACT | MICROMETEORITE	0	0	0	0	0	0		
+2	71	true	The Penultimate Fantasy Airship	Black Crayon Goblin	Artistic Goth Kid	 | Camp Scout pup tent | crayon shavings	12	8	237	112	112	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+2	71	true	The Penultimate Fantasy Airship	Hammering the Armory	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	71	false	The Penultimate Fantasy Airship	The Most Absorbent Spirit Ever	Artistic Goth Kid	 | Gauze Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	72	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Artistic Goth Kid	 | metallic A	12	2	113	48	50	0				0	0	0	0	0	0		
+2	73	true	The Penultimate Fantasy Airship	N/A	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	73	true	The Penultimate Fantasy Airship	Black Crayon Golem	Artistic Goth Kid	 | Source essence (3) | Meteorite-Ade | crayon shavings	13	9	244	84	132	0			 | STUFFED MORTAR SHELL | MICROMETEORITE | EXTRACT	0	0	0	0	0	0		
+2	73	true	The Penultimate Fantasy Airship	Black Crayon Golem	Artistic Goth Kid	 | Source essence (2) | crayon shavings	14	12	253	111	111	0			 | STUFFED MORTAR SHELL | CLOBBER | MICROMETEORITE | SUMMON LOVE GNATS | EXTRACT | SUMMON LOVE MOSQUITO | COWBOY KICK	0	0	0	0	0	0		
+2	73	false	The Black Forest	Forty Shades of Black	Reassembled Blackbird	 | black map	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	74	false	The Black Forest	black adder	Reassembled Blackbird	 | black snake skin | sunken eyes	384	3	67	22	21	0	 | Flashy Dance Song (10)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	75	true	The Black Forest	black widow	Reassembled Blackbird		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	75	false	The Black Forest	black panther	Reassembled Blackbird	 | Black No. 2 | broken wings	635	2	0	0	4	0				0	0	0	0	0	0		
+2	76	true	The Black Forest	black friar	XO Skeleton		0	2	0	0	0	0			 | STUFFED MORTAR SHELL | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	76	true	The Black Forest	blackberry bush	XO Skeleton	 | blackberry | blackberry | blackberry	0	0	0	0	0	0			 | USE THE FORCE, THREEBULLETHAMBURGLER | SABER YELLOW RAY	0	0	0	0	0	0		
+2	76	false	The Black Forest	black adder	XO Skeleton	 | adder bladder | black snake skin	392	2	56	22	21	0				0	0	0	0	0	0		
+2	77	false	The Black Forest	black panther	XO Skeleton	 | Gathered Meat-Clip	551	2	57	24	18	0				0	0	0	0	0	0		
+2	78	true	Deck of Every Card	XVI - The Tower	XO Skeleton	 | Boris's key	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	78	true	Deck of Every Card	Ancestral Recall	XO Skeleton	 | blue mana	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	78	false	Chateau Painting	N/A	Obtuse Angel		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	79	false	The Outskirts of Cobb's Knob	Code Red	XO Skeleton	 | Knob Goblin encryption key	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	80	false	The Black Forest	black panther	XO Skeleton	 | almost-dead walkie-talkie | Black No. 2	546	3	58	17	19	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	81	false	The Black Forest	black panther	XO Skeleton	 | CSA fire-starting kit | X	521	2	56	19	19	0				0	0	0	0	0	0		
+2	82	true	The Black Forest	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	82	false	The Black Forest	black magic woman	XO Skeleton	 | black eye shadow | black magic powder	373	2	58	20	15	0				0	0	0	0	0	0		
+2	83	false	The Black Forest	The Blackberry Cobbler	XO Skeleton	 | blackberry galoshes	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	84	false	The Black Forest	black magic woman	XO Skeleton	 | black eye shadow | black magic powder	464	2	58	20	14	0				0	0	0	0	0	0		
+2	85	false	The Black Forest	black adder	XO Skeleton	 | adder bladder	425	3	43	17	5	0	 | Blue Swayed (5)			0	0	0	0	0	0		
+2	86	false	The Black Forest	black adder	XO Skeleton	 | adder bladder	405	2	38	15	10	0				0	0	0	0	0	0		
+2	87	true	The Haunted Bathroom	slime blob	XO Skeleton	 | orange slime glob | O	0	9	103	47	34	0			 | STUFFED MORTAR SHELL | CLOBBER | MICROMETEORITE	0	0	0	0	0	0		
+2	87	true	The Neverending Party	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	87	true	The Neverending Party	&quot;plain&quot; girl	XO Skeleton	 | Source essence (2) | electronics kit | PB&J with the crusts cut off | dorky glasses	377	7	196	58	72	0			 | STUFFED MORTAR SHELL | MICROMETEORITE | EXTRACT	0	0	0	0	0	0		
+2	87	true	The Neverending Party	party girl	XO Skeleton	 | Source essence (2) | runproof mascara | very small red dress | noticeable pumps	325	17	194	70	68	0			 | SUMMON LOVE GNATS | EXTRACT | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER	0	0	0	0	0	0		
+2	87	true	The Neverending Party	biker	XO Skeleton	 | Source essence (3) | gas can | Middle of the Road&trade; brand whiskey | neverending wallet chain | pentagram bandana	393	18	191	64	84	0	 | Chari Tea (5)		 | SUMMON LOVE GNATS | EXTRACT | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER	0	0	0	0	0	0		
+2	87	true	The Neverending Party	burnout	XO Skeleton	 | Source essence (2) | van key | jam band bootleg | ratty knitted cap | X	214	20	189	72	68	0			 | SUMMON LOVE GNATS | EXTRACT | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | STUFFED MORTAR SHELL | CLOBBER	0	0	0	0	0	0		
+2	87	true	The Neverending Party	&quot;plain&quot; girl	XO Skeleton	 | Source essence (2) | electronics kit | PB&J with the crusts cut off | dorky glasses	441	17	182	68	78	0			 | SUMMON LOVE GNATS | EXTRACT | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER	0	0	0	0	0	0		
+2	87	true	The Neverending Party	&quot;plain&quot; girl	XO Skeleton	 | Source essence | CSA scoutmaster's &quot;water&quot; | PB&J with the crusts cut off | ponytail clip	453	19	180	80	70	0			 | SUMMON LOVE GNATS | EXTRACT | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | STUFFED MORTAR SHELL | CLOBBER	0	0	0	0	0	0		
+2	87	true	The Neverending Party	jock	XO Skeleton	 | Source essence (2) | unremarkable duffel bag | Purple Beast energy drink | shoe ad T-shirt	516	18	223	52	77	0			 | SUMMON LOVE GNATS | EXTRACT | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER	0	0	0	0	0	0		
+2	87	true	The Neverending Party	party girl	XO Skeleton	 | Source essence | runproof mascara | very small red dress | surprisingly capacious handbag	445	17	168	72	100	0	 | Unusual Perspective (5)		 | SUMMON LOVE GNATS | EXTRACT | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER	0	0	0	0	0	0		
+2	87	true	The Neverending Party	party girl	XO Skeleton	 | Source essence (2) | very small red dress | surprisingly capacious handbag | O	390	18	180	98	66	0			 | SUMMON LOVE GNATS | EXTRACT | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER	0	0	0	0	0	0		
+2	87	true	The Neverending Party	biker	XO Skeleton	 | Source essence (2) | gas can | Middle of the Road&trade; brand whiskey	407	20	187	84	82	0			 | SUMMON LOVE GNATS | EXTRACT | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | STUFFED MORTAR SHELL | CLOBBER	0	0	0	0	0	0		
+2	87	true	The Haunted Conservatory	The ghost of Lord Montague Spookyraven	XO Skeleton	 | psychokinetic energy blob (3) | Spookyraven signet	0	5	68	20	29	0			 | SHOOT GHOST | SHOOT GHOST | SHOOT GHOST | TRAP GHOST	0	0	0	0	0	0		
+2	87	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton	 | training belt	0	2	40	8	2	0				0	0	0	0	0	0		
+2	87	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton	 | X	0	2	44	12	16	0	 | The Dark Lord Rides in Force Tonight (5)			0	0	0	0	0	0		
+2	87	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		0	2	56	12	12	0				0	0	0	0	0	0		
+2	87	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton	 | ancient medicinal herbs	0	2	51	24	10	0				0	0	0	0	0	0		
+2	87	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		0	2	44	12	30	0				0	0	0	0	0	0		
+2	87	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		0	2	49	28	16	0				0	0	0	0	0	0		
+2	87	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton	 | O	0	2	34	11	7	0	 | Vinegavotte (5)			0	0	0	0	0	0		
+2	87	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton	 | bag of GORF	0	2	30	13	6	0				0	0	0	0	0	0		
+2	87	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		0	2	35	9	9	0				0	0	0	0	0	0		
+2	87	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		0	2	28	16	10	0				0	0	0	0	0	0		
+2	87	true	Your Witchess Set	Witchess Queen	XO Skeleton	 | very pointy crown | X	0	11	99	49	48	0		|crayon shavings|crayon shavings|crayon shavings|jam band bootleg|gas can|gas can		0	0	0	0	0	0		
+2	87	true	Your Witchess Set	Witchess Rook	XO Skeleton	 | Greek fire	0	8	104	44	41	0	 | Human-Machine Hybrid (5)		 | MICROMETEORITE	0	0	0	0	0	0		
+2	87	true	Your Witchess Set	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	87	true	Your Witchess Set	Witchess Pawn	XO Skeleton	 | armored prawn	0	2	60	21	26	0				0	0	0	0	0	0		
+2	87	true	Your Witchess Set	Witchess Pawn	XO Skeleton	 | armored prawn	0	2	63	21	20	0				0	0	0	0	0	0		
+2	87	true	Your Witchess Set	Witchess Bishop	XO Skeleton	 | Source essence (2) | Sacramento wine	0	9	126	46	44	0			 | STUFFED MORTAR SHELL | EXTRACT | MICROMETEORITE	0	0	0	0	0	0		
+2	87	true	Deck of Every Card	Sheep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	87	false	The Shore, Inc. Travel Agency	N/A	XO Skeleton	 | your father's MacGuffin diary	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	90	false	The Copperhead Club	ghost	XO Skeleton	 | psychokinetic energy blob | white pixel | white pixel | white pixel | white pixel | white pixel | O	0	2	45	13	11	0				0	0	0	0	0	0		
+2	91	false	The Copperhead Club	Shen Copperhead, Nightclub Owner	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	92	true	The Penultimate Fantasy Airship	sausage goblin	XO Skeleton	 | magical sausage casing	233	14	130	41	42	0	 | Shredding, Sweating (5)		 | STUFFED MORTAR SHELL | MICROMETEORITE | CLOBBER | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER	0	0	0	0	0	0		
+2	92	false	The Penultimate Fantasy Airship	Protagonist	XO Skeleton	 | phonics down	344	2	44	22	10	0				0	0	0	0	0	0		
+2	93	true	The Hidden Temple	Such Great Heights	XO Skeleton		0	-1	0	0	0	3	 | Empathy (3) | Gunther Than Thou (3) | Song of the North (3) | Leash of Linguini (3) | Driving Obnoxiously (3) | Muscle Unbound (3) | Muddled (3) | Polka of Plenty (3) | items.enh (3) | Fat Leon's Phat Loot Lyric (3)			0	0	0	0	0	0		
+2	93	false	The Shore, Inc. Travel Agency	N/A	XO Skeleton	 | Shore Inc. Ship Trip Scrip	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	96	true	The Shore, Inc. Travel Agency	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	96	false	The Arid, Extra-Dry Desert	lobsterfrogman	XO Skeleton	 | barrel of gunpowder	247	2	51	26	21	0	 | Ultrahydrated (10)			0	0	0	0	0	0		
+2	97	true	The Arid, Extra-Dry Desert	Is There A Doctor In The House?	XO Skeleton	 | handful of sand | handful of sand | X	703	2	45	14	17	0			 | CHEST X-RAY	0	0	1	0	0	0		
+2	97	true	The Arid, Extra-Dry Desert	rock scorpion	XO Skeleton	 | handful of sand | handful of sand	806	2	40	21	15	0			 | CHEST X-RAY	0	0	1	0	0	0		
+2	97	true	The Arid, Extra-Dry Desert	giant giant giant centipede	XO Skeleton	 | centipede eggs	573	2	47	13	21	0	 | Ultrahydrated (3) | L'instinct F&eacute;lin (5)		 | CHEST X-RAY	0	0	1	0	0	0		
+2	97	false	The Arid, Extra-Dry Desert	cactuary	XO Skeleton	 | CSA obedience grenade | bit-o-cactus | Gathered Meat-Clip	347	2	51	23	9	0				0	0	0	0	0	0		
+2	98	true	The Haunted Bathroom	slime blob	XO Skeleton	 | orange slime glob	0	7	105	44	44	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+2	98	true	The Arid, Extra-Dry Desert	A Sietch in Time	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	98	true	The Oasis	swarm of scarab beatles	XO Skeleton	 | mojo filter | savoy truffle | rocky raccoon | hot date | carbonated water lily | Maxwell's Silver Hammer | happiness	0	0	0	0	0	0			 | USE THE FORCE, THREEBULLETHAMBURGLER | SABER YELLOW RAY	0	0	0	0	0	0		
+2	98	true	The Oasis	rolling stone	XO Skeleton		0	2	0	0	0	0			 | EGGSPLOSION | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	98	true	The Oasis	swarm of scarab beatles	XO Skeleton	 | mojo filter | savoy truffle | rocky raccoon | hot date | carbonated water lily | Maxwell's Silver Hammer | happiness	0	0	0	0	0	0			 | USE THE FORCE, THREEBULLETHAMBURGLER | SABER YELLOW RAY	0	0	0	0	0	0		
+2	98	true	Cook 15 wad of dough + 15 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	98	false	The Oasis	blur	XO Skeleton	 | drum machine | carbonated water lily | O	499	4	42	20	19	0			 | HUGS AND KISSES	0	0	0	0	0	0		
+2	99	TRUE	CONSUME: chew 1 agua de vida	N/A	XO Skeleton	 | empty agua de vida bottle	0	-1	0	0	0	8				0	0	0	0	0	0		
+2	99	false	The Oasis	a swarm of scarab beatles!	XO Skeleton	 | mojo filter | savoy truffle | rocky raccoon | hot date | carbonated water lily | Maxwell's Silver Hammer | happiness	666	5	41	16	8	0	 | Everything Looks Yellow (100)		 | MACROMETEORITE | MACROMETEORITE | MACROMETEORITE | DISINTEGRATE	0	0	0	0	0	0	 | oasis monster | a blur! | an oasis monster!	
+2	100	false	The Arid, Extra-Dry Desert	cactuary	XO Skeleton	 | cactus fruit | bit-o-cactus	370	2	53	18	13	0	 | Don't Rest Ye, Bold Adventurer (5)			0	0	0	0	0	0		
+2	101	false	The Arid, Extra-Dry Desert	plaque of locusts	XO Skeleton	 | honey-dipped locust | worm-riding manual page	77	2	38	17	27	0				0	0	0	0	0	0		
+2	102	false	The Arid, Extra-Dry Desert	swarm of fire ants	XO Skeleton	 | ant agonist | X	203	2	46	22	18	0				0	0	0	0	0	0		
+2	103	true	The Arid, Extra-Dry Desert	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	103	false	The Arid, Extra-Dry Desert	giant giant giant centipede	XO Skeleton	 | centipede eggs | handful of sand | handful of sand	558	2	46	21	19	0				0	0	0	0	0	0		
+2	104	false	The Arid, Extra-Dry Desert	rock scorpion	XO Skeleton	 | handful of sand | worm-riding manual page (3)	758	2	50	12	17	0				0	0	0	0	0	0		
+2	105	false	The Arid, Extra-Dry Desert	plaque of locusts	XO Skeleton	 | honey-dipped locust | bronzed locust | handful of sand	92	2	45	15	17	0	 | Swimming with Sharks (5)			0	0	0	0	0	0		
+2	106	false	The Arid, Extra-Dry Desert	cactuary	XO Skeleton	 | cactus fruit | handful of sand | bit-o-cactus | worm-riding manual page (2)	347	3	36	20	21	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	107	false	The Arid, Extra-Dry Desert	swarm of fire ants	XO Skeleton	 | O | Pok&eacute;-Gro fertilizer	202	2	42	20	22	0				0	0	0	0	0	0		
+2	108	false	The Arid, Extra-Dry Desert	giant giant giant centipede	XO Skeleton	 | handful of sand | worm-riding manual page (3) | Gathered Meat-Clip	604	2	48	22	15	0				0	0	0	0	0	0		
+2	109	false	The Arid, Extra-Dry Desert	cactuary	XO Skeleton	 | handful of sand | bit-o-cactus	401	2	43	23	15	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	110	false	The Arid, Extra-Dry Desert	swarm of fire ants	XO Skeleton	 | ant agonist	166	2	46	22	17	0	 | Spring Training (5)			0	0	0	0	0	0		
+2	111	false	The Arid, Extra-Dry Desert	rock scorpion	XO Skeleton	 | handful of sand | X | worm-riding manual page (2)	758	2	52	18	14	0				0	0	0	0	0	0		
+2	112	false	The Arid, Extra-Dry Desert	swarm of fire ants	XO Skeleton	 | ant agonist | handful of sand	181	2	50	17	18	0				0	0	0	0	0	0		
+2	113	false	The Arid, Extra-Dry Desert	cactuary	XO Skeleton	 | cactus fruit | bit-o-cactus | worm-riding manual page (3)	388	2	43	14	23	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+2	114	false	The Arid, Extra-Dry Desert	lobsterfrogman	XO Skeleton	 | CSA cheerfulness ration | barrel of gunpowder	185	2	58	16	17	0				0	0	0	0	0	0		
+2	115	false	The Arid, Extra-Dry Desert	plaque of locusts	XO Skeleton	 | honey-dipped locust | worm-riding manual page	88	2	53	19	14	0	 | Red-Shirted Escort (5)			0	0	0	0	0	0		
+2	116	true	The Haunted Bathroom	sausage goblin	XO Skeleton	 | magical sausage casing | O	222	9	102	53	47	0			 | MICROMETEORITE | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	116	false	The Shore, Inc. Travel Agency	N/A	XO Skeleton	 | Shore Inc. Ship Trip Scrip	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	119	false	Cobb's Knob Harem	a Knob Goblin Harem Girl!	XO Skeleton	 | Knob Goblin harem pants	13	4	16	21	9	0			 | MACROMETEORITE | MACROMETEORITE	0	0	0	0	0	0	 | Knob Goblin Madam | a Knob Goblin Harem Guard!	
+2	120	true	Cook 12 wad of dough + 12 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	120	true	The Haunted Bathroom	slime blob	XO Skeleton		0	1	0	0	0	0				0	0	0	0	0	0		
+2	120	true	The Haunted Bathroom	N/A	XO Skeleton	 | green slime glob | orange slime glob	100	14	96	53	58	0			 | MICROMETEORITE | SING ALONG | CLOBBER	0	0	0	0	0	0		
+2	120	false	The Haunted Gallery	ghost	XO Skeleton	 | psychokinetic energy blob | white pixel | white pixel | white pixel | white pixel | white pixel	15	2	43	12	18	0				0	0	0	0	0	0		
+2	121	false	The Shore, Inc. Travel Agency	N/A	Pair of Stomping Boots	 | Shore Inc. Ship Trip Scrip	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	124	false	The Shore, Inc. Travel Agency	N/A	Pair of Stomping Boots	 | Shore Inc. Ship Trip Scrip	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	127	true	The Shore, Inc. Travel Agency	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	127	true	Hippy Camp	War Hippy drill sergeant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	127	true	Wartime Hippy Camp (Frat Disguise)	War Hippy drill sergeant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	127	true	Wartime Hippy Camp (Frat Disguise)	War Hippy drill sergeant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	127	TRUE	CONSUME: chew 1 hippy paste	N/A	Pair of Stomping Boots		0	-1	0	0	0	6	 | Hippy Flavor (10)			0	0	0	0	0	0		
+2	127	false	Wartime Hippy Camp (Frat Disguise)	War Hippy (space) cadet	Pair of Stomping Boots	 | hippy paste	11	2	2	0	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+2	128	true	Hippy Camp	War Hippy (space) cadet	Pair of Stomping Boots		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	128	true	Wartime Hippy Camp (Frat Disguise)	War Hippy drill sergeant	Pair of Stomping Boots		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	128	false	Wartime Hippy Camp (Frat Disguise)	Blockin' Out the Scenery	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	129	false	photocopied monster	The Astronomer	Pair of Stomping Boots	 | star chart | Gathered Meat-Clip	10	2	41	18	22	0				0	0	0	0	0	0		
+2	130	true	Cook 9 wad of dough + 9 soda water	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	130	false	Cobb's Knob Harem	a Knob Goblin Harem Girl!	Pair of Stomping Boots	 | Knob Goblin harem pants | Knob Goblin harem veil | disease | finger cymbals	13	6	25	2	5	0			 | MACROMETEORITE | MACROMETEORITE | MACROMETEORITE | MACROMETEORITE | ASDON MARTIN: MISSILE LAUNCHER	0	0	0	0	0	0	 | Knob Goblin Harem Guard | a Knob Goblin Madam! | a Knob Goblin Harem Guard! | a Knob Goblin Madam!	
+2	131	false	Mist-Shrouded Peak	panicking Knott Yeti	Pair of Stomping Boots	 | yeti fur	720	2	41	19	11	0				0	0	0	0	0	0		
+2	132	false	Mist-Shrouded Peak	panicking Knott Yeti	Pair of Stomping Boots	 | yeti fur	908	3	42	14	15	0		|rock band flyers		0	0	0	0	0	0		
+2	133	false	Mist-Shrouded Peak	panicking Knott Yeti	Pair of Stomping Boots	 | yeti fur	777	3	71	30	22	0		|rock band flyers|very small red dress		0	0	0	0	0	0		
+2	134	false	Mist-Shrouded Peak	Groar	Pair of Stomping Boots	 | Groar's fur | dense meat stack (5)	12	4	66	21	30	0		|rock band flyers		0	0	0	0	0	0		
+2	135	true	Evoke Eldritch Horror	Eldritch Tentacle named Blllrrggghshhhhhssssslblgl	Pair of Stomping Boots	 | eldritch effluvium | eldritch effluvium	12	6	91	27	31	0		|rock band flyers		0	0	0	0	0	0		
+2	135	true	Dr. Gordon Stuart's Science Tent	Eldritch Tentacle named Blrgglblrgglsssssblrgh	Pair of Stomping Boots	 | eldritch effluvium | eldritch effluvium | eldritch effluvium	14	6	73	37	38	0		|rock band flyers		0	0	0	0	0	0		
+2	135	true	God Lobster	the God Lobster	God Lobster		0	13	111	54	50	0		|rock band flyers	 | MICROMETEORITE | SAUCEGEYSER | CLOBBER	0	0	0	0	0	0		
+2	135	true	God Lobster	Granted a Boon	God Lobster	 | God Lobster's Ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	135	true	God Lobster	the God Lobster	God Lobster		0	6	127	47	42	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER | MICROMETEORITE | SAUCEGEYSER | SAUCEGEYSER	0	0	0	0	0	0		
+2	135	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0	 | Silence of the God Lobster (33)			0	0	0	0	0	0		
+2	135	true	God Lobster	the God Lobster	God Lobster		0	9	124	52	51	0		|rock band flyers	 | STUFFED MORTAR SHELL | SAUCEGEYSER | MICROMETEORITE | SAUCEGEYSER | CLOBBER | CLOBBER | CLOBBER	0	0	0	0	0	0		
+2	135	true	God Lobster	Lending a Hand (and a Foot)	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	135	true	Madness Bakery	the ghost of Monsieur Baguelle	God Lobster	 | psychokinetic energy blob (3) | smoldering bagel punch	15	6	47	11	11	0		|rock band flyers	 | SHOOT GHOST | SHOOT GHOST | SHOOT GHOST | TRAP GHOST	0	0	0	0	0	0		
+2	135	TRUE	CONSUME: chew 1 oily paste	N/A	Pair of Stomping Boots		0	-1	0	0	0	5	 | Oily Flavor (10)			0	0	0	0	0	0		
+2	135	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pair of Stomping Boots	 | oily paste | CSA discount card	15	2	2	0	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+2	136	true	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	136	false	The Penultimate Fantasy Airship	Quiet Healer	Pair of Stomping Boots	 | amulet of extreme plot significance | scroll of drastic healing | soft green echo eyedrop antidote	450	4	44	15	10	0		|rock band flyers	 | ARMY OF TODDLERS	0	0	0	0	0	0		
+2	137	false	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	Pair of Stomping Boots	 | tiny house | cocoa eggshell fragment	539	3	28	15	13	0		|rock band flyers		0	0	0	0	0	0		
+2	138	false	The Penultimate Fantasy Airship	Spunky Princess	Pair of Stomping Boots	 | titanium assault umbrella | tiny house | cocoa eggshell fragment	507	3	28	8	11	0		|rock band flyers		0	0	0	0	0	0		
+2	139	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pair of Stomping Boots	 | metallic A | photoprotoneutron torpedo | magilaser blastercannon	10	3	29	16	11	0		|rock band flyers		0	0	0	0	0	0		
+2	140	false	The Penultimate Fantasy Airship	Burly Sidekick	Pair of Stomping Boots	 | Mohawk wig | cocoa eggshell fragment | tiny house | armgun | Gathered Meat-Clip	564	4	26	9	19	0		|rock band flyers	 | OFFER LATTE TO OPPONENT	0	0	0	1	0	0		
+2	141	false	The Penultimate Fantasy Airship	Rip Rop Wrappety Do	Pair of Stomping Boots	 | Plastic Wrap Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	142	false	The Penultimate Fantasy Airship	The Camel's Toe	Pair of Stomping Boots	 | star | star | line | line	10	2	44	11	10	0				0	0	0	0	0	0		
+2	143	false	The Penultimate Fantasy Airship	F-F-Fantastic!	Pair of Stomping Boots	 | S.O.C.K.	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	144	false	The Castle in the Clouds in the Sky (Basement)	Neckbeard Giant	Pair of Stomping Boots	 | open sauce | giant neckbeard	562	3	36	13	18	0		|rock band flyers		0	0	0	0	0	0		
+2	145	false	The Castle in the Clouds in the Sky (Basement)	Alphabet Giant	XO Skeleton	 | heavy D | original G	617	3	44	12	12	0		|rock band flyers		0	0	0	0	0	0		
+2	146	false	The Castle in the Clouds in the Sky (Basement)	Fitness Giant	XO Skeleton	 | pec oil | Squat-Thrust Magazine	462	3	35	19	15	0		|rock band flyers		0	0	0	0	0	0		
+2	147	false	The Castle in the Clouds in the Sky (Basement)	You Don't Mess Around with Gym	XO Skeleton		0	-1	0	0	0	0	 | Driving Stealthily (30)			0	0	0	0	0	0		
+2	148	false	The Castle in the Clouds in the Sky (Ground Floor)	Home on the Free Range	XO Skeleton	 | electric boning knife	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	149	true	The Castle in the Clouds in the Sky (Ground Floor)	Procrastination Giant	XO Skeleton		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	149	true	The Castle in the Clouds in the Sky (Ground Floor)	Possibility Giant	XO Skeleton		0	2	0	0	0	0		|rock band flyers	 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	149	true	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	XO Skeleton		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	149	true	The Castle in the Clouds in the Sky (Ground Floor)	There's No Ability Like Possibility	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	149	false	The Castle in the Clouds in the Sky (Ground Floor)	Putting Off Is Off-Putting	XO Skeleton	 | very overdue library book	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	150	true	The Haunted Gallery	sausage goblin	XO Skeleton	 | magical sausage casing	276	6	115	48	46	0		|rock band flyers	 | MICROMETEORITE | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	150	true	Your Witchess Set	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	150	false	genie summoned monster	forest spirit	XO Skeleton	 | psychokinetic energy blob | forest tears	15	2	19	7	11	0				0	0	0	0	0	0		
+2	151	true	The Haunted Gallery	Out in the Garden	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	151	true	The Haunted Gallery	cubist bull	XO Skeleton		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+2	151	true	The Haunted Gallery	empty suit of armor	XO Skeleton		0	2	0	0	0	0		|rock band flyers	 | REFLEX HAMMER	1	1	0	0	0	0		
+2	151	true	The Haunted Gallery	guy with a pitchfork, and his wife	XO Skeleton		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+2	151	false	The Haunted Gallery	Louvre It or Leave It (The Persistence of Memory)	XO Skeleton	 | Lady Spookyraven's dancing shoes	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	152	true	The Haunted Bathroom	malevolent hair clog	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	152	false	The Haunted Bathroom	cosmetics wraith	Pair of Stomping Boots	 | Lady Spookyraven's powder puff | old eyebrow pencil | old rosewater cream | old bronzer	13	3	28	5	16	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	153	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	153	true	The Tunnel of L.O.V.E.	LOV Enforcer	XO Skeleton	 | O	12	6	103	53	54	0		|rock band flyers	 | MICROMETEORITE | STUFFED MORTAR SHELL | SAUCEGEYSER	0	0	0	0	0	0		
+2	153	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	153	true	The Tunnel of L.O.V.E.	LOV Engineer	XO Skeleton	 | LOV Eardigan	14	7	106	53	48	0		|rock band flyers|Time-Spinner|divine noisemaker	 | MICROMETEORITE	0	0	0	0	0	0		
+2	153	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	153	true	The Tunnel of L.O.V.E.	LOV Equivocator	XO Skeleton		14	7	116	49	43	0	 | Open Heart Surgery (50)	|rock band flyers	 | STUFFED MORTAR SHELL | SAUCEGEYSER | SAUCEGEYSER | SAUCEGEYSER	0	0	0	0	0	0		
+2	153	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	XO Skeleton	 | LOV Enamorang	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	153	true	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	153	true	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	153	true	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	153	true	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	153	true	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	Pair of Stomping Boots		0	3	0	0	0	0		|rock band flyers	 | RETURN	1	0	0	0	0	0		
+2	153	false	The Castle in the Clouds in the Sky (Ground Floor)	Top of the Castle, Ma	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	154	false	The Haunted Ballroom	Having a Ball in the Ballroom	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	155	true	The Haunted Ballroom	sausage goblin	XO Skeleton	 | magical sausage casing	244	3	116	47	42	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+3	155	false	The Hidden Temple	Such Great Heights	XO Skeleton	 | the Nostril of the Serpent	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	156	true	The Hidden Temple	The Hidden Heart of the Hidden Temple	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	156	false	The Hidden Temple	Now What?	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	157	false	The Hidden Temple	Beginning at the Beginning of Beginning	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	158	false	The Hidden Temple	No Visible Means of Support	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	159	true	Cook 16 wad of dough + 16 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	159	true	Smith 1 sword hilt + 1 meat stack	N/A	XO Skeleton	 | basic meat sword	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	159	true	Smith 1 basic meat sword + 1 catsup	N/A	XO Skeleton	 | dripping meat sword	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	159	true	Smith 1 dripping meat sword + 1 forest tears	N/A	XO Skeleton	 | muculent machete	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	159	false	Cobb's Knob Harem	Plucked	XO Skeleton		0	-1	0	0	0	0	 | Knob Goblin Perfume (1)			0	0	0	0	0	0		
+3	160	false	Throne Room	The Knob Goblin King	XO Skeleton	 | dense meat stack (2) | Crown of the Goblin King | Cobb's Knob lab key | X	0	3	53	25	27	0		|rock band flyers		0	0	0	0	0	0		
+3	161	true	The Neverending Party	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	161	true	The Neverending Party	party girl	XO Skeleton	 | Meteorite-Ade | runproof mascara | very small red dress | noticeable pumps | surprisingly capacious handbag	395	20	146	69	59	0		|rock band flyers	 | SING ALONG | SUMMON LOVE GNATS | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | STUFFED MORTAR SHELL | WAVE OF SAUCE	0	0	0	0	0	0		
+3	161	true	The Neverending Party	jock	XO Skeleton	 | bag of GORP | unremarkable duffel bag | Purple Beast energy drink | cosmetic football | shoe ad T-shirt	733	21	152	60	61	0		|rock band flyers	 | SUMMON LOVE GNATS | SING ALONG | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | STUFFED MORTAR SHELL | WAVE OF SAUCE	0	0	0	0	0	0		
+3	161	true	The Neverending Party	burnout	XO Skeleton	 | van key | jam band bootleg | ratty knitted cap	322	21	162	55	56	0		|rock band flyers	 | SUMMON LOVE GNATS | SING ALONG | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | STUFFED MORTAR SHELL | WAVE OF SAUCE	0	0	0	0	0	0		
+3	161	true	The Neverending Party	party girl	XO Skeleton	 | meteoreo | runproof mascara | very small red dress	388	21	140	62	74	0		|rock band flyers	 | SUMMON LOVE GNATS | SING ALONG | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | STUFFED MORTAR SHELL | WAVE OF SAUCE	0	0	0	0	0	0		
+3	161	true	The Neverending Party	jock	XO Skeleton	 | unremarkable duffel bag | Purple Beast energy drink | cosmetic football | O	625	21	149	59	67	0		|rock band flyers	 | SUMMON LOVE GNATS | SING ALONG | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | STUFFED MORTAR SHELL | WAVE OF SAUCE	0	0	0	0	0	0		
+3	161	true	The Neverending Party	&quot;plain&quot; girl	XO Skeleton	 | electronics kit | PB&J with the crusts cut off	385	21	141	70	61	0		|rock band flyers	 | SUMMON LOVE GNATS | SING ALONG | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | STUFFED MORTAR SHELL | WAVE OF SAUCE	0	0	0	0	0	0		
+3	161	true	The Neverending Party	biker	XO Skeleton	 | almost-dead walkie-talkie | gas can | Middle of the Road&trade; brand whiskey | neverending wallet chain | sugar shard (2)	488	21	150	70	61	0		|rock band flyers	 | SUMMON LOVE GNATS | SING ALONG | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | STUFFED MORTAR SHELL | WAVE OF SAUCE	0	0	0	0	0	0		
+3	161	true	The Neverending Party	party girl	XO Skeleton	 | water purification pills | runproof mascara | very small red dress	402	21	138	77	63	0		|rock band flyers	 | SUMMON LOVE GNATS | SING ALONG | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | STUFFED MORTAR SHELL | WAVE OF SAUCE	0	0	0	0	0	0		
+3	161	true	The Neverending Party	party girl	XO Skeleton	 | very small red dress | surprisingly capacious handbag | X	469	21	142	71	66	0		|rock band flyers	 | SUMMON LOVE GNATS | SING ALONG | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | STUFFED MORTAR SHELL | WAVE OF SAUCE	0	0	0	0	0	0		
+3	161	true	The Neverending Party	burnout	XO Skeleton	 | van key | jam band bootleg	262	21	146	77	64	0		|rock band flyers	 | SUMMON LOVE GNATS | SING ALONG | SUMMON LOVE MOSQUITO | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | STUFFED MORTAR SHELL | WAVE OF SAUCE	0	0	0	0	0	0		
+3	161	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton	 | ancient medicinal herbs | meadeorite	81	4	31	6	7	0		|rock band flyers	 | SING ALONG	0	0	0	0	0	0		
+3	161	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		87	4	22	9	16	0		|rock band flyers	 | SING ALONG	0	0	0	0	0	0		
+3	161	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		77	4	36	8	13	0		|rock band flyers	 | SING ALONG	0	0	0	0	0	0		
+3	161	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton	 | O	98	4	32	9	10	0		|rock band flyers	 | SING ALONG	0	0	0	0	0	0		
+3	161	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton	 | Camp Scout pup tent	94	4	27	16	12	0		|rock band flyers	 | SING ALONG	0	0	0	0	0	0		
+3	161	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		77	4	36	14	8	0		|rock band flyers	 | SING ALONG	0	0	0	0	0	0		
+3	161	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		87	4	42	9	10	0		|rock band flyers	 | SING ALONG	0	0	0	0	0	0		
+3	161	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton	 | ancient medicinal herbs | X	91	4	30	13	19	0		|rock band flyers	 | SING ALONG	0	0	0	0	0	0		
+3	161	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		98	4	41	11	14	0		|rock band flyers	 | SING ALONG	0	0	0	0	0	0		
+3	161	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	XO Skeleton		66	4	49	13	12	0		|rock band flyers	 | SING ALONG	0	0	0	0	0	0		
+3	161	true	Your Witchess Set	Witchess Pawn	XO Skeleton	 | armored prawn	108	5	53	19	28	0		|rock band flyers	 | SUMMON LOVE GNATS | SING ALONG	0	0	0	0	0	0		
+3	161	true	Your Witchess Set	Witchess Pawn	XO Skeleton	 | armored prawn	120	5	56	20	20	0		|rock band flyers	 | SUMMON LOVE GNATS | SING ALONG	0	0	0	0	0	0		
+3	161	true	Your Witchess Set	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	161	true	Your Witchess Set	Witchess Pawn	XO Skeleton	 | armored prawn	86	5	53	18	24	0		|rock band flyers	 | SUMMON LOVE GNATS | SING ALONG	0	0	0	0	0	0		
+3	161	true	Your Witchess Set	Witchess Pawn	XO Skeleton	 | CSA fire-starting kit | armored prawn	101	5	64	18	20	0		|rock band flyers	 | SUMMON LOVE GNATS | SING ALONG	0	0	0	0	0	0		
+3	161	true	Evoke Eldritch Horror	Eldritch Tentacle named Brghbrghblllrrggghsssshhsssssss	XO Skeleton	 | eldritch effluvium | eldritch effluvium | eldritch effluvium	93	8	75	31	42	0		|rock band flyers	 | SING ALONG	0	0	0	0	0	0		
+3	161	true	Dr. Gordon Stuart's Science Tent	Eldritch Tentacle named Bbbbbbbsssshhsssbbbbbbbblrg	XO Skeleton	 | eldritch effluvium | eldritch effluvium | X	67	8	89	31	33	0		|rock band flyers	 | SING ALONG	0	0	0	0	0	0		
+3	161	false	genie summoned monster	The Camel's Toe	Obtuse Angel	 | star | star | line | line | Gathered Meat-Clip	0	3	46	15	21	0			 | FIRE A BADLY ROMANTIC ARROW	0	0	0	0	0	0		
+3	162	true	An Overgrown Shrine (Northwest)	sausage goblin	XO Skeleton	 | magical sausage casing	227	4	127	52	45	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER	0	0	0	0	0	0		
+3	162	false	Next to that Barrel with Something Burning in it	batwinged gremlin	XO Skeleton	 | molybdenum hammer	195	5	47	15	19	0		|seal tooth|seal tooth|seal tooth|molybdenum magnet		0	0	0	0	0	0		
+3	163	false	Over Where the Old Tires Are	an erudite gremlin!	XO Skeleton	 | molybdenum crescent wrench	195	5	38	18	16	0		|seal tooth|seal tooth|molybdenum magnet	 | MACROMETEORITE	0	0	0	0	0	0	 | spider gremlin	
+3	164	true	The Haunted Ballroom	terrible mutant	XO Skeleton	 | glob of undifferentiated tissue	37	7	118	54	62	0		|exploding cigar	 | MICROMETEORITE	0	0	0	0	0	0		
+3	164	false	Near an Abandoned Refrigerator	spider gremlin	XO Skeleton	 | molybdenum pliers | O	198	4	41	20	18	0		|seal tooth|seal tooth|molybdenum magnet		0	0	0	0	0	0		
+3	165	false	Out by that Rusted-Out Car	vegetable gremlin	XO Skeleton		0	0	0	0	0	0		|seal tooth		0	0	0	0	0	0		
+3	166	false	Out by that Rusted-Out Car	a vegetable gremlin!	XO Skeleton		183	9	43	13	11	0		|seal tooth|seal tooth|seal tooth|seal tooth|seal tooth|seal tooth	 | MACROMETEORITE	0	0	0	0	0	0	 | erudite gremlin	
+3	167	false	Out by that Rusted-Out Car	a vegetable gremlin!	XO Skeleton	 | molybdenum screwdriver | CSA scoutmaster's &quot;water&quot;	195	6	32	18	18	0		|seal tooth|seal tooth|molybdenum magnet	 | MACROMETEORITE | MACROMETEORITE	0	0	0	0	0	0	 | vegetable gremlin | an erudite gremlin!	
+3	168	false	The Battlefield (Frat Uniform)	I Am The Brotherhood	XO Skeleton	 | perforated battle paddle | PADL Phone	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	169	false	The Battlefield (Frat Uniform)	War Hippy Baker	XO Skeleton	 | reinforced beaded headband | hippy protest button | water pipe bomb | X	0	2	57	11	20	0				0	0	0	0	0	0		
+3	170	false	The Battlefield (Frat Uniform)	War Hippy Rigger	XO Skeleton		0	2	42	23	13	0				0	0	0	0	0	0		
+3	171	false	The Battlefield (Frat Uniform)	War Hippy Windtalker	XO Skeleton	 | green clay bead | communications windchimes | communications windchimes	0	2	48	17	17	0				0	0	0	0	0	0		
+3	172	false	The Battlefield (Frat Uniform)	War Hippy Windtalker	XO Skeleton	 | green clay bead | communications windchimes | communications windchimes	0	2	39	22	20	0				0	0	0	0	0	0		
+3	173	true	The Haunted Ballroom	sausage goblin	XO Skeleton	 | magical sausage casing	231	6	131	38	62	0			 | MICROMETEORITE | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+3	173	false	photocopied monster	modern zmobie	XO Skeleton	 | O | Gathered Meat-Clip	225	3	31	20	10	0			 | DIGITIZE	0	0	0	0	0	1		
+3	174	false	The Battlefield (Frat Uniform)	War Hippy Dread Squad	XO Skeleton	 | didgeridooka | bullet-proof corduroys | tube of dread wax	0	2	49	15	20	0				0	0	0	0	0	0		
+3	175	true	The Haunted Ballroom	terrible mutant	XO Skeleton	 | glob of undifferentiated tissue	45	10	128	63	52	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+3	175	false	The Battlefield (Frat Uniform)	War Hippy Shaman	XO Skeleton	 | carbonated soy milk	0	2	51	13	19	0				0	0	0	0	0	0		
+3	176	true	The Battlefield (Frat Uniform)	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	176	false	The Battlefield (Frat Uniform)	War Hippy Infantryman	XO Skeleton	 | bullet-proof corduroys | reinforced beaded headband | oversized pipe | X	0	2	44	15	19	0	 | Going Ape (5)			0	0	0	0	0	0		
+3	177	false	The Battlefield (Frat Uniform)	War Hippy F.R.O.G.	XO Skeleton	 | pink clay bead | reinforced beaded headband | round purple sunglasses | oversized pipe | water pipe bomb	0	2	40	19	21	0				0	0	0	0	0	0		
+3	178	false	The Hatching Chamber	larval filthworm	XO Skeleton	 | filthworm hatchling scent gland	217	3	43	20	13	0			 | HUGS AND KISSES	0	0	0	0	0	0		
+3	179	false	The Feeding Chamber	filthworm drone	XO Skeleton	 | filthworm drone scent gland | bag of GORF	266	3	42	15	20	0			 | HUGS AND KISSES	0	0	0	0	0	0		
+3	180	false	The Royal Guard Chamber	filthworm royal guard	XO Skeleton	 | filthworm royal guard scent gland	382	3	37	17	20	0			 | HUGS AND KISSES	0	0	0	0	0	0		
+3	181	false	The Filthworm Queen's Chamber	modern zmobie	XO Skeleton	 | O	206	2	24	11	9	0	 | items.enh (5)			0	0	0	0	0	0		
+3	182	false	The Filthworm Queen's Chamber	The Camel's Toe	XO Skeleton	 | star | star | line | line	0	2	41	15	17	0				0	0	0	0	0	0		
+3	183	false	The Filthworm Queen's Chamber	the queen filthworm	XO Skeleton	 | heart of the filthworm queen	3997	2	41	16	16	0				0	0	0	0	0	0		
+3	184	false	The Battlefield (Frat Uniform)	War Hippy Rigger	XO Skeleton	 | wicker shield | Gathered Meat-Clip	0	2	56	18	11	0				0	0	0	0	0	0		
+3	185	false	The Battlefield (Frat Uniform)	War Hippy Dread Squad	XO Skeleton	 | didgeridooka | tube of dread wax | X	0	2	40	18	14	0				0	0	0	0	0	0		
+3	186	false	The Battlefield (Frat Uniform)	War Hippy Windtalker	XO Skeleton	 | green clay bead | communications windchimes | communications windchimes | communications windchimes	0	2	42	14	20	0	 | Stinky Hands (5)			0	0	0	0	0	0		
+3	187	true	An Overgrown Shrine (Northwest)	dense liana	XO Skeleton		0	1	0	0	0	0				0	0	0	0	0	0		
+3	187	true	An Overgrown Shrine (Northwest)	dense liana	XO Skeleton		0	1	0	4	0	0				0	0	0	0	0	0		
+3	187	true	An Overgrown Shrine (Northwest)	dense liana	XO Skeleton		0	1	0	0	0	0				0	0	0	0	0	0		
+3	187	false	An Overgrown Shrine (Northwest)	Earthbound and Down	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	188	true	The Hidden Apartment Building	sausage goblin	XO Skeleton	 | magical sausage casing | O	275	9	120	53	49	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+3	188	true	The Hidden Apartment Building	pygmy witch lawyer	XO Skeleton	 | pygmy briefs	0	2	0	0	0	0			 | HUGS AND KISSES | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+3	188	false	The Hidden Apartment Building	pygmy witch accountant	XO Skeleton	 | McClusky file (page 1)	577	2	39	13	16	0	 | Provocative Perkiness (5)			0	0	0	0	0	0		
+3	189	false	The Hidden Apartment Building	pygmy shaman	XO Skeleton	 | smirking shrunken head | voodoo glowskull	520	3	35	15	17	0	 | Once-Cursed (10) | On the Trail (40)		 | TRANSCENDENT OLFACTION	0	0	0	1	0	0		
+3	190	false	The Hidden Apartment Building	pygmy shaman	XO Skeleton	 | smirking shrunken head	433	2	31	15	23	0	 | Twice-Cursed (10)			0	0	0	0	0	0		
+3	191	false	The Hidden Apartment Building	pygmy shaman	XO Skeleton	 | smirking shrunken head | crude voodoo doll | X	452	2	35	17	15	0	 | Thrice-Cursed (10)			0	0	0	0	0	0		
+3	192	true	The Hidden Apartment Building	Black Crayon Golem	Artistic Goth Kid	 | CSA obedience grenade | crayon shavings	0	8	122	47	55	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+3	192	false	The Hidden Apartment Building	pygmy shaman	Artistic Goth Kid	 | smirking shrunken head | colorful toad	545	3	47	20	14	0	 | Thrice-Cursed (10) | Vitamin-Maxed (5)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+3	193	false	The Hidden Apartment Building	ancient protector spirit	Artistic Goth Kid	 | moss-covered stone sphere | psychokinetic energy blob	0	3	51	17	21	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+3	194	true	The Battlefield (Frat Uniform)	Black Crayon Undead Thing	Artistic Goth Kid	 | crayon shavings	0	11	126	50	55	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER | SAUCEGEYSER | SAUCEGEYSER | CLOBBER | CLOBBER | CLOBBER | CLOBBER | CLOBBER	0	0	0	0	0	0		
+3	194	false	The Battlefield (Frat Uniform)	War Hippy F.R.O.G.	XO Skeleton	 | pink clay bead | wicker shield	0	2	43	15	17	0				0	0	0	0	0	0		
+3	195	false	The Battlefield (Frat Uniform)	War Hippy Infantryman	XO Skeleton	 | reinforced beaded headband | wicker shield | Pok&eacute;-Gro fertilizer	0	2	46	11	16	0				0	0	0	0	0	0		
+3	196	true	Cook 6 wad of dough + 6 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	196	true	An Overgrown Shrine (Northeast)	dense liana	XO Skeleton		0	1	0	0	0	0	 | Towering Strength (5)			0	0	0	0	0	0		
+3	196	true	An Overgrown Shrine (Northeast)	dense liana	XO Skeleton		0	1	7	0	0	0				0	0	0	0	0	0		
+3	196	true	An Overgrown Shrine (Northeast)	dense liana	XO Skeleton	 | O	0	1	0	0	0	0				0	0	0	0	0	0		
+3	196	false	An Overgrown Shrine (Northeast)	Air Apparent	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	197	true	The Hidden Office Building	terrible mutant	XO Skeleton	 | glob of undifferentiated tissue	41	7	165	65	60	0			 | SAUCEGEYSER | MICROMETEORITE	0	0	0	0	0	0		
+3	197	true	The Hidden Office Building	pygmy headhunter	XO Skeleton		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+3	197	true	The Hidden Office Building	pygmy janitor	XO Skeleton	 | book of matches	0	2	0	0	0	0			 | HUGS AND KISSES | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+3	197	false	The Hidden Office Building	pygmy witch accountant	XO Skeleton	 | adder | pygmy adder oil | McClusky file (page 2) | Gathered Meat-Clip	666	2	40	12	21	0				0	0	0	0	0	0		
+3	198	false	The Hidden Office Building	pygmy witch accountant	XO Skeleton	 | adder | McClusky file (page 3)	589	2	35	21	17	0	 | Greedy Resolve (5)			0	0	0	0	0	0		
+3	199	false	The Hidden Office Building	Working Holiday	XO Skeleton	 | boring binder clip	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	200	false	The Hidden Office Building	pygmy witch accountant	XO Skeleton	 | adder | pygmy adder oil | X | McClusky file (page 4)	615	2	42	18	13	0				0	0	0	0	0	0		
+3	201	false	The Hidden Office Building	modern zmobie	XO Skeleton		225	2	30	13	13	0				0	0	0	0	0	0		
+3	202	false	The Hidden Office Building	pygmy witch accountant	XO Skeleton	 | bone abacus | adder | pygmy adder oil | McClusky file (page 5)	569	2	0	0	0	0				0	0	0	0	0	0		
+3	203	false	The Hidden Office Building	pygmy witch accountant	XO Skeleton		524	2	40	16	17	0				0	0	0	0	0	0		
+3	204	true	The Hidden Office Building	Wooof! Wooooooof!	XO Skeleton	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	204	false	The Hidden Office Building	ancient protector spirit	XO Skeleton	 | crackling stone sphere | psychokinetic energy blob	0	5	38	18	20	0	 | Larger (5)		 | MICROMETEORITE | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+3	205	false	The Battlefield (Frat Uniform)	War Hippy Fire Spinner	XO Skeleton	 | O	0	2	46	18	6	0				0	0	0	0	0	0		
+3	206	TRUE	CONSUME: chew 1 cosmic paste	N/A	Pair of Stomping Boots		0	-1	0	0	0	9	 | Cosmic Flavor (10)			0	0	0	0	0	0		
+3	206	false	The Battlefield (Frat Uniform)	The Camel's Toe	Pair of Stomping Boots	 | cosmic paste | CSA cheerfulness ration	0	2	2	0	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+3	207	false	The Battlefield (Frat Uniform)	War Hippy Baker	Pair of Stomping Boots	 | reinforced beaded headband | round purple sunglasses | hippy protest button	0	2	36	11	16	0				0	0	0	0	0	0		
+3	208	false	The Battlefield (Frat Uniform)	War Hippy Dread Squad	Pair of Stomping Boots		0	3	39	14	9	0				0	0	0	0	0	0		
+3	209	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey	 | Gathered Meat-Clip	11	2	35	17	10	0				0	0	0	0	0	0		
+3	210	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey	 | brigand brittle	13	3	26	18	17	0			 | SING ALONG	0	0	0	0	0	0		
+3	211	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey	 | brigand brittle	10	3	36	13	14	0			 | SING ALONG	0	0	0	0	0	0		
+3	212	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey	 | brigand brittle	82	3	38	11	13	0			 | SING ALONG	0	0	0	0	0	0		
+3	213	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey	 | brigand brittle	104	3	32	17	13	0			 | SING ALONG	0	0	0	0	0	0		
+3	214	true	The Themthar Hills	Wooof! Wooooooof!	Hobo Monkey		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+3	214	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey		14	3	28	19	14	0			 | SING ALONG	0	0	0	0	0	0		
+3	215	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey		11	3	28	18	15	0			 | SING ALONG	0	0	0	0	0	0		
+3	216	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey	 | brigand brittle	112	3	38	10	13	0			 | SING ALONG	0	0	0	0	0	0		
+3	217	false	The Themthar Hills	dirty thieving brigand	Hobo Monkey		73	3	38	11	13	0			 | SING ALONG	0	0	0	0	0	0		
+3	218	true	Deck of Every Card	0 - The Fool	Pair of Stomping Boots		0	-1	0	0	0	0	 | Dancin' Fool (20)			0	0	0	0	0	0		
+3	218	true	Cook 7 wad of dough + 7 soda water	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	218	false	The Smut Orc Logging Camp	smut orc jacker	Pair of Stomping Boots	 | raging hardwood plank | morningwood plank | orc wrist	245	2	29	3	9	0				0	0	0	0	0	0		
+3	219	false	The Smut Orc Logging Camp	smut orc pipelayer	Pair of Stomping Boots	 | weirdwood plank | orcish rubber	306	3	18	8	14	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+3	220	false	The Smut Orc Logging Camp	smut orc jacker	Pair of Stomping Boots	 | weirdwood plank | thick caulk | orcish hand lotion | Gathered Meat-Clip	280	3	20	7	12	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+3	221	false	The Smut Orc Logging Camp	smut orc pipelayer	Pair of Stomping Boots	 | weirdwood plank	341	3	16	13	11	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+3	222	false	The Smut Orc Logging Camp	Blech House	Pair of Stomping Boots	 | weirdwood plank	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	223	false	The Smut Orc Logging Camp	The Frattlesnake	Pair of Stomping Boots	 | The Lacrosse Stick of Lacoronado	0	2	28	15	21	0				0	0	0	0	0	0		
+3	224	false	The Castle in the Clouds in the Sky (Top Floor)	Keep On Turnin' the Wheel in the Sky	Pair of Stomping Boots	 | giant discarded bottlecap	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	225	TRUE	CONSUME: chew 1 penguin paste	N/A	Pair of Stomping Boots		0	-1	0	0	0	7	 | Penguinny Flavor (10)			0	0	0	0	0	0		
+3	225	false	The Copperhead Club	the Mob Penguin Capo	Pair of Stomping Boots	 | penguin paste	14	2	6	0	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+3	226	true	The Copperhead Club	waiter dressed as a ninja	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	226	false	The Copperhead Club	Shen Copperhead, Jerk	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	227	true	The Unquiet Garves	skleleton	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	227	true	The Unquiet Garves	zobmie	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	227	true	The Unquiet Garves	zobmie	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	227	true	The Unquiet Garves	lihc	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	227	false	The Unquiet Garves	the Snakeleton	Pair of Stomping Boots	 | The Shield of Brook	14	2	35	12	13	0				0	0	0	0	0	0		
+3	228	false	The Copperhead Club	Carl Collins the bartender	Pair of Stomping Boots	 | CSA discount card | handful of tips | electric copperhead potion	931	2	34	11	15	0				0	0	0	0	0	0		
+3	229	true	The Copperhead Club	sausage goblin	Pair of Stomping Boots	 | magical sausage casing	369	5	60	27	33	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+3	229	true	The Copperhead Club	the Mob Penguin Capo	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	229	true	The Copperhead Club	ninja dressed as a waiter	Pair of Stomping Boots		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+3	229	false	The Copperhead Club	Shen Copperhead, Huge Jerk	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	230	true	The Castle in the Clouds in the Sky (Top Floor)	Steampunk Giant	Pair of Stomping Boots		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+3	230	true	Cook 16 wad of dough + 16 soda water	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	230	true	The Castle in the Clouds in the Sky (Top Floor)	Goth Giant	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	230	false	The Castle in the Clouds in the Sky (Top Floor)	Punk Rock Giant	Pair of Stomping Boots	 | stolen sushi | punk patch	332	5	30	11	6	0		|seal tooth|seal tooth|seal tooth|seal tooth		0	0	0	0	0	0		
+3	231	false	The Castle in the Clouds in the Sky (Top Floor)	modern zmobie	Pair of Stomping Boots		320	2	14	4	6	0				0	0	0	0	0	0		
+3	232	TRUE	CONSUME: chew 1 greasy paste	N/A	Pair of Stomping Boots		0	-1	0	0	0	10	 | Greasy Flavor (10)			0	0	0	0	0	0		
+3	232	false	The Castle in the Clouds in the Sky (Top Floor)	Raver Giant	Pair of Stomping Boots	 | greasy paste	10	2	2	0	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+3	233	true	The Castle in the Clouds in the Sky (Top Floor)	Goth Giant	Pair of Stomping Boots	 | sugar shard (2)	0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+3	233	false	The Castle in the Clouds in the Sky (Top Floor)	Copper Feel	Pair of Stomping Boots	 | steam-powered model rocketship	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	234	true	God Lobster	the God Lobster	God Lobster		0	5	68	27	29	0			 | STUFFED MORTAR SHELL | CLOBBER	0	0	0	0	0	0		
+3	234	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0	 | Silence of the God Lobster (33)			0	0	0	0	0	0		
+3	234	false	The Haunted Ballroom	We'll All Be Flat	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	235	false	A Mob of Zeppelin Protesters	Bench Warrant	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	236	false	A Mob of Zeppelin Protesters	Bench Warrant	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	237	false	A Mob of Zeppelin Protesters	Bench Warrant	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	238	false	A Mob of Zeppelin Protesters	Bench Warrant	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	239	false	A Mob of Zeppelin Protesters	Bench Warrant	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	240	true	A Mob of Zeppelin Protesters	Too Much Humanity	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	240	false	A Mob of Zeppelin Protesters	a Blue Oyster cultist!	XO Skeleton	 | black blade | fire of unknown origin | cigarette lighter	572	8	27	10	9	0	 | On the Trail (40)		 | MACROMETEORITE | MACROMETEORITE | TRANSCENDENT OLFACTION | GALLAPAGOSIAN MATING CALL | OFFER LATTE TO OPPONENT | DIGITIZE	0	0	0	3	0	1	 | fleet woodsman | an eagle!	
+3	241	false	A Mob of Zeppelin Protesters	Blue Oyster cultist	XO Skeleton	 | fire of unknown origin | cigarette lighter | blue oyster badge	595	2	28	14	7	0		|cigarette lighter		0	0	0	0	0	0		
+3	242	false	A Mob of Zeppelin Protesters	This Looks Like a Good Bush for an Ambush	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	243	false	A Mob of Zeppelin Protesters	Blue Oyster cultist	XO Skeleton	 | blue oyster badge | Gathered Meat-Clip	572	2	22	16	11	0		|cigarette lighter		0	0	0	0	0	0		
+3	244	false	A Mob of Zeppelin Protesters	a Blue Oyster cultist!	XO Skeleton	 | X	579	3	20	12	9	0			 | MACROMETEORITE	0	0	0	0	0	0	 | lynyrd skinner	
+3	245	false	A Mob of Zeppelin Protesters	Blue Oyster cultist	XO Skeleton	 | black blade | fire of unknown origin | cigarette lighter	533	3	25	10	12	0	 | Everything Looks Yellow (100)		 | HUGS AND KISSES | DISINTEGRATE	0	0	0	0	0	0		
+3	246	true	A Mob of Zeppelin Protesters	Not So Much With The Humanity	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	246	true	Deck of Every Card	XVI - The Tower	Baby Sandworm	 | Jarlsberg's key	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	246	true	Deck of Every Card	Ancestral Recall	Baby Sandworm	 | blue mana	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	246	true	An Overgrown Shrine (Southeast)	dense liana	Baby Sandworm		10	1	0	5	0	0				0	0	0	0	0	0		
+3	246	true	An Overgrown Shrine (Southeast)	dense liana	Baby Sandworm		11	1	0	0	0	0				0	0	0	0	0	0		
+3	246	TRUE	CONSUME: chew 1 agua de vida	N/A	Baby Sandworm	 | empty agua de vida bottle	0	-1	0	0	0	6				0	0	0	0	0	0		
+3	246	true	An Overgrown Shrine (Southeast)	dense liana	Baby Sandworm	 | agua de vida	10	1	0	0	0	0				0	0	0	0	0	0		
+3	246	true	The Defiled Alcove	Turn Your Head and Coffin	Obtuse Angel		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	246	true	The Defiled Alcove	grave rober zmobie	Obtuse Angel		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+3	246	false	The Defiled Cranny	giant swarm of ghuol whelps	Obtuse Angel		10	4	43	21	20	0			 | DIGITIZE | STUFFED MORTAR SHELL	0	0	0	0	0	1		
+3	247	true	The Tavern Cellar	Staring Down the Barrel	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	247	true	The Tavern Cellar	Staring Down the Barrel	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	247	true	The Tavern Cellar	Staring Down the Barrel	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	247	false	The Tavern Cellar	drunken rat king	XO Skeleton	 | rat whisker | rat whisker | rat whisker | rat whisker | rat appendix | rat appendix | rat appendix | tangle of rat tails	229	3	42	17	14	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+3	248	false	The Tavern Cellar	Those Who Came Before You	XO Skeleton	 | seal-blubber candle | figurine of a wretched-looking seal | Ben-Gal&trade; Balm | shiny ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	249	false	The Tavern Cellar	bunch of drunken rats	XO Skeleton	 | rat whisker | rat whisker | rat whisker | rat appendix | rat appendix	126	2	41	16	12	0				0	0	0	0	0	0		
+3	250	false	The Tavern Cellar	bunch of drunken rats	XO Skeleton	 | rat whisker | rat whisker | rat appendix | rat appendix	138	2	46	11	13	0				0	0	0	0	0	0		
+3	251	false	The Tavern Cellar	Of Course!	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	252	true	The Hole in the Sky	sausage goblin	XO Skeleton	 | magical sausage casing | O	406	7	107	54	39	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER | MICROMETEORITE	0	0	0	0	0	0		
+3	252	false	The Defiled Cranny	giant swarm of ghuol whelps	XO Skeleton		11	3	51	15	11	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+3	253	true	The Defiled Alcove	grave rober zmobie	XO Skeleton		0	1	0	0	0	0	 | Half-Eaten Brain (5)		 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+3	253	true	The Defiled Niche	slick lihc	XO Skeleton		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+3	253	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	253	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	253	false	The Defiled Niche	dirty old lihc	XO Skeleton	 | salacious crumbs	12	4	38	13	20	0			 | OFFER LATTE TO OPPONENT | GALLAPAGOSIAN MATING CALL	0	0	0	2	0	0		
+3	254	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	254	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	254	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	254	true	The Defiled Niche	senile lihc	XO Skeleton		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+3	254	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	254	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	254	true	The Defiled Niche	dirty old lihc	XO Skeleton		11	2	36	25	11	0			 | CHEST X-RAY	0	0	1	0	0	0		
+3	254	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	254	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	254	true	The Defiled Niche	dirty old lihc	XO Skeleton	 | CSA bravery badge | salacious crumbs | X	13	2	46	15	11	0			 | CHEST X-RAY	0	0	1	0	0	0		
+3	254	true	The Defiled Niche	dirty old lihc	XO Skeleton		11	2	40	17	15	0			 | CHEST X-RAY	0	0	1	0	0	0		
+3	254	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	254	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	254	false	The Defiled Niche	dirty old lihc	XO Skeleton	 | salacious crumbs	14	2	37	16	19	0				0	0	0	0	0	0		
+3	255	false	The Defiled Niche	dirty old lihc	XO Skeleton	 | salacious crumbs	10	2	45	18	14	0				0	0	0	0	0	0		
+3	256	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	256	false	The Defiled Niche	dirty old lihc	XO Skeleton	 | salacious crumbs | Gathered Meat-Clip	15	2	33	14	12	0				0	0	0	0	0	0		
+3	257	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	257	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	257	true	The Defiled Niche	Urning Your Keep	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	257	false	The Defiled Niche	dirty old lihc	XO Skeleton	 | salacious crumbs | O	10	2	36	11	12	0				0	0	0	0	0	0		
+3	258	false	The Defiled Niche	gargantulihc	XO Skeleton	 | lihc eye | lihc face	14	3	46	22	31	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+3	259	false	The Hole in the Sky	giant swarm of ghuol whelps	XO Skeleton		11	3	29	16	12	0				0	0	0	0	0	0		
+3	260	true	The Red Zeppelin	Zeppelintro	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	260	true	The Red Zeppelin	Red Snapper	XO Skeleton		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+3	260	false	The Red Zeppelin	red butler	XO Skeleton	 | red box | glark cable	375	6	36	23	24	0	 | On the Trail (40)		 | TRANSCENDENT OLFACTION | GALLAPAGOSIAN MATING CALL	0	0	0	2	0	0		
+3	261	true	The Red Zeppelin	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	261	true	The Red Zeppelin	the man with the red buttons	XO Skeleton		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+3	261	true	The Red Zeppelin	red butler	XO Skeleton	 | red box | glark cable | X	401	2	43	14	25	0		|glark cable		0	0	1	0	0	0		
+3	261	true	Cook 6 wad of dough + 6 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	261	true	Cook 1 wad of dough + 1 soda water	N/A	XO Skeleton	 | loaf of soda bread	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	261	true	The Red Zeppelin	Red Herring	XO Skeleton		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+3	261	true	Cook 14 wad of dough + 14 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	261	true	Cook 1 wad of dough + 1 soda water	N/A	XO Skeleton	 | loaf of soda bread	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	261	true	The Red Zeppelin	red skeleton	XO Skeleton		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+3	261	true	The Red Zeppelin	red butler	XO Skeleton	 | glark cable	311	2	32	22	19	0		|glark cable		0	0	1	0	0	0		
+3	261	true	The Red Zeppelin	red butler	XO Skeleton	 | red box | glark cable	358	2	37	18	21	0		|glark cable		0	0	1	0	0	0		
+3	261	true	The Red Zeppelin	red butler	XO Skeleton	 | glark cable	353	2	44	14	15	0		|glark cable		0	0	1	0	0	0		
+3	261	true	The Red Zeppelin	red butler	XO Skeleton	 | glark cable	309	2	46	16	15	0		|glark cable		0	0	1	0	0	0		
+3	261	false	The Red Zeppelin	Ron &quot;The Weasel&quot; Copperhead	XO Skeleton	 | Copperhead Charm (rampant) | O	941	3	47	18	16	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+3	262	false	An Overgrown Shrine (Southeast)	Fire When Ready	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	263	true	The Hidden Bowling Alley	drunk pygmy	XO Skeleton		14	1	2	0	0	0				0	0	0	0	0	0		
+3	263	true	An Overgrown Shrine (Southwest)	dense liana	XO Skeleton		14	1	0	0	0	0				0	0	0	0	0	0		
+3	263	true	An Overgrown Shrine (Southwest)	dense liana	XO Skeleton		10	1	0	5	0	0				0	0	0	0	0	0		
+3	263	true	An Overgrown Shrine (Southwest)	dense liana	XO Skeleton	 | X	14	1	0	0	0	0				0	0	0	0	0	0		
+3	263	false	An Overgrown Shrine (Southwest)	Water You Dune	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	264	true	The Hidden Hospital	pygmy janitor	XO Skeleton		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+3	264	true	The Hidden Hospital	pygmy witch nurse	XO Skeleton		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+3	264	false	The Hidden Hospital	pygmy witch surgeon	XO Skeleton	 | half-size scalpel	779	2	37	21	21	0				0	0	0	0	0	0		
+3	265	true	The Hidden Hospital	pygmy orderlies	XO Skeleton		0	1	0	0	0	0		|divine champagne popper		1	1	0	0	0	0		
+3	265	false	The Hidden Hospital	pygmy witch surgeon	XO Skeleton	 | head mirror	670	2	35	16	27	0				0	0	0	0	0	0		
+3	266	false	The Hidden Hospital	pygmy witch surgeon	XO Skeleton	 | surgical mask	800	2	37	21	17	0				0	0	0	0	0	0		
+4	267	true	God Lobster	the God Lobster	God Lobster		0	4	96	48	39	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER | SAUCEGEYSER	0	0	0	0	0	0		
+4	267	true	God Lobster	Granted a Boon	God Lobster	 | God Lobster's Rod	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	267	true	God Lobster	the God Lobster	God Lobster		0	8	137	59	60	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+4	267	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0	 | Intuition of the God Lobster (33)			0	0	0	0	0	0		
+4	267	true	God Lobster	the God Lobster	God Lobster	 | metal meteoroid	0	5	141	64	68	0			 | SAUCEGEYSER | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+4	267	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0	 | Silence of the God Lobster (33)			0	0	0	0	0	0		
+4	267	false	The Dark Heart of the Woods	Moon Over the Dark Heart	Pair of Stomping Boots	 | hot plate	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	268	false	The Dark Heart of the Woods	Running the Lode	Pair of Stomping Boots		350	-1	0	0	0	0				0	0	0	0	0	0		
+4	269	true	The Dark Heart of the Woods	P imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+4	269	true	The Dark Heart of the Woods	G imp	Pair of Stomping Boots	 | sugar shard (3)	0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+4	269	false	The Dark Heart of the Woods	Imp Be Nimble, Imp Be Quick	Pair of Stomping Boots	 | box of birthday candles	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	270	false	The Dark Neck of the Woods	How Do We Do It? Quaint and Curious Volume!	Pair of Stomping Boots		250	-1	0	0	0	0				0	0	0	0	0	0		
+4	271	true	The Dark Neck of the Woods	P imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+4	271	false	The Dark Neck of the Woods	Strike One!	Pair of Stomping Boots	 | imp unity ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	272	false	The Dark Neck of the Woods	Dodecahedrariffic!	Pair of Stomping Boots	 | dodecagram	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	273	false	The Dark Elbow of the Woods	Deep Imp Act	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	274	true	The Dark Elbow of the Woods	L imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+4	274	false	The Dark Elbow of the Woods	Imp Art, Some Wisdom	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	275	true	The Dark Elbow of the Woods	G imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+4	275	false	The Dark Elbow of the Woods	Butter Knife?  I'll Take the Knife	Pair of Stomping Boots	 | eldritch butterknife	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	276	true	Friar Ceremony Location	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	276	false	photocopied monster	modern zmobie	Cat Burglar	 | bag of GORP | wriggling worm	372	2	35	8	19	0				0	0	0	0	0	0		
+4	278	true	The Hole in the Sky	sausage goblin	Pair of Stomping Boots	 | magical sausage casing	323	6	139	52	56	0			 | STUFFED MORTAR SHELL | MICROMETEORITE | SAUCEGEYSER | SAUCEGEYSER	0	0	0	0	0	0		
+4	278	false	The Hole in the Sky	The Snake With Like Ten Heads	Pair of Stomping Boots	 | meteoreo | The Eye of the Stars | Gathered Meat-Clip	15	3	40	28	22	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+4	279	TRUE	CONSUME: chew 1 gooey paste	N/A	Pair of Stomping Boots		0	-1	0	0	0	5				0	0	0	0	0	0		
+4	279	false	The Copperhead Club	fan dancer	Pair of Stomping Boots	 | gooey paste	10	2	2	4	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+4	280	true	The Copperhead Club	sausage goblin	Pair of Stomping Boots	 | magical sausage casing	360	7	146	47	50	0			 | STUFFED MORTAR SHELL | MICROMETEORITE	0	0	0	0	0	0		
+4	280	true	The Copperhead Club	the Mob Penguin Capo	Artistic Goth Kid		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+4	280	true	The Copperhead Club	ninja dressed as a waiter	Artistic Goth Kid		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+4	280	false	The Copperhead Club	Shen Copperhead, World's Biggest Jerk	Artistic Goth Kid	 | Copperhead Charm	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	281	false	The Haunted Wine Cellar	a possessed wine rack!	XO Skeleton	 | water purification pills | dusty bottle of vinegar Port | actual tapas	12	5	31	12	17	0	 | Meteor Showered (1)		 | MACROMETEORITE | GALLAPAGOSIAN MATING CALL | METEOR SHOWER	0	0	0	1	0	0	 | mad wino	
+4	282	true	The Haunted Wine Cellar	a mad wino!	XO Skeleton		0	2	0	0	0	0			 | MACROMETEORITE | SNOKEBOMB	1	1	0	0	0	0	 | skeletal sommelier	
+4	282	true	The Haunted Wine Cellar	sausage goblin	XO Skeleton	 | magical sausage casing | O	323	3	131	32	53	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+4	282	false	The Haunted Wine Cellar	possessed wine rack	XO Skeleton	 | dusty bottle of spooky Pinot Noir | dusty bottle of great Zinfandel | bottle of Chateau de Vinegar	15	3	35	18	17	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+4	283	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	XO Skeleton	 | bloodstain stick | fabric softener | bottle of laundry sherry	243	3	37	14	14	0			 | GALLAPAGOSIAN MATING CALL	0	0	0	1	0	0		
+4	284	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	XO Skeleton	 | bloodstain stick | fabric softener | bottle of laundry sherry | blasting soda	246	2	35	16	14	0				0	0	0	0	0	0		
+4	285	true	Cook 1 blasting soda + 1 bottle of Chateau de Vinegar	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	285	true	Cook 1 blasting soda + 1 bottle of Chateau de Vinegar	N/A	XO Skeleton	 | unstable fulminate	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	285	false	The Haunted Boiler Room	a monstrous boiler!	XO Skeleton	 | wine bomb | X	13	3	35	12	17	0			 | MACROMETEORITE	0	0	0	0	0	0	 | coaltergeist	
+4	286	false	Summoning Chamber	Lord Spookyraven	XO Skeleton	 | Eye of Ed | Lord Spookyraven's ear trumpet	11	2	77	50	49	0				0	0	0	0	0	0		
+4	287	false	Inside the Palindome	Rod Nevada, Vendor	XO Skeleton	 | photograph of a red nugget	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	288	false	Inside the Palindome	Racecar Bob	XO Skeleton	 | enormous belt buckle | stunt nuts | ketchup hound	571	3	30	24	22	0	 | On the Trail (40)		 | TRANSCENDENT OLFACTION	0	0	0	1	0	0		
+4	289	true	Inside the Palindome	Bob Racecar	XO Skeleton	 | photograph of a dog	0	0	0	0	0	0		|disposable instant camera	 | USE THE FORCE, THREEBULLETHAMBURGLER | SABER FRIENDS	0	0	0	0	0	0		
+4	289	false	Inside the Palindome	Bob Racecar	XO Skeleton	 | Camp Scout pup tent | stunt nuts | ketchup hound	508	2	39	16	16	0				0	0	0	0	0	0		
+4	290	false	Inside the Palindome	Bob Racecar	XO Skeleton	 | stunt nuts | ketchup hound	549	2	41	16	13	0				0	0	0	0	0	0		
+4	291	false	Inside the Palindome	Bob Racecar	XO Skeleton	 | leather chaps | stunt nuts | ketchup hound | O | Gathered Meat-Clip	559	2	32	15	23	0				0	0	0	0	0	0		
+4	292	false	Inside the Palindome	Drab Bard	XO Skeleton	 | olive | drab sonata | &quot;I Love Me, Vol. I&quot;	328	2	43	18	14	0				0	0	0	0	0	0		
+4	293	true	Inside the Palindome	Wooof! Wooooooof!	Pair of Stomping Boots	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	293	false	Inside the Palindome	Do Geese See God?	Pair of Stomping Boots	 | photograph of God	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	294	true	Inside the Palindome	Racecar Bob	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+4	294	true	Inside the Palindome	Tan Gnat	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+4	294	true	Inside the Palindome	Last Egg Gets Al	Pair of Stomping Boots	 | photograph of an ostrich egg	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	294	false	Dr. Awkward's Office	N/A	Pair of Stomping Boots	 | &quot;2 Love Me, Vol. 2&quot;	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	295	true	The Hidden Bowling Alley	pygmy orderlies	Pair of Stomping Boots		0	1	0	0	0	0	 | Pet Shop Song (10)		 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+4	295	false	The Hidden Bowling Alley	pygmy bowler	XO Skeleton	 | bowling ball | imitation White Russian	611	2	35	23	17	0				0	0	0	0	0	0		
+4	296	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	297	false	The Hidden Bowling Alley	pygmy bowler	XO Skeleton	 | bowling ball | imitation White Russian | Pok&eacute;-Gro fertilizer	501	2	39	22	13	0				0	0	0	0	0	0		
+4	298	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	299	true	The Hidden Bowling Alley	pygmy janitor	XO Skeleton		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+4	299	false	The Hidden Bowling Alley	Is There A Doctor In The House?	XO Skeleton	 | Meteorite-Ade | bowling ball | imitation White Russian | X	602	2	31	14	26	0				0	0	0	0	0	0		
+4	300	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	301	true	The Hidden Bowling Alley	drunk pygmy	XO Skeleton		0	1	2	0	0	0				0	0	0	0	0	0		
+4	301	true	The Hidden Bowling Alley	drunk pygmy	XO Skeleton		0	1	2	0	0	0	 | Visions of the Deep Dark Deeps (5)			0	0	0	0	0	0		
+4	301	false	The Hidden Bowling Alley	pygmy bowler	XO Skeleton	 | CSA fire-starting kit | bowling ball | imitation White Russian	580	2	35	10	19	0				0	0	0	0	0	0		
+4	302	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	303	true	The Hidden Bowling Alley	drunk pygmy	XO Skeleton		0	1	2	4	0	0				0	0	0	0	0	0		
+4	303	false	The Hidden Bowling Alley	pygmy bowler	XO Skeleton	 | bowling ball | O	497	2	31	15	15	0				0	0	0	0	0	0		
+4	304	false	The Hidden Bowling Alley	ancient protector spirit	XO Skeleton	 | scorched stone sphere	0	3	36	16	18	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+4	305	false	The Hidden Hospital	ancient protector spirit	XO Skeleton	 | dripping stone sphere	0	3	31	15	15	0	 | Greasy Peasy (5)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+4	306	true	An Overgrown Shrine (Southwest)	Water You Dune	XO Skeleton	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	306	true	An Overgrown Shrine (Southeast)	Fire When Ready	XO Skeleton	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	306	true	An Overgrown Shrine (Northeast)	Air Apparent	XO Skeleton	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	306	true	An Overgrown Shrine (Northwest)	Earthbound and Down	XO Skeleton	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	306	true	A Massive Ziggurat	dense liana	XO Skeleton		0	1	0	0	0	0				0	0	0	0	0	0		
+4	306	true	A Massive Ziggurat	dense liana	XO Skeleton	 | X	0	1	0	0	0	0				0	0	0	0	0	0		
+4	306	true	A Massive Ziggurat	dense liana	XO Skeleton		0	1	0	0	10	0				0	0	0	0	0	0		
+4	306	false	A Massive Ziggurat	Protector Spectre	XO Skeleton	 | ancient amulet | spectre scepter	0	3	72	38	41	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+4	307	true	Whitey's Grove	a whitesnake!	XO Skeleton	 | bird rib	0	3	0	0	0	0	 | Dangerous Zone Song (10)		 | MACROMETEORITE | HUGS AND KISSES | KGB TRANQUILIZER DART	1	1	0	0	0	0	 | white chocolate golem	
+4	307	false	Whitey's Grove	white lion	XO Skeleton	 | catgut | lion oil	126	2	21	7	3	0	 | This Is Where You're a Viking (5)			0	0	0	0	0	0		
+4	308	true	Cook 1 bird rib + 1 lion oil	N/A	XO Skeleton	 | wet stew	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	308	true	Cook 1 wet stew + 1 stunt nuts	N/A	XO Skeleton	 | wet stunt nut stew	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	308	false	Dr. Awkward's Office	Dr. Awkward	XO Skeleton	 | Staff of Fats | Drowsy Sword | Gathered Meat-Clip	0	2	70	37	43	0				0	0	0	0	0	0		
+4	309	true	A-Boo Peak	Faction Traction = Inaction	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	309	false	A-Boo Peak	Space Tourist Explorer Ghost	XO Skeleton	 | A-Boo clue | Space Tours Tripple | Space Tourist Phaser | ectoplasmic orbs | O	0	3	30	8	14	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+4	310	false	A-Boo Peak	Claybender Sorcerer Ghost	XO Skeleton	 | CSA scoutmaster's &quot;water&quot; | A-Boo clue | Polysniff Perfume | ectoplasmic orbs	0	3	26	10	10	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+4	311	false	A-Boo Peak	Space Tourist Explorer Ghost	XO Skeleton	 | A-Boo clue | Space Tours Tripple | Space Tourist Phaser | ectoplasmic orbs	0	3	22	14	10	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+4	312	false	A-Boo Peak	The Horror...	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	313	false	A-Boo Peak	The Horror...	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	314	false	A-Boo Peak	The Horror...	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	315	true	A-Boo Peak	Dusken Raider Ghost	XO Skeleton	 | Duskwalker syringe | ectoplasmic orbs	0	2	17	12	13	0			 | CHEST X-RAY	0	0	1	0	0	0		
+4	315	false	A-Boo Peak	Come On Ghosty, Light My Pyre	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	316	true	Oil Peak	Pushin' Down on Me, Pushin' Down on You	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	316	false	Oil Peak	oil cartel	XO Skeleton	 | bubblin' crude | bubblin' crude | X	0	3	33	13	27	0				0	0	0	0	0	0		
+4	317	false	Oil Peak	oil cartel	XO Skeleton	 | bubblin' crude | bubblin' crude	0	3	35	16	23	0				0	0	0	0	0	0		
+4	318	false	Oil Peak	oil cartel	XO Skeleton	 | bubblin' crude | bubblin' crude	0	3	46	12	22	0				0	0	0	0	0	0		
+4	319	false	Oil Peak	N/A	XO Skeleton		0	-1	0	0	0	0	 | Singer's Faithful Ocelot (10)			0	0	0	0	0	0		
+4	320	false	Oil Peak	oil cartel	XO Skeleton		0	1	0	0	0	0			 | RETURN	0	0	0	0	0	0		
+4	321	true	Oil Peak	Wooof! Wooooooof!	XO Skeleton		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+4	321	false	Oil Peak	oil cartel	XO Skeleton	 | bubblin' crude | bubblin' crude | bubblin' crude | bubblin' crude | bubblin' crude | bubblin' crude	0	3	40	14	11	0			 | DUPLICATE | SAUCEGEYSER	0	0	0	0	0	0		
+4	322	false	Oil Peak	Unimpressed with Pressure	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	323	true	Cook 21 wad of dough + 21 soda water	N/A	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	323	true	Twin Peak	Welcome to the Great Overlook Lodge	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	323	true	Twin Peak	Creepy Ginger Twin	XO Skeleton		0	2	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+4	323	false	Twin Peak	spider (duck?) topiary animal	XO Skeleton	 | rusty hedge trimmers | pestopiary | O	0	3	27	17	15	0			 | OTOSCOPE	0	0	0	0	0	0		
+4	324	false	rusty hedge trimmers	Room 237	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	325	false	Twin Peak	bearpig topiary animal	XO Skeleton	 | rusty hedge trimmers | pestopiary	0	3	29	19	13	0			 | TRANSCENDENT OLFACTION | OTOSCOPE	0	0	0	1	0	0		
+4	326	false	rusty hedge trimmers	He Is the Arm, and He Sounds Like This	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	327	true	Twin Peak	Mismatched Twins	XO Skeleton		0	2	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+4	327	false	Twin Peak	a spider (duck?) topiary animal!	XO Skeleton	 | rusty hedge trimmers | pestopiary | Gathered Meat-Clip	0	3	20	6	7	0			 | MACROMETEORITE	0	0	0	0	0	0	 | the Bubblemint Twins	
+4	328	false	rusty hedge trimmers	Go Check It Out!	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	329	true	Twin Peak	Now It's Dark	XO Skeleton	 | gold wedding ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	329	true	The Upper Chamber	Iiti Kitty	Baby Sandworm		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+4	329	false	The Upper Chamber	A Wheel -- How Fortunate!	Baby Sandworm	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	330	false	The Upper Chamber	A Wheel -- How Fortunate!	Baby Sandworm	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	331	true	The Upper Chamber	tomb servant	Baby Sandworm	 | canopic jar | secret mummy herbs and spices	134	2	49	22	26	0			 | CHEST X-RAY	0	0	1	0	0	0		
+4	331	false	The Upper Chamber	tomb bat	Baby Sandworm	 | leathery bat skin | mummy wrapping	132	2	64	21	16	0				0	0	0	0	0	0		
+4	332	true	Deck of Every Card	X - The Wheel of Fortune	Pair of Stomping Boots		0	-1	0	0	0	0	 | Fortune of the Wheel (20)			0	0	0	0	0	0		
+4	332	false	The Upper Chamber	Down Dooby-Doo Down Down	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	333	true	The Middle Chamber	tomb servant	Pair of Stomping Boots		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+4	333	false	The Middle Chamber	a tomb rat king!	Pair of Stomping Boots	 | tomb ratchet | tomb ratchet | tomb ratchet | leathery rat skin | leathery rat skin | leathery rat skin | unidentified jerky | unidentified jerky | unidentified jerky	407	4	56	24	21	0		|tangle of rat tails	 | OTOSCOPE	0	0	0	0	0	0	 | tomb rat	
+4	334	true	The Middle Chamber	tomb asp	Pair of Stomping Boots		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+4	334	true	The Middle Chamber	a salamander!	Pair of Stomping Boots		0	3	0	0	0	0			 | CLEESH | RETURN	1	0	0	0	0	0	 | tomb rat	
+4	334	true	The Middle Chamber	tomb servant	Pair of Stomping Boots		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+4	334	false	The Middle Chamber	Further Down Dooby-Doo Down Down	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	335	false	The Middle Chamber	tomb rat	Pair of Stomping Boots	 | bag of GORF | tomb ratchet | leathery rat skin | unidentified jerky	252	2	27	19	13	0				0	0	0	0	0	0		
+4	336	false	The Middle Chamber	tomb rat	Pair of Stomping Boots	 | tomb ratchet | leathery rat skin | unidentified jerky	230	2	32	11	12	0				0	0	0	0	0	0		
+4	337	true	The Middle Chamber	tomb rat	Pair of Stomping Boots		0	1	0	0	0	0				0	0	0	0	0	0		
+4	337	false	The Middle Chamber	N/A	Pair of Stomping Boots	 | tomb ratchet | leathery rat skin | unidentified jerky	206	2	24	17	14	0				0	0	0	0	0	0		
+4	338	false	The Middle Chamber	tomb rat	Pair of Stomping Boots	 | tomb ratchet | leathery rat skin | unidentified jerky	271	2	28	15	14	0				0	0	0	0	0	0		
+4	339	false	The Middle Chamber	Under Control	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	340	true	The Middle Chamber	tomb rat	Pair of Stomping Boots	 | tomb ratchet | leathery rat skin | unidentified jerky	246	2	31	16	8	0			 | CHEST X-RAY	0	0	1	0	0	0		
+4	340	true	The Defiled Nook	Skull, Skull, Skull	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	340	true	The Defiled Nook	Skull, Skull, Skull	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	340	TRUE	CONSUME: chew 1 goblin paste	N/A	Pair of Stomping Boots		0	-1	0	0	0	8	 | Gobliny Flavor (10)			0	0	0	0	0	0		
+4	340	true	The Defiled Nook	sausage goblin	Pair of Stomping Boots	 | goblin paste	14	2	2	0	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+4	340	false	The Lower Chambers	N/A	Pair of Stomping Boots	 | ancient bronze token	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	341	false	The Lower Chambers	N/A	Pair of Stomping Boots	 | ancient bomb	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	342	false	The Lower Chambers	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	343	false	The Lower Chambers	Ed the Undying	Pair of Stomping Boots		10	2	50	20	23	0				0	0	0	0	0	0		
+4	344	false	The Lower Chambers	Ed the Undying	Pair of Stomping Boots		12	2	41	27	23	0				0	0	0	0	0	0		
+4	345	false	The Lower Chambers	Ed the Undying	Pair of Stomping Boots		15	2	51	27	14	0				0	0	0	0	0	0		
+4	346	false	The Lower Chambers	Ed the Undying	Pair of Stomping Boots		10	2	48	23	16	0				0	0	0	0	0	0		
+4	347	false	The Lower Chambers	Ed the Undying	Pair of Stomping Boots	 | Gathered Meat-Clip	15	2	49	22	15	0				0	0	0	0	0	0		
+4	348	false	The Lower Chambers	Ed the Undying	Pair of Stomping Boots		14	2	43	23	20	0				0	0	0	0	0	0		
+4	349	false	The Lower Chambers	Ed the Undying	Pair of Stomping Boots	 | Holy MacGuffin | handful of confetti	13	2	30	29	31	0				0	0	0	0	0	0		
+4	350	TRUE	CONSUME: chew 1 goblin paste	N/A	Pair of Stomping Boots		0	-1	0	0	0	10	 | Gobliny Flavor (10)			0	0	0	0	0	0		
+4	350	true	The Battlefield (Frat Uniform)	sausage goblin	Pair of Stomping Boots	 | goblin paste	15	2	2	0	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+4	350	false	The Battlefield (Frat Uniform)	War Hippy Windtalker	Pair of Stomping Boots	 | green clay bead | communications windchimes | communications windchimes | communications windchimes	13	2	34	17	9	0				0	0	0	0	0	0		
+4	351	true	The Battlefield (Frat Uniform)	sausage goblin	Pair of Stomping Boots	 | CSA obedience grenade | magical sausage casing	185	3	41	18	24	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+4	351	false	The Battlefield (Frat Uniform)	War Hippy Sky Captain	Pair of Stomping Boots	 | pink clay bead | ferret bait | water pipe bomb | water pipe bomb	15	2	28	19	9	0				0	0	0	0	0	0		
+4	352	false	The Battlefield (Frat Uniform)	War Hippy Green Gourmet	Pair of Stomping Boots	 | pink clay bead | reinforced beaded headband | oversized pipe | water pipe bomb | Hippy Army MPE	13	2	20	18	17	0				0	0	0	0	0	0		
+4	353	true	The Battlefield (Frat Uniform)	Playing Fetch*	Pair of Stomping Boots	 | tennis ball	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	353	false	The Battlefield (Frat Uniform)	War Hippy Homeopath	Pair of Stomping Boots	 | hippy medical kit | holistic headache remedy	13	2	38	8	8	0				0	0	0	0	0	0		
+4	354	false	The Battlefield (Frat Uniform)	War Hippy Green Gourmet	Pair of Stomping Boots	 | pink clay bead | bullet-proof corduroys | oversized pipe | water pipe bomb | Hippy Army MPE	13	2	21	16	19	0				0	0	0	0	0	0		
+4	355	false	The Battlefield (Frat Uniform)	War Hippy Dread Squad	Pair of Stomping Boots	 | didgeridooka | bullet-proof corduroys | tube of dread wax	11	3	33	8	13	0				0	0	0	0	0	0		
+4	356	false	The Battlefield (Frat Uniform)	War Hippy Infantryman	Pair of Stomping Boots	 | round purple sunglasses	14	2	24	13	15	0				0	0	0	0	0	0		
+4	357	TRUE	CONSUME: chew 1 hippy paste	N/A	Pair of Stomping Boots		0	-1	0	0	0	5	 | Hippy Flavor (10)			0	0	0	0	0	0		
+4	357	false	The Battlefield (Frat Uniform)	War Hippy Elite Rigger	Pair of Stomping Boots	 | hippy paste	15	2	2	0	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+4	358	false	The Battlefield (Frat Uniform)	War Hippy Rigger	Pair of Stomping Boots	 | hippy protest button | Gathered Meat-Clip	13	2	27	12	16	0				0	0	0	0	0	0		
+4	359	false	The Battlefield (Frat Uniform)	War Hippy Homeopath	Pair of Stomping Boots	 | hippy medical kit | filthy poultice | holistic headache remedy	11	2	25	16	12	0				0	0	0	0	0	0		
+4	360	false	The Battlefield (Frat Uniform)	War Hippy Baker	Pair of Stomping Boots	 | reinforced beaded headband | round purple sunglasses | hippy protest button | oversized pipe | wicker shield | water pipe bomb	77	3	31	15	8	0			 | SING ALONG	0	0	0	0	0	0		
+4	361	false	The Battlefield (Frat Uniform)	Mobile Armored Sweat Lodge	Pair of Stomping Boots	 | didgeridooka | gas balloon	70	4	33	11	10	0			 | SING ALONG	0	0	0	0	0	0		
+4	362	false	The Battlefield (Frat Uniform)	War Hippy Elite Fire Spinner	Pair of Stomping Boots	 | fire poi | round purple sunglasses	77	3	36	13	9	0			 | SING ALONG	0	0	0	0	0	0		
+4	363	false	The Battlefield (Frat Uniform)	War Hippy Elite Fire Spinner	Pair of Stomping Boots	 | fire poi	67	3	27	20	10	0			 | SING ALONG	0	0	0	0	0	0		
+4	364	false	The Battlefield (Frat Uniform)	War Hippy Rigger	Pair of Stomping Boots	 | hippy paste	13	2	2	0	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+4	365	false	The Battlefield (Frat Uniform)	War Hippy Shaman	Pair of Stomping Boots	 | Gaia beads	91	3	37	4	21	0			 | SING ALONG	0	0	0	0	0	0		
+4	366	false	The Battlefield (Frat Uniform)	War Hippy Green Gourmet	Pair of Stomping Boots	 | pink clay bead | oversized pipe | water pipe bomb | Hippy Army MPE	81	3	29	14	15	0			 | SING ALONG	0	0	0	0	0	0		
+4	367	false	The Battlefield (Frat Uniform)	War Hippy Homeopath	Pair of Stomping Boots	 | CSA cheerfulness ration | hippy medical kit | filthy poultice | holistic headache remedy	67	3	27	12	14	0			 | SING ALONG	0	0	0	0	0	0		
+4	368	false	The Battlefield (Frat Uniform)	War Hippy Elite Rigger	Pair of Stomping Boots	 | pink clay bead | oversized pipe | water pipe bomb	56	3	30	13	16	0			 | SING ALONG	0	0	0	0	0	0		
+4	369	false	The Battlefield (Frat Uniform)	War Hippy Elder Shaman	Pair of Stomping Boots	 | Gaia beads | Lockenstock&trade; sandals | carbonated soy milk | funky dried mushroom | Gathered Meat-Clip	64	3	30	19	14	0			 | SING ALONG	0	0	0	0	0	0		
+4	370	false	The Battlefield (Frat Uniform)	War Hippy Elite Fire Spinner	Pair of Stomping Boots	 | fire poi	80	3	29	16	14	0			 | SING ALONG	0	0	0	0	0	0		
+4	371	false	The Battlefield (Frat Uniform)	War Hippy Homeopath	Pair of Stomping Boots	 | filthy poultice | holistic headache remedy	57	3	31	14	8	0			 | SING ALONG	0	0	0	0	0	0		
+4	372	false	The Battlefield (Frat Uniform)	War Hippy Elder Shaman	Pair of Stomping Boots	 | hippy paste	15	2	2	0	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+4	373	false	The Battlefield (Frat Uniform)	War Hippy Airborne Commander	Pair of Stomping Boots	 | purple clay bead | ferret bait | water pipe bomb | water pipe bomb	72	3	35	10	16	0			 | SING ALONG	0	0	0	0	0	0		
+4	374	false	The Battlefield (Frat Uniform)	War Hippy Elite Rigger	Pair of Stomping Boots	 | pink clay bead | bullet-proof corduroys | oversized pipe	75	3	33	13	13	0			 | SING ALONG	0	0	0	0	0	0		
+4	375	false	The Battlefield (Frat Uniform)	War Hippy Elder Shaman	Pair of Stomping Boots	 | Gaia beads | Lockenstock&trade; sandals | carbonated soy milk | funky dried mushroom	75	4	40	14	9	0			 | SING ALONG	0	0	0	0	0	0		
+4	376	false	The Defiled Cranny	huge ghuol	Pair of Stomping Boots	 | ghuol egg | ghuol ears	846	2	35	18	16	0				0	0	0	0	0	0		
+4	377	false	The Defiled Alcove	conjoined zmombie	Pair of Stomping Boots	 | loose teeth | cranberries | cranberries	781	2	24	19	21	0				0	0	0	0	0	0		
+4	378	true	The Defiled Nook	sausage goblin	Pair of Stomping Boots	 | magical sausage casing	289	3	64	25	32	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+4	378	true	The Defiled Nook	Skull, Skull, Skull	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	378	true	The Defiled Nook	Skull, Skull, Skull	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	378	false	The Defiled Nook	spiny skelelton	Pair of Stomping Boots	 | skeleton bone | smart skull | evil eye | skelelton spine | succulent marrow	11	2	17	7	6	0				0	0	0	0	0	0		
+4	379	false	The Defiled Nook	toothy sklelton	Pair of Stomping Boots	 | loose teeth | loose teeth | skeleton bone | bone flute | evil eye	13	2	13	10	7	0				0	0	0	0	0	0		
+4	380	true	The Defiled Nook	Skull, Skull, Skull	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	380	true	The Defiled Nook	Skull, Skull, Skull	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	380	false	The Defiled Nook	spiny skelelton	Pair of Stomping Boots	 | ectoplasmic paste | Gathered Meat-Clip	13	2	2	0	0	0			 | RELEASE THE BOOTS	0	0	0	0	0	0		
+4	381	true	The Defiled Nook	Skull, Skull, Skull	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	381	false	The Defiled Nook	spiny skelelton	Pair of Stomping Boots	 | skeleton bone | smart skull | evil eye | skelelton spine | succulent marrow	15	2	16	7	7	0				0	0	0	0	0	0		
+4	382	false	The Defiled Nook	spiny skelelton	Pair of Stomping Boots	 | skeleton bone | smart skull | evil eye | skelelton spine | succulent marrow	14	2	18	7	5	0				0	0	0	0	0	0		
+4	383	false	The Defiled Nook	spiny skelelton	Pair of Stomping Boots	 | skeleton bone | smart skull | evil eye | skelelton spine | succulent marrow	15	2	18	6	5	0				0	0	0	0	0	0		
+4	384	true	The Defiled Nook	Seeing-Eyes Dog	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	384	false	The Defiled Nook	giant skeelton	Pair of Stomping Boots	 | skeleton bone | skeleton bone | skeleton bone	12	2	32	15	27	0				0	0	0	0	0	0		
+4	385	false	Haert of the Cyrpt	The Bonerdagon	Pair of Stomping Boots	 | CSA discount card | skull of the Bonerdagon	13	2	0	0	0	0				0	0	0	0	0	0		
+4	386	false	Hippy Camp	The Big Wisniewski	Pair of Stomping Boots	 | solid gold bowling ball | Iron Beta of Industry	0	5	152	67	65	0	 | Bone Homie (5)	|crayon shavings|crayon shavings		0	0	0	0	0	0		
+4	387	false	Fastest Adventurer Contest	The Tasmanian Dervish	Pair of Stomping Boots	 | Pok&eacute;-Gro fertilizer	0	3	54	21	23	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+4	388	false	Smartest Adventurer Contest	The Mastermind	Pair of Stomping Boots	 | sinister-looking cat	0	3	40	15	29	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+4	389	false	Stinkiest Adventurer Contest	Odorous Humongous	Pair of Stomping Boots	 | filthy armor	0	3	36	28	32	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+4	390	true	The Hidden Temple	Such Great Heights	Exotic Parrot		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	390	true	Deck of Every Card	Ancestral Recall	Trick-or-Treating Tot	 | blue mana	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	390	true	Deck of Every Card	Island	Trick-or-Treating Tot	 | blue mana	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	390	false	The Hedge Maze	'Allo	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	391	false	The Hedge Maze	Pooling Your Resources	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	392	false	The Hedge Maze	Of Mouseholes and Manholes	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	393	false	The Hedge Maze	Of Mouseholes and Manholes	Exotic Parrot		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	394	false	The Hedge Maze	Mazel Tov!	Exotic Parrot		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	395	true	Tower Door	N/A	Exotic Parrot		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	395	true	Tower Door	N/A	Exotic Parrot		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	395	false	The Naughty Sorceress' Tower	wall of skin	Imitation Crab		0	5	0	0	0	0				0	0	0	0	0	0		
+4	396	false	The Naughty Sorceress' Tower	wall of skin	Imitation Crab		0	5	35	13	17	0				0	0	0	0	0	0		
+4	397	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	Imitation Crab		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	397	true	The Tunnel of L.O.V.E.	LOV Enforcer	Imitation Crab		0	3	63	22	22	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+4	397	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	Imitation Crab		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	397	true	The Tunnel of L.O.V.E.	LOV Engineer	Imitation Crab	 | LOV Eardigan	0	4	54	25	27	0			 | MICROMETEORITE	0	0	0	0	0	0		
+4	397	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	Imitation Crab		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	397	true	The Tunnel of L.O.V.E.	LOV Equivocator	Imitation Crab		0	3	53	27	26	0	 | Open Heart Surgery (50)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+4	397	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	Imitation Crab	 | LOV Extraterrestrial Chocolate	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	397	false	The Naughty Sorceress' Tower	wall of meat	Hobo Monkey	 | Gathered Meat-Clip	1736	6	48	18	12	0			 | MICROMETEORITE | SING ALONG | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+4	398	false	The Naughty Sorceress' Tower	wall of bones	Hobo Monkey		11	2	167	79	63	0		|electric boning knife		0	0	0	0	0	0		
+4	399	true	The Naughty Sorceress' Tower	The Mirror in the Tower has the View that is True	Hobo Monkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	399	false	The Naughty Sorceress' Tower	Shadow Whale Boxer	Hobo Monkey		11	3	130	54	59	0		|gauze garter|gauze garter|gauze garter|gauze garter		0	0	0	0	0	0		
+4	400	false	The Naughty Sorceress' Chamber	The Naughty Sorceress	Hobo Monkey		76	6	2	0	0	0			 | MICROMETEORITE	0	0	0	0	0	0		
+4	401	true	The Naughty Sorceress' Chamber	The Naughty Sorceress (2)	Hobo Monkey	 | almost-dead walkie-talkie	111	11	2	0	4	0			 | MICROMETEORITE | CURSE OF WEAKSAUCE | CURSE OF WEAKSAUCE	0	0	0	0	0	0		
+4	401	true	The Naughty Sorceress' Chamber	The Naughty Sorceress (3)	Hobo Monkey	 | Breathetastic&trade; Premium Canned Air (3) | plexiglass pikestaff	15	1	273	117	136	0				0	0	0	0	0	0		

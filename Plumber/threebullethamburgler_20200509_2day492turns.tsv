@@ -1,0 +1,754 @@
+day	turnSpent	free?	location	encounterName	familiar	items	meat	rounds	mus	mys	mox	advsGained	effectsGained	itemsUsed	skillsUsed	freeRun?	banish	freeKill	sniff	spit	copy	macroFrom	
+1	1	true	Boxing Daycare	Have a Boxing Daydream	none	 | punch-drunk punch	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | Hot-Headed (50)			0	0	0	0	0	0		
+1	1	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | A Brush with Grossness (50)			0	0	0	0	0	0		
+1	1	true	The Haunted Kitchen	sausage goblin	Exotic Parrot	 | coin (6) | magical sausage casing | coin (4) | green pixel	115	2	1	2	0	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Neverending Party	burnout	Cat Burglar	 | coin (7) | van key | jam band bootleg | coin (4) | white pixel	145	2	0	3	0	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	&quot;plain&quot; girl	Cat Burglar	 | coin (7) | electronics kit | PB&J with the crusts cut off	267	2	0	4	0	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	party girl	Cat Burglar	 | coin (7) | coin (9) | runproof mascara | very small red dress | coin (4) | white pixel	229	3	3	0	0	0			 | MULTI-BOUNCE | JUMP ATTACK	0	0	0	0	0	0		
+1	1	true	The Neverending Party	biker	Cat Burglar	 | coin (7) | gas can | Middle of the Road&trade; brand whiskey	284	4	1	3	0	0		|electronics kit	 | MULTI-BOUNCE | JUMP ATTACK	0	0	0	0	0	0		
+1	1	true	The Neverending Party	burnout	Cat Burglar	 | coin (8) | van key | denim jacket	147	2	1	0	1	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	jock	Cat Burglar	 | coin (7) | unremarkable duffel bag | Purple Beast energy drink | cosmetic football	462	2	0	2	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	biker	Cat Burglar	 | coin (8) | Middle of the Road&trade; brand whiskey | neverending wallet chain	235	3	1	2	2	0			 | MULTI-BOUNCE | JUMP ATTACK	0	0	0	0	0	0		
+1	1	true	The Neverending Party	Gone Kitchin'	Cat Burglar		0	-1	0	0	0	0	 | Spiced Up (20)			0	0	0	0	0	0		
+1	1	true	The Neverending Party	&quot;plain&quot; girl	Cat Burglar	 | coin (6) | electronics kit | PB&J with the crusts cut off	302	2	0	3	1	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	party girl	Cat Burglar	 | coin (8) | runproof mascara | very small red dress	292	2	3	0	1	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	1	true	Your Mushroom Garden	piranha plant	Cat Burglar	 | coin (6) | mushroom | piranha pollen | coin (4) | white pixel	11	2	2	2	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	1	TRUE	CONSUME: chew 1 vial of humanoid growth hormone	N/A	Cat Burglar		0	-1	0	0	0	0	 | HGH-charged (30)			0	0	0	0	0	0		
+1	1	true	Your Mushroom Garden	piranha plant	Cat Burglar	 | coin (6) | coin (10) | piranha pollen	15	2	0	2	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	1	TRUE	CONSUME: eat 1 diabolic pizza	BPTT: blood-faced volleyball, pie man was not meant to eat, Taco Dan's Taco Stand Taco, Taco Dan's Taco Stand Taco	Pocket Professor	 | Pocket Professor memory chip	0	-1	0	0	0	15	 | Bloody-minded (20)			0	0	0	0	0	0		
+1	1	TRUE	CONSUME: eat 1 diabolic pizza	AMMS: anticheese, Middle of the Road&trade; brand whiskey, Middle of the Road&trade; brand whiskey, slimy fermented bile bladder	Exotic Parrot		0	-1	0	0	0	12	 | Amorous Avarice (17)			0	0	0	0	0	0		
+1	1	true	Hippy Camp	dirty hippy	Cat Burglar	 | filthy corduroys | Feng Shui for Big Dumb Idiots | filthy knitted dread sack | reodorant | hippy bongo	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+1	1	false	The Haunted Kitchen	paper towelgeist	Exotic Parrot	 | coin (8)	13	2	4	0	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	2	false	The Haunted Kitchen	paper towelgeist	Exotic Parrot	 | coin (6) | Special Seasoning	13	2	2	2	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	3	false	The Haunted Kitchen	possessed silverware drawer	Exotic Parrot	 | coin (6) | coin (9) | corn holder | antique packet of ketchup | coin (3) | green pixel	12	2	0	3	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	4	false	The Haunted Kitchen	demonic icebox	Exotic Parrot	 | coin (7) | ancient frozen dinner	42	2	0	5	0	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	5	false	The Haunted Kitchen	skullery maid	Exotic Parrot	 | coin (8) | coin (10)	34	2	2	3	0	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	6	TRUE	CONSUME: eat 1 mushroom filet	N/A	Pocket Professor		0	-1	0	0	0	3				0	0	0	0	0	0		
+1	6	TRUE	CONSUME: eat 1 grue egg omelette	N/A	Exotic Parrot	 | super deluxe mushroom | super deluxe mushroom	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	6	TRUE	CONSUME: eat 1 grue egg omelette	N/A	Exotic Parrot		0	-1	0	0	0	30				0	0	0	0	0	0		
+1	6	false	The Haunted Kitchen	zombie chef	Pocket Professor	 | Spookyraven billiards room key | coin (7) | stale baguette | zombie hollandaise | coin (4) | red pixel	50	2	2	2	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	7	true	The Spooky Forest	bar	Exotic Parrot		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	7	true	The Spooky Forest	sausage goblin	Exotic Parrot	 | coin (6) | magical sausage casing	124	2	8	14	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	7	true	Boxing Daycare	Enter the Boxing Daycare	Exotic Parrot		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	7	true	The Haunted Billiards Room	sausage goblin	Pocket Professor	 | coin (6) | deluxe mushroom | magical sausage casing	158	2	6	7	9	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	7	false	The Haunted Billiards Room	That's Your Cue	Pocket Professor	 | pool cue	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	8	true	The Spooky Forest	terrible mutant	Pocket Professor	 | coin (8) | glob of undifferentiated tissue	33	2	6	10	9	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	8	false	The Haunted Billiards Room	chalkdust wraith	Pocket Professor	 | coin (7) | handful of hand chalk	12	23	0	2	4	0			 | MULTI-BOUNCE | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK	0	0	0	0	0	0		
+1	9	false	The Haunted Billiards Room	Welcome To Our ool Table	Pocket Professor	 | Spookyraven library key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	10	true	The Haunted Library	Take a Look, it's in a Book!	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	10	false	The Haunted Library	banshee librarian	Pocket Professor	 | coin (6) | disintegrating quill pen	11	2	4	5	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	11	true	The Haunted Library	bookbat	Pocket Professor		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	11	false	The Haunted Library	writing desk	Pocket Professor	 | coin (6) | disintegrating quill pen | coin (4) | red pixel	10	3	6	3	2	0			 | OFFER LATTE TO OPPONENT | MULTI-BOUNCE	0	0	0	1	0	0		
+1	12	false	The Haunted Library	writing desk	Pocket Professor	 | coin (8) | coin (8) | inkwell	10	2	2	5	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	13	false	The Haunted Library	writing desk	Pocket Professor	 | coin (7) | coin (9) | inkwell | snifter of thoroughly aged brandy | coin (5) | green pixel	15	2	2	6	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	14	false	The Haunted Library	banshee librarian	Pocket Professor	 | coin (8)	11	2	2	2	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	15	false	The Haunted Library	writing desk	Pocket Professor	 | coin (7) | snifter of thoroughly aged brandy | Special Seasoning	15	2	4	2	4	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	16	TRUE	CONSUME: eat 1 grue egg omelette	N/A	Exotic Parrot		0	-1	0	0	0	34				0	0	0	0	0	0		
+1	16	false	The Haunted Library	banshee librarian	Pocket Professor	 | coin (8) | coin (9)	12	2	6	2	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	17	true	The Haunted Library	Lights Out in the Library	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	17	false	The Haunted Library	writing desk	Pocket Professor	 | coin (8) | disintegrating quill pen | inkwell | snifter of thoroughly aged brandy | Lady Spookyraven's necklace	11	2	2	3	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	18	false	The Dark Heart of the Woods	Moon Over the Dark Heart	Pocket Professor	 | hot plate	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	19	false	The Dark Heart of the Woods	Fallen Archfiend	Pocket Professor	 | coin (7) | demon skin | pink slime	81	2	6	2	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	20	true	The Spooky Forest	sausage goblin	Pocket Professor	 | coin (7) | magical sausage casing	144	2	24	4	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	20	false	The Dark Heart of the Woods	P imp	Pocket Professor	 | coin (6) | coin (8) | hot wing | Imp Ale | ten-leaf clover	64	2	2	2	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	21	false	The Dark Heart of the Woods	P imp	Pocket Professor	 | coin (8) | diamond-studded cane	57	2	0	3	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	22	false	The Dark Heart of the Woods	G imp	Pocket Professor	 | coin (6) | hot wing | Imp Ale | leather mask	65	2	4	2	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	23	false	The Dark Heart of the Woods	Running the Lode	Pocket Professor		350	-1	0	0	0	0				0	0	0	0	0	0		
+1	24	false	The Dark Heart of the Woods	G imp	Pocket Professor	 | coin (6) | hot wing | stick of firewood	63	2	4	3	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	25	false	The Dark Heart of the Woods	I, Martin	Pocket Professor	 | martini	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	26	false	The Dark Heart of the Woods	G imp	Pocket Professor	 | coin (6) | coin (10) | Imp Ale | vitamin G pill	51	2	0	2	6	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	27	false	The Dark Heart of the Woods	Fallen Archfiend	Pocket Professor	 | coin (7) | stick of firewood	83	2	0	5	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	28	false	The Dark Heart of the Woods	G imp	Pocket Professor	 | coin (7) | hot wing | coin (5) | green pixel	57	2	4	2	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	29	false	The Dark Heart of the Woods	G imp	Pocket Professor	 | coin (8) | hot wing | Imp Ale | Special Seasoning	64	2	4	3	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	30	false	The Dark Heart of the Woods	Imp Be Nimble, Imp Be Quick	Pocket Professor	 | box of birthday candles	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	31	false	The Dark Neck of the Woods	W imp	Pocket Professor	 | coin (8) | ruby W | wussiness potion	56	2	0	3	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	32	false	The Dark Neck of the Woods	W imp	Pocket Professor	 | coin (8) | coin (9) | Imp Ale | ruby W | wussiness potion	61	2	0	2	6	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	33	false	The Dark Neck of the Woods	How Do We Do It? Quaint and Curious Volume!	Pocket Professor		250	-1	0	0	0	0				0	0	0	0	0	0		
+1	34	false	The Dark Neck of the Woods	W imp	Pocket Professor	 | coin (6) | Imp Ale | wussiness potion	56	2	0	2	6	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	35	false	The Dark Neck of the Woods	Strike One!	Pocket Professor	 | imp unity ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	36	false	The Dark Neck of the Woods	Hellion	Pocket Professor	 | coin (8) | coin (4) | white pixel | stick of firewood	11	2	5	2	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	37	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	37	false	The Dark Neck of the Woods	Olive My Love To You, Oh.	Pocket Professor	 | olive | olive	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	38	false	The Dark Neck of the Woods	Dodecahedrariffic!	Pocket Professor	 | dodecagram	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	39	false	The Dark Elbow of the Woods	G imp	Pocket Professor	 | coin (6) | coin (10) | hot wing	68	2	2	2	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	40	false	The Dark Elbow of the Woods	Deep Imp Act	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	41	false	The Dark Elbow of the Woods	L imp	Pocket Professor	 | coin (6) | Imp Ale | flaming crutch | stick of firewood	56	2	0	2	6	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	42	false	The Dark Elbow of the Woods	G imp	Pocket Professor	 | coin (8) | coin (4) | white pixel | stick of firewood	60	2	2	2	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	43	false	The Dark Elbow of the Woods	Demoninja	Pocket Professor	 | coin (7) | hot katana blade | li'l ninja costume | stick of firewood	97	2	3	2	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	44	false	The Dark Elbow of the Woods	Demoninja	Pocket Professor	 | coin (8) | hot katana blade | coin (4) | red pixel	93	2	0	5	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	45	TRUE	CONSUME: eat 1 astral hot dog	N/A	Pocket Professor		0	-1	0	0	0	19				0	0	0	0	0	0		
+1	45	TRUE	CONSUME: eat 1 astral hot dog	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	45	TRUE	CONSUME: eat 1 astral hot dog	N/A	Pocket Professor		0	-1	0	0	0	22				0	0	0	0	0	0		
+1	45	false	The Dark Elbow of the Woods	Imp Art, Some Wisdom	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	46	true	The Spooky Forest	sausage goblin	Pocket Professor	 | coin (6) | coin (9) | red-hot sausage fork | magical sausage casing	103	2	3	9	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	46	false	The Dark Elbow of the Woods	L imp	Pocket Professor	 | coin (8) | stick of firewood	54	2	3	2	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	47	false	The Dark Elbow of the Woods	A Secret, But Not the Secret You're Looking For	Pocket Professor	 | bottle of tequila | bottle of vodka | bottle of whiskey	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	48	false	The Dark Elbow of the Woods	L imp	Pocket Professor	 | coin (6) | Imp Ale | cast | Special Seasoning	57	2	0	3	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	49	false	The Dark Elbow of the Woods	G imp	Pocket Professor	 | coin (6) | mushroom | Imp Ale | leather mask | coin (5) | white pixel	61	2	2	3	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	50	false	The Dark Elbow of the Woods	Butter Knife?  I'll Take the Knife	Pocket Professor	 | eldritch butterknife	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	51	true	Friar Ceremony Location	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	51	false	The Spooky Forest	spooky vampire	Red-Nosed Snapper	 | coin (8)	20	2	0	0	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	52	false	The Spooky Forest	warwelf	Red-Nosed Snapper	 | coin (8)	29	2	2	0	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	53	false	The Spooky Forest	Consciousness of a Stream	Red-Nosed Snapper	 | tree-holed coin	300	-1	0	0	0	0				0	0	0	0	0	0		
+1	54	false	The Spooky Forest	O Lith, Mon	Red-Nosed Snapper	 | Spooky Temple map	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	false	The Spooky Forest	Tree's Last Stand	Red-Nosed Snapper	 | spooky sapling	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	56	true	The Spooky Forest	N/A	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	56	false	The Spooky Forest	Consciousness of a Stream	Red-Nosed Snapper	 | mosquito larva	500	-1	0	0	0	0				0	0	0	0	0	0		
+1	57	false	The Spooky Forest	warwelf	Red-Nosed Snapper	 | coin (7)	32	2	0	0	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	58	false	The Spooky Forest	Through Thicket and Thinnet	Red-Nosed Snapper	 | Spooky-Gro fertilizer	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	59	false	The Black Forest	Forty Shades of Black	Reassembled Blackbird	 | black map	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	60	false	The Black Forest	black adder	Reassembled Blackbird	 | coin (6) | coin (10)	169	2	3	7	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	61	false	The Black Forest	black panther	Reassembled Blackbird	 | coin (6) | Black No. 2 | broken wings	240	2	4	3	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	62	false	The Black Forest	black widow	Reassembled Blackbird	 | coin (7) | coin (9) | black pension check	91	2	8	4	0	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	63	true	The Haunted Bathroom	terrible mutant	Reassembled Blackbird	 | coin (6) | glob of undifferentiated tissue | coin (3) | red pixel	24	2	7	3	6	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	63	false	The Black Forest	You Found Your Thrill	Reassembled Blackbird		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	64	false	The Black Forest	Bee Persistent	Reassembled Blackbird		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	65	true	The Black Forest	Bee Rewarded	Reassembled Blackbird		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	65	false	The Black Forest	N/A	Reassembled Blackbird	 | beehive	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	66	true	Combing the Beach	N/A	Pocket Professor		0	-1	0	0	0	0	 | Do I Know You From Somewhere? (50)			0	0	0	0	0	0		
+1	66	true	The Outskirts of Cobb's Knob	sausage goblin	Pocket Professor	 | coin (8) | magical sausage casing	125	3	13	5	10	0			 | LECTURE ON RELATIVITY | MULTI-BOUNCE	0	0	0	0	0	1		
+1	66	true	The Outskirts of Cobb's Knob	sausage goblin	Pocket Professor	 | coin (6) | magical sausage casing	129	3	3	18	7	0			 | LECTURE ON RELATIVITY | MULTI-BOUNCE	0	0	0	0	0	1		
+1	66	true	The Outskirts of Cobb's Knob	sausage goblin	Pocket Professor	 | coin (8) | magical sausage casing	106	3	9	5	14	0			 | LECTURE ON RELATIVITY | MULTI-BOUNCE	0	0	0	0	0	1		
+1	66	true	The Outskirts of Cobb's Knob	sausage goblin	Pocket Professor	 | coin (7) | coin (9) | magical sausage casing	103	3	4	5	19	0			 | LECTURE ON RELATIVITY | MULTI-BOUNCE	0	0	0	0	0	1		
+1	66	true	The Outskirts of Cobb's Knob	sausage goblin	Pocket Professor	 | coin (7) | magical sausage casing	125	3	7	19	2	0			 | LECTURE ON RELATIVITY | MULTI-BOUNCE	0	0	0	0	0	1		
+1	66	true	The Outskirts of Cobb's Knob	sausage goblin	Pocket Professor	 | coin (7) | magical sausage casing	124	3	15	9	3	0			 | LECTURE ON RELATIVITY | MULTI-BOUNCE	0	0	0	0	0	1		
+1	66	true	The Outskirts of Cobb's Knob	sausage goblin	Pocket Professor	 | coin (7) | deluxe mushroom | magical sausage casing	124	3	7	7	15	0			 | LECTURE ON RELATIVITY | MULTI-BOUNCE	0	0	0	0	0	1		
+1	66	true	The Outskirts of Cobb's Knob	sausage goblin	Pocket Professor	 | coin (6) | magical sausage casing	122	3	3	17	10	0			 | LECTURE ON RELATIVITY | MULTI-BOUNCE	0	0	0	0	0	1		
+1	66	true	The Outskirts of Cobb's Knob	sausage goblin	Pocket Professor	 | coin (8) | magical sausage casing	133	3	13	8	9	0			 | LECTURE ON RELATIVITY | MULTI-BOUNCE	0	0	0	0	0	1		
+1	66	true	The Outskirts of Cobb's Knob	sausage goblin	Pocket Professor	 | coin (8) | coin (8) | magical sausage casing	116	2	5	8	17	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	66	false	The Outskirts of Cobb's Knob	Code Red	Pocket Professor	 | Knob Goblin encryption key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	67	false	Guano Junction	How I Wonder What You're At	Pocket Professor	 | sonar-in-a-biscuit | sonar-in-a-biscuit	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	68	false	The Beanbat Chamber	musical fruit bat	Cat Burglar	 | coin (6) | grapefruit | grapes | lemon	108	2	0	4	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	69	true	The Beanbat Chamber	beanbat	Cat Burglar	 | enchanted bean | sonar-in-a-biscuit	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+1	69	false	The Black Forest	black friar	Reassembled Blackbird	 | coin (6) | Mornington crescent roll | stick of firewood	13	2	7	2	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	70	TRUE	CONSUME: eat 1 fortune cookie	N/A	Reassembled Blackbird		0	-1	0	0	0	2				0	0	0	0	0	0		
+1	70	false	The Black Forest	black magic woman	Reassembled Blackbird	 | coin (7) | black eye shadow | stick of firewood	165	2	4	7	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	71	false	The Hidden Temple	Baa'baa'bu'ran	Reassembled Blackbird	 | coin (8) | deluxe mushroom | stone wool | stone wool | stone wool | Special Seasoning	10	4	2	2	9	0	 | Bat-Adjacent Form (1)		 | OTOSCOPE | BECOME A BAT | MULTI-BOUNCE	0	0	0	0	0	0		
+1	72	false	The Black Forest	blackberry bush	Reassembled Blackbird	 | coin (7) | blackberry | stick of firewood	14	2	5	2	6	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	73	false	The Black Forest	blackberry bush	Reassembled Blackbird	 | coin (8) | blackberry | blackberry | blackberry | stick of firewood	12	2	2	5	6	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	74	true	The Haunted Bathroom	terrible mutant	Reassembled Blackbird	 | coin (7) | glob of undifferentiated tissue	27	2	3	9	18	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	74	false	The Black Forest	black magic woman	Reassembled Blackbird	 | coin (6)	171	2	8	4	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	75	false	The Black Forest	blackberry bush	Reassembled Blackbird	 | coin (7) | blackberry | stick of firewood	11	2	3	5	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	76	false	The Black Forest	blackberry bush	Reassembled Blackbird	 | coin (8) | coin (8) | blackberry | blackberry	14	2	2	7	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	77	false	The Black Forest	black friar	Reassembled Blackbird	 | coin (8) | black label | Mornington crescent roll | stick of firewood	13	2	3	3	9	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	78	false	The Black Forest	black panther	Reassembled Blackbird	 | coin (8) | coin (8)	261	2	3	2	10	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	79	false	The Haunted Bedroom	One Ornate Nightstand	Cat Burglar	 | coin (7) | coin (10) | Lord Spookyraven's spectacles	13	3	4	2	3	0			 | OFFER LATTE TO OPPONENT | MULTI-BOUNCE	0	0	0	1	0	0		
+1	80	true	The Haunted Bedroom	animated rustic nightstand	Cat Burglar		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	80	true	The Haunted Bedroom	animated mahogany nightstand	Cat Burglar		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	80	false	The Haunted Bedroom	One Simple Nightstand	Cat Burglar	 | coin (7)	12	2	4	0	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	81	false	The Haunted Bedroom	One Ornate Nightstand	Cat Burglar	 | coin (8) | disposable instant camera	15	2	4	2	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	82	false	The Haunted Bedroom	One Ornate Nightstand	Cat Burglar	 | coin (7) | Special Seasoning	15	2	2	5	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	83	false	The Haunted Bedroom	One Ornate Nightstand	Cat Burglar	 | coin (7)	13	2	5	0	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	84	false	The Haunted Bedroom	One Elegant Nightstand	Cat Burglar	 | coin (8) | coin (10) | Lady Spookyraven's finest gown	10	2	2	3	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	85	false	The Shore, Inc. Travel Agency	N/A	Cat Burglar	 | your father's MacGuffin diary	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	88	false	The Hidden Temple	Such Great Heights	Cat Burglar	 | the Nostril of the Serpent	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	89	true	The Hidden Temple	The Hidden Heart of the Hidden Temple	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	89	false	The Hidden Temple	Now What?	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	90	false	The Hidden Temple	Beginning at the Beginning of Beginning	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	91	false	The Hidden Temple	No Visible Means of Support	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	92	false	The Hidden Park	Is There A Doctor In The House?	Red-Nosed Snapper	 | coin (8) | long pork	176	2	3	5	6	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	93	false	The Hidden Park	pygmy assault squad	Red-Nosed Snapper	 | coin (7) | pygmy pygment | bottle of alcohol	216	2	7	3	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	94	true	The Haunted Bathroom	sausage goblin	Red-Nosed Snapper	 | coin (6) | magical sausage casing	124	2	12	0	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	94	false	The Hidden Park	pygmy blowgunner	Red-Nosed Snapper	 | coin (7) | pygmy blowgun | pygmy nose-bone	147	2	7	2	7	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	95	false	The Hidden Park	Where Does The Lone Ranger Take His Garbagester?	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	96	false	The Hidden Park	pygmy janitor	Red-Nosed Snapper	 | coin (6) | book of matches | jungle floor wax	128	2	3	8	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	97	false	The Hidden Park	pygmy assault squad	Red-Nosed Snapper	 | coin (7) | coin (9) | pygmy pygment | bottle of alcohol	202	2	2	4	9	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	98	false	The Hidden Park	Dr. Henry "Dakota" Fanning, Ph.D., R.I.P.	Red-Nosed Snapper	 | antique machete | cool whip	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	99	false	Cobb's Knob Harem	Knob Goblin Harem Girl	Red-Nosed Snapper	 | coin (6) | disease	13	3	3	0	3	0	 | Bat-Adjacent Form (1)		 | BECOME A BAT | MULTI-BOUNCE	0	0	0	0	0	0		
+1	100	true	The Penultimate Fantasy Airship	The Beginning of the End of the Penultimate Fantasy	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	100	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Red-Nosed Snapper	 | coin (7) | metallic A | glowing red eye | photoprotoneutron torpedo | magilaser blastercannon | coin (4) | white pixel	13	2	4	2	6	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	101	false	The Penultimate Fantasy Airship	Random Lack of an Encounter	Red-Nosed Snapper	 | model airship	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	102	false	The Penultimate Fantasy Airship	Spunky Princess	Red-Nosed Snapper	 | coin (6) | tiny house | cocoa eggshell fragment | coin (3) | green pixel	167	2	4	2	0	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	103	false	The Penultimate Fantasy Airship	Protagonist	Red-Nosed Snapper	 | coin (6) | phonics down | ocarina of space | Special Seasoning	143	2	3	1	4	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	104	false	The Penultimate Fantasy Airship	Protagonist	Red-Nosed Snapper	 | coin (8) | coin (9) | super-spiky hair gel | phonics down	160	2	3	1	4	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	105	true	The Penultimate Fantasy Airship	sausage goblin	Red-Nosed Snapper	 | coin (6) | magical sausage casing	100	2	4	6	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	105	false	The Penultimate Fantasy Airship	Spunky Princess	Red-Nosed Snapper	 | coin (7) | titanium assault umbrella | tiny house | cocoa eggshell fragment	149	2	0	3	4	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	106	true	The Penultimate Fantasy Airship	Quiet Healer	Red-Nosed Snapper	 | amulet of extreme plot significance | scroll of drastic healing | soft green echo eyedrop antidote	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+1	106	false	The Penultimate Fantasy Airship	Gesundheitgeist!	Red-Nosed Snapper	 | Tissue Paper Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	107	false	The Penultimate Fantasy Airship	Quiet Healer	Red-Nosed Snapper	 | coin (8) | scroll of drastic healing | soft green echo eyedrop antidote | Tears of the Quiet Healer | human musk	161	2	0	2	6	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	108	false	The Defiled Niche	dirty old lihc	Cat Burglar	 | coin (8) | salacious crumbs | coin (4) | green pixel	12	2	1	2	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	109	true	The Defiled Niche	Urning Your Keep	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	109	true	The Defiled Niche	Urning Your Keep	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	109	true	The Defiled Niche	Urning Your Keep	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	109	true	The Defiled Niche	slick lihc	Cat Burglar		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	109	true	The Defiled Niche	Urning Your Keep	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	109	true	The Defiled Niche	Urning Your Keep	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	109	false	The Defiled Niche	a dirty old lihc!	Cat Burglar	 | coin (7) | coin (8) | salacious crumbs	14	3	0	1	5	0			 | CHEAT CODE: REPLACE ENEMY | MULTI-BOUNCE	0	0	0	0	0	0	 | senile lihc	
+1	110	true	The Defiled Niche	basic lihc	Cat Burglar		0	1	0	0	0	0		|human musk		1	1	0	0	0	0		
+1	110	true	The Defiled Niche	Urning Your Keep	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	110	false	The Defiled Niche	senile lihc	Cat Burglar	 | coin (7) | lihc eye	13	2	1	1	4	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	111	false	The Defiled Niche	a dirty old lihc!	Cat Burglar	 | coin (6) | coin (10) | salacious crumbs	14	3	0	1	5	0			 | CHEAT CODE: REPLACE ENEMY | MULTI-BOUNCE	0	0	0	0	0	0	 | senile lihc	
+1	112	false	The Defiled Niche	dirty old lihc	Cat Burglar	 | coin (7) | coin (8) | salacious crumbs	12	2	2	2	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	113	true	The Defiled Niche	sausage goblin	Cat Burglar	 | coin (8) | magical sausage casing	207	2	0	0	13	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	113	true	The Defiled Niche	Urning Your Keep	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	113	true	The Defiled Niche	Urning Your Keep	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	113	true	The Defiled Niche	Urning Your Keep	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	113	false	The Defiled Niche	dirty old lihc	Cat Burglar	 | coin (8) | salacious crumbs	13	2	4	0	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	114	true	The Defiled Niche	Urning Your Keep	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	114	false	The Defiled Niche	senile lihc	Cat Burglar	 | coin (6) | lihc eye	10	2	1	0	6	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	115	false	The Defiled Niche	senile lihc	Cat Burglar	 | coin (8) | coin (8) | lihc eye | lihc face | coin (5) | red pixel | Special Seasoning	10	2	4	1	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	116	true	The Defiled Niche	senile lihc	Cat Burglar		0	0	0	0	0	0			 | USE THE FORCE | SABER BANISH	0	1	0	0	0	0		
+1	116	false	The Defiled Niche	dirty old lihc	Cat Burglar	 | coin (6) | coin (9) | salacious crumbs	10	2	1	1	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	117	false	The Defiled Niche	dirty old lihc	Cat Burglar	 | coin (6) | salacious crumbs	12	2	3	2	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	118	true	The Defiled Niche	Urning Your Keep	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	118	true	The Defiled Niche	Urning Your Keep	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	118	false	The Defiled Niche	dirty old lihc	Cat Burglar	 | coin (8) | salacious crumbs	13	2	1	1	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	119	false	The Defiled Niche	Is There A Doctor In The House?	Cat Burglar	 | coin (6) | lihc eye | lihc eye | lihc face | coin (4) | blue pixel	13	2	8	2	4	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	120	true	An Overgrown Shrine (Northwest)	dense liana	Red-Nosed Snapper	 | coin (6) | fizzy soda | coin (4) | white pixel	13	1	0	0	0	0				0	0	0	0	0	0		
+1	120	true	An Overgrown Shrine (Northwest)	dense liana	Pocket Professor	 | coin (7)	11	1	0	0	0	0				0	0	0	0	0	0		
+1	120	true	An Overgrown Shrine (Northwest)	dense liana	Pocket Professor	 | coin (8) | coin (8) | coin (4) | blue pixel	10	1	0	0	0	0				0	0	0	0	0	0		
+1	120	false	An Overgrown Shrine (Northwest)	Earthbound and Down	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	121	true	An Overgrown Shrine (Southwest)	dense liana	Pocket Professor	 | coin (6)	12	1	0	0	0	0				0	0	0	0	0	0		
+1	121	true	An Overgrown Shrine (Southwest)	dense liana	Pocket Professor	 | coin (8) | coin (8)	13	1	0	0	0	0				0	0	0	0	0	0		
+1	121	true	An Overgrown Shrine (Southwest)	dense liana	Pocket Professor	 | coin (7)	13	1	0	0	0	0				0	0	0	0	0	0		
+1	121	true	An Overgrown Shrine (Southeast)	dense liana	Pocket Professor	 | coin (7)	10	1	0	0	0	0				0	0	0	0	0	0		
+1	121	true	An Overgrown Shrine (Southeast)	dense liana	Pocket Professor	 | coin (7)	14	1	0	0	0	0				0	0	0	0	0	0		
+1	121	true	An Overgrown Shrine (Southeast)	dense liana	Pocket Professor	 | coin (8) | coin (10)	15	1	0	0	0	0				0	0	0	0	0	0		
+1	121	true	An Overgrown Shrine (Northeast)	dense liana	Pocket Professor	 | coin (7)	14	1	0	0	0	0				0	0	0	0	0	0		
+1	121	true	An Overgrown Shrine (Northeast)	dense liana	Pocket Professor	 | coin (6)	10	1	0	0	0	0				0	0	0	0	0	0		
+1	121	true	An Overgrown Shrine (Northeast)	dense liana	Pocket Professor	 | coin (8)	12	1	0	0	0	0				0	0	0	0	0	0		
+1	121	true	A Massive Ziggurat	dense liana	Pocket Professor	 | coin (7)	15	1	0	0	0	0				0	0	0	0	0	0		
+1	121	true	A Massive Ziggurat	dense liana	Pocket Professor	 | coin (7) | coin (8)	15	1	0	0	0	0				0	0	0	0	0	0		
+1	121	true	A Massive Ziggurat	dense liana	Pocket Professor	 | coin (7)	14	1	0	0	0	0				0	0	0	0	0	0		
+1	121	false	The Hidden Apartment Building	pygmy shaman	Red-Nosed Snapper	 | coin (7) | smirking shrunken head	176	3	2	3	5	0	 | Once-Cursed (10)		 | OFFER LATTE TO OPPONENT | MULTI-BOUNCE	0	0	0	1	0	0		
+1	122	false	The Hidden Apartment Building	pygmy witch accountant	Red-Nosed Snapper	 | coin (6) | adder | pygmy adder oil | McClusky file (page 1)	175	2	3	1	6	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	123	false	The Hidden Apartment Building	pygmy witch accountant	Red-Nosed Snapper	 | coin (8) | adder | coin (3) | green pixel | McClusky file (page 2)	205	2	3	3	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	124	true	The Hidden Apartment Building	pygmy witch lawyer	Red-Nosed Snapper		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	124	false	The Hidden Apartment Building	pygmy shaman	Red-Nosed Snapper	 | coin (8) | smirking shrunken head | crude voodoo doll | voodoo glowskull	171	2	3	4	3	0	 | Twice-Cursed (10)		 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	125	false	The Hidden Apartment Building	Is There A Doctor In The House?	Red-Nosed Snapper	 | coin (6) | coin (9) | short deposition	242	3	5	1	4	0			 | CHEAT CODE: REPLACE ENEMY | MULTI-BOUNCE	0	0	0	0	0	0	 | pygmy witch accountant	
+1	126	false	The Hidden Apartment Building	pygmy shaman	Red-Nosed Snapper	 | coin (7) | colorful toad	193	2	3	2	5	0	 | Thrice-Cursed (10)		 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	127	false	The Hidden Apartment Building	pygmy shaman	Red-Nosed Snapper	 | coin (8) | voodoo glowskull | Special Seasoning	157	2	7	0	3	0	 | Thrice-Cursed (10)		 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	128	false	The Hidden Apartment Building	ancient protector spirit	Red-Nosed Snapper	 | moss-covered stone sphere | coin (7)	12	2	7	0	4	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+1	129	false	An Overgrown Shrine (Northeast)	Air Apparent	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	130	false	The Hidden Office Building	pygmy witch accountant	Gelatinous Cubeling	 | coin (8) | coin (10) | adder | McClusky file (page 3)	208	2	4	3	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	131	false	The Hidden Office Building	pygmy witch accountant	Gelatinous Cubeling	 | coin (8) | coin (10) | adder | McClusky file (page 4)	183	2	1	8	0	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	132	false	The Hidden Office Building	pygmy headhunter	Gelatinous Cubeling	 | coin (6) | briefcase | pygmy papers | coin (5) | green pixel | soda water	235	2	3	1	6	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	133	false	The Hidden Office Building	pygmy witch accountant	Gelatinous Cubeling	 | coin (6) | coin (9) | McClusky file (page 5)	208	2	0	2	9	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	134	false	The Hidden Office Building	pygmy witch accountant	Gelatinous Cubeling	 | coin (6) | bone abacus | adder | pygmy adder oil	205	2	4	3	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	135	false	The Hidden Office Building	Working Holiday	Gelatinous Cubeling	 | boring binder clip	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	136	false	The Hidden Office Building	pygmy headhunter	Gelatinous Cubeling	 | coin (7) | coin (8) | briefcase | eleven-foot pole	218	2	4	1	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	137	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	137	true	Boxing Daycare	Visit the Boxing Day Spa	Gelatinous Cubeling		0	-1	0	0	0	0	 | Muddled (100)			0	0	0	0	0	0		
+1	137	false	The Hidden Office Building	ancient protector spirit	Gelatinous Cubeling	 | crackling stone sphere | coin (7) | coin (4) | blue pixel	11	2	2	4	6	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+1	138	true	Combing the Beach	N/A	Gelatinous Cubeling		0	-1	0	0	0	0	 | Lack of Body-Building (50)			0	0	0	0	0	0		
+1	138	false	The Penultimate Fantasy Airship	Protagonist	Gelatinous Cubeling	 | coin (8) | phonics down	134	2	3	4	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	139	false	The Penultimate Fantasy Airship	Protagonist	Gelatinous Cubeling	 | coin (7) | coin (10) | phonics down | ring of Detect Boring Doors | bonfire flower	125	2	2	2	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	140	false	The Penultimate Fantasy Airship	Burly Sidekick	Gelatinous Cubeling	 | coin (8) | cocoa eggshell fragment | tiny house | Special Seasoning	196	2	1	2	6	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+1	141	true	The Penultimate Fantasy Airship	sausage goblin	Gelatinous Cubeling	 | coin (6) | magical sausage casing	103	2	7	21	8	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	141	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | coin (8) | coin (8) | magical sausage casing	91	4	10	6	22	0			 | FIREBALL BARRAGE | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+1	141	false	The Defiled Nook	toothy sklelton	Pocket Professor	 | coin (7) | loose teeth | loose teeth | skeleton bone | evil eye	14	2	1	3	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	142	true	The Defiled Nook	Skull, Skull, Skull	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	142	true	The Defiled Nook	Skull, Skull, Skull	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	142	true	The Defiled Nook	Skull, Skull, Skull	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	142	true	The Defiled Nook	Skull, Skull, Skull	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	142	false	The Defiled Nook	spiny skelelton	Pocket Professor	 | coin (6) | skeleton bone | smart skull | evil eye | skelelton spine | succulent marrow	15	2	1	3	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	143	true	The Defiled Nook	Skull, Skull, Skull	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	143	false	The Defiled Nook	toothy sklelton	Pocket Professor	 | coin (6) | loose teeth | loose teeth | skeleton bone | evil eye | coin (5) | white pixel	11	2	4	0	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	144	false	The Defiled Nook	party skelteon	Pocket Professor	 | coin (7) | skeleton bone | whiskey sour | loose teeth	15	2	3	2	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	145	false	The Defiled Nook	spiny skelelton	Pocket Professor	 | coin (7) | coin (10) | skeleton bone | smart skull | skelelton spine | succulent marrow	12	2	3	1	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	146	false	The Defiled Nook	toothy sklelton	Pocket Professor	 | coin (8) | loose teeth | skeleton bone | bone flute	10	2	2	2	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	147	false	The Defiled Nook	toothy sklelton	Pocket Professor	 | coin (6) | loose teeth | loose teeth | skeleton bone | evil eye	13	2	2	3	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	148	true	The Defiled Nook	Skull, Skull, Skull	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	148	true	The Defiled Nook	Skull, Skull, Skull	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	148	false	The Defiled Nook	party skelteon	Pocket Professor	 | coin (8) | coin (10) | skeleton bone | screwdriver | coin (5) | green pixel	15	2	1	0	6	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	149	false	The Defiled Nook	toothy sklelton	Pocket Professor	 | coin (8) | loose teeth | loose teeth | skeleton bone | evil eye	14	2	2	3	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	150	false	The Defiled Nook	party skelteon	Pocket Professor	 | coin (6) | skeleton bone | margarita | loose teeth | coin (4) | green pixel	10	2	1	1	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	151	TRUE	CONSUME: chew 1 Nightmare Fuel	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	151	false	The Defiled Nook	giant skeelton	Pocket Professor	 | coin (8) | skeleton bone | skeleton bone | skeleton bone | Nightmare Fuel	12	2	3	7	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	152	false	The Defiled Alcove	grave rober zmobie	Pocket Professor	 | coin (8) | loose teeth | rusty grave robbing shovel | coin (3) | blue pixel	55	2	2	1	4	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	153	false	The Boss Bat's Lair	beefy bodyguard bat	Pocket Professor	 | coin (6) | super deluxe mushroom	225	2	3	0	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	154	false	The Penultimate Fantasy Airship	Don't Chew on That Spirit!	Pocket Professor	 | Tin Foil Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	155	false	The Penultimate Fantasy Airship	The Most Absorbent Spirit Ever	Pocket Professor	 | Gauze Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	156	true	The Penultimate Fantasy Airship	Burly Sidekick	Pocket Professor	 | Mohawk wig | cocoa eggshell fragment | tiny house | armgun	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+1	156	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pocket Professor	 | coin (8) | metallic A | glowing red eye | photoprotoneutron torpedo	12	2	7	2	0	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	157	false	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	Pocket Professor	 | coin (6) | soft green echo eyedrop antidote | coin (4) | white pixel	152	2	1	5	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	158	false	The Penultimate Fantasy Airship	Protagonist	Pocket Professor	 | coin (7) | coin (10) | super-spiky hair gel | phonics down	107	2	4	3	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	159	false	The Penultimate Fantasy Airship	Protagonist	Pocket Professor	 | coin (6) | super-spiky hair gel | phonics down	107	2	1	1	7	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	160	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pocket Professor	 | coin (6) | coin (10) | metallic A | photoprotoneutron torpedo | oversized pizza cutter | magilaser blastercannon	15	2	2	3	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	161	false	The Penultimate Fantasy Airship	Rip Rop Wrappety Do	Pocket Professor	 | Plastic Wrap Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	162	TRUE	CONSUME: eat 15 magical sausage	N/A	Garbage Fire		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	162	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | coin (6)	14	2	1	0	0	0			 | DELIVER YOUR THESIS	0	0	0	0	0	0		
+1	162	true	Your Mushroom Garden	piranha plant	Garbage Fire	 | coin (7) | coin (8) | piranha pollen	12	3	4	8	14	0			 | MULTI-BOUNCE | JUMP ATTACK	0	0	0	0	0	0		
+1	162	true	Your Mushroom Garden	piranha plant	Garbage Fire	 | coin (6) | coin (8) | piranha pollen	13	3	9	12	4	0			 | MULTI-BOUNCE | JUMP ATTACK	0	0	0	0	0	0		
+1	162	true	Your Mushroom Garden	piranha plant	Garbage Fire	 | coin (6) | coin (9) | piranha pollen	13	3	6	13	6	0			 | MULTI-BOUNCE | JUMP ATTACK	0	0	0	0	0	0		
+1	162	TRUE	CONSUME: eat 5 magical sausage	N/A	Garbage Fire		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	162	true	Your Mushroom Garden	The Mushy Center	Garbage Fire		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	162	false	An Overgrown Shrine (Southeast)	Fire When Ready	Garbage Fire		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	163	true	The Hidden Bowling Alley	pygmy orderlies	Garbage Fire		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	163	false	The Hidden Bowling Alley	pygmy bowler	Garbage Fire	 | coin (6) | bowling ball | imitation White Russian	147	2	3	1	8	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	164	true	The Hidden Bowling Alley	drunk pygmy	Garbage Fire	 | coin (7) | coin (8) | burning newspaper	11	1	1	0	0	0				0	0	0	0	0	0		
+1	164	true	The Hidden Bowling Alley	drunk pygmy	Gelatinous Cubeling	 | coin (6) | Pick-O-Matic lockpicks	13	1	1	0	0	0				0	0	0	0	0	0		
+1	164	true	The Daily Dungeon	I Wanna Be a Door	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	164	false	The Daily Dungeon	pencil golem	Cat Burglar	 | coin (8) | pencil stub | coin (4) | red pixel	15	2	1	2	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	165	true	The Daily Dungeon	I Wanna Be a Door	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	165	true	The Daily Dungeon	It's Almost Certainly a Trap	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	165	true	The Daily Dungeon	The First Chest Isn't the Deepest.	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	165	true	The Daily Dungeon	It's Almost Certainly a Trap	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	165	true	The Daily Dungeon	I Wanna Be a Door	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	165	true	The Daily Dungeon	Second Chest	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	165	false	The Daily Dungeon	sabre-toothed lime	Cat Burglar	 | coin (8) | twist of lime	42	2	1	3	0	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	166	true	The Daily Dungeon	It's Almost Certainly a Trap	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	166	false	The Daily Dungeon	The Final Reward	Cat Burglar	 | fat loot token	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	167	true	The Hidden Bowling Alley	drunk pygmy	Cat Burglar	 | coin (7) | coin (5) | white pixel	14	1	1	0	0	0				0	0	0	0	0	0		
+1	167	false	The Hidden Bowling Alley	pygmy bowler	Cat Burglar	 | coin (8) | healthy juice | bowling ball | imitation White Russian | Nightmare Fuel	329	2	5	2	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	168	true	The Hidden Bowling Alley	drunk pygmy	Cat Burglar	 | coin (7)	12	1	0	1	0	0				0	0	0	0	0	0		
+1	168	true	The Hidden Bowling Alley	drunk pygmy	Cat Burglar	 | coin (6)	11	1	0	0	2	0				0	0	0	0	0	0		
+1	168	true	The Hidden Bowling Alley	drunk pygmy	Cat Burglar	 | coin (7)	12	1	0	1	0	0				0	0	0	0	0	0		
+1	168	true	The Hidden Bowling Alley	drunk pygmy	Cat Burglar	 | coin (8)	12	1	0	1	0	0				0	0	0	0	0	0		
+1	168	false	The Hidden Bowling Alley	pygmy bowler	Cat Burglar	 | coin (8) | coin (10) | bowling ball	291	2	2	6	4	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	169	true	The Hidden Bowling Alley	drunk pygmy	Cat Burglar	 | coin (7)	13	1	1	0	0	0				0	0	0	0	0	0		
+1	169	false	The Hidden Bowling Alley	pygmy bowler	Cat Burglar	 | coin (7) | bowling ball	337	2	3	0	8	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	170	true	The Hidden Bowling Alley	drunk pygmy	Cat Burglar	 | coin (8)	15	1	0	0	2	0				0	0	0	0	0	0		
+1	170	false	The Hidden Bowling Alley	pygmy bowler	Cat Burglar	 | coin (7) | bowling ball | imitation White Russian	304	2	2	6	4	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	171	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	172	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	173	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	174	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	175	false	The Hidden Bowling Alley	ancient protector spirit	Cat Burglar	 | scorched stone sphere | coin (8) | healthy juice	14	2	7	2	3	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+1	176	false	An Overgrown Shrine (Southwest)	Water You Dune	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	177	true	An Overgrown Shrine (Northeast)	Air Apparent	Cat Burglar	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	177	true	An Overgrown Shrine (Northwest)	Earthbound and Down	Cat Burglar	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	177	true	An Overgrown Shrine (Southeast)	Fire When Ready	Cat Burglar	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	177	true	Dr. Gordon Stuart's Science Tent	Eldritch Tentacle	Cat Burglar	 | coin (7) | eldritch effluvium | eldritch effluvium | coin (4) | white pixel	13	9	8	13	3	0		|jam band bootleg	 | MULTI-BOUNCE | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+1	177	false	The Boss Bat's Lair	beefy bodyguard bat	Cat Burglar	 | coin (6) | coin (9)	552	2	1	1	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	178	false	The Boss Bat's Lair	beefy bodyguard bat	Cat Burglar	 | coin (6)	546	2	1	0	4	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	179	false	The Boss Bat's Lair	beefy bodyguard bat	Cat Burglar	 | coin (6)	667	2	0	0	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	180	false	The Boss Bat's Lair	beefy bodyguard bat	Cat Burglar	 | coin (7)	586	2	1	3	0	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	181	false	The Boss Bat's Lair	beefy bodyguard bat	Cat Burglar	 | coin (8) | beefy pill	612	2	0	3	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	182	TRUE	CONSUME: eat 1 fortune cookie	N/A	Cat Burglar		0	-1	0	0	0	2				0	0	0	0	0	0		
+1	182	false	The Boss Bat's Lair	Koopa Paratroopa	Cat Burglar	 | coin (20) | super deluxe mushroom	10	2	4	1	0	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	183	false	The Penultimate Fantasy Airship	Protagonist	Cat Burglar	 | coin (7) | super-spiky hair gel | phonics down | coin (5) | blue pixel | Nightmare Fuel	252	2	4	2	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	184	false	The Penultimate Fantasy Airship	Spunky Princess	Cat Burglar	 | coin (7) | tiny house | cocoa eggshell fragment | coin (4) | white pixel	221	2	3	3	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	185	false	The Penultimate Fantasy Airship	F-F-Fantastic!	Cat Burglar	 | S.O.C.K.	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	186	false	The Castle in the Clouds in the Sky (Basement)	Fitness Giant	Cat Burglar	 | coin (7) | pec oil	274	3	2	6	3	0			 | FIREBALL TOSS | FIREBALL BARRAGE	0	0	0	0	0	0		
+1	187	false	The Castle in the Clouds in the Sky (Basement)	You Don't Mess Around with Gym	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	188	false	The Castle in the Clouds in the Sky (Ground Floor)	Possibility Giant	Cat Burglar	 | coin (7) | coin (8) | probability potion | chaos butterfly	404	2	5	1	4	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+1	189	false	The Castle in the Clouds in the Sky (Ground Floor)	Procrastination Giant	Cat Burglar	 | coin (8)	445	2	3	3	4	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+1	190	false	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	Cat Burglar	 | coin (7) | Ye Olde Meade | Ye Olde Bawdy Limerick | blooper ink	234	2	0	0	10	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+1	191	false	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	Cat Burglar	 | coin (7) | chipotle wasabi cilantro aioli	244	3	2	4	4	0			 | FIREBALL TOSS | FIREBALL BARRAGE	0	0	0	0	0	0		
+1	192	false	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	Cat Burglar	 | coin (6) | chipotle wasabi cilantro aioli	236	2	1	4	5	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+1	193	false	The Castle in the Clouds in the Sky (Ground Floor)	Putting Off Is Off-Putting	Cat Burglar	 | very overdue library book	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	194	false	The Castle in the Clouds in the Sky (Ground Floor)	Possibility Giant	Cat Burglar	 | coin (6)	343	2	3	0	7	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+1	195	false	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	Cat Burglar	 | coin (8) | Ye Olde Bawdy Limerick | Ye Olde Medieval Insult	258	2	4	4	2	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+1	196	false	The Castle in the Clouds in the Sky (Ground Floor)	Procrastination Giant	Cat Burglar	 | coin (6) | coin (9) | procrastination potion	386	2	3	2	5	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+1	197	false	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	Cat Burglar	 | coin (7) | giant turkey leg | Ye Olde Meade | Ye Olde Bawdy Limerick | Ye Olde Medieval Insult | Nightmare Fuel	274	2	2	2	6	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+1	198	false	The Castle in the Clouds in the Sky (Ground Floor)	Top of the Castle, Ma	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	199	true	The Shore, Inc. Travel Agency	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	199	true	The Shore, Inc. Travel Agency	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	199	false	The Arid, Extra-Dry Desert	cactuary	Cat Burglar	 | coin (6) | handful of sand	253	2	3	4	4	0	 | Ultrahydrated (10)		 | FIREBALL BARRAGE	0	0	0	0	0	0		
+1	200	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Cat Burglar	 | coin (8) | handful of sand | coin (3) | green pixel	387	2	2	4	5	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+1	201	false	The Arid, Extra-Dry Desert	plaque of locusts	Cat Burglar	 | coin (7) | bronzed locust	94	2	3	1	7	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	202	false	The Arid, Extra-Dry Desert	swarm of fire ants	Cat Burglar	 | coin (7) | coin (8) | handful of sand	151	2	4	4	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	203	false	The Arid, Extra-Dry Desert	rock scorpion	Cat Burglar	 | coin (7) | handful of sand	502	2	4	2	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+1	204	true	The Arid, Extra-Dry Desert	A Sietch in Time	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	204	true	The Arid, Extra-Dry Desert	Is There A Doctor In The House?	Cat Burglar	 | coin (7) | handful of sand | coin (5) | white pixel	294	2	9	0	2	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	204	true	The Arid, Extra-Dry Desert	giant giant giant centipede	Cat Burglar	 | coin (7) | coin (8) | centipede eggs | handful of sand	431	2	3	1	7	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	204	true	The Arid, Extra-Dry Desert	giant giant giant centipede	Cat Burglar	 | coin (6) | centipede eggs | handful of sand | worm-riding manual page	391	2	3	5	3	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	204	true	The Oasis	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	204	true	Boxing Daycare	Have a Boxing Daydream	Cat Burglar	 | punch-drunk punch	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	204	true	The Haunted Bathroom	sausage goblin	Cat Burglar	 | coin (8) | magical sausage casing | coin (4) | white pixel	166	5	7	7	9	0			 | MULTI-BOUNCE | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK	0	0	0	0	0	0		
+2	204	true	The Arid, Extra-Dry Desert	cactuary	Cat Burglar	 | coin (6) | coin (9) | cactus fruit | bit-o-cactus	231	2	0	2	9	0			 | CHEST X-RAY	0	0	1	0	0	0		
+2	204	true	The Arid, Extra-Dry Desert	swarm of fire ants	Cat Burglar	 | coin (6) | worm-riding manual page (2)	126	2	1	8	3	0			 | CHEST X-RAY	0	0	1	0	0	0		
+2	204	true	The Arid, Extra-Dry Desert	rock scorpion	Cat Burglar	 | coin (6) | handful of sand | coin (3) | green pixel	439	2	5	4	3	0			 | CHEST X-RAY	0	0	1	0	0	0		
+2	204	false	The Arid, Extra-Dry Desert	plaque of locusts	Cat Burglar	 | coin (7) | bronzed locust | worm-riding manual page (2)	58	2	4	2	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	205	false	The Arid, Extra-Dry Desert	swarm of fire ants	Cat Burglar	 | coin (7) | ant agonist | handful of sand | ten-leaf clover | coin (4) | green pixel | worm-riding manual page (3) | Special Seasoning	105	2	2	6	4	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	206	false	The Arid, Extra-Dry Desert	rock scorpion	Cat Burglar	 | coin (6) | handful of sand	486	2	2	1	8	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	207	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Cat Burglar	 | coin (8) | coin (8) | centipede eggs | handful of sand	368	2	3	1	8	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	208	false	The Arid, Extra-Dry Desert	cactuary	Cat Burglar	 | coin (6) | handful of sand | worm-riding manual page (3)	220	2	4	1	6	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	209	true	The Neverending Party	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	209	true	The Neverending Party	Is There A Doctor In The House?	Pocket Professor	 | coin (6) | unremarkable duffel bag | Purple Beast energy drink | cosmetic football	188	2	5	8	15	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	209	true	The Neverending Party	burnout	Pocket Professor	 | coin (7) | coin (10) | van key | jam band bootleg | ratty knitted cap	66	2	7	14	6	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	209	true	The Neverending Party	burnout	Pocket Professor	 | coin (8) | van key | jam band bootleg | denim jacket | ratty knitted cap | coin (4) | green pixel	63	2	15	5	7	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	209	true	The Neverending Party	jock	Pocket Professor	 | coin (6) | unremarkable duffel bag | Purple Beast energy drink | shoe ad T-shirt	184	2	13	5	10	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	209	true	The Neverending Party	&quot;plain&quot; girl	Pocket Professor	 | coin (8) | electronics kit | PB&J with the crusts cut off | dorky glasses | coin (5) | red pixel	132	2	5	13	9	0	 | Sauce Monocle (5)		 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	209	TRUE	CONSUME: eat 1 astral hot dog	N/A	Pocket Professor		0	-1	0	0	0	24				0	0	0	0	0	0		
+2	209	true	The Neverending Party	Gone Kitchin'	Pocket Professor		0	-1	0	0	0	0	 | Spiced Up (20)			0	0	0	0	0	0		
+2	209	false	Frat House	War Pledge	Pocket Professor	 | coin (8) | beer helmet | bejeweled pledge pin | distressed denim pants	0	2	15	3	0	0	 | Everything Looks Yellow (50)		 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	210	false	Hippy Camp	War Hippy (space) cadet	Pocket Professor	 | coin (6) | coin (9) | coin (3) | green pixel	14	3	3	10	3	0			 | MULTI-BOUNCE | JUMP ATTACK	0	0	0	0	0	0		
+2	211	true	The Haunted Bathroom	sausage goblin	Pocket Professor	 | coin (6) | magical sausage casing | coin (3) | red pixel	85	12	9	14	10	0		|electronics kit	 | MULTI-BOUNCE | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK	0	0	0	0	0	0		
+2	211	true	Your Mushroom Garden	piranha plant	Pocket Professor	 | coin (6) | coin (8) | piranha pollen | pristine piranha seed	15	3	9	15	7	0			 | FIREBALL BARRAGE | FIREBALL TOSS	0	0	0	0	0	0		
+2	211	true	Your Mushroom Garden	piranha plant	Pocket Professor	 | coin (7) | coin (10) | piranha pollen	11	3	8	7	18	0			 | FIREBALL BARRAGE | FIREBALL TOSS	0	0	0	0	0	0		
+2	211	true	Your Mushroom Garden	piranha plant	Pocket Professor	 | coin (6) | coin (9) | piranha pollen	15	3	14	4	15	0			 | FIREBALL BARRAGE | FIREBALL TOSS	0	0	0	0	0	0		
+2	211	true	Your Mushroom Garden	piranha plant	Pocket Professor	 | coin (8) | coin (8) | piranha pollen	15	3	5	10	17	0			 | FIREBALL BARRAGE | FIREBALL TOSS	0	0	0	0	0	0		
+2	211	true	Your Mushroom Garden	piranha plant	Pocket Professor	 | coin (6) | fizzy soda | piranha pollen	13	3	14	15	3	0			 | FIREBALL BARRAGE | FIREBALL TOSS	0	0	0	0	0	0		
+2	211	false	Hippy Camp	War Hippy (space) cadet	Pocket Professor	 | coin (6) | coin (8) | stick of firewood	12	2	6	9	2	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	212	false	Wartime Hippy Camp (Frat Disguise)	War Hippy (space) cadet	Pocket Professor	 | coin (7) | reinforced beaded headband | bullet-proof corduroys | stick of firewood	11	2	3	2	13	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	213	false	Wartime Hippy Camp (Frat Disguise)	Blockin' Out the Scenery	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	214	true	The Hidden Hospital	pygmy orderlies	Pocket Professor		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	214	false	The Hidden Hospital	pygmy witch surgeon	Pocket Professor	 | coin (6) | bloodied surgical dungarees	212	3	5	3	7	0			 | OFFER LATTE TO OPPONENT | FIREBALL BARRAGE	0	0	0	1	0	0		
+2	215	false	The Hidden Hospital	ancient protector spirit	Pocket Professor	 | dripping stone sphere | coin (6) | coin (5) | green pixel	15	2	2	4	11	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	216	false	The Haunted Gallery	empty suit of armor	Pocket Professor	 | coin (6) | antique helmet	11	3	3	8	3	0		|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	217	true	The Haunted Gallery	angry ghost	Pocket Professor	 | coin (7) | ghostly ectoplasm	11	2	9	7	21	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	217	false	The Haunted Gallery	cubist bull	Pocket Professor	 | coin (6) | coin (4) | green pixel | Special Seasoning	94	3	8	4	3	0		|rock band flyers	 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	218	true	The Haunted Gallery	Out in the Garden	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	218	false	The Haunted Gallery	guy with a pitchfork, and his wife	Pocket Professor	 | coin (6) | coin (9)	63	3	6	5	3	0		|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	219	false	The Haunted Gallery	empty suit of armor	Pocket Professor	 | coin (7)	13	3	6	7	2	0		|rock band flyers	 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	220	false	The Haunted Gallery	cubist bull	Pocket Professor	 | coin (7)	98	3	2	3	9	0		|rock band flyers	 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	221	false	The Haunted Gallery	Louvre It or Leave It (The Persistence of Memory)	Pocket Professor	 | Lady Spookyraven's dancing shoes	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	222	false	The Copperhead Club	Shen Copperhead, Nightclub Owner	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	223	true	The Copperhead Club	sausage goblin	Pocket Professor	 | coin (8) | coin (10) | magical sausage casing	73	5	16	9	11	0		|rock band flyers	 | FIREBALL BARRAGE | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	223	false	The Haunted Bathroom	cosmetics wraith	Pocket Professor	 | coin (8) | coin (9) | Lady Spookyraven's powder puff | old eyebrow pencil | old rosewater cream | old bronzer	14	3	5	3	7	0		|rock band flyers	 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	224	true	Cobb's Knob Harem	a Knob Goblin Harem Girl!	Pocket Professor	 | Knob Goblin harem pants | Knob Goblin harem veil | disease | finger cymbals	0	0	0	0	0	0			 | CHEAT CODE: REPLACE ENEMY | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0	 | Knob Goblin Madam	
+2	224	false	The Smut Orc Logging Camp	smut orc pipelayer	Pocket Professor	 | coin (8) | morningwood plank | stick of firewood	56	3	8	0	3	0		|rock band flyers	 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	225	true	Combing the Beach	N/A	Pocket Professor		0	-1	0	0	0	0	 | We're All Made of Starfish (50)			0	0	0	0	0	0		
+2	225	false	The Smut Orc Logging Camp	smut orc jacker	Pocket Professor	 | coin (8) | raging hardwood plank | long hard screw | orcish hand lotion	46	3	3	2	6	0		|rock band flyers	 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	226	false	The Smut Orc Logging Camp	smut orc screwer	Pocket Professor	 | coin (6) | messy butt joint	56	3	5	5	0	0		|rock band flyers	 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	227	false	The Smut Orc Logging Camp	smut orc pipelayer	Pocket Professor	 | coin (6) | weirdwood plank | freshwater pearl necklace	57	3	0	3	7	0		|rock band flyers	 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	228	true	The Copperhead Club	angry ghost	Pocket Professor	 | coin (8) | coin (9) | ghostly ectoplasm	0	3	9	4	21	0	 | Carol of the Bones (5)	|rock band flyers	 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	228	false	Mist-Shrouded Peak	panicking Knott Yeti	Pocket Professor	 | coin (6) | yeti fur | coin (5) | white pixel	304	16	5	4	5	0		|rock band flyers|chipotle wasabi cilantro aioli|crude voodoo doll|disease	 | FIREBALL BARRAGE | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	229	true	The Daily Dungeon	I Wanna Be a Door	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	229	false	The Daily Dungeon	dodecapede	Cat Burglar	 | coin (8) | clutch of dodecapede eggs	31	2	0	5	0	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	230	true	The Daily Dungeon	I Wanna Be a Door	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	230	true	The Daily Dungeon	It's Almost Certainly a Trap	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	230	true	The Daily Dungeon	The First Chest Isn't the Deepest.	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	230	true	The Daily Dungeon	It's Almost Certainly a Trap	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	230	true	The Daily Dungeon	I Wanna Be a Door	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	230	true	The Daily Dungeon	Second Chest	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	230	false	The Daily Dungeon	pencil golem	Cat Burglar	 | coin (7) | pencil stub | Gathered Meat-Clip	0	2	0	4	2	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	231	true	The Daily Dungeon	It's Almost Certainly a Trap	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	231	TRUE	CONSUME: eat 1 grue egg omelette	N/A	Cat Burglar		0	-1	0	0	0	30				0	0	0	0	0	0		
+2	231	TRUE	CONSUME: eat 1 grue egg omelette	N/A	Cat Burglar		0	-1	0	0	0	30				0	0	0	0	0	0		
+2	231	false	The Daily Dungeon	The Final Reward	Cat Burglar	 | fat loot token	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	232	true	Cobb's Knob Harem	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	232	false	Cobb's Knob Harem	Plucked	Cat Burglar		0	-1	0	0	0	0	 | Knob Goblin Perfume (1)			0	0	0	0	0	0		
+2	233	false	Throne Room	Hammer Brother	Cat Burglar	 | coin (30) | coin (10) | Cobb's Knob lab key	0	3	4	2	3	0		|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	234	true	An Overgrown Shrine (Southwest)	Water You Dune	Cat Burglar	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	234	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	234	false	A Massive Ziggurat	Kamek	Cat Burglar	 | coin (50) | ancient amulet	0	5	4	7	5	0		|rock band flyers	 | FIREBALL BARRAGE | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	235	false	The Castle in the Clouds in the Sky (Top Floor)	Keep On Turnin' the Wheel in the Sky	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	236	true	Combing the Beach	N/A	Pocket Professor		0	-1	0	0	0	0	 | Do I Know You From Somewhere? (50)			0	0	0	0	0	0		
+2	236	true	The Copperhead Club	sausage goblin	Pocket Professor	 | coin (8) | magical sausage casing	92	7	8	8	17	0		|rock band flyers	 | LECTURE ON RELATIVITY | MULTI-BOUNCE | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK	0	0	0	0	0	1		
+2	236	true	The Copperhead Club	sausage goblin	Pocket Professor	 | coin (6) | magical sausage casing	104	4	13	9	10	0		|rock band flyers	 | LECTURE ON RELATIVITY | MULTI-BOUNCE	0	0	0	0	0	1		
+2	236	true	The Copperhead Club	sausage goblin	Pocket Professor	 | coin (7) | coin (10) | magical sausage casing	104	6	19	9	3	0		|rock band flyers	 | LECTURE ON RELATIVITY | MULTI-BOUNCE | JUMP ATTACK | JUMP ATTACK	0	0	0	0	0	1		
+2	236	true	The Copperhead Club	sausage goblin	Pocket Professor	 | coin (8) | magical sausage casing	104	4	7	9	17	0		|rock band flyers	 | LECTURE ON RELATIVITY | MULTI-BOUNCE	0	0	0	0	0	1		
+2	236	true	The Copperhead Club	sausage goblin	Pocket Professor	 | coin (8) | magical sausage casing	102	5	19	5	7	0		|rock band flyers	 | LECTURE ON RELATIVITY | MULTI-BOUNCE | JUMP ATTACK	0	0	0	0	0	1		
+2	236	true	The Copperhead Club	sausage goblin	Pocket Professor	 | coin (7) | red-hot sausage fork | magical sausage casing	81	5	0	17	15	0		|rock band flyers|super deluxe mushroom	 | LECTURE ON RELATIVITY | MULTI-BOUNCE	0	0	0	0	0	1		
+2	236	true	The Copperhead Club	sausage goblin	Pocket Professor	 | coin (7) | magical sausage casing	88	6	8	9	15	0		|rock band flyers	 | LECTURE ON RELATIVITY | MULTI-BOUNCE | JUMP ATTACK | JUMP ATTACK	0	0	0	0	0	1		
+2	236	true	The Copperhead Club	sausage goblin	Pocket Professor	 | coin (8) | coin (10) | magical sausage casing	105	5	23	5	3	0		|rock band flyers	 | LECTURE ON RELATIVITY | MULTI-BOUNCE | JUMP ATTACK	0	0	0	0	0	1		
+2	236	true	The Copperhead Club	sausage goblin	Pocket Professor	 | coin (7) | magical sausage casing	98	5	8	5	19	0		|rock band flyers	 | LECTURE ON RELATIVITY | MULTI-BOUNCE | JUMP ATTACK	0	0	0	0	0	1		
+2	236	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	236	true	The Copperhead Club	sausage goblin	Pocket Professor	 | coin (6) | magical sausage casing	88	8	5	22	5	0		|rock band flyers	 | MULTI-BOUNCE | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK	0	0	0	0	0	0		
+2	236	false	The Castle in the Clouds in the Sky (Top Floor)	Copper Feel	Pocket Professor	 | steam-powered model rocketship	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	237	false	The Hole in the Sky	The Box	Cat Burglar	 | coin (8) | line | line	0	3	8	0	5	0		|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	238	false	The Hole in the Sky	The Bush	Red-Nosed Snapper	 | coin (8) | star | star | star	0	3	2	10	0	0		|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	239	false	The Hole in the Sky	The Honey Pot	Red-Nosed Snapper	 | coin (7) | line | star | star	0	3	7	4	2	0		|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	240	false	The Hole in the Sky	The Axe Wound	Red-Nosed Snapper	 | coin (7) | star | line	0	3	8	2	3	0		|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	241	false	The Hole in the Sky	The Astronomer	Red-Nosed Snapper	 | coin (6) | deluxe mushroom | star chart	0	3	4	4	6	0		|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	242	false	The Smut Orc Logging Camp	Blech House	Red-Nosed Snapper	 | raging hardwood plank | thick caulk | messy butt joint	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	243	false	The Smut Orc Logging Camp	The Frattlesnake	Red-Nosed Snapper	 | coin (6) | The Lacrosse Stick of Lacoronado | stick of firewood	0	3	3	3	7	0		|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	244	false	The Copperhead Club	Shen Copperhead, Jerk	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	245	false	The Smut Orc Logging Camp	smut orc pipelayer	Red-Nosed Snapper	 | coin (6) | weirdwood plank | long hard screw | stick of firewood	60	2	3	2	3	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	246	false	The Smut Orc Logging Camp	smut orc nailer	Red-Nosed Snapper	 | coin (7) | thick caulk | orcish nailing lube | coin (3) | white pixel	46	2	2	3	3	0	 | 'Roids of the Rhinoceros (5)		 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	247	false	The Castle in the Clouds in the Sky (Top Floor)	All The Rave	Red-Nosed Snapper	 | Mick's IcyVapoHotness Inhaler	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	248	false	The Smut Orc Logging Camp	smut orc screwer	Red-Nosed Snapper	 | coin (6) | coin (9) | long hard screw | Gathered Meat-Clip	59	2	0	5	2	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	249	true	Boxing Daycare	Visit the Boxing Day Spa	Red-Nosed Snapper		0	-1	0	0	0	0	 | Muddled (100)			0	0	0	0	0	0		
+2	249	true	The Smut Orc Logging Camp	N/A	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	249	false	The Smut Orc Logging Camp	Blech House	Red-Nosed Snapper	 | morningwood plank | long hard screw	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	250	true	The Unquiet Garves	N/A	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	250	TRUE	CONSUME: eat 1 diabolic pizza	DIRT: disease, imitation White Russian, rusty grave robbing shovel, Tears of the Quiet Healer	Red-Nosed Snapper	 | short writ of habeas corpus | cocktail napkin | glark cable	0	-1	0	0	0	9	 | Dirty Pear (14)			0	0	0	0	0	0		
+2	250	true	The Unquiet Garves	angry ghost	Red-Nosed Snapper	 | coin (7) | ghostly ectoplasm	0	3	30	17	13	0		|rock band flyers	 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	250	true	Combing the Beach	N/A	Red-Nosed Snapper		0	-1	0	0	0	0	 | Oiled, Slick (50)			0	0	0	0	0	0		
+2	250	false	A Mob of Zeppelin Protesters	Bench Warrant	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	251	false	A Mob of Zeppelin Protesters	Bench Warrant	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	252	false	A Mob of Zeppelin Protesters	Bench Warrant	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	253	false	A Mob of Zeppelin Protesters	Bench Warrant	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	254	true	The Unquiet Garves	sausage goblin	Red-Nosed Snapper	 | coin (6) | magical sausage casing	100	3	17	10	26	0		|rock band flyers	 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	254	true	A Mob of Zeppelin Protesters	Too Much Humanity	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	254	true	Boxing Daycare	Enter the Boxing Daycare	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	254	true	A Mob of Zeppelin Protesters	Not So Much With The Humanity	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	254	true	The Red Zeppelin	Zeppelintro	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	254	true	The Red Zeppelin	Red Herring	Cat Burglar		0	2	0	0	0	0		|rock band flyers	 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	254	false	The Red Zeppelin	red skeleton	Cat Burglar		0	2	0	0	0	0		|rock band flyers		0	0	0	0	0	0		
+2	255	true	The Red Zeppelin	red butler	Cat Burglar	 | coin (8) | glark cable	218	4	4	0	13	0		|rock band flyers|glark cable	 | OFFER LATTE TO OPPONENT	0	0	1	1	0	0		
+2	255	true	The Red Zeppelin	red skeleton	Cat Burglar		0	2	0	0	0	0		|rock band flyers	 | REFLEX HAMMER	1	1	0	0	0	0		
+2	255	true	The Red Zeppelin	a red butler!	Cat Burglar	 | coin (6) | red box | glark cable	239	5	2	4	9	0	 | Mutated (5)	|rock band flyers|rock band flyers|glark cable	 | CHEAT CODE: REPLACE ENEMY	0	0	1	0	0	0	 | Red Snapper	
+2	255	true	The Red Zeppelin	the man with the red buttons	Cat Burglar	 | coin (7) | coin (10) | red box | red button (5) | button rouge	543	3	4	5	6	0		|rock band flyers|glark cable		0	0	1	0	0	0		
+2	255	false	The Red Zeppelin	red butler	Cat Burglar	 | coin (8) | glark cable | coin (4) | white pixel	231	3	7	5	3	0		|rock band flyers	 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	256	true	The Red Zeppelin	red butler	Cat Burglar	 | coin (6) | red box | glark cable	245	3	0	4	10	0		|rock band flyers|glark cable		0	0	1	0	0	0		
+2	256	true	The Red Zeppelin	red butler	Cat Burglar	 | coin (8) | red box | coin (3) | blue pixel	272	3	7	4	3	0		|rock band flyers|glark cable		0	0	1	0	0	0		
+2	256	false	The Red Zeppelin	Ron &quot;The Weasel&quot; Copperhead	Cat Burglar	 | coin (7) | deluxe mushroom | Copperhead Charm (rampant)	1014	3	7	2	7	0	 | Well-Oiled (5)	|rock band flyers	 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	257	false	The Unquiet Garves	ghuol	Cat Burglar	 | coin (8) | ghuol egg | ghuol ears	103	3	0	2	5	0		|rock band flyers	 | FIREBALL TOSS	0	0	0	0	0	0		
+2	258	false	The Unquiet Garves	the Snakeleton	Cat Burglar	 | coin (7) | healthy juice | The Shield of Brook	0	3	3	7	6	0		|rock band flyers	 | FIREBALL TOSS	0	0	0	0	0	0		
+2	259	false	The Copperhead Club	Shen Copperhead, Huge Jerk	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	260	false	The Hole in the Sky	Is There A Doctor In The House?	Cat Burglar	 | coin (6) | star | star | line	0	3	8	5	2	0	 | Everything Looks Yellow (50)	|rock band flyers	 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	261	true	Sonofa Beach	a lobsterfrogman!	Cat Burglar		0	0	0	0	0	0		|rock band flyers|rock band flyers	 | CHEAT CODE: REPLACE ENEMY | USE THE FORCE | SABER FRIENDS	0	0	0	0	0	0	 | angry ghost	
+2	261	false	Sonofa Beach	lobsterfrogman	Cat Burglar	 | coin (8) | barrel of gunpowder	215	3	10	3	3	0		|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	262	false	Sonofa Beach	lobsterfrogman	Cat Burglar	 | coin (6) | barrel of gunpowder | coin (4) | green pixel	199	3	3	2	13	0	 | Slightly Mutated (5)	|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	263	true	Sonofa Beach	lobsterfrogman	Cat Burglar		0	0	0	0	0	0		|rock band flyers	 | USE THE FORCE | SABER FRIENDS	0	0	0	0	0	0		
+2	263	false	Sonofa Beach	lobsterfrogman	Cat Burglar	 | coin (7) | barrel of gunpowder	196	3	10	3	2	0		|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	264	false	Sonofa Beach	Every Seashell Has a Story to Tell	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	265	false	Sonofa Beach	lobsterfrogman	Cat Burglar	 | coin (7) | barrel of gunpowder | coin (3) | blue pixel	212	3	9	3	3	0		|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	266	false	Sonofa Beach	lobsterfrogman	Cat Burglar	 | coin (8) | coin (10) | barrel of gunpowder	186	3	9	2	5	0		|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	267	true	The Hole in the Sky	sausage goblin	Cat Burglar	 | coin (7) | magical sausage casing	208	3	14	20	17	0		|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	267	false	The Hole in the Sky	The Honey Pot	Cat Burglar	 | coin (6) | fizzy soda | line | star | star | Gathered Meat-Clip	0	3	3	7	6	0	 | Aquarius Rising (5)	|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	268	false	The Hole in the Sky	The Snake With Like Ten Heads	Cat Burglar	 | coin (8) | The Eye of the Stars	0	3	2	10	3	0		|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	269	false	The Hole in the Sky	The Beaver	Cat Burglar	 | coin (7) | mushroom | star | line	0	3	7	4	5	0		|rock band flyers	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	270	false	The Copperhead Club	Shen Copperhead, World's Biggest Jerk	Red-Nosed Snapper	 | Copperhead Charm	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	271	false	Inside the Palindome	Drab Bard	Red-Nosed Snapper	 | coin (8) | olive | glass of warm milk | coin (3) | green pixel	119	2	4	2	7	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	272	false	Inside the Palindome	Bob Racecar	Red-Nosed Snapper	 | photograph of a dog | coin (8) | leather chaps | stunt nuts | ketchup hound | a butt tuba	190	3	4	7	2	0		|disposable instant camera	 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	273	false	Inside the Palindome	Tan Gnat	Red-Nosed Snapper	 | coin (8) | suntan lotion of moxiousness | gnatwing | filet of tangy gnat (&quot;fotelif&quot;) | glass of gnat milk	37	2	9	0	3	0	 | Cuts Like a Lightly-Buttered Knife (5)		 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	274	false	Inside the Palindome	Racecar Bob	Red-Nosed Snapper	 | coin (7) | enormous belt buckle | ketchup hound	236	2	5	4	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	275	false	Inside the Palindome	Do Geese See God?	Red-Nosed Snapper	 | photograph of God	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	276	true	Inside the Palindome	Flock of Stab-bats	Red-Nosed Snapper		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	276	false	Inside the Palindome	Rod Nevada, Vendor	Red-Nosed Snapper	 | photograph of a red nugget	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	277	false	Inside the Palindome	Bob Racecar	Red-Nosed Snapper	 | coin (6) | super deluxe mushroom | leather chaps | ketchup hound | human musk	225	2	2	7	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	278	false	Inside the Palindome	Last Egg Gets Al	Red-Nosed Snapper	 | photograph of an ostrich egg	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	279	true	Inside the Palindome	Drab Bard	Red-Nosed Snapper	 | coin (7) | olive | drab sonata | glass of warm milk | &quot;I Love Me, Vol. I&quot;	147	2	9	3	0	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	279	false	Dr. Awkward's Office	N/A	Red-Nosed Snapper	 | &quot;2 Love Me, Vol. 2&quot;	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	280	true	Cook 1 wet stew + 1 stunt nuts	N/A	Red-Nosed Snapper	 | wet stunt nut stew	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	280	false	Dr. Awkward's Office	Birdo	Red-Nosed Snapper	 | coin (50) | Staff of Fats	15	8	9	3	3	0		|electronics kit	 | FIREBALL BARRAGE | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	281	false	The Haunted Ballroom	Having a Ball in the Ballroom	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	282	false	The Haunted Ballroom	floating platter of hors d'oeuvres	Cat Burglar	 | coin (7) | dehydrated caviar | desiccated apricot | flute of flat champagne	13	2	0	3	6	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	283	true	The Haunted Ballroom	Curtains	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	283	true	The Haunted Ballroom	sausage goblin	Cat Burglar	 | coin (8) | fizzy soda | magical sausage casing	202	2	20	4	6	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	283	false	The Haunted Ballroom	zombie waltzers	Cat Burglar	 | coin (8) | dance card | Gathered Meat-Clip	140	2	2	5	2	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	284	false	The Haunted Ballroom	zombie waltzers	Cat Burglar	 | coin (6)	167	2	2	5	2	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	285	false	The Haunted Ballroom	We'll All Be Flat	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	286	false	The Haunted Wine Cellar	a possessed wine rack!	Cat Burglar	 | coin (8) | dusty bottle of glassy Marsala	12	4	3	3	7	0			 | CHEAT CODE: REPLACE ENEMY | OTOSCOPE | FIREBALL TOSS	0	0	0	0	0	0	 | skeletal sommelier	
+2	287	false	The Haunted Wine Cellar	possessed wine rack	Cat Burglar	 | coin (7) | dusty bottle of bad Muscat	15	2	3	3	9	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	288	false	The Haunted Wine Cellar	a mad wino!	Cat Burglar	 | coin (6) | crazy hobo notebook | page of the Necrohobocon	161	4	7	3	3	0			 | CHEAT CODE: REPLACE ENEMY | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0	 | skeletal sommelier	
+2	289	false	The Haunted Wine Cellar	possessed wine rack	Cat Burglar	 | coin (7) | coin (8) | dusty bottle of spooky Pinot Noir | actual tapas | bottle of Chateau de Vinegar	14	2	0	13	0	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	290	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza!	Cat Burglar	 | coin (6) | coin (9) | fabric hardener	132	4	2	8	3	0			 | CHEAT CODE: REPLACE ENEMY | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0	 | possessed laundry press	
+2	291	true	The Haunted Laundry Room	possessed laundry press	Cat Burglar		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	291	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	Cat Burglar	 | coin (6) | bloodstain stick	158	3	5	2	7	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	292	false	The Haunted Laundry Room	plaid ghost	Cat Burglar	 | coin (7)	15	3	5	4	3	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	293	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	Cat Burglar	 | coin (8) | bottle of laundry sherry	158	3	2	10	2	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	294	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	Cat Burglar	 | coin (7) | bloodstain stick | fabric softener | bottle of laundry sherry	166	3	4	3	6	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	295	false	The Haunted Laundry Room	Is There A Doctor In The House?	Cat Burglar	 | coin (6) | super deluxe mushroom | fabric hardener | blasting soda | Gathered Meat-Clip	155	3	8	0	6	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	296	false	Cook 1 bottle of Chateau de Vinegar + 1 blasting soda	N/A	Cat Burglar	 | unstable fulminate	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	297	false	The Tavern Cellar	Crate Expectations	Cat Burglar	 | bottle of rum | bottle of whiskey | bottle of gin	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	298	false	The Tavern Cellar	1984 Had Nothing on This Cellar	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	299	false	The Tavern Cellar	bunch of drunken rats	Cat Burglar	 | coin (8) | rat whisker | rat whisker | rat appendix | rat appendix	54	3	5	2	6	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	300	false	The Tavern Cellar	drunken rat king	Cat Burglar	 | coin (6) | rat whisker | rat whisker | rat whisker | rat appendix | tangle of rat tails	105	2	3	3	9	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	301	false	The Tavern Cellar	Staring Down the Barrel	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	302	false	The Tavern Cellar	Those Who Came Before You	Cat Burglar	 | Ben-Gal&trade; Balm | shiny ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	303	false	The Tavern Cellar	Of Course!	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	304	false	The Haunted Boiler Room	monstrous boiler	Cat Burglar	 | wine bomb | coin (6) | coin (5) | white pixel	0	15	8	10	0	0		|chipotle wasabi cilantro aioli|tequila grenade|crazy hobo notebook|super deluxe mushroom|super deluxe mushroom|molotov cocktail cocktail|crude voodoo doll|clutch of dodecapede eggs|adder|adder	 | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	305	false	The Defiled Cranny	gaunt ghuol	Cat Burglar	 | coin (6) | ghuol egg	63	2	2	4	9	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	306	false	The Defiled Cranny	gluttonous ghuol	Cat Burglar	 | coin (8) | ghuol ears | ghuol egg | huge spoon	181	2	2	10	3	0	 | Alchemical, Brother (5)		 | FIREBALL TOSS	0	0	0	0	0	0		
+2	307	false	The Defiled Cranny	gaunt ghuol	Cat Burglar	 | coin (8)	63	2	2	4	10	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	308	false	The Defiled Cranny	giant swarm of ghuol whelps	Cat Burglar	 | coin (8)	0	2	4	4	6	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	309	false	The Defiled Cranny	gluttonous ghuol	Cat Burglar	 | coin (7) | coin (9)	187	2	5	4	3	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	310	false	The Defiled Cranny	gluttonous ghuol	Cat Burglar	 | coin (7)	144	2	5	1	6	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	311	false	The Defiled Cranny	gaunt ghuol	Cat Burglar	 | coin (8) | fizzy soda | ghuol egg	57	2	4	6	2	0	 | Strong Grip (5)		 | FIREBALL TOSS	0	0	0	0	0	0		
+2	312	false	The Defiled Cranny	gluttonous ghuol	Cat Burglar	 | coin (6) | ghuol egg | ghuol guolash | Gathered Meat-Clip	199	2	6	4	2	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	313	false	The Defiled Cranny	gaunt ghuol	Cat Burglar	 | coin (8) | ghuol egg | dieting pill	66	2	6	2	3	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	314	false	The Defiled Cranny	gluttonous ghuol	Cat Burglar	 | coin (7) | fizzy soda | coin (3) | white pixel	178	2	2	6	4	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	315	false	The Defiled Cranny	giant swarm of ghuol whelps	Cat Burglar	 | coin (6)	0	3	7	2	2	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	316	false	Mist-Shrouded Peak	panicking Knott Yeti	Cat Burglar	 | coin (7) | yeti fur | coin (5) | green pixel	499	2	8	3	3	0	 | Just Like Me, They Want to Be (5)		 | FIREBALL TOSS	0	0	0	0	0	0		
+2	317	false	Mist-Shrouded Peak	panicking Knott Yeti	Cat Burglar	 | coin (7) | yeti fur	523	2	5	3	6	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	318	false	Mist-Shrouded Peak	Angry Sun	Cat Burglar		0	1	0	0	0	0				0	0	0	0	0	0		
+2	319	false	The Oasis	Some Things Never Change	Cat Burglar		0	-1	0	0	0	0	 | Ultrahydrated (20)			0	0	0	0	0	0		
+2	320	false	The Oasis	rolling stone	Cat Burglar	 | coin (8) | mother's little helper | brown sugar cane	0	4	2	3	11	0			 | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	321	false	The Oasis	blur	Cat Burglar	 | coin (6) | drum machine | hot date	247	5	11	0	5	0			 | OTOSCOPE | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	322	false	The Oasis	swarm of scarab beatles	Cat Burglar		0	1	0	0	0	0				0	0	0	0	0	0		
+2	323	false	The Oasis	oasis monster	Cat Burglar	 | coin (6) | displaced fish	282	3	3	7	2	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	324	false	The Oasis	rolling stone	Cat Burglar	 | coin (8) | coin (10) | Hugo's Weaving Manual | palm frond | handful of moss | brown sugar cane	0	3	2	5	5	0	 | Hare-o-dynamic (5)		 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	325	false	The Oasis	rolling stone	Cat Burglar	 | coin (7) | super deluxe mushroom | hot date | palm frond | handful of moss | brown sugar cane	0	3	4	4	4	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	326	false	The Oasis	All Across the Sands	Cat Burglar	 | stone rose	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	327	false	The Oasis	oasis monster	Cat Burglar	 | coin (8) | Supernova Champagne | palm frond | coin (4) | white pixel | Gathered Meat-Clip	291	3	3	3	6	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	328	false	The Arid, Extra-Dry Desert	swarm of fire ants	Cat Burglar		0	5	0	0	0	0		|adder	 | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | RETURN	0	0	0	0	0	0		
+2	329	false	The Arid, Extra-Dry Desert	rock scorpion	Cat Burglar	 | coin (7) | handful of sand | handful of sand | worm-riding manual page (3)	593	3	0	10	0	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	330	false	The Arid, Extra-Dry Desert	rock scorpion	Cat Burglar	 | coin (6) | coin (10) | scorpion whip | handful of sand	552	3	3	6	2	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	331	false	The Arid, Extra-Dry Desert	Is There A Doctor In The House?	Cat Burglar	 | coin (7) | handful of sand | coin (4) | red pixel	60	3	1	0	10	0	 | Limber as Mortimer (5)		 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	332	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Cat Burglar	 | coin (7) | centipede eggs | handful of sand | worm-riding manual page	458	3	5	3	3	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	333	false	Mist-Shrouded Peak	Angry Sun	Cat Burglar	 | coin (40)	0	7	1	7	3	0			 | FIREBALL TOSS | FIREBALL BARRAGE | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	334	false	The Defiled Cranny	huge ghuol	Cat Burglar	 | coin (8) | ghuol egg | ghuol ears	945	3	4	8	3	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	335	false	Summoning Chamber	King Boo	Cat Burglar	 | coin (50) | Eye of Ed	0	7	2	2	9	0			 | FIREBALL BARRAGE | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	336	true	The Upper Chamber	sausage goblin	Cat Burglar	 | coin (8) | super deluxe mushroom | magical sausage casing	178	4	9	11	6	0	 | Net Tea (5)		 | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	336	true	Next to that Barrel with Something Burning in it	A.M.C. gremlin	Cat Burglar		0	1	0	0	0	0		|human musk		1	1	0	0	0	0		
+2	336	false	Next to that Barrel with Something Burning in it	vegetable gremlin	Cat Burglar	 | coin (8)	131	3	0	5	7	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	337	false	Next to that Barrel with Something Burning in it	batwinged gremlin	Cat Burglar	 | molybdenum hammer | coin (8) | coin (10) | coin (5) | blue pixel	116	3	10	1	2	0		|seal tooth|molybdenum magnet		0	0	0	0	0	0		
+2	338	false	Over Where the Old Tires Are	erudite gremlin	Cat Burglar	 | molybdenum crescent wrench | coin (6)	119	5	3	3	7	0		|seal tooth|seal tooth|seal tooth|molybdenum magnet		0	0	0	0	0	0		
+2	339	false	Near an Abandoned Refrigerator	batwinged gremlin	Cat Burglar	 | coin (7) | Gathered Meat-Clip	124	3	6	3	3	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	340	false	Near an Abandoned Refrigerator	spider gremlin	Cat Burglar	 | molybdenum pliers | coin (8)	111	5	2	6	5	0	 | Cautious Prowl (5)	|seal tooth|seal tooth|seal tooth|molybdenum magnet		0	0	0	0	0	0		
+2	341	false	Out by that Rusted-Out Car	vegetable gremlin	Cat Burglar	 | molybdenum screwdriver | coin (8)	109	6	7	4	0	0		|seal tooth|seal tooth|seal tooth|seal tooth|molybdenum magnet		0	0	0	0	0	0		
+2	342	false	The Battlefield (Frat Uniform)	I Am The Brotherhood	Cat Burglar	 | perforated battle paddle | PADL Phone	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	343	false	The Battlefield (Frat Uniform)	War Hippy Dread Squad	Cat Burglar	 | coin (7) | coin (9) | reinforced beaded headband | tube of dread wax	0	4	7	2	3	0			 | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	344	false	The Battlefield (Frat Uniform)	War Hippy Windtalker	Cat Burglar	 | coin (8) | green clay bead	0	3	6	2	6	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	345	false	The Battlefield (Frat Uniform)	War Hippy Rigger	Cat Burglar	 | coin (7) | reinforced beaded headband | hippy protest button	0	3	2	2	9	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	346	false	The Battlefield (Frat Uniform)	War Hippy Rigger	Cat Burglar	 | coin (6)	0	3	4	3	6	0	 | Bone Homie (5)		 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	347	false	The Battlefield (Frat Uniform)	War Hippy Baker	Cat Burglar	 | coin (8) | bullet-proof corduroys | reinforced beaded headband | water pipe bomb | coin (3) | green pixel	0	3	8	0	5	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	348	false	The Battlefield (Frat Uniform)	War Hippy Homeopath	Cat Burglar	 | coin (7) | coin (10) | hippy medical kit	0	3	3	8	2	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	349	false	The Battlefield (Frat Uniform)	War Hippy Dread Squad	Cat Burglar	 | coin (7) | super deluxe mushroom | coin (5) | green pixel	0	4	1	7	3	0			 | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	350	false	The Battlefield (Frat Uniform)	War Hippy Infantryman	Cat Burglar	 | coin (6) | wicker shield	0	3	1	5	6	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	351	false	The Hatching Chamber	larval filthworm	Cat Burglar	 | coin (7) | filthworm hatchling scent gland | Gathered Meat-Clip	126	2	3	6	2	0	 | Everything Looks Yellow (50) | Spooky Weapon (5)		 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	352	TRUE	HEIST: Stealing an item!	N/A	Cat Burglar	 | filthworm drone scent gland	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	352	false	The Feeding Chamber	filthworm drone	Cat Burglar	 | coin (8) | coin (10)	163	3	6	4	0	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	353	false	The Royal Guard Chamber	filthworm royal guard	Cat Burglar	 | coin (8) | fizzy soda | filthworm royal guard scent gland	277	2	1	6	4	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	354	false	The Filthworm Queen's Chamber	the queen filthworm	Cat Burglar	 | coin (8) | heart of the filthworm queen | coin (4) | blue pixel	2494	3	2	8	2	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	355	false	The Battlefield (Frat Uniform)	War Hippy F.R.O.G.	Cat Burglar	 | coin (6) | pink clay bead | reinforced beaded headband | oversized pipe | water pipe bomb	0	3	6	3	3	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	356	false	The Battlefield (Frat Uniform)	War Hippy Infantryman	Cat Burglar	 | coin (8) | bullet-proof corduroys | reinforced beaded headband | oversized pipe	0	3	3	6	3	0	 | Gemini Rising (5)		 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	357	false	The Battlefield (Frat Uniform)	War Hippy Windtalker	Cat Burglar	 | coin (7) | green clay bead | communications windchimes | communications windchimes | coin (3) | green pixel	0	3	4	2	6	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	358	false	The Battlefield (Frat Uniform)	War Hippy Baker	Cat Burglar	 | coin (7) | oversized pipe	0	3	4	3	5	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	359	false	The Battlefield (Frat Uniform)	War Hippy F.R.O.G.	Cat Burglar	 | coin (6) | coin (9) | pink clay bead | round purple sunglasses | oversized pipe | coin (3) | red pixel	0	3	5	2	5	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	360	false	The Battlefield (Frat Uniform)	War Hippy Fire Spinner	Cat Burglar	 | coin (7) | fire poi | round purple sunglasses | coin (4) | blue pixel	0	3	4	4	4	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	361	false	The Battlefield (Frat Uniform)	Mobile Armored Sweat Lodge	Cat Burglar	 | coin (7) | gas balloon	0	4	8	1	3	0	 | Light-Headed (1) | Action (5)		 | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	362	false	The Battlefield (Frat Uniform)	War Hippy Infantryman	Cat Burglar	 | coin (7) | bullet-proof corduroys | water pipe bomb | Gathered Meat-Clip	0	3	2	5	5	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	363	false	The Upper Chamber	tomb servant	Cat Burglar	 | coin (8) | canopic jar | mummy wrapping | ancient protein powder	142	2	1	4	6	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	364	false	The Upper Chamber	A Wheel -- How Fortunate!	Cat Burglar	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	365	false	The Upper Chamber	A Wheel -- How Fortunate!	Cat Burglar	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	366	false	The Upper Chamber	A Wheel -- How Fortunate!	Cat Burglar	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	367	false	The Upper Chamber	Down Dooby-Doo Down Down	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	368	true	The Hidden Temple	Such Great Heights	Cat Burglar		0	-1	0	0	0	3	 | Meet the Meat (3) | Sinuses For Miles (3) | Invisible Avatar (3) | Bastille Braggadocio (3) | Blooper Inked (3) | Winklered (3)			0	0	0	0	0	0		
+2	368	false	The Themthar Hills	dirty thieving brigand	Cat Burglar	 | coin (6) | coin (10) | brigand brittle	14	3	0	2	9	0			 | SING ALONG | MULTI-BOUNCE	0	0	0	0	0	0		
+2	369	false	The Themthar Hills	dirty thieving brigand	Cat Burglar	 | coin (8)	11	3	9	1	2	0			 | SING ALONG | MULTI-BOUNCE	0	0	0	0	0	0		
+2	370	false	The Themthar Hills	dirty thieving brigand	Cat Burglar	 | coin (7) | brigand brittle	15	4	6	1	5	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF | MULTI-BOUNCE	0	0	0	0	0	0		
+2	371	false	The Themthar Hills	dirty thieving brigand	Cat Burglar	 | coin (7) | brigand brittle | coin (3) | green pixel	10	4	6	2	4	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF | MULTI-BOUNCE	0	0	0	0	0	0		
+2	372	false	The Themthar Hills	dirty thieving brigand	Cat Burglar	 | coin (7) | coin (9) | brigand brittle	12	4	3	6	3	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF | MULTI-BOUNCE	0	0	0	0	0	0		
+2	373	false	The Themthar Hills	dirty thieving brigand	Cat Burglar	 | coin (6)	10	4	4	2	6	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF | MULTI-BOUNCE	0	0	0	0	0	0		
+2	374	false	The Themthar Hills	dirty thieving brigand	Cat Burglar	 | coin (8) | brigand brittle	14	4	6	2	4	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF | MULTI-BOUNCE	0	0	0	0	0	0		
+2	375	false	The Themthar Hills	dirty thieving brigand	Cat Burglar	 | coin (6)	10	4	6	3	3	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF | MULTI-BOUNCE	0	0	0	0	0	0		
+2	376	false	The Themthar Hills	dirty thieving brigand	Cat Burglar		0	2	0	0	0	0			 | SING ALONG	0	0	0	0	0	0		
+2	377	false	The Themthar Hills	dirty thieving brigand	Cat Burglar	 | coin (7) | coin (9) | coin (5) | blue pixel	10	4	1	6	5	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF | MULTI-BOUNCE	0	0	0	0	0	0		
+2	378	false	The Themthar Hills	dirty thieving brigand	Cat Burglar	 | coin (8) | brigand brittle | coin (5) | green pixel | Gathered Meat-Clip	12	4	2	7	3	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF | MULTI-BOUNCE	0	0	0	0	0	0		
+2	379	false	The Themthar Hills	dirty thieving brigand	Cat Burglar	 | coin (8) | brigand brittle | coin (3) | red pixel	13	4	5	2	6	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF | MULTI-BOUNCE	0	0	0	0	0	0		
+2	380	false	The Themthar Hills	dirty thieving brigand	Cat Burglar	 | coin (7) | coin (9)	15	4	8	2	2	0	 | Wolfish Form (1)		 | SING ALONG | BECOME A WOLF | MULTI-BOUNCE	0	0	0	0	0	0		
+2	381	false	The Themthar Hills	dirty thieving brigand	Cat Burglar	 | coin (7) | coin (3) | green pixel	13	3	1	3	8	0			 | SING ALONG | MULTI-BOUNCE	0	0	0	0	0	0		
+2	382	false	The Themthar Hills	dirty thieving brigand	Cat Burglar	 | coin (7)	10	3	6	3	3	0			 | SING ALONG | MULTI-BOUNCE	0	0	0	0	0	0		
+2	383	false	The Battlefield (Frat Uniform)	War Hippy Homeopath	Cat Burglar	 | coin (6) | coin (10) | filthy poultice | holistic headache remedy	15	3	9	2	0	0			 | MULTI-BOUNCE | FIREBALL TOSS	0	0	0	0	0	0		
+2	384	false	The Battlefield (Frat Uniform)	Mobile Armored Sweat Lodge	Cat Burglar	 | coin (8) | didgeridooka | gas balloon	14	6	2	2	9	0			 | MULTI-BOUNCE | JUMP ATTACK | JUMP ATTACK | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	385	false	The Battlefield (Frat Uniform)	War Hippy F.R.O.G.	Cat Burglar	 | coin (6) | pink clay bead | communications windchimes | oversized pipe | water pipe bomb	14	3	2	2	9	0			 | MULTI-BOUNCE | JUMP ATTACK	0	0	0	0	0	0		
+2	386	false	The Battlefield (Frat Uniform)	War Hippy Shaman	Cat Burglar	 | coin (7) | Gaia beads | Lockenstock&trade; sandals | communications windchimes	15	3	1	3	9	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	387	false	The Battlefield (Frat Uniform)	War Hippy Rigger	Cat Burglar	 | coin (8) | hippy protest button | water pipe bomb	10	3	8	2	2	0			 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	388	false	The Battlefield (Frat Uniform)	War Hippy Airborne Commander	Cat Burglar	 | coin (6) | deluxe mushroom | purple clay bead	11	4	5	6	2	0	 | All Covered In Whatsit (5)		 | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	389	false	The Battlefield (Frat Uniform)	War Hippy Elder Shaman	Cat Burglar	 | coin (8) | Gaia beads | communications windchimes | carbonated soy milk | funky dried mushroom | Gathered Meat-Clip	10	3	9	1	4	0	 | Flared Nostrils (10)		 | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	390	false	The Battlefield (Frat Uniform)	War Hippy Green Gourmet	Cat Burglar	 | coin (7) | pink clay bead | water pipe bomb | Hippy Army MPE	10	3	7	3	3	0			 | MULTI-BOUNCE | FIREBALL TOSS	0	0	0	0	0	0		
+2	391	true	The Middle Chamber	sausage goblin	Cat Burglar	 | coin (8) | magical sausage casing	259	2	6	5	0	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	391	false	The Middle Chamber	tomb asp	Cat Burglar	 | coin (6)	404	2	4	4	8	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	392	false	The Middle Chamber	tomb servant	Cat Burglar	 | coin (6) | coin (9) | canopic jar | unidentified jerky | mummy wrapping	186	2	6	5	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	393	false	The Middle Chamber	tomb asp	Cat Burglar	 | coin (8)	379	2	3	3	10	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	394	false	The Middle Chamber	a tomb rat king!	Cat Burglar	 | coin (7) | healthy juice | tomb ratchet | tomb ratchet | tomb ratchet | leathery rat skin | leathery rat skin | leathery rat skin | unidentified jerky | unidentified jerky | unidentified jerky	654	7	7	2	13	0		|tangle of rat tails	 | OTOSCOPE | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | MULTI-BOUNCE	0	0	0	0	0	0	 | tomb rat	
+2	395	false	The Middle Chamber	Further Down Dooby-Doo Down Down	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	396	true	The Middle Chamber	tomb servant	Cat Burglar		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	396	false	The Middle Chamber	tomb rat	Cat Burglar	 | coin (6) | leathery rat skin | unidentified jerky	362	2	5	0	7	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	397	false	The Middle Chamber	tomb rat	Cat Burglar	 | coin (8) | tomb ratchet | leathery rat skin | unidentified jerky | coin (4) | white pixel	344	3	5	3	8	0			 | OFFER LATTE TO OPPONENT | MULTI-BOUNCE	0	0	0	1	0	0		
+2	398	true	The Middle Chamber	tomb asp	Cat Burglar		0	0	0	0	0	0			 | USE THE FORCE | SABER BANISH	0	1	0	0	0	0		
+2	398	false	The Middle Chamber	tomb rat	Cat Burglar	 | coin (8) | tomb ratchet | leathery rat skin | unidentified jerky | coin (3) | blue pixel	357	2	7	3	6	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	399	TRUE	CONSUME: eat 5 magical sausage	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	399	false	The Middle Chamber	Under Control	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	400	false	The Middle Chamber	tomb rat	Pocket Professor	 | coin (7) | coin (8) | leathery rat skin | unidentified jerky | coin (5) | blue pixel	231	2	3	2	11	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	401	false	The Middle Chamber	tomb rat	Pocket Professor	 | coin (7) | tomb ratchet | leathery rat skin | unidentified jerky | coin (4) | blue pixel	247	2	2	5	9	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	402	false	The Middle Chamber	tomb rat	Pocket Professor	 | coin (6) | tomb ratchet | leathery rat skin | unidentified jerky | coin (4) | blue pixel | Gathered Meat-Clip	225	2	6	1	9	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	403	false	The Lower Chambers	N/A	Pocket Professor	 | ancient bronze token	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	404	TRUE	CONSUME: eat 5 magical sausage	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	404	false	The Lower Chambers	N/A	Pocket Professor	 | ancient bomb	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	405	false	The Lower Chambers	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	406	false	The Battlefield (Frat Uniform)	War Hippy Fire Spinner	Pocket Professor	 | coin (7) | coin (4) | green pixel	10	2	2	9	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	407	false	The Battlefield (Frat Uniform)	War Hippy Sky Captain	Pocket Professor	 | coin (6) | pink clay bead | ferret bait	12	2	2	6	5	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	408	false	The Battlefield (Frat Uniform)	War Hippy Rigger	Pocket Professor	 | coin (6) | reinforced beaded headband | wicker shield	14	2	7	3	3	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	409	false	The Battlefield (Frat Uniform)	War Hippy Elite Fire Spinner	Pocket Professor	 | coin (8) | fire poi	14	2	7	4	2	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	410	TRUE	CONSUME: eat 4 magical sausage	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	410	false	The Battlefield (Frat Uniform)	War Hippy Windtalker	Pocket Professor	 | coin (8) | green clay bead	15	2	3	2	8	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	411	false	The Smut Orc Logging Camp	S&M 4-EVER	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	412	false	The Smut Orc Logging Camp	smut orc jacker	Pocket Professor	 | coin (7) | coin (9) | morningwood plank | messy butt joint | orcish hand lotion | orc wrist	85	2	2	2	3	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	413	false	The Smut Orc Logging Camp	smut orc nailer	Pocket Professor	 | coin (6) | messy butt joint	96	2	0	4	3	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	414	TRUE	CONSUME: eat 3 magical sausage	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	414	false	The Smut Orc Logging Camp	smut orc nailer	Pocket Professor	 | coin (6) | thick caulk | orcish nailing lube	120	2	5	0	2	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	415	false	The Smut Orc Logging Camp	smut orc pipelayer	Pocket Professor	 | coin (6) | raging hardwood plank	124	2	1	3	3	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	416	false	The Smut Orc Logging Camp	smut orc nailer	Pocket Professor	 | coin (6) | coin (8) | thick caulk | stick of firewood	96	2	4	1	2	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	417	TRUE	CONSUME: eat 1 Crimboysters Rockefeller	N/A	Pocket Professor		0	-1	0	0	0	19				0	0	0	0	0	0		
+2	417	false	The Smut Orc Logging Camp	Blech House	Pocket Professor	 | weirdwood plank | long hard screw	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	418	true	A-Boo Peak	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	418	true	A-Boo Peak	Faction Traction = Inaction	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	418	true	A-Boo Peak	sausage goblin	Pocket Professor	 | coin (8) | magical sausage casing	178	2	6	0	15	0			 | MULTI-BOUNCE	0	0	0	0	0	0		
+2	418	false	A-Boo Peak	Space Tourist Explorer Ghost	Pocket Professor	 | coin (8) | A-Boo clue | Space Tours Tripple | Space Tourist Phaser | Gathered Meat-Clip	14	5	1	2	8	0		|beer bomb|tequila grenade|bottle of alcohol	 | JUMP ATTACK	0	0	0	0	0	0		
+2	419	false	A-Boo Peak	Claybender Sorcerer Ghost	Pocket Professor	 | coin (8) | A-Boo clue | Polysniff Perfume	0	6	2	4	5	0		|bottle of alcohol	 | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK	0	0	0	0	0	0		
+2	420	false	A-Boo Peak	Dusken Raider Ghost	Pocket Professor	 | coin (7) | A-Boo clue | Duskwalker syringe	0	2	0	4	7	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	421	false	The Lower Chambers	Ed the Undying	Pocket Professor	 | coin (7)	0	2	4	12	7	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	422	false	The Lower Chambers	Ed the Undying	Pocket Professor	 | coin (7) | coin (10)	0	2	4	10	9	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	423	false	The Lower Chambers	Ed the Undying	Pocket Professor	 | coin (6)	0	2	9	6	8	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	424	false	The Lower Chambers	Ed the Undying	Pocket Professor	 | coin (6)	0	2	4	4	16	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	425	false	The Lower Chambers	Ed the Undying	Pocket Professor	 | coin (7)	0	2	4	4	16	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	426	false	The Lower Chambers	Ed the Undying	Pocket Professor	 | coin (7)	0	2	8	7	8	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	427	false	The Lower Chambers	Ed the Undying	Pocket Professor	 | coin (7) | Holy MacGuffin | handful of confetti	0	2	4	4	16	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	428	TRUE	CONSUME: chew 1 mushroom tea	N/A	Pocket Professor		0	-1	0	0	0	0	 | Mush-Maw (50)			0	0	0	0	0	0		
+2	428	true	Cook 1 mushroom filet + 1 soda water	N/A	Pocket Professor	 | mushroom tea	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	428	true	Oil Peak	Pushin' Down on Me, Pushin' Down on You	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	428	false	Oil Peak	oil cartel	Pocket Professor	 | bubblin' crude | coin (7) | coin (9) | bubblin' crude | bubblin' crude	0	4	4	5	5	0		|Duskwalker syringe	 | FIREBALL BARRAGE | FIREBALL TOSS	0	0	0	0	0	0		
+2	429	false	Oil Peak	oil cartel	Pocket Professor	 | coin (8) | bubblin' crude | bubblin' crude | Gathered Meat-Clip	0	4	2	11	0	0			 | FIREBALL BARRAGE | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	430	false	Oil Peak	oil cartel	Pocket Professor	 | coin (8) | bubblin' crude | bubblin' crude	0	3	4	5	5	0			 | FIREBALL BARRAGE | FIREBALL TOSS	0	0	0	0	0	0		
+2	431	false	Oil Peak	oil cartel	Pocket Professor	 | coin (8) | coin (9) | bubblin' crude | bubblin' crude | bubblin' crude	0	4	6	5	3	0			 | FIREBALL BARRAGE | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	432	false	Oil Peak	oil cartel	Pocket Professor	 | coin (6) | mushroom | bubblin' crude | bubblin' crude | bubblin' crude | coin (3) | blue pixel	0	3	2	7	5	0			 | FIREBALL BARRAGE | FIREBALL TOSS	0	0	0	0	0	0		
+2	433	false	Oil Peak	Unimpressed with Pressure	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	434	false	The Battlefield (Frat Uniform)	War Hippy Airborne Commander	Pocket Professor	 | coin (6) | purple clay bead | Lockenstock&trade; sandals | water pipe bomb	0	2	3	4	9	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	435	false	The Battlefield (Frat Uniform)	War Hippy Homeopath	Pocket Professor	 | coin (7) | holistic headache remedy	0	2	8	4	3	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	436	false	The Battlefield (Frat Uniform)	War Hippy Naturopathic Homeopath	Pocket Professor	 | coin (8) | filthy poultice | natural fennel soda	0	2	2	4	9	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	437	false	The Battlefield (Frat Uniform)	Mobile Armored Sweat Lodge	Pocket Professor	 | coin (6) | gas balloon	0	2	3	7	5	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	438	false	The Battlefield (Frat Uniform)	War Hippy Airborne Commander	Pocket Professor	 | coin (7) | coin (8) | purple clay bead | bullet-proof corduroys | ferret bait | water pipe bomb | water pipe bomb	0	2	5	4	7	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	439	false	The Battlefield (Frat Uniform)	War Hippy Elite Fire Spinner	Pocket Professor	 | coin (8) | fire poi | communications windchimes | coin (4) | red pixel	0	2	3	7	6	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	440	true	The Battlefield (Frat Uniform)	sausage goblin	Pocket Professor	 | coin (8) | magical sausage casing	147	2	5	0	13	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	440	false	The Battlefield (Frat Uniform)	War Hippy Dread Squad	Pocket Professor	 | coin (8) | didgeridooka | tube of dread wax	0	2	1	3	10	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	441	false	The Battlefield (Frat Uniform)	War Hippy Elite Fire Spinner	Pocket Professor	 | coin (8) | fire poi | Gathered Meat-Clip	0	2	2	2	11	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	442	false	The Battlefield (Frat Uniform)	War Hippy Elder Shaman	Pocket Professor	 | coin (8) | coin (9) | Gaia beads | carbonated soy milk | funky dried mushroom	0	2	4	5	6	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	443	false	The Battlefield (Frat Uniform)	War Hippy Windtalker	Pocket Professor	 | coin (6) | green clay bead | communications windchimes | coin (4) | blue pixel	0	2	3	8	3	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	444	false	The Battlefield (Frat Uniform)	Green Ops Soldier	Pocket Professor	 | coin (7) | green clay bead | gas balloon | round green sunglasses | coin (3) | red pixel	0	2	2	5	8	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	445	true	The Battlefield (Frat Uniform)	sausage goblin	Pocket Professor	 | coin (7) | magical sausage casing	188	2	4	9	4	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	445	false	The Battlefield (Frat Uniform)	Green Ops Soldier	Pocket Professor	 | coin (7) | green clay bead | gas balloon	0	2	1	3	11	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	446	false	The Battlefield (Frat Uniform)	Mobile Armored Sweat Lodge	Pocket Professor	 | coin (6) | coin (10) | didgeridooka | gas balloon | coin (4) | white pixel	0	2	2	3	9	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	447	TRUE	CONSUME: eat 4 magical sausage	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	447	true	Twin Peak	Welcome to the Great Overlook Lodge	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	447	false	Twin Peak	He Is the Arm, and He Sounds Like This	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	448	true	Twin Peak	the Troll Twins	Cat Burglar		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	448	false	Twin Peak	Go Check It Out!	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	449	false	Twin Peak	Room 237	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	450	false	Twin Peak	the Big Wheelin' Twins	Cat Burglar	 | coin (6)	261	2	1	5	2	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	451	false	Twin Peak	the Big Wheelin' Twins	Cat Burglar	 | coin (8)	340	2	3	3	2	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	452	TRUE	CONSUME: eat 1 diabolic pizza	WPPS: wet stew, Purple Beast energy drink, Purple Beast energy drink, snifter of thoroughly aged brandy	Cat Burglar		0	-1	0	0	0	10	 | Well-Lubed (12)			0	0	0	0	0	0		
+2	452	false	Twin Peak	Mismatched Twins	Cat Burglar	 | coin (6) | coin (8)	295	2	3	1	4	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	453	false	Twin Peak	the Bubblemint Twins	Cat Burglar	 | coin (8) | that gum you like	308	2	5	2	0	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	454	false	Twin Peak	elephant (meatcar?) topiary animal	Cat Burglar	 | coin (8) | coin (10) | rusty hedge trimmers	12	2	2	4	0	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	455	true	rusty hedge trimmers	Now It's Dark	Cat Burglar	 | gold wedding ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	455	true	Combing the Beach	N/A	Cat Burglar		0	-1	0	0	0	0	 | Does It Have a Skull In There?? (50)			0	0	0	0	0	0		
+2	455	true	Combing the Beach	N/A	Cat Burglar		0	-1	0	0	0	0	 | Cold as Nice (50)			0	0	0	0	0	0		
+2	455	false	A-Boo Peak	The Horror...	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	456	false	A-Boo Peak	The Horror...	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	457	false	A-Boo Peak	The Horror...	Exotic Parrot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	458	false	A-Boo Peak	Dusken Raider Ghost	Exotic Parrot	 | coin (6) | Gathered Meat-Clip	0	2	4	0	3	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	459	false	A-Boo Peak	Come On Ghosty, Light My Pyre	Exotic Parrot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	460	false	Hippy Camp	Bowser	Exotic Parrot	 | coin (100) | coin (4) | red pixel | Iron Beta of Industry	0	5	11	0	7	0			 | FIREBALL BARRAGE | FIREBALL TOSS | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
+2	461	TRUE	CONSUME: eat 1 diabolic pizza	HARE: handful of moss, antique packet of ketchup, reinforced beaded headband, enchanted bean burrito	Pocket Professor		0	-1	0	0	0	10	 | Hare-o-dynamic (21)			0	0	0	0	0	0		
+2	461	TRUE	CONSUME: eat 1 diabolic pizza	PASS: pie man was not meant to eat, amulet of extreme plot significance, soft green echo eyedrop antidote, suntan lotion of moxiousness	Pocket Professor	 | disassembled clover	0	-1	0	0	0	12	 | Pasta Oneness (29)			0	0	0	0	0	0		
+2	461	TRUE	CONSUME: chew 1 Nightmare Fuel	N/A	Oily Woim		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	461	true	The Neverending Party	biker	Pocket Professor	 | coin (6) | coin (8)	0	2	1	0	0	0			 | DELIVER YOUR THESIS	0	0	0	0	0	0		
+2	461	false	The Defiled Alcove	corpulent zobmie	Oily Woim		0	2	0	2	4	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	462	true	The Defiled Alcove	Turn Your Head and Coffin	Oily Woim		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	462	false	The Defiled Alcove	corpulent zobmie	Oily Woim	 | coin (6)	206	2	1	1	4	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	463	false	The Defiled Alcove	modern zmobie	Oily Woim	 | coin (8)	191	2	1	3	2	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	464	false	The Defiled Alcove	modern zmobie	Oily Woim	 | coin (6) | coin (10)	191	2	0	1	5	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	465	false	The Defiled Alcove	modern zmobie	Oily Woim	 | coin (6) | coin (3) | blue pixel	179	2	1	3	2	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	466	false	The Defiled Alcove	modern zmobie	Oily Woim	 | coin (6) | coin (5) | white pixel	168	2	2	0	4	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	467	false	The Defiled Alcove	conjoined zmombie	Oily Woim	 | coin (8) | coin (8) | cranberries	896	2	1	9	4	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	468	false	Haert of the Cyrpt	Very Dry Bones	Oily Woim	 | coin (40)	0	2	2	5	0	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	469	true	Combing the Beach	N/A	Oily Woim		0	-1	0	0	0	0	 | Lack of Body-Building (50)			0	0	0	0	0	0		
+2	469	false	Spookiest Adventurer Contest	Batburglar	Oily Woim	 | coin (6) | batarang	0	5	1	2	9	0		|beer bomb|beer bomb|bronzed locust|photoprotoneutron torpedo		0	0	0	0	0	0		
+2	470	false	Spookiest Adventurer Contest	Batburglar	Oily Woim	 | coin (8) | batarang | Nightmare Fuel	0	2	5	3	4	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	471	false	Spookiest Adventurer Contest	Ghostpuncher	Oily Woim	 | coin (8) | coin (10)	0	2	3	6	7	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	472	false	Spookiest Adventurer Contest	Plague Chef	Oily Woim	 | coin (6) | plague pie | coin (4) | green pixel	0	2	6	5	3	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	473	false	Spookiest Adventurer Contest	Batburglar	Oily Woim	 | coin (6) | batarang	0	2	3	8	2	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	474	false	Spookiest Adventurer Contest	Arthur Frankenstein	Oily Woim	 | coin (6) | spare neck bolts	0	2	9	5	4	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	475	false	Strongest Adventurer Contest	Mr. Loathing	Oily Woim	 | coin (6) | coin (9) | muscle oil	0	2	4	7	7	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	476	false	Fastest Adventurer Contest	The Tasmanian Dervish	Oily Woim	 | coin (8) | coin (4) | green pixel	0	2	5	10	3	0			 | FIREBALL BARRAGE	0	0	0	0	0	0		
+2	477	true	Combing the Beach	N/A	Exotic Parrot		0	-1	0	0	0	0	 | Hot-Headed (50)			0	0	0	0	0	0		
+2	477	false	The Hedge Maze	'Allo	Exotic Parrot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	478	false	The Hedge Maze	Pooling Your Resources	Exotic Parrot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	479	false	The Hedge Maze	Of Mouseholes and Manholes	Exotic Parrot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	480	false	The Hedge Maze	Mazel Tov!	Exotic Parrot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	481	true	The Bandit Crossroads	N/A	Exotic Parrot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	481	true	The Bandit Crossroads	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	481	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | coin (6)	0	2	1	2	5	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	482	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | coin (6) | fizzy soda	0	2	1	3	4	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	483	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | coin (7)	0	2	2	2	4	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	484	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | coin (6)	0	2	4	2	2	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	485	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | fat loot token | coin (8) | Nightmare Fuel	0	2	3	2	3	0			 | FIREBALL TOSS	0	0	0	0	0	0		
+2	486	true	Tower Door	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	486	false	The Naughty Sorceress' Tower	wall of skin	none	 | coin (7)	0	2	7	3	3	0		|beehive		0	0	0	0	0	0		
+2	487	false	The Naughty Sorceress' Tower	wall of meat	Cat Burglar	 | coin (6)	826	21	1	10	3	0		|book of matches|gas balloon|photoprotoneutron torpedo|PADL Phone|sake bomb|red button|adder|gas balloon|adder|photoprotoneutron torpedo|pygmy blowgun|Ye Olde Medieval Insult|red button|super deluxe mushroom|gas balloon|red button|Space Tours Tripple|water pipe bomb|water pipe bomb|water pipe bomb	 | USE THE FORCE	0	0	0	0	0	0		
+2	488	false	The Naughty Sorceress' Tower	wall of meat	Cat Burglar	 | coin (7)	774	16	5	3	6	0		|gas balloon|gas balloon|wussiness potion|ferret bait|water pipe bomb|water pipe bomb	 | MULTI-BOUNCE | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK | JUMP ATTACK	0	0	0	0	0	0		
+2	489	false	The Naughty Sorceress' Tower	wall of bones	none	 | coin (8) | coin (8)	0	2	12	20	25	0		|cold clusterbomb		0	0	0	0	0	0		
+2	490	true	The Naughty Sorceress' Tower	The Mirror in the Tower has the View that is True	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	490	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | Resting Beach Face (50)			0	0	0	0	0	0		
+2	490	false	The Naughty Sorceress' Tower	Shadow Plumber	none	 | coin (8)	0	5	25	9	10	0		|super deluxe mushroom|super deluxe mushroom|super deluxe mushroom|super deluxe mushroom		0	0	0	0	0	0		
+2	491	false	The Naughty Sorceress' Chamber	Wathreebullethamburgler	none	 | coin (6) | Instant Karma | Thwaitgold buzzy beetle statuette | red coin	0	8	7	2	8	0	 | Half-Sized (1) | Heated Up (1)	|jam band bootleg|jam band bootleg|gas can	 | FIREBALL BARRAGE | JUGGLE FIREBALLS | FIREBALL TOSS | FIREBALL TOSS	0	0	0	0	0	0		
