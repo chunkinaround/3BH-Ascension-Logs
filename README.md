@@ -30,3 +30,9 @@ https://docs.google.com/spreadsheets/d/14aaCb9LIU2RLpJ7IuKCSqKXQS9axPc9o-VV2EL3y
 
 ## 3/712 HC Class Act AT
 https://docs.google.com/spreadsheets/d/1IL5UfxRFhazpnu19NmkrY3q2CgNjl9hE91RHcCqbq9E/edit?usp=sharing
+
+## 3BH 3/818 HC bugbear
+https://docs.google.com/spreadsheets/d/1vfEWrdd1IWu3vNbdCw9pX7Xe7rtM6MLMcoY2hjCCGjw/edit?usp=sharing
+
+## 3BH 3/536 HC KoLHS
+https://docs.google.com/spreadsheets/d/1oxmqhLbMa83JnpGLi9cYV5_24HagPSClFeDVPNbkcdI/edit#gid=25146526
