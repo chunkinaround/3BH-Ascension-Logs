@@ -1,0 +1,980 @@
+day	turnSpent	free?	location	encounterName	familiar	items	meat	rounds	mus	mys	mox	advsGained	effectsGained	itemsUsed	skillsUsed	freeRun?	banish	freeKill	sniff	spit	copy	macroFrom	
+1	1	true	Boxing Daycare	Have a Boxing Daydream	none	 | glass of raw eggs	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Deck of Every Card	XVI - The Tower	none	 | Jarlsberg's key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Boxing Daycare	Enter the Boxing Daycare	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Neverending Party	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Neverending Party	burnout	none	 | van key | jam band bootleg	56	4	13	5	8	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+1	1	true	Deck of Every Card	XXI - The World	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Deck of Every Card	1952 Mickey Mantle	none	 | 1952 Mickey Mantle card	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	1	true	Boxing Daycare	Have a Boxing Daydream	none	 | glass of raw eggs	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	1	true	Your Witchess Set	Play against the Witchess Pieces	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	1	true	Your Witchess Set	Witchess Rook	none	 | Source essence | Greek fire	0	10	30	14	15	0			 | DIGITIZE | DRAGOON PLATOON | EXTRACT | MIGHTY AXING | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SUMMON LOVE MOSQUITO	0	0	0	0	0	1		
+2	1	true	Your Witchess Set	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	1	true	Deck of Every Card	1952 Mickey Mantle	none	 | 1952 Mickey Mantle card	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	1	true	Pump Up Moxie	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	1	true	Pump Up Moxie	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	1	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	1	true	The Tunnel of L.O.V.E.	LOV Enforcer	none		10	11	41	25	17	0		|exploding cigar|jam band bootleg|Time-Spinner	 | DRAGOON PLATOON | SUMMON LOVE GNATS | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | COWBOY KICK | MIGHTY AXING	0	0	0	0	0	0		
+2	1	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	1	true	The Tunnel of L.O.V.E.	LOV Engineer	none	 | LOV Eardigan | Source essence (3) | bag of GORP	11	4	46	14	22	0			 | EXTRACT | DRAGOON PLATOON | CLEAVE	0	0	0	0	0	0		
+2	1	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	1	true	The Tunnel of L.O.V.E.	LOV Equivocator	none		12	5	46	38	17	0	 | Lovebotamy (50)	|Time-Spinner	 | CLEAVE | CLEAVE | DRAGOON PLATOON	0	0	0	0	0	0		
+2	1	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	none	 | LOV Enamorang	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	1	true	Cook 16 wad of dough + 16 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	1	false	The Spooky Forest	spooky vampire	none		0	2	0	0	0	0				0	0	0	0	0	0		
+2	2	true	The X-32-F Combat Training Snowman	Is This Thing On?  (No.)	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	2	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none	 | Source essence (2)	11	4	65	25	38	0			 | EXTRACT | DRAGOON PLATOON | MIGHTY AXING	0	0	0	0	0	0		
+2	2	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none	 | Source essence	13	4	98	20	20	0			 | EXTRACT | DRAGOON PLATOON	0	0	0	0	0	0		
+2	2	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none	 | Source essence	10	4	60	35	43	0			 | DRAGOON PLATOON | EXTRACT	0	0	0	0	0	0		
+2	2	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none	 | Source essence (2) | water purification pills	13	5	73	40	35	0			 | EXTRACT | DRAGOON PLATOON	0	0	0	0	0	0		
+2	2	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none	 | Source essence (2)	10	5	90	38	28	0			 | EXTRACT | DRAGOON PLATOON	0	0	0	0	0	0		
+2	2	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none	 | Source essence (2)	11	8	71	50	38	0			 | EXTRACT | DRAGOON PLATOON | CLEAVE	0	0	0	0	0	0		
+2	2	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none	 | iced plum wine	14	2	92	33	40	0			 | CLEAVE	0	0	0	0	0	0		
+2	2	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none	 | Source essence	10	6	81	58	33	0			 | CLEAVE | CLEAVE | DRAGOON PLATOON | EXTRACT | CLEAVE	0	0	0	0	0	0		
+2	2	false	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none	 | Source essence (3)	0	7	0	0	0	0			 | DRAGOON PLATOON | EXTRACT | CLEAVE | MIGHTY AXING | CLEAVE	0	0	0	0	0	0		
+2	3	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none	 | browser cookie	15	6	92	38	50	0			 | THROW TRUSTY | CLEAVE | MIGHTY AXING | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+2	3	TRUE	CONSUME: eat 1 browser cookie	N/A	none		0	-1	0	0	0	24				0	0	0	0	0	0		
+2	3	TRUE	CONSUME: eat 1 glass of raw eggs	N/A	none		0	-1	0	0	0	7	 | Boxing Day Breakfast (50)			0	0	0	0	0	0		
+2	3	TRUE	CONSUME: eat 1 glass of raw eggs	N/A	none		0	-1	0	0	0	8	 | Boxing Day Breakfast (50)			0	0	0	0	0	0		
+2	3	false	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none	 | Source essence (2)	0	6	0	0	0	0			 | EXTRACT | DRAGOON PLATOON | MIGHTY AXING | THROW TRUSTY | CLEAVE	0	0	0	0	0	0		
+2	4	true	The Neverending Party	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	4	true	The Neverending Party	burnout	none	 | Source essence (2) | van key | jam band bootleg | ratty knitted cap	81	5	114	45	40	0			 | EXTRACT | HEROIC BELCH | DRAGOON PLATOON | CLEAVE	0	0	0	0	0	0		
+2	4	true	Boxing Daycare	Visit the Boxing Day Spa	none		0	-1	0	0	0	0	 | Muddled (100)			0	0	0	0	0	0		
+2	4	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | Lack of Body-Building (50)			0	0	0	0	0	0		
+2	4	TRUE	CONSUME: eat 1 browser cookie	N/A	none		0	-1	0	0	0	26				0	0	0	0	0	0		
+2	4	true	The Neverending Party	&quot;plain&quot; girl	none	 | Source essence (2) | Camp Scout pup tent | PB&J with the crusts cut off	176	9	203	85	108	0			 | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | HEROIC BELCH | MIGHTY AXING | MIGHTY AXING | THROW TRUSTY	0	0	0	0	0	0		
+2	4	true	The Neverending Party	party girl	none	 | Source essence (3) | runproof mascara | very small red dress | surprisingly capacious handbag	150	4	230	80	105	0			 | EXTRACT | THROW TRUSTY | CLEAVE	0	0	0	0	0	0		
+2	4	true	The Neverending Party	jock	none	 | Source essence (3) | unremarkable duffel bag | Purple Beast energy drink | cosmetic football	276	3	214	108	100	0			 | EXTRACT | CLEAVE	0	0	0	0	0	0		
+2	4	true	The Neverending Party	burnout	none	 | Source essence | jam band bootleg	84	3	260	90	88	0			 | EXTRACT | CLEAVE	0	0	0	0	0	0		
+2	4	TRUE	CONSUME: eat 1 browser cookie	N/A	none		0	-1	0	0	0	25				0	0	0	0	0	0		
+2	4	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | You Learned Something Maybe! (50) | Driving Observantly (30)			0	0	0	0	0	0		
+2	4	true	The Neverending Party	biker	none	 | Source essence (3) | gas can | Middle of the Road&trade; brand whiskey | pentagram bandana	241	6	292	145	103	0			 | EXTRACT | DRAGOON PLATOON | DETECT WEAKNESS | MIGHTY AXING	0	0	0	0	0	0		
+2	4	true	The Neverending Party	Gone Kitchin'	none		0	-1	0	0	0	0	 | Spiced Up (20)			0	0	0	0	0	0		
+2	4	true	The Neverending Party	burnout	none	 | Source essence (3) | van key | jam band bootleg	138	5	364	108	118	0			 | DRAGOON PLATOON | EXTRACT | HEROIC BELCH | CLEAVE	0	0	0	0	0	0		
+2	4	true	The Neverending Party	&quot;plain&quot; girl	none	 | Source essence (2) | electronics kit | PB&J with the crusts cut off	231	4	338	125	130	0			 | DRAGOON PLATOON | EXTRACT | CLEAVE	0	0	0	0	0	0		
+2	4	true	The Neverending Party	burnout	none	 | Source essence (3) | strange leaflet	122	4	341	123	150	0			 | EXTRACT | DRAGOON PLATOON | CLEAVE	0	0	0	0	0	0		
+2	4	true	genie summoned monster	mountain man	none	 | asbestos ore | asbestos ore | linoleum ore | linoleum ore | chrome ore | chrome ore	11	2	124	38	43	0			 | ASDON MARTIN: MISSILE LAUNCHER	0	0	0	0	0	0		
+2	4	false	Guano Junction	How I Wonder What You're At	none	 | sonar-in-a-biscuit | sonar-in-a-biscuit	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	5	true	The Spooky Forest	slime blob	none	 | CSA fire-starting kit | orange slime glob	13	5	317	113	190	0			 | HEROIC BELCH | DRAGOON PLATOON | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+2	5	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | A Brush with Grossness (50)			0	0	0	0	0	0		
+2	5	false	The Haunted Kitchen	paper towelgeist	none	 | Source essence (3) | cardboard katana	13	3	53	22	32	0			 | EXTRACT | THROW TRUSTY	0	0	0	0	0	0		
+2	6	false	The Haunted Kitchen	possessed silverware drawer	none	 | antique packet of ketchup	10	2	89	19	23	0			 | THROW TRUSTY	0	0	0	0	0	0		
+2	7	false	The Haunted Kitchen	demonic icebox	none	 | ancient frozen dinner | accidental cider | dire fudgesicle	38	2	89	22	20	0			 | DRAGOON PLATOON	0	0	0	0	0	0		
+2	8	true	The Haunted Kitchen	Witchess Rook	none	 | Source essence (2) | Greek fire	14	5	198	75	73	0			 | EXTRACT | MIGHTY AXING | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+2	8	false	The Haunted Kitchen	paper towelgeist	none	 | sleaze powder	10	2	85	22	22	0			 | THROW TRUSTY	0	0	0	0	0	0		
+2	9	true	Rest in your bed in the Chateau	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	9	true	Rest in your bed in the Chateau	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	9	true	Rest in your bed in the Chateau	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	9	true	Chateau Painting	Black Crayon Crimbo Elf	none	 | Source essence (3) | crayon shavings	11	10	209	88	75	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	9	true	Boxing Daycare	Enter the Boxing Daycare	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	9	true	Rest in your bed in the Chateau	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	9	true	The Haunted Conservatory	The ghost of Lord Montague Spookyraven	none	 | psychokinetic energy blob (4) | Spookyraven signet	15	7	99	29	32	0			 | SUMMON LOVE GNATS | BROADSIDE | SHOOT GHOST | SHOOT GHOST | SHOOT GHOST | TRAP GHOST	0	0	0	0	0	0		
+2	9	true	Rest in your bed in the Chateau	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	9	true	Rest in your bed in the Chateau	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	9	true	Dr. Gordon Stuart's Science Tent	Eldritch Tentacle	none	 | eldritch effluvium | eldritch effluvium | blue pixel	12	7	182	57	40	0			 | INTIMIDATING BELLOW | SUMMON LOVE STINKBUG | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	9	false	The Haunted Kitchen	zombie chef	none	 | fricasseed brains | stale baguette | bottle of cooking sherry | white pixel	52	4	83	27	33	0			 | INTIMIDATING BELLOW | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	10	false	The Haunted Kitchen	zombie chef	none	 | stale baguette | bottle of cooking sherry | green pixel | Special Seasoning	65	4	90	32	22	0			 | INTIMIDATING BELLOW | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	11	true	The Haunted Kitchen	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	11	false	The Haunted Kitchen	zombie chef	none	 | Spookyraven billiards room key | CSA scoutmaster's &quot;water&quot; | fricasseed brains | stale baguette | bottle of cooking sherry | green pixel	64	4	71	39	28	0			 | INTIMIDATING BELLOW | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	12	false	The Dark Heart of the Woods	Moon Over the Dark Heart	none	 | hot plate	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	13	false	The Dark Heart of the Woods	G imp	none	 | Source essence (2) | hot wing | Imp Ale | red pixel	79	8	74	35	23	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	14	false	The Dark Heart of the Woods	P imp	none	 | Source essence (2) | hot wing | Imp Ale | diamond-studded cane	101	8	80	30	23	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	15	false	The Dark Heart of the Woods	P imp	none	 | Source essence (3) | hot wing | Imp Ale | stick of firewood	83	8	78	28	27	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	16	true	The Spooky Forest	slime blob	none	 | Source essence | green slime glob | orange slime glob	10	11	250	88	72	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	16	false	The Dark Heart of the Woods	Fallen Archfiend	none	 | Source essence (3) | pink slime	122	8	80	27	29	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	17	false	The Dark Heart of the Woods	Running the Lode	none		350	-1	0	0	0	0				0	0	0	0	0	0		
+2	18	false	The Dark Heart of the Woods	Fallen Archfiend	none	 | Source essence (2) | pink slime	102	8	92	19	29	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	19	false	The Dark Heart of the Woods	Fallen Archfiend	none	 | Source essence (2) | infernal insoles | demon skin | pink slime	110	8	89	20	29	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	20	true	The Dark Heart of the Woods	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	20	false	The Dark Heart of the Woods	G imp	none	 | Source essence (2) | hot wing | Imp Ale | vitamin G pill	81	8	71	29	32	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	21	true	Your Witchess Set	Play against the Witchess Pieces	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	21	true	Your Witchess Set	Witchess Knight	none	 | Source essence (3) | jumping horseradish	11	8	195	39	50	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	21	true	Your Witchess Set	Play against the Witchess Pieces	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	21	true	Your Witchess Set	Witchess Bishop	none	 | Source essence (3) | Sacramento wine	13	9	195	65	85	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	21	true	Your Witchess Set	Play against the Witchess Pieces	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	21	true	Your Witchess Set	Witchess Bishop	none	 | Source essence | Sacramento wine	12	9	211	74	70	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	21	true	Your Witchess Set	Play against the Witchess Pieces	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	21	true	Your Witchess Set	Witchess Bishop	none	 | Source essence | Sacramento wine	13	9	218	65	70	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	21	false	The Dark Heart of the Woods	Fallen Archfiend	none	 | Source essence (2) | bag of GORF | infernal insoles | demon skin | pink slime | blue pixel	122	8	101	19	23	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	22	false	The Dark Heart of the Woods	I, Martin	none	 | martini	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	23	false	The Dark Heart of the Woods	Imp Be Nimble, Imp Be Quick	none	 | box of birthday candles	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	24	false	The Dark Neck of the Woods	P imp	none	 | Source essence (2) | hot wing | Imp Ale	80	8	85	17	33	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	25	false	The Dark Neck of the Woods	W imp	none	 | Source essence | Imp Ale | ruby W | wussiness potion | Special Seasoning	67	8	74	19	30	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	26	false	The Dark Neck of the Woods	P imp	none	 | Source essence (2) | hot wing | Imp Ale	74	8	66	15	20	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	27	true	The Spooky Forest	slime blob	none	 | Source essence (2) | orange slime glob	11	11	157	75	63	0		|Time-Spinner	 | INTIMIDATING BELLOW | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	27	false	The Dark Neck of the Woods	Hellion	none	 | Source essence (2) | hellion cube	12	8	63	24	21	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	28	true	The Spooky Forest	Witchess Rook	none	 | Source essence (3) | Greek fire	13	10	181	64	59	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	28	false	The Dark Neck of the Woods	Hellion	none	 | Source essence (2) | hellion cube | white pixel | stick of firewood	13	8	66	23	21	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	29	false	The Dark Neck of the Woods	How Do We Do It? Quaint and Curious Volume!	none		250	-1	0	0	0	0				0	0	0	0	0	0		
+2	30	false	The Dark Neck of the Woods	Strike One!	none	 | imp unity ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	31	true	The Overgrown Lot	Drawing Lots	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	31	false	The Overgrown Lot	cooler wino	none	 | shysterweed | unflavored wine cooler	13	7	56	14	19	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	32	false	The Overgrown Lot	malt liquor golem	none	 | premium malt liquor | premium malt liquor | brown paper pants | brown paper bag mask | green pixel	14	7	53	27	14	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	33	false	The Overgrown Lot	cooler wino	none	 | swindleblossom | mostly-broken sunglasses | unflavored wine cooler | unflavored wine cooler	12	7	58	10	22	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	34	false	The Overgrown Lot	dire pigeon	none	 | pigeon egg	22	7	55	18	17	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	35	false	The Overgrown Lot	sewer snake with a sewer snake in it	none	 | fraudwort | carton of snake milk | carton of snake milk	20	7	63	12	23	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	36	true	The Overgrown Lot	Boooooze Hound	none	 | bottle of whiskey | bottle of whiskey | unflavored wine cooler | bottle of whiskey | unflavored wine cooler	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	36	false	The Overgrown Lot	Lots of Options	none	 | fraudwort | fraudwort	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	37	false	The Overgrown Lot	cooler wino	none	 | swindleblossom | mostly-broken sunglasses | unflavored wine cooler | handful of stubble	11	7	55	12	29	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	38	false	The Overgrown Lot	cooler wino	none	 | shysterweed | unflavored wine cooler	15	7	48	17	23	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	39	false	The Overgrown Lot	malt liquor golem	none	 | swindleblossom | CSA obedience grenade | premium malt liquor | brown paper pants | brown paper bag mask | Special Seasoning	11	7	52	19	18	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	40	false	The Overgrown Lot	cooler wino	none	 | unflavored wine cooler | unflavored wine cooler	11	7	55	17	18	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	41	false	The Overgrown Lot	Lots of Options	none	 | shysterweed	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	42	true	The Dark Neck of the Woods	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	42	false	The Dark Neck of the Woods	P imp	none	 | hot wing	61	7	60	25	15	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	43	false	The Dark Neck of the Woods	W imp	none	 | Imp Ale | ruby W	63	7	68	14	18	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	44	false	The Dark Neck of the Woods	P imp	none	 | hot wing | Imp Ale | red pixel	63	7	53	22	23	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	45	false	The Dark Neck of the Woods	Hellion	none	 | hellion cube	13	7	61	27	22	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	46	false	The Dark Neck of the Woods	Olive My Love To You, Oh.	none	 | olive | olive	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	47	false	The Dark Neck of the Woods	P imp	none	 | hot wing	61	7	65	22	20	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	48	false	The Dark Neck of the Woods	Dodecahedrariffic!	none	 | dodecagram	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	49	false	The Dark Elbow of the Woods	G imp	none	 | hot wing	66	7	61	12	28	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	50	false	The Dark Elbow of the Woods	L imp	none	 | Imp Ale | flaming crutch	71	7	61	23	17	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	51	false	The Dark Elbow of the Woods	Demoninja	none	 | hot katana blade | li'l ninja costume	106	7	53	18	15	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	52	false	The Dark Elbow of the Woods	Demoninja	none	 | hot katana blade	94	7	53	13	19	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	53	false	The Dark Elbow of the Woods	G imp	none	 | hot wing | Imp Ale | leather mask | Special Seasoning | stick of firewood	69	7	47	17	20	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	54	false	The Dark Elbow of the Woods	Deep Imp Act	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	55	false	The Dark Elbow of the Woods	Demoninja	none	 | hot katana blade | ninja hot pants | blue pixel	120	7	48	19	10	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	56	true	The Haunted Kitchen	The Icewoman	none	 | hot powder | psychokinetic energy blob (5)	90	18	47	12	18	0	 | Misty Form (1)	|Time-Spinner	 | INTIMIDATING BELLOW | BECOME A CLOUD OF MIST | COWBOY KICK | SUMMON LOVE MOSQUITO | SING ALONG | SUMMON LOVE STINKBUG | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	56	true	The Dark Elbow of the Woods	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	56	false	The Dark Elbow of the Woods	Imp Art, Some Wisdom	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	57	false	The Dark Elbow of the Woods	A Secret, But Not the Secret You're Looking For	none	 | bottle of tequila | bottle of gin | bottle of vodka	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	58	true	The Outskirts of Cobb's Knob	Witchess Rook	none	 | Greek fire	10	12	156	54	54	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	58	false	The Dark Elbow of the Woods	Butter Knife?  I'll Take the Knife	none	 | eldritch butterknife	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	59	true	Friar Ceremony Location	N/A	none		0	-1	0	0	0	0	 | items.enh (100)			0	0	0	0	0	0		
+2	59	false	The Laugh Floor	CH Imp	none	 | red pixel	67	7	60	10	20	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	60	false	The Laugh Floor	BL Imp	none		94	7	60	15	15	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	61	false	The Laugh Floor	Carbuncle Top	none	 | CSA cheerfulness ration | hilarious comedy prop | white pixel	0	7	60	24	9	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	62	false	The Laugh Floor	Pr Imp	none		109	7	45	18	23	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	63	false	The Laugh Floor	Pr Imp	none	 | imp air	102	7	58	15	17	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	64	true	The Laugh Floor	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	64	false	The Laugh Floor	Pr Imp	none		94	7	60	17	14	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	65	false	The Laugh Floor	Victor the Insult Comic Hellhound	none	 | Victor, the Insult Comic Hellhound Puppet	0	7	53	17	22	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	66	false	The Laugh Floor	Pr Imp	none		86	7	53	20	13	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	67	false	The Laugh Floor	Larry of the Field of Signs	none	 | observational glasses | green pixel	0	7	60	14	18	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	68	false	The Laugh Floor	CH Imp	none	 | Gathered Meat-Clip	73	7	56	15	18	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	69	false	The Laugh Floor	Pr Imp	none		109	7	45	20	22	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	70	false	The Laugh Floor	BL Imp	none		96	7	55	12	23	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	71	false	The Outskirts of Cobb's Knob	Knob Goblin Assistant Chef	none	 | Knob Goblin tongs | chef's hat	14	7	44	15	15	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	72	false	The Outskirts of Cobb's Knob	Knob Goblin Barbecue Team	none	 | bowl of cottage cheese | Knob Goblin pants	63	8	44	13	18	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SING ALONG | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	73	false	The Outskirts of Cobb's Knob	sleeping Knob Goblin Guard	none	 | viking helmet | Knob Goblin scimitar	37	7	40	9	24	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	74	false	The Outskirts of Cobb's Knob	Sub-Assistant Knob Mad Scientist	none	 | Knob Goblin pants | strongness elixir | Knob Goblin firecracker	12	7	52	7	18	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	75	false	The Outskirts of Cobb's Knob	Sub-Assistant Knob Mad Scientist	none	 | strongness elixir | Knob Goblin firecracker | green pixel	14	7	40	17	17	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	76	false	The Outskirts of Cobb's Knob	Sub-Assistant Knob Mad Scientist	none	 | bone with a price tag on it | Knob Goblin firecracker | Knob Goblin Mutagen	37	7	47	13	15	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	77	true	The Outskirts of Cobb's Knob	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	77	false	The Outskirts of Cobb's Knob	Knob Goblin Assistant Chef	none	 | chef's hat | green pixel	16	7	36	19	18	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	78	false	The Outskirts of Cobb's Knob	Knob Goblin Barbecue Team	none	 | bowl of cottage cheese | Knob Goblin tongs	54	8	52	13	10	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SING ALONG | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	79	false	The Outskirts of Cobb's Knob	Lunchboxing	none	 | Knob Goblin lunchbox	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	80	TRUE	CONSUME: drink 1 Lucky Lindy	N/A	none		0	-1	0	0	0	4				0	0	0	0	0	0		
+2	80	false	The Outskirts of Cobb's Knob	Code Red	none	 | Knob Goblin encryption key	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	81	false	The Laugh Floor	CH Imp	none	 | Gathered Meat-Clip	58	7	56	19	14	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	82	false	The Laugh Floor	Pr Imp	none		94	7	60	17	15	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	83	false	The Laugh Floor	Pr Imp	none	 | CSA discount card | white pixel	96	7	60	18	12	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	84	false	The Laugh Floor	BL Imp	none	 | imp air	75	7	55	13	23	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	85	false	The Laugh Floor	Pr Imp	none	 | blue pixel	111	7	50	17	20	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	86	false	The Laugh Floor	Pr Imp	none		100	7	50	22	17	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	87	false	The Laugh Floor	CH Imp	none		73	7	61	15	19	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	88	false	The Laugh Floor	Pr Imp	none	 | imp air | green pixel	113	7	50	20	18	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	89	false	The Laugh Floor	Pr Imp	none	 | imp air | red pixel	115	7	53	20	15	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	90	true	The Laugh Floor	Playing Fetch*	none	 | tennis ball	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	90	false	The Laugh Floor	BL Imp	none	 | blue pixel	81	7	52	21	24	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	91	false	The Laugh Floor	CH Imp	none	 | imp air	63	7	58	17	15	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	92	false	Infernal Rackets Backstage	A Pertinent Imp	none	 | comfy pillow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	93	false	Infernal Rackets Backstage	Primo Donno	none	 | giant marshmallow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	94	false	Infernal Rackets Backstage	serialbus	none	 | Gathered Meat-Clip	73	7	66	12	9	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	95	false	Infernal Rackets Backstage	inkubus	none		113	7	48	13	22	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	96	false	Infernal Rackets Backstage	Entour Rage	none	 | booze-soaked cherry	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	97	false	Infernal Rackets Backstage	Your Bassist Impulses	none	 | sponge cake	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	98	true	Infernal Rackets Backstage	Witchess Rook	none	 | Greek fire	10	14	165	53	66	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	98	false	Infernal Rackets Backstage	A Dicey Situation	none	 | gin-soaked blotter paper	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	99	false	Infernal Rackets Backstage	inkubus	none	 | bus pass | white pixel	115	7	52	22	15	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	100	false	Infernal Rackets Backstage	suckubus	none		93	7	56	12	19	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	101	false	Infernal Rackets Backstage	inkubus	none		124	7	47	17	20	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	102	false	Infernal Rackets Backstage	suckubus	none	 | bus pass	106	7	56	20	15	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	103	true	Cook 3 wad of dough + 3 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	103	true	Infernal Rackets Backstage	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	103	false	Infernal Rackets Backstage	serialbus	none	 | bus pass | green pixel	76	7	55	22	13	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	104	false	Infernal Rackets Backstage	serialbus	none		79	8	48	13	14	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	105	false	Infernal Rackets Backstage	serialbus	none	 | bus pass | white pixel	71	8	47	10	15	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	106	true	Cook 3 wad of dough + 3 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	106	false	Infernal Rackets Backstage	inkubus	none		154	8	39	17	18	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	107	false	Infernal Rackets Backstage	suckubus	none		129	8	39	18	13	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	108	true	Cook 3 wad of dough + 3 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	108	false	Infernal Rackets Backstage	inkubus	none	 | bus pass | blue pixel | Gathered Meat-Clip	140	8	45	15	14	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	109	true	Cook 3 wad of dough + 3 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	109	true	Cook 3 wad of dough + 3 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	109	TRUE	CONSUME: eat 1 steel lasagna	N/A	none		0	-1	0	0	0	6				0	0	0	0	0	0		
+2	109	true	Cook 3 wad of dough + 3 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	109	false	The Beanbat Chamber	musical fruit bat	none	 | CSA bravery badge | grapefruit | lemon	103	8	42	8	10	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	110	false	The Beanbat Chamber	beanbat	none	 | enchanted bean	90	8	41	10	15	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	111	false	The Spooky Forest	Consciousness of a Stream	none	 | mosquito larva | bottle of goofballs	500	-1	0	0	0	0				0	0	0	0	0	0		
+2	112	false	The Spooky Forest	Consciousness of a Stream	none	 | tree-holed coin	300	-1	0	0	0	0				0	0	0	0	0	0		
+2	113	false	The Spooky Forest	triffid	none	 | moxie weed | spooky stick	11	8	26	8	12	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	114	true	The Smut Orc Logging Camp	The ghost of Richard Cockingham	none	 | psychokinetic energy blob (3)	10	23	30	19	10	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	114	false	The Spooky Forest	wolfman	none	 | blue pixel	33	8	32	14	7	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	115	false	The Spooky Forest	Through Thicket and Thinnet	none	 | Spooky-Gro fertilizer	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	116	false	The Spooky Forest	O Lith, Mon	none	 | Spooky Temple map	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	117	false	The Spooky Forest	Tree's Last Stand	none	 | spooky sapling	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	118	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade;	12	7	42	12	24	0		|Time-Spinner	 | INTIMIDATING BELLOW | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	119	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade;	13	8	60	10	17	0		|Time-Spinner	 | INTIMIDATING BELLOW | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	120	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | blue pixel	14	7	48	13	18	0		|Time-Spinner	 | INTIMIDATING BELLOW | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	121	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | red pixel	13	7	50	17	12	0		|Time-Spinner	 | INTIMIDATING BELLOW | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	122	false	The Bandit Crossroads	fantasy bandit	none	 | Rubee&trade; | fat loot token | green pixel	13	7	47	18	13	0		|Time-Spinner	 | INTIMIDATING BELLOW | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	123	false	The Shore, Inc. Travel Agency	N/A	none	 | Shore Inc. Ship Trip Scrip	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	126	false	The Shore, Inc. Travel Agency	N/A	none	 | Shore Inc. Ship Trip Scrip	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	129	false	The Shore, Inc. Travel Agency	N/A	none	 | Shore Inc. Ship Trip Scrip	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	132	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | Resting Beach Face (50)			0	0	0	0	0	0		
+2	132	false	The Defiled Alcove	modern zmobie	none		0	7	0	0	0	0		|Time-Spinner	 | INTIMIDATING BELLOW | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	133	false	The Defiled Alcove	corpulent zobmie	none	 | cranberries | cranberries | red pixel | Special Seasoning	102	7	44	10	14	0		|Time-Spinner	 | INTIMIDATING BELLOW | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	134	false	The Defiled Alcove	grave rober zmobie	none	 | dead guy's watch | rusty grave robbing shovel	76	7	31	13	22	0		|Time-Spinner	 | INTIMIDATING BELLOW | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	135	false	The Defiled Alcove	modern zmobie	none		0	7	0	0	0	0		|Time-Spinner	 | INTIMIDATING BELLOW | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	136	false	The Defiled Alcove	corpulent zobmie	none	 | cranberries | cranberries	123	7	34	12	20	0		|Time-Spinner	 | INTIMIDATING BELLOW | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	137	true	The Defiled Alcove	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	137	false	The Defiled Alcove	grave rober zmobie	none	 | loose teeth | blue pixel | wriggling worm	86	7	36	12	19	0		|Time-Spinner	 | INTIMIDATING BELLOW | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	138	false	The Defiled Alcove	modern zmobie	none		92	7	37	15	14	0		|Time-Spinner	 | INTIMIDATING BELLOW | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	139	false	The Defiled Alcove	grave rober zmobie	none	 | dead guy's watch	93	7	39	19	9	0		|Time-Spinner	 | INTIMIDATING BELLOW | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	140	false	The Defiled Alcove	modern zmobie	none		0	7	0	0	0	0		|Time-Spinner	 | INTIMIDATING BELLOW | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	141	false	The Defiled Alcove	conjoined zmombie	none	 | loose teeth | cranberries | cranberries	435	7	77	25	22	0	 | Half-Eaten Brain (10)	|Time-Spinner	 | INTIMIDATING BELLOW | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	142	true	Cook 3 wad of dough + 3 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	142	false	The Defiled Nook	spiny skelelton	none	 | skeleton bone | smart skull | spiked femur | evil eye | skelelton spine | succulent marrow	13	8	48	12	13	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	143	true	Cook 3 wad of dough + 3 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	143	true	The Defiled Nook	Skull, Skull, Skull	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	143	true	Cook 1 wad of dough + 1 soda water	N/A	none	 | loaf of soda bread	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	143	false	The Defiled Nook	toothy sklelton	none	 | loose teeth | skeleton bone | bone flute | evil eye	12	8	47	18	9	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	144	true	The Defiled Nook	party skelteon	none		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	144	false	The Defiled Nook	toothy sklelton	none	 | loose teeth | Gathered Meat-Clip	12	8	42	19	10	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	145	true	Cook 3 wad of dough + 3 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	145	true	The Defiled Nook	Skull, Skull, Skull	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	145	true	The Defiled Nook	Skull, Skull, Skull	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	145	false	The Defiled Nook	toothy sklelton	none	 | CSA all-purpose soap | loose teeth | loose teeth	10	8	42	20	10	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	146	false	The Defiled Nook	spiny skelelton	none	 | skeleton bone | smart skull | evil eye | skelelton spine | succulent marrow	10	8	37	20	12	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	147	true	The Defiled Nook	Seeing-Eyes Dog	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	147	true	The Defiled Nook	Skull, Skull, Skull	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	147	false	The Defiled Nook	toothy sklelton	none	 | loose teeth | skeleton bone | bone flute | evil eye	13	8	37	14	19	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	148	false	The Defiled Nook	giant skeelton	none	 | skeleton bone | skeleton bone | skeleton bone | red pixel	14	8	66	23	37	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	149	true	The Defiled Niche	Witchess Rook	none	 | Greek fire	10	12	88	32	33	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	149	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	149	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	149	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	149	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	149	false	The Defiled Niche	dirty old lihc	none	 | salacious crumbs	15	8	31	32	14	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	150	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	150	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	150	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	150	false	The Defiled Niche	senile lihc	none		0	1	0	0	0	0			 | BANISHING SHOUT	0	1	0	0	0	0		
+2	151	false	The Defiled Niche	basic lihc	none	 | bottle of vodka | boxed wine	11	8	47	19	13	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	152	false	The Defiled Niche	a basic lihc!	none	 | boxed wine	75	10	26	12	9	0		|Time-Spinner	 | CHEAT CODE: REPLACE ENEMY | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SING ALONG | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0	 | slick lihc	
+2	153	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	153	false	The Defiled Niche	dirty old lihc	none	 | salacious crumbs	13	8	47	17	18	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	154	true	The Defiled Niche	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	154	false	The Defiled Niche	a basic lihc!	none	 | boxed wine	74	10	18	17	10	0		|Time-Spinner	 | CHEAT CODE: REPLACE ENEMY | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SING ALONG | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0	 | slick lihc	
+2	155	false	The Defiled Niche	basic lihc	none	 | bottle of vodka | boxed wine	14	8	31	29	15	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	156	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	156	false	The Defiled Niche	basic lihc	none	 | bottle of vodka | boxed wine | Gathered Meat-Clip	13	8	44	24	12	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	157	false	The Defiled Niche	basic lihc	none	 | bottle of vodka | boxed wine	11	8	37	20	19	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	158	false	The Defiled Niche	dirty old lihc	none	 | salacious crumbs | white pixel	10	8	48	18	14	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	159	false	The Defiled Niche	dirty old lihc	none	 | salacious crumbs	12	8	36	25	18	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	160	false	The Defiled Niche	a basic lihc!	none	 | bottle of vodka | boxed wine	64	10	28	13	4	0		|Time-Spinner	 | CHEAT CODE: REPLACE ENEMY | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SING ALONG | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0	 | slick lihc	
+2	161	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	161	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	161	false	The Defiled Niche	basic lihc	none	 | bottle of vodka | boxed wine	10	8	34	27	15	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	162	false	The Defiled Niche	gargantulihc	none	 | lihc eye | lihc eye | lihc face	13	8	87	28	20	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | MIGHTY AXING	0	0	0	0	0	0		
+2	163	false	The Defiled Cranny	gaunt ghuol	none	 | ghuol egg | green pixel	42	5	55	29	32	0			 | INTIMIDATING BELLOW | SUMMON LOVE STINKBUG | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	164	false	The Defiled Cranny	giant swarm of ghuol whelps	none		14	5	68	25	19	0			 | INTIMIDATING BELLOW | SUMMON LOVE STINKBUG | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	165	true	The Haunted Conservatory	The ghost of Lord Montague Spookyraven	none		0	27	0	0	0	0		|Time-Spinner	 | INTIMIDATING BELLOW | COWBOY KICK | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	165	false	The Beanbat Chamber	magical fruit bat	none	 | Source essence (3) | orange | strawberry | sonar-in-a-biscuit	92	4	53	28	25	0			 | EXTRACT | CLEAVE	0	0	0	0	0	0		
+2	166	false	A Barroom Brawl	unemployed knob goblin	none	 | bottle of gin | beer lens	44	2	63	18	13	0			 | CLEAVE	0	0	0	0	0	0		
+2	167	false	A Barroom Brawl	skeleton with a mop	none	 | ice-cold Willer | Gathered Meat-Clip	12	3	58	18	18	0				0	0	0	0	0	0		
+2	168	false	A Barroom Brawl	plastered frat orc	none	 | ice-cold fotie | red pixel	73	3	50	20	20	0				0	0	0	0	0	0		
+2	169	false	A Barroom Brawl	unemployed knob goblin	none	 | bottle of rum | bag of QWOP | beer lens	46	3	42	25	22	0			 | THROW TRUSTY	0	0	0	0	0	0		
+2	170	false	A Barroom Brawl	werecougar	none	 | margarita	43	3	56	13	23	0				0	0	0	0	0	0		
+2	171	true	A Barroom Brawl	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	171	false	A Barroom Brawl	Jackin' the Jukebox	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	172	false	The Tavern Cellar	drunken rat king	none	 | rat whisker | rat whisker | rat appendix | rat appendix | tangle of rat tails | white pixel	105	3	66	17	28	0			 | MIGHTY AXING | THROW TRUSTY	0	0	0	0	0	0		
+2	173	false	The Tavern Cellar	Staring Down the Barrel	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	174	false	The Tavern Cellar	drunken rat king	none	 | rat whisker | rat whisker | rat whisker | rat appendix | rat appendix | tangle of rat tails	85	4	72	25	14	0			 | HEROIC BELCH | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+2	175	false	The Tavern Cellar	Crate Expectations	none	 | boxed wine | bottle of gin | bottle of rum	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	176	false	The Tavern Cellar	1984 Had Nothing on This Cellar	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	177	false	The Tavern Cellar	Those Who Came Before You	none	 | Ben-Gal&trade; Balm | shiny ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	178	false	The Boss Bat's Lair	beefy bodyguard bat	none		479	3	71	24	19	0			 | MIGHTY AXING | THROW TRUSTY	0	0	0	0	0	0		
+2	179	false	The Boss Bat's Lair	beefy bodyguard bat	none		502	3	45	18	38	0			 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+2	180	false	The Boss Bat's Lair	beefy bodyguard bat	none		537	3	68	20	18	0			 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+2	181	false	The Boss Bat's Lair	beefy bodyguard bat	none		450	3	56	23	24	0			 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+2	182	false	The Boss Bat's Lair	beefy bodyguard bat	none		459	3	68	18	19	0			 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+2	183	true	The Boss Bat's Lair	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	183	false	The Boss Bat's Lair	beefy bodyguard bat	none	 | Gathered Meat-Clip	591	3	50	28	24	0				0	0	0	0	0	0		
+2	184	false	The Boss Bat's Lair	The Boss Bat	none	 | dense meat stack | batskin belt | Boss Bat bling	10	3	47	32	27	0			 | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	185	TRUE	CONSUME: eat 3 corned-beef Reuben	N/A	none		0	-1	0	0	0	49				0	0	0	0	0	0		
+2	185	TRUE	CONSUME: eat 1 jumping horseradish	N/A	none		0	-1	0	0	0	8	 | Kicked in the Sinuses (50)			0	0	0	0	0	0		
+2	185	TRUE	CONSUME: eat 1 campfire baked potato	N/A	none		0	-1	0	0	0	5	 | Trial by Campfire (60)			0	0	0	0	0	0		
+2	185	TRUE	CONSUME: drink 3 astral pilsner	N/A	none		0	-1	0	0	0	33				0	0	0	0	0	0		
+2	185	true	Your Witchess Set	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	185	false	The Tavern Cellar	bunch of drunken rats	none	 | rat whisker | rat whisker | rat appendix	86	3	53	23	24	0			 | THROW TRUSTY	0	0	0	0	0	0		
+2	186	false	The Tavern Cellar	Of Course!	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	187	false	The Tavern Cellar	bunch of drunken rats	none	 | rat whisker | rat whisker | rat appendix | rat appendix	96	3	62	27	19	0				0	0	0	0	0	0		
+2	188	TRUE	PILLKEEPER: Monday - Explodinall	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	188	false	The Tavern Cellar	drunken rat king	none	 | rat whisker | rat whisker | rat whisker | rat appendix | rat appendix | tangle of rat tails	158	2	56	17	12	0			 | CLEAVE	0	0	0	0	0	0		
+2	189	false	genie summoned monster	Orcish Frat Boy Spy	none	 | distressed denim pants | beer helmet | bejeweled pledge pin	12	3	63	29	24	0	 | Everything Looks Yellow (29)		 | CLEAVE | CLEAVE	0	0	0	0	0	0		
+2	190	false	Wartime Hippy Camp	My Dog Has No Nose	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	191	false	Wartime Hippy Camp	War Hippy (space) cadet	none		10	3	55	19	25	0			 | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	192	false	Wartime Hippy Camp (Frat Disguise)	War Hippy (space) cadet	none	 | stick of firewood	15	3	47	27	27	0			 | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	193	false	Wartime Hippy Camp (Frat Disguise)	War Hippy (space) cadet	none		12	2	63	17	27	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	194	false	Wartime Hippy Camp (Frat Disguise)	War Hippy drill sergeant	none	 | stick of firewood	14	3	56	23	23	0			 | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	195	false	Wartime Hippy Camp (Frat Disguise)	War Hippy (space) cadet	none		10	3	50	27	20	0			 | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	196	false	Wartime Hippy Camp (Frat Disguise)	War Hippy drill sergeant	none	 | Gathered Meat-Clip | stick of firewood	11	4	60	23	22	0			 | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+2	197	true	Wartime Hippy Camp (Frat Disguise)	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	197	false	Wartime Hippy Camp (Frat Disguise)	War Hippy (space) cadet	none		10	3	60	25	17	0				0	0	0	0	0	0		
+2	198	false	Wartime Hippy Camp (Frat Disguise)	War Hippy (space) cadet	none		14	3	52	17	29	0				0	0	0	0	0	0		
+2	199	false	Wartime Hippy Camp (Frat Disguise)	War Hippy (space) cadet	none	 | stick of firewood	12	3	58	24	18	0				0	0	0	0	0	0		
+2	200	false	Wartime Hippy Camp (Frat Disguise)	War Hippy drill sergeant	none	 | green pixel	14	3	52	29	19	0				0	0	0	0	0	0		
+2	201	false	Wartime Hippy Camp (Frat Disguise)	War Hippy (space) cadet	none		13	3	48	23	12	0				0	0	0	0	0	0		
+2	202	false	Wartime Hippy Camp (Frat Disguise)	Blockin' Out the Scenery	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	203	false	The Haunted Billiards Room	chalkdust wraith	none	 | psychokinetic energy blob | handful of hand chalk	11	2	27	4	9	0			 | HEROIC BELCH	0	0	0	0	0	0		
+2	204	false	The Haunted Billiards Room	pooltergeist	none		11	2	18	8	12	0			 | HEROIC BELCH	0	0	0	0	0	0		
+2	205	false	The Haunted Billiards Room	That's Your Cue	none	 | pool cue	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	206	false	The Haunted Billiards Room	Welcome To Our ool Table	none	 | Spookyraven library key	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	207	false	The Haunted Library	writing desk	none	 | bag of GORP | inkwell	12	2	23	10	8	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	208	true	The Haunted Library	bookbat	none		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	208	false	The Haunted Library	banshee librarian	none	 | Source essence (3) | psychokinetic energy blob | red pixel	12	3	26	5	9	0	 | Foe-Splattered (20)		 | EXTRACT | BIFURCATING BLOW	0	0	0	0	0	0		
+2	209	true	The Haunted Library	Witchess Rook	none	 | Greek fire	11	4	63	29	27	0			 | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+2	209	true	The Haunted Library	Take a Look, it's in a Book!	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	209	false	The Haunted Library	banshee librarian	none		0	1	0	0	0	0			 | BANISHING SHOUT	0	1	0	0	0	0		
+2	210	false	The Haunted Library	writing desk	none	 | inkwell | snifter of thoroughly aged brandy	15	2	15	12	11	0			 | THROW TRUSTY	0	0	0	0	0	0		
+2	211	false	The Haunted Library	writing desk	none	 | inkwell | Gathered Meat-Clip	15	2	22	8	11	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	212	true	The Haunted Library	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	212	false	The Haunted Library	writing desk	none	 | inkwell	14	2	27	8	11	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	213	true	The Haunted Library	Melvil Dewey Would Be Ashamed	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	213	false	The Haunted Library	writing desk	none	 | disintegrating quill pen | inkwell | white pixel | Lady Spookyraven's necklace	15	2	23	9	7	0			 | THROW TRUSTY	0	0	0	0	0	0		
+2	214	false	The Haunted Library	writing desk	none	 | disintegrating quill pen | inkwell | snifter of thoroughly aged brandy	11	2	22	7	12	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	215	false	Itznotyerzitz Mine	dopey 7-Foot Dwarf	none		138	2	29	11	10	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	216	true	Deck of Every Card	Mine	none	 | linoleum ore | asbestos ore | chrome ore	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	216	true	Deck of Every Card	XVI - The Tower	none	 | Sneaky Pete's key	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	216	true	The Goatlet	sabre-toothed goat	none		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	216	false	The Goatlet	drunk goat	none		0	1	0	0	0	0			 | BANISHING SHOUT	0	1	0	0	0	0		
+2	217	false	The Goatlet	dairy goat	none	 | goat cheese | blue pixel	139	2	43	13	13	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	218	false	The Goatlet	dairy goat	none	 | goat cheese | glass of goat's milk	152	2	41	11	12	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	219	false	The Goatlet	dairy goat	none	 | goat cheese	137	2	44	12	10	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	220	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	220	false	The Defiled Cranny	gluttonous ghuol	none	 | ghuol ears	165	2	33	14	11	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	221	false	The Defiled Cranny	giant swarm of ghuol whelps	none		10	2	36	15	8	0			 | CLEAVE	0	0	0	0	0	0		
+2	222	false	The Defiled Cranny	huge ghuol	none	 | ghuol egg | ghuol ears	1001	2	63	23	19	0			 | CLEAVE	0	0	0	0	0	0		
+2	223	false	Haert of the Cyrpt	The Bonerdagon	none	 | skull of the Bonerdagon	11	2	0	0	0	0			 | CLEAVE	0	0	0	0	0	0		
+2	224	true	The Penultimate Fantasy Airship	The Beginning of the End of the Penultimate Fantasy	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	224	false	The Penultimate Fantasy Airship	Random Lack of an Encounter	none	 | model airship	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	225	false	The Penultimate Fantasy Airship	Quiet Healer	none	 | soft green echo eyedrop antidote	366	2	38	21	11	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	226	false	The Black Forest	Forty Shades of Black	none	 | black map	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	227	false	The Black Forest	black widow	none	 | black pension check	128	2	48	17	18	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	228	false	The Black Forest	black friar	none	 | black friar's tonsure | green pixel	15	2	49	14	17	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	229	false	The Black Forest	black magic woman	none	 | black magic powder	288	2	50	13	19	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	230	false	The Black Forest	black adder	none	 | sunken eyes	299	2	41	21	18	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	231	false	The Black Forest	You Found Your Thrill	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	232	false	The Black Forest	Bee Persistent	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	233	true	The Black Forest	Bee Rewarded	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	233	false	The Black Forest	N/A	none	 | beehive	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	234	false	The Black Forest	black panther	none	 | Black No. 2 | broken wings	415	2	0	0	0	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	235	true	The Black Forest	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	235	false	The Black Forest	black friar	none	 | black label | red pixel | stick of firewood	13	2	46	16	18	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	236	false	The Black Forest	blackberry bush	none	 | blackberry | blackberry | blackberry | stick of firewood	14	2	40	23	17	0			 | CLEAVE	0	0	0	0	0	0		
+2	237	false	The Black Forest	black friar	none	 | black friar's tonsure	12	2	44	15	21	0			 | CLEAVE	0	0	0	0	0	0		
+2	238	false	The Black Forest	black magic woman	none	 | blue pixel	168	2	61	15	8	0			 | CLEAVE	0	0	0	0	0	0		
+2	239	false	The Black Forest	black widow	none	 | Gathered Meat-Clip	90	2	52	10	20	0			 | CLEAVE	0	0	0	0	0	0		
+2	240	false	The Black Forest	black widow	none	 | black pension check	80	2	48	18	16	0			 | CLEAVE	0	0	0	0	0	0		
+2	241	false	The Black Forest	The Blackberry Cobbler	none	 | blackberry galoshes	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	242	false	The Black Forest	black adder	none	 | black snake skin | stick of firewood	159	2	53	12	18	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	243	false	The Black Forest	black panther	none	 | CSA obedience grenade | Black No. 2 | stick of firewood	220	2	50	19	18	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	244	false	The Black Forest	black panther	none		255	2	54	16	13	0			 | CLEAVE	0	0	0	0	0	0		
+2	245	true	Cook 42 wad of dough + 42 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	245	true	The Haunted Gallery	guy with a pitchfork, and his wife	none		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	245	true	The Haunted Gallery	cubist bull	none		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	245	false	The Shore, Inc. Travel Agency	N/A	none	 | your father's MacGuffin diary	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	248	true	Cobb's Knob Harem	Knob Goblin Harem Guard	none		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	248	true	Cobb's Knob Harem	Cobb's Knob lab key	none	 | Cobb's Knob lab key	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	248	false	The Knob Shaft	ghost miner	none	 | psychokinetic energy blob	13	4	29	11	17	0			 | MIGHTY AXING | CLEAVE | HEROIC BELCH	0	0	0	0	0	0		
+2	249	false	The Knob Shaft	ghost miner	none	 | psychokinetic energy blob | bubblewrap ore	15	2	34	10	8	0			 | HEROIC BELCH	0	0	0	0	0	0		
+2	250	false	The Knob Shaft	ghost miner	none	 | psychokinetic energy blob	15	2	29	12	9	0			 | HEROIC BELCH	0	0	0	0	0	0		
+2	251	false	The Knob Shaft	ghost miner	none	 | psychokinetic energy blob | styrofoam ore	12	2	36	10	13	0			 | HEROIC BELCH	0	0	0	0	0	0		
+2	252	false	The Knob Shaft	ghost miner	none	 | psychokinetic energy blob | bubblewrap ore	13	2	25	11	15	0			 | HEROIC BELCH	0	0	0	0	0	0		
+2	253	true	The Knob Shaft	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	253	false	The Knob Shaft	A Miner Variation	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	254	false	The Luter's Grave	The Luter	none	 | Clancy's lute | blue pixel	15	3	38	8	19	0			 | HEROIC BELCH | MIGHTY AXING	0	0	0	0	0	0		
+2	255	true	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	255	false	The Penultimate Fantasy Airship	Protagonist	none		0	1	0	0	0	0	 | Temporary Amnesia (5)		 | BANISHING SHOUT	0	1	0	0	0	0		
+2	256	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none	 | photoprotoneutron torpedo | white pixel | Gathered Meat-Clip	10	4	34	13	13	0			 | MIGHTY AXING | CLEAVE	0	0	0	0	0	0		
+2	257	false	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	none	 | soft green echo eyedrop antidote	232	6	32	10	15	0			 | REFLEX HAMMER | REFLEX HAMMER | REFLEX HAMMER | MIGHTY AXING	3	3	0	0	0	0		
+2	258	TRUE	PILLKEEPER: Monday - Explodinall	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	258	false	The Penultimate Fantasy Airship	Burly Sidekick	none	 | cocoa eggshell fragment | tiny house | armgun	211	3	42	2	14	0			 | OTOSCOPE | MIGHTY AXING	0	0	0	0	0	0		
+2	259	true	The Penultimate Fantasy Airship	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	259	false	The Hidden Temple	Baa'baa'bu'ran	none	 | stone wool | stone wool | stone wool | red pixel	11	2	44	15	6	0	 | Everything Looks Yellow (29)		 | CLEAVE	0	0	0	0	0	0		
+2	260	false	The Penultimate Fantasy Airship	a Burly Sidekick!	none	 | cocoa eggshell fragment | blue pixel	238	3	25	8	6	0			 | CHEAT CODE: REPLACE ENEMY | MIGHTY AXING	0	0	0	0	0	0	 | Irritating Series of Random Encounters	
+2	261	true	Cobb's Knob Harem	Knob Goblin Madam	none		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	261	false	Cobb's Knob Harem	Knob Goblin Harem Girl	none	 | Knob Goblin harem pants	12	2	21	4	10	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	262	false	Cobb's Knob Harem	Knob Goblin Harem Girl	none	 | Knob Goblin harem pants	15	2	13	11	10	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	263	false	Cobb's Knob Harem	Knob Goblin Harem Guard	none		11	2	23	6	4	0			 | CLEAVE	0	0	0	0	0	0		
+2	264	false	Cobb's Knob Harem	Knob Goblin Harem Girl	none	 | Knob Goblin harem veil	15	2	15	9	9	0			 | CLEAVE	0	0	0	0	0	0		
+2	265	false	Cobb's Knob Harem	Plucked	none		0	-1	0	0	0	0	 | Knob Goblin Perfume (1)			0	0	0	0	0	0		
+2	266	false	Throne Room	Is There A Doctor In The House?	none	 | dense meat stack (2) | Crown of the Goblin King | alabaster pawn	10	2	53	26	29	0			 | MIGHTY AXING	0	0	0	0	0	0		
+2	267	false	The Copperhead Club	Shen Copperhead, Nightclub Owner	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	268	TRUE	PILLKEEPER: Sunday - Surprise Me	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	268	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | Oiled, Slick (50) | damage.enh (100)			0	0	0	0	0	0		
+2	268	TRUE	PILLKEEPER: Sunday - Surprise Me	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	268	false	A Mob of Zeppelin Protesters	Bench Warrant	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	269	TRUE	PILLKEEPER: Sunday - Surprise Me	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	269	false	A Mob of Zeppelin Protesters	Bench Warrant	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	270	TRUE	CONSUME: drink 1 Bee's Knees	N/A	none		0	-1	0	0	0	7	 | On the Trolley (25)			0	0	0	0	0	0		
+2	270	false	A Mob of Zeppelin Protesters	Bench Warrant	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	271	true	Boxing Daycare	Have a Boxing Daydream	none	 | bauxite bow-tie	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	271	false	A Mob of Zeppelin Protesters	Bench Warrant	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	272	true	A Mob of Zeppelin Protesters	Too Much Humanity	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	272	false	A Mob of Zeppelin Protesters	eagle	none	 | eagle's milk	0	2	30	9	15	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	273	false	A Mob of Zeppelin Protesters	Blue Oyster cultist	none	 | fire of unknown origin | Gathered Meat-Clip	123	2	26	13	11	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	274	false	A Mob of Zeppelin Protesters	Bench Warrant	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	275	true	A Mob of Zeppelin Protesters	Not So Much With The Humanity	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	275	true	The Red Zeppelin	Zeppelintro	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	275	true	The Red Zeppelin	Red Snapper	none		0	2	0	0	0	0		|rock band flyers	 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+3	275	false	The Red Zeppelin	red skeleton	none	 | Source essence (3) | red box | Red Army camouflage kit	0	4	28	13	11	0		|rock band flyers	 | EXTRACT | THROW TRUSTY	0	0	0	0	0	0		
+3	276	false	The Red Zeppelin	Red Herring	none	 | bag of GORP | red box	171	3	27	11	17	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	277	false	The Red Zeppelin	red butler	none	 | Source essence (2) | glark cable	94	4	27	20	8	0		|rock band flyers	 | EXTRACT | MIGHTY AXING	0	0	0	0	0	0		
+3	278	true	The Red Zeppelin	the man with the red buttons	none	 | red button (3)	193	2	36	9	13	0		|glark cable		0	0	1	0	0	0		
+3	278	false	The Red Zeppelin	Red Herring	none	 | Source essence (2)	169	4	31	16	7	0	 | Creepypasted (5)	|rock band flyers	 | EXTRACT | THROW TRUSTY	0	0	0	0	0	0		
+3	279	false	The Red Zeppelin	the man with the red buttons	none	 | Source essence | red button (2)	193	4	27	11	18	0		|rock band flyers	 | EXTRACT | THROW TRUSTY	0	0	0	0	0	0		
+3	280	false	The Red Zeppelin	red skeleton	none	 | Source essence | water purification pills | red eye | Red Army camouflage kit | browser cookie | browser cookie | browser cookie	0	4	37	11	6	0		|rock band flyers	 | EXTRACT | THROW TRUSTY	0	0	0	0	0	0		
+3	281	true	The Red Zeppelin	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+3	281	false	The Red Zeppelin	red skeleton	none	 | red box | red blood cells	0	4	24	14	16	0		|rock band flyers	 | PORTSCAN | MIGHTY AXING	0	0	0	0	0	0		
+3	282	false	Sonofa Beach	a lobsterfrogman!	none	 | barrel of gunpowder | white pixel	79	5	33	12	10	0		|rock band flyers	 | CHEAT CODE: REPLACE ENEMY | DIGITIZE | MIGHTY AXING	0	0	0	0	0	1	 | Government agent	
+3	283	TRUE	CONSUME: eat 1 browser cookie	N/A	none		0	-1	0	0	0	29				0	0	0	0	0	0		
+3	283	TRUE	CONSUME: eat 1 browser cookie	N/A	none		0	-1	0	0	0	29				0	0	0	0	0	0		
+3	283	TRUE	CONSUME: eat 1 browser cookie	N/A	none		0	-1	0	0	0	28				0	0	0	0	0	0		
+3	283	TRUE	CONSUME: eat 1 corned-beef Reuben	N/A	none		0	-1	0	0	0	18				0	0	0	0	0	0		
+3	283	TRUE	CONSUME: eat 1 corned-beef Reuben	N/A	none		0	-1	0	0	0	18				0	0	0	0	0	0		
+3	283	TRUE	CONSUME: eat 1 corned-beef Reuben	N/A	none		0	-1	0	0	0	19				0	0	0	0	0	0		
+3	283	false	The Red Zeppelin	Ron &quot;The Weasel&quot; Copperhead	none	 | Copperhead Charm (rampant)	361	3	31	16	11	0	 | Marco Polarity (5)	|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	284	false	The Hidden Temple	Such Great Heights	none	 | the Nostril of the Serpent	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	285	true	The Hidden Temple	The Hidden Heart of the Hidden Temple	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	285	false	The Hidden Temple	Now What?	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	286	false	The Hidden Temple	Beginning at the Beginning of Beginning	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	287	false	The Hidden Temple	No Visible Means of Support	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	288	false	The Haunted Bedroom	One Ornate Nightstand	none	 | white pixel | disposable instant camera	0	2	15	7	9	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	289	true	The Haunted Bedroom	Wardr&ouml;b nightstand	none		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+3	289	false	The Haunted Bedroom	One Ornate Nightstand	none	 | red pixel | Gathered Meat-Clip | Lord Spookyraven's spectacles	0	2	19	14	7	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	290	false	The Haunted Bedroom	One Rustic Nightstand	none		0	2	17	8	14	0	 | Foe-Splattered (20)		 | BIFURCATING BLOW	0	0	0	0	0	0		
+3	291	true	The Haunted Bedroom	government bureaucrat	none	 | Camp Scout pup tent | red pixel	100	5	69	25	41	0		|rock band flyers	 | MIGHTY AXING | MIGHTY AXING | THROW TRUSTY	0	0	0	0	0	0		
+3	291	false	The Haunted Bedroom	animated ornate nightstand	none		0	1	0	0	0	0			 | BANISHING SHOUT	0	1	0	0	0	0		
+3	292	false	The Haunted Bedroom	One Elegant Nightstand	none	 | blue pixel | Lady Spookyraven's finest gown	0	2	13	9	7	0	 | Hagg-ard (5)		 | THROW TRUSTY	0	0	0	0	0	0		
+3	293	false	The Haunted Bathroom	malevolent hair clog	none		0	2	0	0	0	0		|rock band flyers	 | BANISHING SHOUT	0	1	0	0	0	0		
+3	294	false	The Haunted Bathroom	toilet papergeist	none	 | roll of toilet paper | red pixel	0	3	17	11	5	0		|rock band flyers	 | THROW TRUSTY	0	0	0	0	0	0		
+3	295	TRUE	CONSUME: drink 3 astral pilsner	N/A	none		0	-1	0	0	0	33				0	0	0	0	0	0		
+3	295	TRUE	CONSUME: drink 1 iced plum wine	N/A	none		0	-1	0	0	0	6				0	0	0	0	0	0		
+3	295	false	The Haunted Bathroom	lobsterfrogman	none	 | barrel of gunpowder	112	3	32	14	14	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	296	false	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	none		0	2	0	0	0	0		|rock band flyers	 | BANISHING SHOUT	0	1	0	0	0	0		
+3	297	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none	 | glowing red eye | photoprotoneutron torpedo	0	3	34	9	9	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	298	false	The Penultimate Fantasy Airship	Gesundheitgeist!	none	 | Tissue Paper Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	299	true	The Penultimate Fantasy Airship	Spunky Princess	none		0	2	0	0	0	0		|rock band flyers	 | REFLEX HAMMER	1	1	0	0	0	0		
+3	299	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none	 | metallic A	0	3	33	7	9	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	300	false	The Penultimate Fantasy Airship	Burly Sidekick	none	 | cocoa eggshell fragment | tiny house | armgun	264	4	28	6	8	0	 | Petit Forbearance (5)	|rock band flyers	 | OTOSCOPE | MIGHTY AXING	0	0	0	0	0	0		
+3	301	false	The Penultimate Fantasy Airship	a Quiet Healer!	none	 | amulet of extreme plot significance | scroll of drastic healing | soft green echo eyedrop antidote	248	4	18	8	6	0			 | CHEAT CODE: REPLACE ENEMY | OTOSCOPE | MIGHTY AXING	0	0	0	0	0	0	 | Protagonist	
+3	302	false	The Penultimate Fantasy Airship	Burly Sidekick	none	 | cocoa eggshell fragment | tiny house	274	4	25	9	9	0		|rock band flyers	 | OTOSCOPE | THROW TRUSTY	0	0	0	0	0	0		
+3	303	false	The Penultimate Fantasy Airship	Burly Sidekick	none	 | CSA fire-starting kit | cocoa eggshell fragment | tiny house	260	3	21	13	9	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	304	false	The Penultimate Fantasy Airship	Quiet Healer	none	 | amulet of extreme plot significance | scroll of drastic healing | Tears of the Quiet Healer | Gathered Meat-Clip	234	3	22	9	11	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	305	false	The Penultimate Fantasy Airship	Protagonist	none	 | super-spiky hair gel | phonics down	208	3	24	10	10	0	 | Remaining Alive (5)	|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	306	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none	 | metallic A | glowing red eye | photoprotoneutron torpedo | magilaser blastercannon	0	3	29	7	14	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	307	false	The Penultimate Fantasy Airship	Burly Sidekick	none	 | almost-dead walkie-talkie | cocoa eggshell fragment | tiny house	266	3	30	9	5	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	308	true	The Penultimate Fantasy Airship	Quiet Healer	none		0	2	0	0	0	0		|rock band flyers	 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+3	308	false	The Penultimate Fantasy Airship	Burly Sidekick	none	 | cocoa eggshell fragment | tiny house	294	3	28	8	9	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	309	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none	 | metallic A | photoprotoneutron torpedo | oversized pizza cutter | magilaser blastercannon	0	3	24	17	9	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	310	true	The Penultimate Fantasy Airship	Playing Fetch*	none	 | tennis ball	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	310	false	The Penultimate Fantasy Airship	Protagonist	none	 | super-spiky hair gel | phonics down	255	3	24	8	12	0	 | Dirty Pear (5)	|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	311	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none	 | metallic A | photoprotoneutron torpedo | white pixel	0	3	27	12	9	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	312	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none	 | metallic A | photoprotoneutron torpedo | oversized pizza cutter | magilaser blastercannon	0	3	31	11	7	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	313	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none	 | metallic A | glowing red eye | photoprotoneutron torpedo | oversized pizza cutter	0	3	26	13	10	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	314	false	The Penultimate Fantasy Airship	Burly Sidekick	none	 | cocoa eggshell fragment | tiny house	350	3	22	9	18	0	 | Driving Stealthily (30)	|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	315	false	The Penultimate Fantasy Airship	lobsterfrogman	none	 | CSA scoutmaster's &quot;water&quot; | barrel of gunpowder | Gathered Meat-Clip	103	4	29	21	18	0	 | Wet and Greedy (5)	|rock band flyers	 | MIGHTY AXING | THROW TRUSTY	0	0	0	0	0	0		
+3	316	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none	 | glowing red eye | photoprotoneutron torpedo | red pixel	0	3	22	11	15	0		|rock band flyers	 | THROW TRUSTY	0	0	0	0	0	0		
+3	317	false	The Penultimate Fantasy Airship	Don't Chew on That Spirit!	none	 | Tin Foil Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	318	false	The Penultimate Fantasy Airship	Protagonist	none	 | ridiculously huge sword | super-spiky hair gel | phonics down	154	3	25	5	13	0		|rock band flyers	 | THROW TRUSTY	0	0	0	0	0	0		
+3	319	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none	 | metallic A | photoprotoneutron torpedo	0	3	27	11	10	0		|rock band flyers	 | THROW TRUSTY	0	0	0	0	0	0		
+3	320	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none	 | glowing red eye | photoprotoneutron torpedo	0	3	36	10	9	0		|rock band flyers	 | THROW TRUSTY	0	0	0	0	0	0		
+3	321	false	The Penultimate Fantasy Airship	Protagonist	none	 | ridiculously huge sword | super-spiky hair gel	151	3	29	10	10	0	 | Joyful Resolve (5)	|rock band flyers	 | THROW TRUSTY	0	0	0	0	0	0		
+3	322	false	The Penultimate Fantasy Airship	Protagonist	none	 | super-spiky hair gel | phonics down	148	3	31	10	4	0		|rock band flyers	 | THROW TRUSTY	0	0	0	0	0	0		
+3	323	false	The Penultimate Fantasy Airship	The Most Absorbent Spirit Ever	none	 | Gauze Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	324	true	The Penultimate Fantasy Airship	Burly Sidekick	none	 | Mohawk wig | cocoa eggshell fragment | tiny house | armgun	198	2	20	11	12	0			 | ASDON MARTIN: MISSILE LAUNCHER	0	0	0	0	0	0		
+3	324	false	The Penultimate Fantasy Airship	Protagonist	none	 | super-spiky hair gel | phonics down	154	3	25	10	10	0		|rock band flyers	 | THROW TRUSTY	0	0	0	0	0	0		
+3	325	false	The Penultimate Fantasy Airship	Burly Sidekick	none	 | cocoa eggshell fragment | tiny house	211	3	25	12	7	0		|rock band flyers	 | THROW TRUSTY	0	0	0	0	0	0		
+3	326	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none		0	3	27	18	8	0	 | Moxious Intentions (5)	|rock band flyers	 | THROW TRUSTY	0	0	0	0	0	0		
+3	327	false	The Penultimate Fantasy Airship	Burly Sidekick	none	 | cocoa eggshell fragment | tiny house | armgun | blue pixel	223	3	25	13	12	0		|rock band flyers	 | THROW TRUSTY	0	0	0	0	0	0		
+3	328	false	The Penultimate Fantasy Airship	Protagonist	none	 | super-spiky hair gel | Gathered Meat-Clip	166	3	20	8	18	0		|rock band flyers	 | THROW TRUSTY	0	0	0	0	0	0		
+3	329	false	The Penultimate Fantasy Airship	Spunky Princess	none	 | bag of GORF | tiny house | cocoa eggshell fragment	189	3	18	10	17	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	330	false	The Penultimate Fantasy Airship	Rip Rop Wrappety Do	none	 | Plastic Wrap Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	false	The Penultimate Fantasy Airship	F-F-Fantastic!	none	 | S.O.C.K.	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	332	false	The Castle in the Clouds in the Sky (Basement)	You Don't Mess Around with Gym	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	333	true	The Castle in the Clouds in the Sky (Ground Floor)	Huzzah!	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	333	false	The Castle in the Clouds in the Sky (Ground Floor)	Procrastination Giant	none	 | procrastination potion	219	2	24	13	13	0	 | Foe-Splattered (20)		 | BIFURCATING BLOW	0	0	0	0	0	0		
+3	334	false	The Castle in the Clouds in the Sky (Ground Floor)	Putting Off Is Off-Putting	none	 | very overdue library book	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	335	true	The Castle in the Clouds in the Sky (Ground Floor)	Putting Off Is Off-Putting	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	335	false	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	none	 | Ye Olde Bawdy Limerick | Ye Olde Medieval Insult	145	4	37	9	4	0	 | Extra Backbone (5)	|rock band flyers	 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+3	336	false	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	none	 | giant heirloom grape tomato	136	4	31	17	11	0		|rock band flyers	 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+3	337	false	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	none	 | Ye Olde Bawdy Limerick	142	4	29	8	16	0		|rock band flyers	 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+3	338	false	The Castle in the Clouds in the Sky (Ground Floor)	Home on the Free Range	none	 | electric boning knife	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	339	true	Cook 41 wad of dough + 41 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	339	true	The Castle in the Clouds in the Sky (Ground Floor)	Procrastination Giant	none		0	2	0	0	0	0		|rock band flyers	 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+3	339	true	The Castle in the Clouds in the Sky (Ground Floor)	There's No Ability Like Possibility	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	339	false	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	none		135	4	25	10	19	0		|rock band flyers	 | THROW TRUSTY | MIGHTY AXING	0	0	0	0	0	0		
+3	340	false	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	none	 | giant turkey leg | Ye Olde Bawdy Limerick	151	3	30	15	9	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	341	true	The Castle in the Clouds in the Sky (Ground Floor)	Wooof! Wooooooof!	none	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	341	true	The Castle in the Clouds in the Sky (Ground Floor)	There's No Ability Like Possibility	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	341	true	The Castle in the Clouds in the Sky (Ground Floor)	Huzzah!	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	341	false	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	none	 | giant heirloom grape tomato | chipotle wasabi cilantro aioli	141	4	28	16	10	0	 | Strength of Ten Ettins (5)	|rock band flyers	 | THROW TRUSTY | MIGHTY AXING	0	0	0	0	0	0		
+3	342	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	342	false	The Castle in the Clouds in the Sky (Ground Floor)	Top of the Castle, Ma	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	343	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	343	false	The Castle in the Clouds in the Sky (Top Floor)	Copper Feel	none	 | steam-powered model rocketship	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	344	false	The Castle in the Clouds in the Sky (Top Floor)	Keep On Turnin' the Wheel in the Sky	none	 | giant discarded bottlecap	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	345	false	Lair of the Ninja Snowmen	lobsterfrogman	none	 | barrel of gunpowder	127	3	30	14	20	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	346	false	Lair of the Ninja Snowmen	Ninja Snowman	none	 | frigid ninja stars | plain snowcone | li'l ninja costume	0	3	22	11	10	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	347	false	Lair of the Ninja Snowmen	Ninja Snowman	none	 | frigid ninja stars | plain snowcone | Gathered Meat-Clip	0	3	22	10	10	0		|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	348	false	Lair of the Ninja Snowmen	Ninja Snowman	none	 | plain snowcone	0	3	26	12	5	0		|rock band flyers	 | BIFURCATING BLOW | MIGHTY AXING	0	0	0	0	0	0		
+3	349	false	Lair of the Ninja Snowmen	ninja snowman assassin	none	 | ninja rope	0	4	35	12	14	0	 | Sweet Tooth (5)	|LOV Enamorang|rock band flyers	 | MIGHTY AXING	0	0	0	0	0	0		
+3	350	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	350	true	The Tunnel of L.O.V.E.	LOV Enforcer	none		0	7	49	26	30	0		|rock band flyers	 | THROW TRUSTY | HEROIC BELCH | HEROIC BELCH | HEROIC BELCH | HEROIC BELCH	0	0	0	0	0	0		
+3	350	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	350	true	The Tunnel of L.O.V.E.	LOV Engineer	none	 | LOV Earrings	0	4	60	19	26	0		|rock band flyers	 | CLEAVE | CLEAVE	0	0	0	0	0	0		
+3	350	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	350	true	The Tunnel of L.O.V.E.	LOV Equivocator	none	 | CSA obedience grenade	0	5	59	20	26	0	 | Wandering Eye Surgery (50)	|rock band flyers	 | CLEAVE | CLEAVE | CLEAVE	0	0	0	0	0	0		
+3	350	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	none	 | LOV Enamorang	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	350	false	The Smut Orc Logging Camp	smut orc nailer	none	 | long hard screw	62	2	20	6	10	0			 | CLEAVE	0	0	0	0	0	0		
+3	351	false	The Smut Orc Logging Camp	smut orc jacker	none	 | morningwood plank | raging hardwood plank | thick caulk | orcish hand lotion	75	2	15	7	15	0	 | There Wolf (5)		 | CLEAVE	0	0	0	0	0	0		
+3	352	false	The Smut Orc Logging Camp	smut orc pipelayer	none	 | morningwood plank	99	2	20	7	10	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	353	false	The Smut Orc Logging Camp	The Frattlesnake	none	 | messy butt joint | The Lacrosse Stick of Lacoronado	0	3	26	12	22	0		|rock band flyers	 | CLEAVE	0	0	0	0	0	0		
+3	354	false	Next to that Barrel with Something Burning in it	vegetable gremlin	none		0	1	0	0	0	0			 | BANISHING SHOUT	0	1	0	0	0	0		
+3	355	false	Next to that Barrel with Something Burning in it	batwinged gremlin	none	 | gremlin juice	150	2	33	13	15	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	356	false	Next to that Barrel with Something Burning in it	batwinged gremlin	none	 | molybdenum hammer	168	4	38	17	9	0		|seal tooth|seal tooth|molybdenum magnet		0	0	0	0	0	0		
+3	357	true	The Haunted Bathroom	government bureaucrat	none		162	4	54	25	24	0	 | Broken Bone Nubs (5)		 | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+3	357	true	Over Where the Old Tires Are	spider gremlin	none		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+3	357	false	Over Where the Old Tires Are	erudite gremlin	none	 | molybdenum crescent wrench	171	4	42	13	14	0		|seal tooth|seal tooth|molybdenum magnet		0	0	0	0	0	0		
+3	358	false	Near an Abandoned Refrigerator	spider gremlin	none	 | molybdenum pliers	153	2	51	4	16	0		|molybdenum magnet		0	0	0	0	0	0		
+3	359	false	Out by that Rusted-Out Car	a vegetable gremlin!	none	 | molybdenum screwdriver | Gathered Meat-Clip	147	5	29	12	10	0		|seal tooth|seal tooth|molybdenum magnet	 | CHEAT CODE: REPLACE ENEMY	0	0	0	0	0	0	 | erudite gremlin	
+3	360	false	The Copperhead Club	waiter dressed as a ninja	none	 | crappy waiter disguise | breadchucks	75	2	34	11	21	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	361	false	The Copperhead Club	fan dancer	none	 | red silk skirt	291	2	33	17	12	0	 | Sweet Nostalgia (5)		 | MIGHTY AXING	0	0	0	0	0	0		
+3	362	false	The Copperhead Club	Phil Collins the bartender	none	 | unrequired jacket	294	2	33	12	15	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	363	false	The Copperhead Club	ninja dressed as a waiter	none	 | crappy waiter disguise | throwing spoon | ninja fear powder | white pixel	0	2	29	13	20	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	364	false	The Copperhead Club	Shen Copperhead, Jerk	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	365	false	The Copperhead Club	ninja snowman assassin	none	 | ninja crampons	0	3	37	20	8	0		|LOV Enamorang	 | MIGHTY AXING	0	0	0	0	0	0		
+3	366	false	The Unquiet Garves	lihc	none	 | lihc eye | blue pixel	111	2	20	5	4	0	 | Foe-Splattered (20)		 | BIFURCATING BLOW	0	0	0	0	0	0		
+3	367	false	The Unquiet Garves	zobmie	none	 | CSA cheerfulness ration | cranberries | cranberries	99	2	16	5	7	0	 | Dance Interpreter (5)		 | THROW TRUSTY	0	0	0	0	0	0		
+3	368	false	The Unquiet Garves	Smart Skelton	none	 | smart skull	0	2	16	12	7	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	369	false	The Unquiet Garves	ghuol	none	 | ghuol egg | ghuol ears	87	2	16	7	6	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	370	false	The Unquiet Garves	grave rober	none	 | grave robbing shovel	0	2	19	7	4	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	371	false	The Unquiet Garves	the Snakeleton	none	 | The Shield of Brook | Gathered Meat-Clip	0	2	33	18	15	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	372	false	The Copperhead Club	the Mob Penguin Capo	none	 | tommy gun | drum of tommy ammo | drum of tommy ammo	546	2	38	16	12	0	 | 20-20 Second Sight (5)		 | MIGHTY AXING	0	0	0	0	0	0		
+3	373	true	The Copperhead Club	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+3	373	false	The Copperhead Club	Buck Collins the bartender	none	 | unnamed cocktail | handful of tips | unrequired jacket | electric copperhead potion	294	2	41	13	8	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	374	false	The Copperhead Club	Shen Copperhead, Huge Jerk	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	375	false	The Hole in the Sky	The Junk	none	 | star | line | line	0	2	42	13	16	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	376	true	Cook 38 wad of dough + 38 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	376	false	The Hole in the Sky	The Pork Sword	none	 | star | line	0	2	40	18	11	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	377	false	The Hole in the Sky	The Pork Sword	none	 | star | star | line | blue pixel	0	2	43	14	11	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	378	false	The Hole in the Sky	The Family Jewels	none	 | star | star	0	2	40	13	13	0	 | Wary (5)		 | MIGHTY AXING	0	0	0	0	0	0		
+3	379	true	The Haunted Bathroom	government bureaucrat	none	 | government requisition form | absentee voter ballot | blue pixel	126	5	53	24	26	0			 | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | THROW TRUSTY	0	0	0	0	0	0		
+3	379	false	The Hole in the Sky	The Snake With Like Ten Heads	none	 | The Eye of the Stars	0	3	25	16	15	0			 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+3	380	false	The Haunted Gallery	ninja snowman assassin	none	 | red pixel | ninja carabiner	0	2	35	8	13	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	381	false	Mist-Shrouded Peak	panicking Knott Yeti	none	 | yeti fur	689	2	22	7	17	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	382	true	The Haunted Gallery	empty suit of armor	none		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+3	382	false	Mist-Shrouded Peak	panicking Knott Yeti	none	 | yeti fur	609	2	22	13	9	0	 | critical.enh (5)		 | THROW TRUSTY	0	0	0	0	0	0		
+3	383	false	Mist-Shrouded Peak	panicking Knott Yeti	none	 | yeti fur | Gathered Meat-Clip	731	2	20	7	18	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	384	false	Mist-Shrouded Peak	Groar	none	 | Groar's fur | dense meat stack (5)	0	4	47	19	29	0			 | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+3	385	false	The Icy Peak	lobsterfrogman	none	 | barrel of gunpowder	213	3	33	12	17	0			 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+3	386	false	The Icy Peak	upgraded ram	none	 | Ram's Face Lager | Mt. McLargeHuge oyster	350	2	25	9	13	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	387	false	The Icy Peak	Snow Queen	none	 | CSA discount card | crazy little Turkish delight	0	4	24	8	13	0	 | The More You Eat (5)		 | THROW TRUSTY | HEROIC BELCH | HEROIC BELCH	0	0	0	0	0	0		
+3	388	false	The Icy Peak	Knott Yeti	none	 | yeti fur	675	3	19	9	19	0			 | HEROIC BELCH | HEROIC BELCH	0	0	0	0	0	0		
+3	389	false	The Icy Peak	Knott Yeti	none	 | yeti fur	693	2	22	10	13	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	390	true	The Icy Peak	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+3	390	false	The Icy Peak	Mercury Rising	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	391	false	The Haunted Bathroom	cosmetics wraith	none	 | Lady Spookyraven's powder puff | old eyebrow pencil | old rosewater cream | old bronzer	0	2	21	7	12	0			 | HEROIC BELCH	0	0	0	0	0	0		
+3	392	false	The Haunted Gallery	guy with a pitchfork, and his wife	none		90	2	15	6	13	0	 | Foe-Splattered (20)		 | BIFURCATING BLOW	0	0	0	0	0	0		
+3	393	true	The Haunted Gallery	Out in the Garden	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	393	false	The Haunted Gallery	cubist bull	none		132	2	14	9	15	0	 | Broken Bone Nubs (5)		 | THROW TRUSTY	0	0	0	0	0	0		
+3	394	false	The Haunted Gallery	guy with a pitchfork, and his wife	none		104	2	15	5	13	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	395	false	The Haunted Gallery	guy with a pitchfork, and his wife	none	 | Gathered Meat-Clip	86	2	13	6	14	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	396	true	Your Witchess Set	Witchess Knight	none	 | jumping horseradish	0	4	50	27	30	0			 | DIGITIZE | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	1		
+3	396	true	Your Witchess Set	Witchess Knight	none	 | jumping horseradish	0	3	54	28	29	0			 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+3	396	true	Your Witchess Set	Witchess Knight	none	 | jumping horseradish	0	3	47	25	43	0	 | Berry Experiential (5)		 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+3	396	true	Your Witchess Set	Witchess Knight	none	 | jumping horseradish	0	3	58	25	32	0			 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+3	396	true	Your Witchess Set	Witchess Knight	none	 | jumping horseradish	0	3	64	31	23	0			 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+3	396	true	Your Witchess Set	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	396	false	The Copperhead Club	Gustav Collins the bartender	none		200	2	33	12	18	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	397	false	The Haunted Gallery	guy with a pitchfork, and his wife	none		100	2	18	9	12	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	398	true	The Haunted Gallery	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+3	398	false	The Haunted Gallery	guy with a pitchfork, and his wife	none		90	2	23	10	12	0	 | Peppermint Bite (5)		 | THROW TRUSTY	0	0	0	0	0	0		
+3	399	false	The Haunted Gallery	Louvre It or Leave It (The Persistence of Memory)	none	 | Lady Spookyraven's dancing shoes	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	400	false	The Haunted Ballroom	Having a Ball in the Ballroom	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	401	true	The Haunted Ballroom	Curtains	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	401	false	The Haunted Ballroom	tapdancing skeleton	none	 | worn tophat | janglin' bones	0	2	16	11	7	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	402	true	The Haunted Ballroom	Curtains	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	402	false	The Haunted Ballroom	zombie waltzers	none	 | ballroom blintz	84	2	22	2	10	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	403	true	The Haunted Ballroom	Witchess Knight	none	 | jumping horseradish	0	3	57	25	25	0			 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+3	403	false	The Haunted Ballroom	Strung-Up Quartet	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	404	false	The Haunted Ballroom	floating platter of hors d'oeuvres	none	 | dehydrated caviar | desiccated apricot | flute of flat champagne	0	2	19	6	8	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	405	false	The Haunted Ballroom	We'll All Be Flat	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	406	true	The Haunted Kitchen	The Icewoman	none	 | psychokinetic energy blob (4) | frigid derringer	0	5	20	14	9	0	 | Super Accuracy (5)		 | SHOOT GHOST | SHOOT GHOST | SHOOT GHOST | TRAP GHOST	0	0	0	0	0	0		
+3	406	false	The Haunted Kitchen	possessed silverware drawer	none	 | spooky powder | CSA bravery badge | corn holder | antique packet of ketchup	0	2	14	6	3	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	407	false	The Haunted Kitchen	skullery maid	none	 | sleaze powder | bottle of popskull	26	2	10	4	9	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	408	false	The Haunted Kitchen	demonic icebox	none	 | ancient frozen dinner | leftovers of indeterminate origin | accidental cider | dire fudgesicle	28	2	13	3	8	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	409	false	The Haunted Kitchen	paper towelgeist	none	 | cold powder	0	2	11	4	8	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	410	false	The Haunted Kitchen	How Loose is Your Goose	none	 | loosening powder	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	411	false	The Haunted Conservatory	skeletal cat	none	 | pile of dusty animal bones | Gathered Meat-Clip	0	2	13	6	5	0	 | Oth-Jeal-O (5)		 | MIGHTY AXING	0	0	0	0	0	0		
+3	412	false	The Haunted Conservatory	man-eating plant	none		24	2	10	3	9	0	 | Foe-Splattered (20)		 | BIFURCATING BLOW	0	0	0	0	0	0		
+3	413	false	The Haunted Conservatory	skeletal monkey	none	 | pile of dusty animal bones | skeletal banana	0	2	14	3	5	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	414	true	The Haunted Conservatory	confused goth music student	none		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+3	414	false	The Haunted Conservatory	skeletal monkey	none	 | pile of dusty animal bones	0	2	8	6	9	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	415	false	The Haunted Conservatory	Dust to Gross Dust	none	 | powdered castoreum	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	416	false	The Haunted Bathroom	Off the Rack	none	 | towel	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	417	true	The Haunted Bathroom	Bad Medicine is What You Need	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	417	false	The Haunted Bathroom	claw-foot bathtub	none	 | bottle of Monsieur Bubble | fancy bath salts	0	2	18	5	9	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	418	true	The Haunted Bathroom	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+3	418	false	The Haunted Bathroom	toilet papergeist	none	 | roll of toilet paper	0	2	15	4	14	0	 | Mallowed Out (5)		 | MIGHTY AXING	0	0	0	0	0	0		
+3	419	true	The Haunted Bathroom	Bad Medicine is What You Need	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	419	false	The Haunted Bathroom	claw-foot bathtub	none	 | bottle of Monsieur Bubble | fancy bath salts	0	2	18	8	5	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	420	false	The Haunted Bathroom	claw-foot bathtub	none	 | bottle of Monsieur Bubble | fancy bath salts	0	2	19	5	8	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	421	false	The Haunted Bathroom	Back Decker	none	 | drain dissolver	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	422	true	The Haunted Gallery	Out in the Garden	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	422	false	The Haunted Gallery	empty suit of armor	none	 | antique greaves	0	2	21	3	9	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	423	true	The Haunted Gallery	Witchess Knight	none	 | jumping horseradish	0	3	49	31	28	0			 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+3	423	false	The Haunted Gallery	guy with a pitchfork, and his wife	none		82	2	17	12	8	0	 | Gr8ness (5)		 | THROW TRUSTY	0	0	0	0	0	0		
+3	424	true	The Haunted Gallery	Lights Out in the Gallery	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	424	false	The Haunted Gallery	Louvre It or Leave It (The Persistence of Memory)	none		0	-1	0	0	0	0	 | Dancin' Fool (30)			0	0	0	0	0	0		
+3	425	false	The Haunted Gallery	cubist bull	none	 | broken sword	154	2	20	3	9	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	426	false	The Haunted Gallery	Supplies!	none	 | triple-distilled turpentine	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	427	false	The Haunted Laboratory	the gunk	none	 | half-melted spoon | the funk | Gathered Meat-Clip	116	2	20	11	8	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	428	false	The Haunted Laboratory	model skeleton	none	 | psychokinetic energy blob | synthetic marrow	0	2	21	7	9	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	429	false	The Haunted Laboratory	Jacob's adder	none		0	2	27	6	8	0			 | THROW TRUSTY	0	0	0	0	0	0		
+3	430	false	The Haunted Laboratory	the gunk	none	 | gunky chicken	108	2	25	10	4	0	 | Salty Dogs (5)		 | MIGHTY AXING	0	0	0	0	0	0		
+3	431	false	The Haunted Laboratory	model skeleton	none	 | psychokinetic energy blob	0	2	24	8	5	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	432	true	The Haunted Laboratory	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+3	432	false	The Haunted Laboratory	Back Off, Man.	none	 | detartrated anhydrous sublicalc	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	433	false	The Haunted Storage Room	stuffed moose head	none	 | moose antlers | moose chocolate	178	2	27	7	8	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	434	false	The Haunted Storage Room	portrait of Uncle Elijah Theodore Spookyraven	none	 | painting of a glass of wine | ornate picture frame	0	2	18	6	17	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	435	false	The Haunted Storage Room	sheet ghost	none	 | psychokinetic energy blob | CSA all-purpose soap | sheet cake	0	2	20	9	10	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	436	false	The Haunted Storage Room	stuffed moose head	none	 | moose thought | moose chocolate	196	2	30	4	8	0	 | No Vertigo (5)		 | MIGHTY AXING	0	0	0	0	0	0		
+3	437	false	The Haunted Storage Room	stuffed moose head	none	 | moose thought | moose chocolate	182	2	19	10	14	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	438	false	The Haunted Storage Room	Dust to Old Dust	none	 | triatomaceous dust	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	439	false	Summoning Chamber	Lord Spookyraven	none	 | Eye of Ed | Lord Spookyraven's ear trumpet	0	2	82	33	37	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	440	false	The Copperhead Club	fan dancer	none	 | combat fan | blowdart | dancing fan | Gathered Meat-Clip	200	2	25	14	17	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	441	false	The Copperhead Club	ninja dressed as a waiter	none	 | crappy waiter disguise | throwing spoon	0	2	25	20	10	0	 | Foe-Splattered (20)		 | BIFURCATING BLOW	0	0	0	0	0	0		
+3	442	false	The Copperhead Club	ninja dressed as a waiter	none	 | crappy waiter disguise | throwing fork | throwing spoon	0	3	38	7	14	0	 | La Bamba (5)		 | THROW TRUSTY | MIGHTY AXING	0	0	0	0	0	0		
+3	443	false	The Copperhead Club	Shen Copperhead, World's Biggest Jerk	none	 | Copperhead Charm	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	444	false	An Overgrown Shrine (Southwest)	dense liana	none	 | exotic jungle fruit	0	2	27	16	19	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	445	false	An Overgrown Shrine (Southwest)	dense liana	none	 | exotic jungle fruit	0	2	25	21	17	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	446	false	An Overgrown Shrine (Southwest)	dense liana	none	 | exotic jungle fruit	0	2	32	9	17	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	447	false	An Overgrown Shrine (Southwest)	Water You Dune	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	448	false	An Overgrown Shrine (Northwest)	dense liana	none	 | exotic jungle fruit	0	2	30	15	10	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	449	false	The Hidden Hospital	pygmy witch surgeon	none	 | surgical apron	322	2	35	19	7	0	 | Three Days Slow (5)		 | MIGHTY AXING	0	0	0	0	0	0		
+3	450	true	The Hidden Hospital	pygmy witch nurse	none		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+3	450	false	The Hidden Hospital	pygmy orderlies	none		0	1	0	0	0	0			 | BANISHING SHOUT	0	1	0	0	0	0		
+3	451	false	The Hidden Hospital	pygmy janitor	none	 | book of matches | short-handled mop | jungle floor wax	147	3	31	10	15	0			 | THROW TRUSTY | MIGHTY AXING	0	0	0	0	0	0		
+3	452	false	The Hidden Hospital	pygmy janitor	none	 | book of matches | short-handled mop | jungle floor wax	128	2	33	13	9	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	453	true	The Hidden Hospital	Witchess Knight	none	 | jumping horseradish	0	5	60	15	39	0			 | MIGHTY AXING | MIGHTY AXING | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+3	453	false	The Hidden Hospital	pygmy janitor	none	 | book of matches | jungle floor wax	144	2	26	10	20	0			 | CLEAVE	0	0	0	0	0	0		
+3	454	true	The Hidden Hospital	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+3	454	false	The Hidden Hospital	pygmy witch surgeon	none	 | half-size scalpel | Gathered Meat-Clip	332	3	29	20	17	0	 | Human-Insect Hybrid (5)		 | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+3	455	false	The Hidden Hospital	pygmy witch surgeon	none	 | head mirror	404	2	41	14	15	0			 | CLEAVE	0	0	0	0	0	0		
+3	456	false	The Hidden Hospital	ancient protector spirit	none	 | dripping stone sphere | psychokinetic energy blob	0	4	32	19	18	0			 | HEROIC BELCH | HEROIC BELCH | HEROIC BELCH	0	0	0	0	0	0		
+3	457	true	An Overgrown Shrine (Southwest)	Water You Dune	none	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	457	false	An Overgrown Shrine (Northwest)	dense liana	none	 | exotic jungle fruit	0	3	29	22	19	0			 | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+3	458	false	An Overgrown Shrine (Northwest)	dense liana	none	 | exotic jungle fruit	0	3	31	15	22	0			 | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+3	459	false	An Overgrown Shrine (Northwest)	Earthbound and Down	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	460	false	An Overgrown Shrine (Northeast)	dense liana	none	 | exotic jungle fruit	0	3	32	17	15	0	 | World's Shortest Giant (5)		 | MIGHTY AXING | CLEAVE	0	0	0	0	0	0		
+3	461	false	An Overgrown Shrine (Northeast)	dense liana	none	 | exotic jungle fruit	0	3	29	14	23	0			 | CLEAVE | CLEAVE	0	0	0	0	0	0		
+3	462	false	An Overgrown Shrine (Northeast)	dense liana	none	 | exotic jungle fruit	0	2	43	7	17	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	463	false	An Overgrown Shrine (Northeast)	Air Apparent	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	464	false	The Hidden Apartment Building	pygmy witch accountant	none	 | bone abacus | pygmy adder oil | McClusky file (page 1)	360	2	31	11	27	0			 | CLEAVE	0	0	0	0	0	0		
+3	465	true	The Hidden Apartment Building	pygmy janitor	none		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+3	465	false	The Hidden Apartment Building	pygmy shaman	none	 | smirking shrunken head | colorful toad | voodoo glowskull	357	2	28	21	17	0	 | Once-Cursed (10)		 | CLEAVE	0	0	0	0	0	0		
+3	466	false	The Hidden Apartment Building	pygmy witch lawyer	none		0	1	0	0	0	0			 | BANISHING SHOUT	0	1	0	0	0	0		
+3	467	false	The Hidden Apartment Building	pygmy witch accountant	none	 | bag of QWOP | adder | McClusky file (page 2)	342	2	35	15	18	0	 | Piratey Flavor (5)		 | CLEAVE	0	0	0	0	0	0		
+3	468	false	The Hidden Apartment Building	pygmy shaman	none	 | colorful toad | voodoo glowskull | Gathered Meat-Clip	310	2	32	22	14	0	 | Twice-Cursed (10)		 | CLEAVE	0	0	0	0	0	0		
+3	469	false	The Hidden Apartment Building	pygmy witch accountant	none	 | short calculator | McClusky file (page 3)	348	2	29	17	19	0			 | CLEAVE	0	0	0	0	0	0		
+3	470	true	The Hidden Apartment Building	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+3	470	false	The Hidden Apartment Building	pygmy shaman	none	 | voodoo glowskull	342	2	35	17	14	0	 | Thrice-Cursed (10)		 | CLEAVE	0	0	0	0	0	0		
+3	471	false	The Hidden Apartment Building	ancient protector spirit	none	 | moss-covered stone sphere | psychokinetic energy blob	0	4	36	17	17	0			 | HEROIC BELCH | HEROIC BELCH | HEROIC BELCH	0	0	0	0	0	0		
+3	472	true	An Overgrown Shrine (Northwest)	Earthbound and Down	none	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	472	false	The Hidden Office Building	pygmy witch accountant	none	 | adder | McClusky file (page 4)	410	2	39	11	18	0	 | Stopping to Smell the Flowers (5)		 | MIGHTY AXING	0	0	0	0	0	0		
+3	473	false	The Hidden Office Building	pygmy headhunter	none	 | pointed stick | headhunter necktie | briefcase	427	2	30	15	27	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	474	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	474	false	The Hidden Office Building	pygmy witch accountant	none	 | adder | pygmy adder oil | McClusky file (page 5)	345	2	38	17	20	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	475	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	475	false	The Hidden Office Building	Working Holiday	none	 | boring binder clip	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	476	false	The Hidden Office Building	ancient protector spirit	none	 | crackling stone sphere | psychokinetic energy blob	0	3	32	15	21	0			 | HEROIC BELCH | HEROIC BELCH	0	0	0	0	0	0		
+3	477	true	An Overgrown Shrine (Northeast)	Air Apparent	none	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	477	false	An Overgrown Shrine (Southeast)	dense liana	none	 | exotic jungle fruit	0	2	28	23	11	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	478	false	An Overgrown Shrine (Southeast)	dense liana	none	 | exotic jungle fruit	0	2	32	18	16	0	 | Pretending to Pretend (5)		 | MIGHTY AXING	0	0	0	0	0	0		
+3	479	false	An Overgrown Shrine (Southeast)	dense liana	none	 | exotic jungle fruit	0	2	32	16	13	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	480	false	An Overgrown Shrine (Southeast)	Fire When Ready	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	481	false	The Hidden Bowling Alley	drunk pygmy	none	 | pygmy phone number | Gathered Meat-Clip	162	2	35	13	16	0			 | CLEAVE	0	0	0	0	0	0		
+3	482	false	The Hidden Bowling Alley	pygmy bowler	none	 | bowling ball | imitation White Russian	258	2	36	16	13	0			 | CLEAVE	0	0	0	0	0	0		
+3	483	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	484	true	The Hidden Bowling Alley	drunk pygmy	none		0	1	2	0	0	0				0	0	0	0	0	0		
+3	484	true	The Hidden Bowling Alley	drunk pygmy	none		0	1	2	0	0	0	 | Chow Downed (5)			0	0	0	0	0	0		
+3	484	false	The Hidden Bowling Alley	pygmy bowler	none	 | bowling ball | imitation White Russian	234	2	29	17	17	0			 | CLEAVE	0	0	0	0	0	0		
+3	485	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	486	false	The Hidden Bowling Alley	a pygmy bowler!	none	 | bowling ball | imitation White Russian	212	3	24	11	14	0			 | CHEAT CODE: REPLACE ENEMY | CLEAVE	0	0	0	0	0	0	 | pygmy janitor	
+3	487	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	488	true	The Hidden Bowling Alley	drunk pygmy	none		0	1	8	0	0	0				0	0	0	0	0	0		
+3	488	false	The Hidden Bowling Alley	pygmy bowler	none	 | bowling ball	236	2	35	13	17	0			 | CLEAVE	0	0	0	0	0	0		
+3	489	true	The Hidden Bowling Alley	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+3	489	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	490	false	The Hidden Bowling Alley	a pygmy bowler!	none	 | bowling ball | tiny bowler | imitation White Russian	248	3	22	9	16	0	 | Saucegoggles (5)		 | CHEAT CODE: REPLACE ENEMY | CLEAVE	0	0	0	0	0	0	 | pygmy janitor	
+3	491	false	The Hidden Bowling Alley	ancient protector spirit	none	 | scorched stone sphere | psychokinetic energy blob | blue pixel	0	3	37	13	15	0			 | HEROIC BELCH | HEROIC BELCH	0	0	0	0	0	0		
+3	492	true	An Overgrown Shrine (Southeast)	Fire When Ready	none	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	492	false	A Massive Ziggurat	dense liana	none	 | exotic jungle fruit	0	2	37	10	17	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	493	false	A Massive Ziggurat	dense liana	none	 | exotic jungle fruit | green pixel	0	2	40	9	13	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	494	false	A Massive Ziggurat	dense liana	none	 | exotic jungle fruit	0	2	40	13	15	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	495	false	A Massive Ziggurat	Protector Spectre	none	 | psychokinetic energy blob | ancient amulet | spectre scepter	0	4	88	29	35	0	 | Top Dog (5)		 | HEROIC BELCH | HEROIC BELCH | HEROIC BELCH	0	0	0	0	0	0		
+3	496	true	Inside the Palindome	Witchess Knight	none	 | jumping horseradish	0	5	68	33	29	0			 | MIGHTY AXING | CLEAVE | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+3	496	false	Inside the Palindome	Do Geese See God?	none	 | photograph of God	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	497	false	Inside the Palindome	Bob Racecar	none	 | photograph of a dog | bag of GORP | mesh cap | leather chaps | stunt nuts | ketchup hound | a butt tuba | Gathered Meat-Clip	280	4	31	12	17	0		|disposable instant camera	 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+3	498	false	Inside the Palindome	Bob Racecar	none	 | leather chaps | stunt nuts | ketchup hound | green pixel	253	2	21	20	18	0	 | Driving Stealthily (30)		 | CLEAVE	0	0	0	0	0	0		
+3	499	false	Inside the Palindome	Last Egg Gets Al	none	 | photograph of an ostrich egg	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	500	false	Inside the Palindome	Rod Nevada, Vendor	none	 | photograph of a red nugget	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	501	false	Inside the Palindome	Racecar Bob	none	 | leather chaps | stunt nuts	243	2	37	16	10	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	502	false	Inside the Palindome	Bob Racecar	none	 | stunt nuts | ketchup hound	212	2	48	8	12	0	 | Booze Goozles (5)		 | MIGHTY AXING	0	0	0	0	0	0		
+3	503	true	Inside the Palindome	Taco Cat	none		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+3	503	true	Inside the Palindome	Drab Bard	none	 | olive | &quot;I Love Me, Vol. I&quot;	127	2	32	14	13	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	503	TRUE	CONSUME: eat 9 jumping horseradish	N/A	none		0	-1	0	0	0	69	 | Kicked in the Sinuses (50) | Kicked in the Sinuses (50) | Kicked in the Sinuses (50) | Kicked in the Sinuses (50) | Kicked in the Sinuses (50) | Kicked in the Sinuses (50) | Kicked in the Sinuses (50) | Kicked in the Sinuses (50) | Kicked in the Sinuses (50)			0	0	0	0	0	0		
+3	503	false	Dr. Awkward's Office	N/A	none	 | &quot;2 Love Me, Vol. 2&quot;	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	504	true	Boxing Daycare	Visit the Boxing Day Spa	none		0	-1	0	0	0	0	 | Uncucumbered (100)			0	0	0	0	0	0		
+3	504	false	Whitey's Grove	Knight in White Satin	none	 | white sword | white page	123	2	17	4	11	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	505	false	Whitey's Grove	white lion	none	 | catgut | lion oil | stick of firewood	114	2	18	6	12	0			 | CLEAVE	0	0	0	0	0	0		
+3	506	false	white page	whitesnake	none	 | white snake skin | bird rib	45	2	17	8	12	0			 | CLEAVE	0	0	0	0	0	0		
+3	507	true	Cook 1 bird rib + 1 lion oil	N/A	none	 | wet stew	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	507	true	Cook 1 wet stew + 1 stunt nuts	N/A	none	 | wet stunt nut stew	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	507	false	Dr. Awkward's Office	Dr. Awkward	none	 | Staff of Fats | Drowsy Sword	0	2	72	30	43	0	 | init.enh (5)		 | MIGHTY AXING	0	0	0	0	0	0		
+3	508	true	The Hole in the Sky	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+3	508	false	The Hole in the Sky	The Hooded Warrior	none	 | star | star | line	0	2	32	14	12	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	509	false	The Hole in the Sky	The Astronomer	none	 | star chart	0	2	30	13	16	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	510	false	The Hole in the Sky	The Astronomer	none	 | star chart | Gathered Meat-Clip	0	3	31	12	15	0	 | Foe-Splattered (20)		 | THROW TRUSTY | BIFURCATING BLOW	0	0	0	0	0	0		
+3	511	false	The Hole in the Sky	The Skinflute	none	 | star | star | line | line	0	2	31	15	11	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	512	false	The Arid, Extra-Dry Desert	rock scorpion	none	 | handful of sand | handful of sand	754	2	28	20	3	0	 | Pemmican't (5) | Ultrahydrated (10)		 | BIFURCATING BLOW | MIGHTY AXING	0	0	0	0	0	0		
+3	513	false	The Arid, Extra-Dry Desert	giant giant giant centipede	none	 | centipede eggs | handful of sand	692	2	29	7	17	0			 | CLEAVE	0	0	0	0	0	0		
+3	514	false	The Arid, Extra-Dry Desert	cactuary	none	 | cactus fruit | handful of sand | bit-o-cactus	381	2	26	11	15	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	515	false	The Arid, Extra-Dry Desert	rock scorpion	none	 | scorpion whip | handful of sand | handful of sand | blue pixel	795	2	28	15	11	0			 | MIGHTY AXING	0	0	0	0	0	0		
+3	516	false	The Arid, Extra-Dry Desert	swarm of fire ants	none		205	2	30	10	13	0	 | Ultrahydrated (3)		 | MIGHTY AXING	0	0	0	0	0	0		
+3	517	false	The Arid, Extra-Dry Desert	plaque of locusts	none	 | honey-dipped locust | bronzed locust | white pixel	110	2	28	12	10	0	 | Ham-Fisted (5)		 | MIGHTY AXING	0	0	0	0	0	0		
+3	518	true	The Arid, Extra-Dry Desert	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+3	518	false	The Arid, Extra-Dry Desert	cactuary	none	 | cactus fruit | handful of sand | bit-o-cactus	451	2	32	8	11	0			 | CLEAVE	0	0	0	0	0	0		
+3	519	false	The Arid, Extra-Dry Desert	plaque of locusts	none	 | honey-dipped locust | handful of sand	114	2	27	16	8	0	 | Ultrahydrated (3)		 | CLEAVE	0	0	0	0	0	0		
+3	520	false	The Arid, Extra-Dry Desert	cactuary	none	 | cactus fruit | handful of sand | bit-o-cactus	414	2	29	13	8	0			 | CLEAVE	0	0	0	0	0	0		
+3	521	false	The Arid, Extra-Dry Desert	giant giant giant centipede	none	 | centipede eggs | handful of sand | handful of sand | white pixel | Gathered Meat-Clip	606	2	25	11	16	0			 | CLEAVE	0	0	0	0	0	0		
+3	522	true	The Arid, Extra-Dry Desert	A Sietch in Time	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	522	false	genie summoned monster	blur	none	 | drum machine | hot date | carbonated water lily	424	3	31	18	11	0	 | A View to Some Meat (5)		 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+3	523	false	The Arid, Extra-Dry Desert	rock scorpion	none	 | handful of sand	874	2	37	9	16	0	 | Ultrahydrated (3)		 | MIGHTY AXING	0	0	0	0	0	0		
+3	524	true	The Arid, Extra-Dry Desert	swarm of fire ants	none		234	2	37	8	12	0			 | CHEST X-RAY	0	0	1	0	0	0		
+3	524	true	The Arid, Extra-Dry Desert	rock scorpion	none	 | handful of sand | worm-riding manual page	837	2	26	17	12	0			 | CHEST X-RAY	0	0	1	0	0	0		
+3	524	TRUE	PILLKEEPER: Monday - Explodinall	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	524	true	The Arid, Extra-Dry Desert	plaque of locusts	none	 | honey-dipped locust | bronzed locust | handful of sand	101	2	38	6	11	0	 | Ultrahydrated (3)		 | CHEST X-RAY	0	0	1	0	0	0		
+3	524	TRUE	CONSUME: drink 1 Fog Murderer	N/A	none		0	-1	0	0	0	16				0	0	0	0	0	0		
+3	524	false	genie summoned monster	banshee librarian	none	 | disintegrating quill pen | killing jar	0	2	19	3	5	0	 | Everything Looks Yellow (29) | Over the Ocean (5)		 | MIGHTY AXING	0	0	0	0	0	0		
+3	525	true	Deck of Every Card	1952 Mickey Mantle	none	 | 1952 Mickey Mantle card	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	525	true	Deck of Every Card	Ancestral Recall	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	525	true	Deck of Every Card	Island	none	 | blue mana	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	525	true	Boxing Daycare	Enter the Boxing Daycare	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	525	true	Your Witchess Set	Witchess Puzzles	none		0	-1	0	0	0	0	 | Puzzle Champ (25) | items.enh (100)			0	0	0	0	0	0		
+4	525	true	Boxing Daycare	Have a Boxing Daydream	none	 | punch-drunk punch	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	525	false	The Arid, Extra-Dry Desert	giant giant giant centipede	none		0	2	0	0	0	0	 | Ultrahydrated (3)		 | BIFURCATING BLOW | CLEAVE	0	0	0	0	0	0		
+4	526	false	The Arid, Extra-Dry Desert	plaque of locusts	none	 | honey-dipped locust | bronzed locust | worm-riding manual page (2) | Gathered Meat-Clip	124	2	31	18	15	0			 | MIGHTY AXING	0	0	0	0	0	0		
+4	527	true	The Arid, Extra-Dry Desert	cactuary	none	 | bag of GORP | cactus fruit | handful of sand | bit-o-cactus | worm-riding manual page (3)	428	2	44	10	14	0			 | CHEST X-RAY	0	0	1	0	0	0		
+4	527	true	The Arid, Extra-Dry Desert	plaque of locusts	none		0	2	0	0	0	0	 | Ultrahydrated (3)		 | CHEST X-RAY	0	0	1	0	0	0		
+4	527	true	The Arid, Extra-Dry Desert	giant giant giant centipede	none	 | centipede eggs | handful of sand | handful of sand	630	2	31	17	19	0			 | CHEST X-RAY	0	0	1	0	0	0		
+4	527	false	The Arid, Extra-Dry Desert	swarm of fire ants	none	 | handful of sand | worm-riding manual page (2)	218	2	35	13	17	0	 | Ultrahydrated (3)		 | CLEAVE	0	0	0	0	0	0		
+4	528	false	The Arid, Extra-Dry Desert	swarm of fire ants	none	 | handful of sand	247	2	26	17	23	0	 | Ultrahydrated (3)		 | CLEAVE	0	0	0	0	0	0		
+4	529	false	The Arid, Extra-Dry Desert	giant giant giant centipede	none	 | water purification pills | centipede eggs | handful of sand | handful of sand	663	2	40	12	14	0			 | CLEAVE	0	0	0	0	0	0		
+4	530	false	The Arid, Extra-Dry Desert	plaque of locusts	none		0	2	0	0	0	0	 | Foe-Splattered (20)		 | BIFURCATING BLOW	0	0	0	0	0	0		
+4	531	false	The Arid, Extra-Dry Desert	rock scorpion	none	 | handful of sand | handful of sand	722	2	40	15	10	0	 | Ultrahydrated (3)		 | CLEAVE	0	0	0	0	0	0		
+4	532	false	The Arid, Extra-Dry Desert	rock scorpion	none	 | scorpion whip | handful of sand | handful of sand | worm-riding manual page (3)	877	2	34	12	18	0			 | MIGHTY AXING	0	0	0	0	0	0		
+4	533	true	The Arid, Extra-Dry Desert	Playing Fetch*	none	 | tennis ball	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	533	false	The Arid, Extra-Dry Desert	giant giant giant centipede	none	 | centipede eggs | worm-riding manual page	659	2	45	10	12	0			 | MIGHTY AXING	0	0	0	0	0	0		
+4	534	false	The Oasis	rolling stone	none		0	2	0	0	0	0			 | CLEAVE	0	0	0	0	0	0		
+4	535	false	The Oasis	oasis monster	none	 | displaced fish | hot date | carbonated water lily	377	2	31	20	19	0			 | CLEAVE	0	0	0	0	0	0		
+4	536	false	The Oasis	swarm of scarab beatles	none	 | Camp Scout pup tent | mojo filter | rocky raccoon	592	2	27	18	17	0			 | CLEAVE	0	0	0	0	0	0		
+4	537	false	The Oasis	blur	none		0	2	0	0	0	0			 | CLEAVE	0	0	0	0	0	0		
+4	538	false	The Oasis	swarm of scarab beatles	none	 | mojo filter | savoy truffle | rocky raccoon | carbonated water lily	606	2	34	14	15	0				0	0	0	0	0	0		
+4	539	TRUE	PILLKEEPER: Monday - Explodinall	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	539	false	The Oasis	All Across the Sands	none	 | stone rose	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	540	false	The Hatching Chamber	larval filthworm	none	 | filthworm hatchling scent gland	185	2	34	23	15	0	 | Everything Looks Yellow (29)			0	0	0	0	0	0		
+4	541	false	The Upper Chamber	Iiti Kitty	none	 | Iiti Kitty phone charm | ancient Magi-Wipes | mummy wrapping	0	2	41	15	15	0			 | CLEAVE	0	0	0	0	0	0		
+4	542	false	The Upper Chamber	tomb servant	none	 | canopic jar | mummy wrapping | ancient protein powder | secret mummy herbs and spices	181	2	37	13	20	0			 | BIFURCATING BLOW | CLEAVE	0	0	0	0	0	0		
+4	543	false	The Upper Chamber	A Wheel -- How Fortunate!	none	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	544	false	The Upper Chamber	A Wheel -- How Fortunate!	none	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	545	false	The Upper Chamber	tomb bat	none	 | leathery bat skin | mummy wrapping	178	2	33	20	19	0			 | CLEAVE	0	0	0	0	0	0		
+4	546	false	The Upper Chamber	Down Dooby-Doo Down Down	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	547	true	Deck of Every Card	X - The Wheel of Fortune	none		0	-1	0	0	0	0	 | Fortune of the Wheel (20)			0	0	0	0	0	0		
+4	547	false	The Middle Chamber	tomb asp	none		0	1	0	0	0	0			 | BANISHING SHOUT	0	1	0	0	0	0		
+4	548	false	The Middle Chamber	a tomb rat king!	none	 | tomb ratchet | tomb ratchet | tomb ratchet | leathery rat skin | leathery rat skin | leathery rat skin | unidentified jerky | unidentified jerky | unidentified jerky	518	4	76	24	29	0		|tangle of rat tails	 | OTOSCOPE | CLEAVE	0	0	0	0	0	0	 | tomb rat	
+4	549	true	The Middle Chamber	tomb servant	none		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+4	549	false	The Middle Chamber	a tomb rat king!	none	 | tomb ratchet | tomb ratchet | tomb ratchet | leathery rat skin | leathery rat skin | leathery rat skin | unidentified jerky | unidentified jerky	597	5	73	29	32	0		|tangle of rat tails	 | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | THROW TRUSTY	0	0	0	0	0	0	 | tomb rat	
+4	550	false	The Middle Chamber	a tomb rat king!	none	 | CSA fire-starting kit | tomb ratchet | tomb ratchet | tomb ratchet | leathery rat skin | leathery rat skin | leathery rat skin | unidentified jerky | unidentified jerky | unidentified jerky	558	3	73	28	29	0		|tangle of rat tails	 | MIGHTY AXING	0	0	0	0	0	0	 | tomb rat	
+4	551	false	The Middle Chamber	Don't You Know Who I Am?	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	552	false	The Feeding Chamber	filthworm drone	none	 | filthworm drone scent gland	237	3	38	31	29	0			 | OTOSCOPE | MIGHTY AXING	0	0	0	0	0	0		
+4	553	false	The Royal Guard Chamber	filthworm royal guard	none	 | filthworm royal guard scent gland	342	3	44	25	23	0	 | Big Ol' Glass of Rum (5)		 | OTOSCOPE | MIGHTY AXING	0	0	0	0	0	0		
+4	554	TRUE	CONSUME: eat 3 browser cookie	N/A	none		0	-1	0	0	0	88				0	0	0	0	0	0		
+4	554	false	The Filthworm Queen's Chamber	the queen filthworm	none	 | heart of the filthworm queen | Gathered Meat-Clip	3686	2	54	19	22	0			 | CLEAVE	0	0	0	0	0	0		
+4	555	false	The Smut Orc Logging Camp	smut orc nailer	none	 | thick caulk | orcish nailing lube	112	2	30	17	12	0		|shard of double-ice		0	0	0	0	0	0		
+4	556	true	The Smut Orc Logging Camp	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+4	556	false	The Smut Orc Logging Camp	smut orc nailer	none	 | messy butt joint | weirdwood plank | orcish nailing lube	105	2	12	7	7	0		|shard of double-ice		0	0	0	0	0	0		
+4	557	false	The Smut Orc Logging Camp	smut orc screwer	none	 | long hard screw | white pixel	112	2	10	9	5	0		|shard of double-ice		0	0	0	0	0	0		
+4	558	false	The Smut Orc Logging Camp	smut orc nailer	none	 | messy butt joint | orcish nailing lube	92	2	9	3	13	0	 | Phoenix, Right? (5)	|shard of double-ice		0	0	0	0	0	0		
+4	559	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | Oiled, Slick (50)			0	0	0	0	0	0		
+4	559	false	The Smut Orc Logging Camp	Blech House	none	 | messy butt joint	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	560	false	The Smut Orc Logging Camp	smut orc jacker	none	 | long hard screw | raging hardwood plank	102	2	21	5	7	0		|shard of double-ice		0	0	0	0	0	0		
+4	561	false	The Smut Orc Logging Camp	smut orc pipelayer	none	 | raging hardwood plank | long hard screw | orcish rubber	108	2	16	13	5	0		|shard of double-ice		0	0	0	0	0	0		
+4	562	false	The Smut Orc Logging Camp	smut orc nailer	none	 | messy butt joint | thick caulk | raging hardwood plank | orcish nailing lube	93	2	17	5	10	0		|shard of double-ice		0	0	0	0	0	0		
+4	563	false	The Smut Orc Logging Camp	Blech House	none	 | weirdwood plank	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	564	false	The Smut Orc Logging Camp	S&M 4-EVER	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	565	false	The Smut Orc Logging Camp	S&M 4-EVER	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	566	false	The Smut Orc Logging Camp	S&M 4-EVER	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	567	false	The Smut Orc Logging Camp	smut orc nailer	none	 | CSA scoutmaster's &quot;water&quot; | messy butt joint | stick of firewood	87	2	17	5	3	0			 | CLEAVE	0	0	0	0	0	0		
+4	568	false	The Smut Orc Logging Camp	smut orc screwer	none	 | thick caulk | morningwood plank | stick of firewood	108	2	16	9	2	0	 | Walberg's Dim Bulb (5)		 | MIGHTY AXING	0	0	0	0	0	0		
+4	569	false	The Smut Orc Logging Camp	smut orc pipelayer	none	 | morningwood plank	99	2	16	8	2	0			 | CLEAVE	0	0	0	0	0	0		
+4	570	true	Oil Peak	Pushin' Down on Me, Pushin' Down on You	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	570	false	Oil Peak	oil cartel	none	 | bubblin' crude | bubblin' crude | Gathered Meat-Clip	0	2	58	15	13	0			 | CLEAVE	0	0	0	0	0	0		
+4	571	false	Oil Peak	oil cartel	none	 | bubblin' crude | bubblin' crude	0	2	51	14	22	0			 | CLEAVE	0	0	0	0	0	0		
+4	572	false	Oil Peak	oil cartel	none	 | bubblin' crude | bubblin' crude	0	2	45	30	10	0			 | CLEAVE	0	0	0	0	0	0		
+4	573	false	Oil Peak	oil cartel	none	 | bubblin' crude | bubblin' crude	0	2	42	19	24	0	 | Phorcefullness (5)		 | CLEAVE	0	0	0	0	0	0		
+4	574	false	Oil Peak	oil cartel	none	 | bubblin' crude | bubblin' crude	0	2	42	22	23	0			 | CLEAVE	0	0	0	0	0	0		
+4	575	false	Oil Peak	Unimpressed with Pressure	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	576	false	Oil Peak	oil cartel	none	 | bubblin' crude | bubblin' crude | bubblin' crude	0	2	44	22	18	0			 | CLEAVE	0	0	0	0	0	0		
+4	577	false	The Middle Chamber	Further Down Dooby-Doo Down Down	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	578	false	The Middle Chamber	tomb rat	none	 | leathery rat skin | unidentified jerky	238	2	59	25	25	0			 | CLEAVE	0	0	0	0	0	0		
+4	579	true	Your Witchess Set	Witchess Knight	none	 | jumping horseradish	0	2	92	50	43	0			 | CLEAVE	0	0	0	0	0	0		
+4	579	true	Your Witchess Set	Witchess Knight	none	 | jumping horseradish	0	3	99	47	40	0	 | Pumped Up (5)		 | DIGITIZE | CLEAVE	0	0	0	0	0	1		
+4	579	true	Your Witchess Set	Witchess Knight	none	 | jumping horseradish	0	3	114	38	37	0			 | THROW TRUSTY	0	0	0	0	0	0		
+4	579	true	Your Witchess Set	Witchess Knight	none	 | bag of GORF | jumping horseradish	0	2	120	35	39	0			 | CLEAVE	0	0	0	0	0	0		
+4	579	true	Your Witchess Set	Witchess Knight	none	 | jumping horseradish	0	2	103	42	49	0			 | CLEAVE	0	0	0	0	0	0		
+4	579	true	Your Witchess Set	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	579	true	Twin Peak	Welcome to the Great Overlook Lodge	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	579	true	Twin Peak	the Troll Twins	none		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+4	579	false	Twin Peak	Go Check It Out!	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	580	false	Twin Peak	elephant (meatcar?) topiary animal	none	 | rusty hedge trimmers	10	2	36	20	18	0			 | CLEAVE	0	0	0	0	0	0		
+4	581	false	rusty hedge trimmers	Room 237	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	582	false	Twin Peak	spider (duck?) topiary animal	none		15	2	40	18	15	0			 | CLEAVE	0	0	0	0	0	0		
+4	583	true	Twin Peak	the Bubblemint Twins	none		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+4	583	false	Twin Peak	He Is the Arm, and He Sounds Like This	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	584	true	Twin Peak	Now It's Dark	none	 | gold wedding ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	584	true	A-Boo Peak	Faction Traction = Inaction	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	584	false	A-Boo Peak	Battlie Knight Ghost	none	 | psychokinetic energy blob | Battlie Light Saver	14	6	36	19	15	0			 | CLEAVE | MIGHTY AXING | THROW TRUSTY | MIGHTY AXING | CLEAVE	0	0	0	0	0	0		
+4	585	false	A-Boo Peak	Claybender Sorcerer Ghost	none	 | psychokinetic energy blob | Polysniff Perfume | ectoplasmic orbs	15	5	33	22	15	0			 | CLEAVE	0	0	0	0	0	0		
+4	586	true	A-Boo Peak	Witchess Knight	none	 | jumping horseradish	11	2	102	34	42	0			 | CLEAVE	0	0	0	0	0	0		
+4	586	false	A-Boo Peak	Space Tourist Explorer Ghost	none	 | psychokinetic energy blob | A-Boo clue | ectoplasmic orbs | Gathered Meat-Clip	10	5	34	20	14	0			 | CLEAVE | CLEAVE | CLEAVE | CLEAVE	0	0	0	0	0	0		
+4	587	false	A-Boo Peak	Dusken Raider Ghost	none	 | psychokinetic energy blob | ectoplasmic orbs	12	5	42	15	18	0			 | CLEAVE | CLEAVE | CLEAVE | CLEAVE	0	0	0	0	0	0		
+4	588	false	A-Boo Peak	Claybender Sorcerer Ghost	none	 | psychokinetic energy blob | A-Boo clue | Polysniff Perfume | Claybender glasses	12	5	37	23	9	0			 | CLEAVE | CLEAVE | CLEAVE | CLEAVE	0	0	0	0	0	0		
+4	589	false	A-Boo Peak	Whatsian Commando Ghost	none	 | psychokinetic energy blob | ectoplasmic orbs	13	5	40	19	12	0			 | CLEAVE | CLEAVE | CLEAVE | CLEAVE	0	0	0	0	0	0		
+4	590	true	A-Boo Peak	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+4	590	false	A-Boo Peak	The "Journalist"	none	 | A-Boo clue | A-Boo clue	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	591	false	A-Boo Peak	The Horror...	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	592	false	A-Boo Peak	The Horror...	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	593	false	A-Boo Peak	The Horror...	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	594	false	A-Boo Peak	Come On Ghosty, Light My Pyre	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	595	true	The Middle Chamber	Ratchet-catcher	none	 | tomb ratchet	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	595	false	The Middle Chamber	tomb rat	none	 | tomb ratchet | leathery rat skin	257	2	38	14	27	0			 | CLEAVE	0	0	0	0	0	0		
+4	596	true	The Middle Chamber	tomb servant	none		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+4	596	false	The Middle Chamber	Under Control	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	597	false	The Lower Chambers	N/A	none	 | ancient bronze token	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	598	false	The Lower Chambers	N/A	none	 | ancient bomb	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	599	false	The Lower Chambers	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	600	false	The Lower Chambers	Ed the Undying	none		12	2	60	27	35	0			 | CLEAVE	0	0	0	0	0	0		
+4	601	false	The Lower Chambers	Ed the Undying	none		14	2	65	39	25	0			 | CLEAVE	0	0	0	0	0	0		
+4	602	false	The Lower Chambers	Ed the Undying	none		11	2	63	33	29	0			 | CLEAVE	0	0	0	0	0	0		
+4	603	false	The Lower Chambers	Ed the Undying	none	 | CSA obedience grenade	15	2	57	23	44	0			 | CLEAVE	0	0	0	0	0	0		
+4	604	false	The Lower Chambers	Ed the Undying	none		12	2	56	40	27	0			 | CLEAVE	0	0	0	0	0	0		
+4	605	false	The Lower Chambers	Ed the Undying	none		15	2	63	32	30	0			 | CLEAVE	0	0	0	0	0	0		
+4	606	false	The Lower Chambers	Ed the Undying	none	 | Gathered Meat-Clip | Holy MacGuffin | handful of confetti	11	2	72	30	23	0			 | CLEAVE	0	0	0	0	0	0		
+4	607	false	The Battlefield (Frat Uniform)	I Am The Brotherhood	none	 | perforated battle paddle | PADL Phone	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	608	true	The Battlefield (Frat Uniform)	Witchess Knight	none	 | jumping horseradish	12	2	84	43	30	0			 | CLEAVE	0	0	0	0	0	0		
+4	608	false	The Battlefield (Frat Uniform)	War Hippy Elite Rigger	none	 | pink clay bead | oversized pipe	10	2	41	26	24	0			 | CLEAVE	0	0	0	0	0	0		
+4	609	false	The Battlefield (Frat Uniform)	War Hippy Rigger	none	 | bullet-proof corduroys | hippy protest button	10	2	38	34	15	0			 | CLEAVE	0	0	0	0	0	0		
+4	610	false	The Battlefield (Frat Uniform)	War Hippy Homeopath	none	 | holistic headache remedy	10	2	41	24	18	0			 | CLEAVE	0	0	0	0	0	0		
+4	611	false	The Battlefield (Frat Uniform)	War Hippy Infantryman	none	 | bullet-proof corduroys | reinforced beaded headband | round purple sunglasses | hippy protest button | water pipe bomb	13	2	40	22	22	0			 | CLEAVE	0	0	0	0	0	0		
+4	612	false	The Battlefield (Frat Uniform)	War Hippy F.R.O.G.	none	 | pink clay bead | reinforced beaded headband | communications windchimes | oversized pipe | wicker shield | water pipe bomb	12	2	44	15	27	0			 | CLEAVE	0	0	0	0	0	0		
+4	613	false	The Battlefield (Frat Uniform)	War Hippy Baker	none	 | water pipe bomb	10	2	50	19	13	0			 | CLEAVE	0	0	0	0	0	0		
+4	614	true	The Battlefield (Frat Uniform)	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+4	614	false	The Battlefield (Frat Uniform)	War Hippy Shaman	none	 | Gaia beads | Lockenstock&trade; sandals | carbonated soy milk	102	3	45	19	25	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	615	false	The Battlefield (Frat Uniform)	War Hippy Homeopath	none	 | hippy medical kit | filthy poultice | holistic headache remedy	93	3	32	20	29	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	616	false	The Battlefield (Frat Uniform)	War Hippy Airborne Commander	none	 | purple clay bead | communications windchimes | ferret bait | ferret bait | water pipe bomb	99	3	44	32	17	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	617	false	The Battlefield (Frat Uniform)	War Hippy Dread Squad	none	 | didgeridooka	80	3	49	19	15	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	618	false	The Battlefield (Frat Uniform)	War Hippy Naturopathic Homeopath	none	 | hippy medical kit | filthy poultice | natural fennel soda | Gathered Meat-Clip	130	3	42	24	20	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	619	false	The Battlefield (Frat Uniform)	War Hippy Green Gourmet	none	 | pink clay bead | wicker shield | water pipe bomb | Hippy Army MPE	103	3	40	28	20	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	620	false	The Battlefield (Frat Uniform)	War Hippy Sky Captain	none	 | pink clay bead | ferret bait | water pipe bomb	113	3	53	14	23	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	621	false	The Battlefield (Frat Uniform)	War Hippy Windtalker	none	 | almost-dead walkie-talkie | CSA cheerfulness ration | green clay bead | communications windchimes	125	3	45	23	19	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	622	false	The Battlefield (Frat Uniform)	War Hippy Elder Shaman	none	 | Gaia beads | carbonated soy milk | funky dried mushroom	94	3	60	24	18	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	623	false	The Battlefield (Frat Uniform)	War Hippy Elite Rigger	none	 | pink clay bead | round purple sunglasses | oversized pipe	108	3	44	22	23	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	624	false	The Battlefield (Frat Uniform)	War Hippy Shaman	none	 | Gaia beads | carbonated soy milk	102	3	50	19	19	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	625	false	The Battlefield (Frat Uniform)	Neil	none	 | green clay bead | longhaired hippy wig	781	3	40	12	21	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	626	false	The Battlefield (Frat Uniform)	War Hippy Airborne Commander	none	 | purple clay bead | ferret bait | water pipe bomb | water pipe bomb	117	3	44	12	18	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	627	true	The Battlefield (Frat Uniform)	Playing Fetch*	none	 | tennis ball	0	-1	0	0	0	0				0	0	0	0	0	0		
+4	627	false	The Battlefield (Frat Uniform)	War Hippy Green Gourmet	none	 | pink clay bead | oversized pipe | water pipe bomb | Hippy Army MPE	91	3	39	22	14	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	628	false	The Battlefield (Frat Uniform)	War Hippy Naturopathic Homeopath	none	 | hippy medical kit | filthy poultice | natural fennel soda	74	3	46	11	14	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	629	false	The Battlefield (Frat Uniform)	War Hippy Rigger	none	 | reinforced beaded headband | hippy protest button | Gathered Meat-Clip	91	3	32	18	17	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	630	false	The Battlefield (Frat Uniform)	War Hippy Windtalker	none	 | green clay bead | round purple sunglasses | communications windchimes | communications windchimes | communications windchimes	74	3	41	19	11	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	631	false	The Battlefield (Frat Uniform)	War Hippy Green Gourmet	none	 | pink clay bead | bullet-proof corduroys | reinforced beaded headband | round purple sunglasses | water pipe bomb | Hippy Army MPE	93	3	36	16	19	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	632	false	The Battlefield (Frat Uniform)	War Hippy Naturopathic Homeopath	none	 | hippy medical kit | filthy poultice | natural fennel soda	90	3	41	11	19	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	633	false	The Battlefield (Frat Uniform)	Mobile Armored Sweat Lodge	none	 | didgeridooka | gas balloon	105	3	37	15	22	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	634	false	The Battlefield (Frat Uniform)	War Hippy Homeopath	none	 | hippy medical kit | filthy poultice | natural fennel soda | holistic headache remedy	78	3	39	18	10	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	635	false	The Battlefield (Frat Uniform)	War Hippy Elite Rigger	none	 | pink clay bead | round purple sunglasses	70	3	37	14	20	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	636	false	The Battlefield (Frat Uniform)	Green Ops Soldier	none	 | green clay bead | gas balloon | green smoke bomb | henna face paint	81	4	28	20	26	0	 | Toad In The Hole (1)	|anti-anti-antidote	 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	637	false	The Battlefield (Frat Uniform)	War Hippy Airborne Commander	none	 | purple clay bead | ferret bait | ferret bait | water pipe bomb | water pipe bomb	119	3	42	15	16	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	638	true	The Battlefield (Frat Uniform)	Witchess Knight	none	 | jumping horseradish	13	2	68	25	34	0			 | MIGHTY AXING	0	0	0	0	0	0		
+4	638	false	The Battlefield (Frat Uniform)	Green Ops Soldier	none	 | green clay bead | gas balloon | henna face paint	110	3	41	11	21	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	639	false	The Battlefield (Frat Uniform)	War Hippy Elder Shaman	none	 | Gaia beads | Lockenstock&trade; sandals | carbonated soy milk | funky dried mushroom	100	3	43	17	18	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	640	false	The Battlefield (Frat Uniform)	Mobile Armored Sweat Lodge	none	 | CSA discount card | didgeridooka | gas balloon | Gathered Meat-Clip	109	3	41	13	20	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	641	false	The Battlefield (Frat Uniform)	Mobile Armored Sweat Lodge	none	 | didgeridooka	113	3	38	17	18	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	642	false	The Battlefield (Frat Uniform)	War Hippy Elite Rigger	none	 | pink clay bead | reinforced beaded headband | wicker shield	104	3	41	14	16	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	643	false	The Battlefield (Frat Uniform)	War Hippy Windtalker	none	 | green clay bead | communications windchimes | communications windchimes	93	3	31	23	16	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	644	false	The Battlefield (Frat Uniform)	War Hippy Naturopathic Homeopath	none	 | hippy medical kit | filthy poultice | natural fennel soda	90	3	35	20	14	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	645	false	The Battlefield (Frat Uniform)	War Hippy Airborne Commander	none	 | purple clay bead | communications windchimes | ferret bait | ferret bait | water pipe bomb	94	3	47	19	8	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	646	false	The Battlefield (Frat Uniform)	War Hippy Elite Fire Spinner	none	 | fire poi	80	3	37	12	22	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	647	false	The Battlefield (Frat Uniform)	War Hippy Elder Shaman	none	 | carbonated soy milk	90	3	40	22	14	0	 | Flared Nostrils (10)		 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	648	false	The Battlefield (Frat Uniform)	War Hippy Elite Rigger	none	 | pink clay bead | communications windchimes	89	3	37	18	17	0			 | SING ALONG | MIGHTY AXING	0	0	0	0	0	0		
+4	649	false	Hippy Camp	The Big Wisniewski	none	 | solid gold bowling ball | Nickel Gamma of Frugality	12	5	154	64	85	0			 | CLEAVE | CLEAVE | CLEAVE | CLEAVE	0	0	0	0	0	0		
+4	650	false	Sleaziest Adventurer Contest	Grease Trapper	none	 | grease trap	10	2	45	19	14	0			 | CLEAVE	0	0	0	0	0	0		
+4	651	false	Sleaziest Adventurer Contest	Porkpocket	none	 | Gathered Meat-Clip	13	3	39	16	18	0			 | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+4	652	false	Sleaziest Adventurer Contest	Ham Shaman	none		11	2	38	20	20	0			 | MIGHTY AXING	0	0	0	0	0	0		
+4	653	false	Sleaziest Adventurer Contest	Ham Shaman	none		15	2	41	23	15	0			 | MIGHTY AXING	0	0	0	0	0	0		
+4	654	false	Sleaziest Adventurer Contest	Porkpocket	none		10	3	47	19	10	0			 | CLEAVE | CLEAVE	0	0	0	0	0	0		
+4	655	false	Sleaziest Adventurer Contest	Ham Shaman	none		13	2	51	15	19	0			 | CLEAVE	0	0	0	0	0	0		
+4	656	false	Sleaziest Adventurer Contest	Porkpocket	none		15	3	47	16	16	0			 | CLEAVE | CLEAVE	0	0	0	0	0	0		
+4	657	false	Sleaziest Adventurer Contest	Grease Trapper	none	 | grease trap	15	2	57	19	26	0			 | CLEAVE	0	0	0	0	0	0		
+4	658	false	Sleaziest Adventurer Contest	Porkpocket	none	 | porkpocket	10	2	39	25	17	0			 | CLEAVE	0	0	0	0	0	0		
+4	659	false	Sleaziest Adventurer Contest	Leonard	none	 | Leonard's glasses	12	3	43	18	20	0			 | CLEAVE | CLEAVE	0	0	0	0	0	0		
+4	660	false	Smoothest Adventurer Contest	Savage Beatnik	none	 | jazzy cigarette holder	10	2	49	23	24	0			 | CLEAVE	0	0	0	0	0	0		
+4	661	false	Smoothest Adventurer Contest	Savage Beatnik	none	 | CSA bravery badge | jazzy cigarette holder	14	2	47	33	20	0			 | MIGHTY AXING	0	0	0	0	0	0		
+4	662	false	Smoothest Adventurer Contest	Creamweaver	none	 | Gathered Meat-Clip	11	2	54	15	25	0			 | MIGHTY AXING	0	0	0	0	0	0		
+4	663	false	Smoothest Adventurer Contest	Seannery the Conman	none	 | leather glove	10	5	48	16	20	0			 | CLEAVE | MIGHTY AXING | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+4	664	false	Fastest Adventurer Contest	Microwave Magus	none		12	2	33	18	22	0			 | THROW TRUSTY	0	0	0	0	0	0		
+4	665	false	Fastest Adventurer Contest	Cheetahman	none		13	2	43	20	19	0			 | MIGHTY AXING	0	0	0	0	0	0		
+4	666	false	Fastest Adventurer Contest	Kung-Fu Hustler	none	 | hustler shades	15	2	35	17	22	0			 | CLEAVE	0	0	0	0	0	0		
+4	667	false	Fastest Adventurer Contest	Kung-Fu Hustler	none	 | hustler shades	15	3	43	10	23	0			 | CLEAVE | MIGHTY AXING	0	0	0	0	0	0		
+4	668	false	Fastest Adventurer Contest	Microwave Magus	none		15	2	36	23	24	0			 | THROW TRUSTY	0	0	0	0	0	0		
+4	669	false	Fastest Adventurer Contest	Cheetahman	none		13	4	54	25	16	0			 | HEROIC BELCH | HEROIC BELCH | THROW TRUSTY	0	0	0	0	0	0		
+4	670	false	Fastest Adventurer Contest	Kung-Fu Hustler	none	 | hustler shades	12	2	44	15	21	0			 | THROW TRUSTY	0	0	0	0	0	0		
+4	671	false	Fastest Adventurer Contest	Cheetahman	none		15	3	73	22	14	0			 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+4	672	false	Fastest Adventurer Contest	The Tasmanian Dervish	none		11	3	59	27	23	0			 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+4	673	false	The Hedge Maze	'Allo	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	674	false	The Hedge Maze	Pooling Your Resources	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	675	false	The Hedge Maze	Of Mouseholes and Manholes	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	676	false	The Hedge Maze	Mazel Tov!	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	677	true	Tower Door	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	677	false	The Naughty Sorceress' Tower	wall of skin	none	 | Gathered Meat-Clip	14	2	41	24	17	0		|beehive		0	0	0	0	0	0		
+4	678	false	The Naughty Sorceress' Tower	wall of meat	none		0	3	0	0	0	0			 | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+4	679	true	The Naughty Sorceress' Tower	wall of meat	none		950	6	43	21	17	0			 | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+4	679	false	The Naughty Sorceress' Tower	wall of meat	none		842	7	43	16	23	0			 | BROADSIDE | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+4	681	false	The Naughty Sorceress' Tower	wall of bones	none		15	2	159	74	60	0		|electric boning knife		0	0	0	0	0	0		
+4	682	true	The Naughty Sorceress' Tower	The Mirror in the Tower has the View that is True	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	682	true	Rest in your bed in the Chateau	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	682	true	Rest in your bed in the Chateau	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+4	682	false	The Naughty Sorceress' Tower	Shadow Avatar of Boris	none		10	6	111	52	60	0		|gauze garter|gauze garter|gauze garter|gauze garter|gauze garter		0	0	0	0	0	0		
+4	683	false	The Naughty Sorceress' Chamber	The Naughty Sorceress	none		15	7	3	0	4	0			 | CLEAVE | CLEAVE | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING | MIGHTY AXING	0	0	0	0	0	0		
+4	684	true	The Naughty Sorceress' Chamber	The Naughty Sorceress (2)	none		14	11	2	0	0	0			 | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		
+4	684	TRUE	CONSUME: eat 8 jumping horseradish	N/A	none		0	-1	0	0	0	58	 | Kicked in the Sinuses (50) | Kicked in the Sinuses (50) | Kicked in the Sinuses (50) | Kicked in the Sinuses (50) | Kicked in the Sinuses (50) | Kicked in the Sinuses (50) | Kicked in the Sinuses (50) | Kicked in the Sinuses (50)			0	0	0	0	0	0		
+4	684	TRUE	CONSUME: eat 2 bag of QWOP	N/A	none		0	-1	0	0	0	14	 | QWOPped Up (10) | QWOPped Up (10)			0	0	0	0	0	0		
+4	684	TRUE	CONSUME: eat 2 corned-beef Reuben	N/A	none		0	-1	0	0	0	37				0	0	0	0	0	0		
+4	684	TRUE	CONSUME: eat 1 savoy truffle	N/A	none		0	-1	0	0	0	11				0	0	0	0	0	0		
+4	684	true	The Naughty Sorceress' Chamber	The Avatar of Sneaky Pete	none	 | Thwaitgold stag beetle statuette	15	8	33	15	19	0			 | BROADSIDE | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY | THROW TRUSTY	0	0	0	0	0	0		

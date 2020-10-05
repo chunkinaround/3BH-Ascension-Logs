@@ -1,0 +1,819 @@
+day	turnSpent	free?	location	encounterName	familiar	items	meat	rounds	mus	mys	mox	advsGained	effectsGained	itemsUsed	skillsUsed	freeRun?	banish	freeKill	sniff	spit	copy	macroFrom	
+1	1	true	Boxing Daycare	Have a Boxing Daydream	Ms. Puck Man	 | punch-drunk punch	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Combing the Beach	N/A	Ms. Puck Man		0	-1	0	0	0	0	 | You Learned Something Maybe! (50)			0	0	0	0	0	0		
+1	1	true	Boxing Daycare	Enter the Boxing Daycare	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Deck of Every Card	1952 Mickey Mantle	Ms. Puck Man	 | 1952 Mickey Mantle card	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Deck of Every Card	XVI - The Tower	Ms. Puck Man	 | Sneaky Pete's key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Cook 7 wad of dough + 7 soda water	N/A	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Cook 16 wad of dough + 16 soda water	N/A	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Enforcer	Gelatinous Cubeling	 | Source essence | red pixel	12	10	14	45	14	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SNAKEWHIP | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Engineer	Gelatinous Cubeling	 | LOV Epaulettes | Source essence	13	11	14	45	14	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SNAKEWHIP | SUMMON LOVE STINKBUG | SNAKEWHIP	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Equivocator	Gelatinous Cubeling	 | Source essence (2) | Doc Galaktik's Ailment Ointment	13	11	15	52	20	0	 | Lovebotamy (50)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SNAKEWHIP | SNAKEWHIP	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	Gelatinous Cubeling	 | LOV Extraterrestrial Chocolate	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Madness Bakery	the ghost of Monsieur Baguelle	Gelatinous Cubeling	 | Source essence (2)	0	9	0	0	0	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	1	true	The Spooky Forest	sausage goblin	Left-Hand Man	 | magical sausage casing | blue pixel	122	4	18	68	15	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	1	false	The Haunted Kitchen	paper towelgeist	Trick-or-Treating Tot	 | Source essence (3) | white pixel	14	7	17	40	12	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	2	false	The Haunted Kitchen	possessed silverware drawer	Gelatinous Cubeling	 | Source essence (2) | spooky powder | corn holder | red pixel | Special Seasoning	14	9	17	34	18	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SNAKEWHIP	0	0	0	0	0	0		
+1	3	false	The Haunted Kitchen	skullery maid	Gelatinous Cubeling	 | Source essence | bottle of popskull | eleven-foot pole	39	10	15	38	14	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SNAKEWHIP	0	0	0	0	0	0		
+1	4	false	The Haunted Kitchen	zombie chef	Gelatinous Cubeling	 | Source essence (2) | white pixel	42	10	15	37	17	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SNAKEWHIP	0	0	0	0	0	0		
+1	5	false	The Haunted Kitchen	demonic icebox	Gelatinous Cubeling	 | Source essence (2) | ancient frozen dinner	31	10	9	44	15	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SNAKEWHIP	0	0	0	0	0	0		
+1	6	false	The Haunted Kitchen	emaciated rodeo clown	Gelatinous Cubeling	 | Source essence (3) | rodeo whiskey | ring of Detect Boring Doors | li'l clown costume	10	9	14	44	14	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	7	true	The Haunted Kitchen	Wooof! Wooooooof!	Gelatinous Cubeling		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+1	7	false	The Haunted Kitchen	paper towelgeist	Gelatinous Cubeling	 | Source essence (2)	12	10	23	36	12	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SNAKEWHIP	0	0	0	0	0	0		
+1	8	true	The Spooky Forest	terrible mutant	Left-Hand Man	 | glob of undifferentiated tissue	27	4	17	74	25	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	8	true	The Spooky Forest	sausage goblin	Left-Hand Man	 | magical sausage casing	120	4	18	63	32	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	8	false	The Haunted Kitchen	skullery maid	Trick-or-Treating Tot	 | Source essence (3) | Skullery Maid's Knee	32	8	13	33	22	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	9	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Gelatinous Cubeling		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	9	false	The Haunted Kitchen	possessed silverware drawer	Gelatinous Cubeling	 | Source essence (2) | Spookyraven billiards room key | spooky powder | antique packet of ketchup	14	10	14	42	13	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SNAKEWHIP	0	0	0	0	0	0		
+1	10	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Space Jellyfish		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	10	false	The Dark Heart of the Woods	Moon Over the Dark Heart	Space Jellyfish	 | hot plate	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	11	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Space Jellyfish		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	11	false	The Dark Heart of the Woods	Running the Lode	Space Jellyfish		350	-1	0	0	0	0				0	0	0	0	0	0		
+1	12	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Space Jellyfish		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	12	false	The Dark Heart of the Woods	I, Martin	Space Jellyfish	 | martini	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	13	false	The Dark Heart of the Woods	Imp Be Nimble, Imp Be Quick	Space Jellyfish	 | box of birthday candles	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	14	false	The Dark Neck of the Woods	W imp	Space Jellyfish	 | Source essence (3) | hot jelly | Imp Ale | ruby W | infernal fife | stick of firewood	71	10	9	40	19	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | EXTRACT JELLY | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	15	true	Cook 5 wad of dough + 5 soda water	N/A	Space Jellyfish		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	15	false	The Dark Neck of the Woods	P imp	Space Jellyfish	 | Source essence (3) | hot jelly | hot wing | Imp Ale	58	11	18	33	18	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | EXTRACT JELLY | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	16	false	The Dark Neck of the Woods	How Do We Do It? Quaint and Curious Volume!	Gelatinous Cubeling		250	-1	0	0	0	0				0	0	0	0	0	0		
+1	17	false	The Dark Neck of the Woods	Hellion	Gelatinous Cubeling	 | Source essence (2) | hellion cube | blue pixel | Pick-O-Matic lockpicks	10	10	14	45	14	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	18	true	The Spooky Forest	sausage goblin	Left-Hand Man	 | magical sausage casing | red pixel	121	4	20	69	24	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	18	false	The Dark Neck of the Woods	P imp	Fist Turkey	 | hot wing | Imp Ale | Special Seasoning	59	5	10	44	19	0		|Rain-Doh indigo cup	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	19	true	The Spooky Forest	terrible mutant	Fist Turkey	 | Source essence | glob of undifferentiated tissue	23	7	27	66	20	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	19	false	The Dark Neck of the Woods	W imp	Fist Turkey	 | Source essence (3) | Pok&eacute;-Gro fertilizer | stick of firewood	56	8	9	46	18	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	20	true	The Dark Neck of the Woods	Wooof! Wooooooof!	Fist Turkey		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+1	20	false	The Dark Neck of the Woods	Hellion	Fist Turkey	 | Source essence | hellion cube	12	10	19	45	17	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Play against the Witchess Pieces	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Witchess Rook	Fist Turkey	 | Source essence | Greek fire | Evilometer	10	8	20	74	22	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Play against the Witchess Pieces	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Witchess Bishop	Fist Turkey	 | Sacramento wine	12	5	22	77	19	0		|Rain-Doh indigo cup	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Play against the Witchess Pieces	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Witchess Bishop	Fist Turkey	 | Source essence (2) | Sacramento wine | Agitated Turkey	18	8	22	66	33	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Play against the Witchess Pieces	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Witchess Bishop	Fist Turkey	 | Source essence | Sacramento wine	22	8	15	82	24	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	21	true	Your Witchess Set	Play against the Witchess Pieces	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	21	false	Your Witchess Set	Witchess Bishop	Fist Turkey	 | Source essence (2) | Sacramento wine	11	8	19	71	28	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	22	false	The Dark Neck of the Woods	furious giant cow	Fist Turkey	 | Source essence (2) | corrupted marrow	10	9	27	48	29	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS	0	0	0	0	0	0		
+1	23	false	The Dark Neck of the Woods	Olive My Love To You, Oh.	Fist Turkey	 | olive | olive	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	24	false	The Dark Neck of the Woods	Hellion	Fist Turkey	 | Source essence | hellion cube | green pixel	10	8	18	34	20	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	25	false	The Dark Neck of the Woods	P imp	Fist Turkey	 | Source essence | hot wing	67	8	13	42	14	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	26	false	The Dark Neck of the Woods	W imp	Fist Turkey	 | Source essence (2) | Imp Ale | ruby W	53	8	7	46	24	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	27	false	The Dark Neck of the Woods	W imp	Fist Turkey	 | Source essence (2) | ruby W | wussiness potion | red pixel | Agitated Turkey | stick of firewood	94	8	7	52	10	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	28	false	The Dark Neck of the Woods	Dodecahedrariffic!	Fist Turkey	 | dodecagram	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	29	false	The Dark Elbow of the Woods	Demoninja	Fist Turkey	 | Source essence | demon skin | li'l ninja costume	119	7	13	45	13	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	30	true	The Outskirts of Cobb's Knob	terrible mutant	Fist Turkey	 | Source essence | glob of undifferentiated tissue	55	6	19	72	17	0		|Rain-Doh indigo cup	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	30	true	The Dark Elbow of the Woods	L imp	Fist Turkey	 | flaming crutch | cast	54	2	12	48	12	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	30	true	The Dark Elbow of the Woods	G imp	Fist Turkey	 | hot wing | Agitated Turkey	46	2	15	36	19	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	30	false	The Dark Elbow of the Woods	Deep Imp Act	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	31	true	The Outskirts of Cobb's Knob	sausage goblin	Fist Turkey	 | Source essence (2) | magical sausage casing | green pixel	109	6	20	80	23	0		|Rain-Doh indigo cup|Time-Spinner	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	31	true	The Dark Elbow of the Woods	L imp	Fist Turkey	 | cast | Agitated Turkey	49	2	15	42	10	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	31	false	The Dark Elbow of the Woods	Imp Art, Some Wisdom	Fist Turkey		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	32	false	The Dark Elbow of the Woods	Demoninja	Fist Turkey	 | Source essence | Agitated Turkey	92	8	14	46	12	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT	0	0	0	0	0	0		
+1	33	false	The Dark Elbow of the Woods	A Secret, But Not the Secret You're Looking For	Ms. Puck Man	 | bottle of gin | bottle of vodka | bottle of rum	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	34	false	The Dark Elbow of the Woods	Butter Knife?  I'll Take the Knife	Ms. Puck Man	 | eldritch butterknife	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	35	true	Friar Ceremony Location	N/A	Ms. Puck Man		0	-1	0	0	0	0	 | items.enh (100)			0	0	0	0	0	0		
+1	35	false	The Laugh Floor	Pr Imp	Steam-Powered Cheerleader	 | Source essence (3)	81	10	15	45	17	0	 | Frisky Spirit (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	36	true	Cook 5 wad of dough + 5 soda water	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	36	false	The Laugh Floor	BL Imp	Steam-Powered Cheerleader	 | red pixel | Special Seasoning	62	9	17	46	20	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	37	false	The Laugh Floor	Pr Imp	Steam-Powered Cheerleader	 | blue pixel	67	9	35	37	14	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	38	false	The Laugh Floor	CH Imp	Steam-Powered Cheerleader		52	9	20	36	23	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	39	TRUE	CONSUME: drink 1 punch-drunk punch	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	7	 | Boxing Day Drinking (50)			0	0	0	0	0	0		
+1	39	false	The Laugh Floor	Carbuncle Top	Steam-Powered Cheerleader	 | hilarious comedy prop | blue pixel	0	10	17	44	23	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SNAKEWHIP	0	0	0	0	0	0		
+1	40	true	The Laugh Floor	Wooof! Wooooooof!	Steam-Powered Cheerleader		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+1	40	false	The Laugh Floor	CH Imp	Steam-Powered Cheerleader	 | imp air	48	9	22	40	24	0	 | Wise Spirit (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	41	false	The Laugh Floor	furious giant cow	Steam-Powered Cheerleader	 | corrupted marrow	0	9	30	60	25	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	42	false	The Laugh Floor	Pr Imp	Steam-Powered Cheerleader	 | imp air | blue pixel	92	9	19	48	19	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	43	false	The Laugh Floor	BL Imp	Steam-Powered Cheerleader		56	9	18	49	22	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	44	false	The Laugh Floor	Victor the Insult Comic Hellhound	Steam-Powered Cheerleader	 | Victor, the Insult Comic Hellhound Puppet	0	10	22	54	15	0	 | Cool Spirit (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SNAKEWHIP	0	0	0	0	0	0		
+1	45	false	The Laugh Floor	Pr Imp	Steam-Powered Cheerleader	 | imp air	84	9	23	48	22	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	46	TRUE	CONSUME: drink 1 Agitated Turkey	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	5	 | Turkey-Agitated (25)			0	0	0	0	0	0		
+1	46	false	The Laugh Floor	CH Imp	Steam-Powered Cheerleader		48	9	25	50	13	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	47	true	The Outskirts of Cobb's Knob	sausage goblin	Ms. Puck Man	 | magical sausage casing | yellow pixel	112	6	34	71	30	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	47	false	The Laugh Floor	CH Imp	Steam-Powered Cheerleader	 | imp air | blue pixel | Special Seasoning	52	9	30	46	17	0	 | Resilient Spirit (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	48	false	The Laugh Floor	Pr Imp	Steam-Powered Cheerleader	 | red pixel	76	9	17	54	17	0	 | Fiery Spirit (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	49	false	The Laugh Floor	Larry of the Field of Signs	Steam-Powered Cheerleader	 | observational glasses	0	10	24	48	17	0	 | Cool Spirit (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SNAKEWHIP	0	0	0	0	0	0		
+1	50	false	The Laugh Floor	Pr Imp	Steam-Powered Cheerleader		91	9	27	52	9	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	51	TRUE	CONSUME: drink 1 Agitated Turkey	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	6	 | Turkey-Agitated (25) | Driving Stealthily (30)			0	0	0	0	0	0		
+1	51	false	The Laugh Floor	BL Imp	Steam-Powered Cheerleader	 | imp air | blue pixel	73	9	17	41	12	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	52	false	Infernal Rackets Backstage	Your Bassist Impulses	Steam-Powered Cheerleader	 | sponge cake	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	53	true	Cook 6 wad of dough + 6 soda water	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	53	false	Infernal Rackets Backstage	A Pertinent Imp	Steam-Powered Cheerleader	 | comfy pillow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	54	false	Infernal Rackets Backstage	Primo Donno	Steam-Powered Cheerleader	 | giant marshmallow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	false	Infernal Rackets Backstage	Entour Rage	Steam-Powered Cheerleader	 | booze-soaked cherry	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	56	false	Infernal Rackets Backstage	inkubus	Steam-Powered Cheerleader	 | red pixel	91	9	14	32	14	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	57	true	The Skeleton Store	boneless blobghost	Ms. Puck Man	 | psychokinetic energy blob (3) | yellow pixel	11	9	7	34	10	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	57	TRUE	CONSUME: drink 1 Agitated Turkey	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	6	 | Turkey-Agitated (25)			0	0	0	0	0	0		
+1	57	false	Infernal Rackets Backstage	inkubus	Steam-Powered Cheerleader	 | blue pixel	93	9	10	37	12	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	58	false	Infernal Rackets Backstage	suckubus	Steam-Powered Cheerleader		73	9	10	32	17	0	 | Wise Spirit (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	59	false	Infernal Rackets Backstage	A Dicey Situation	Steam-Powered Cheerleader	 | gin-soaked blotter paper	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	60	false	Infernal Rackets Backstage	serialbus	Steam-Powered Cheerleader	 | bus pass	58	9	12	29	22	0	 | Fiery Spirit (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	61	false	Infernal Rackets Backstage	menacing rodeo clown	Steam-Powered Cheerleader	 | rodeo whiskey | Heimz Fortified Kidney Beans | red pixel	11	10	19	52	22	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SNAKEWHIP	0	0	0	0	0	0		
+1	62	false	Infernal Rackets Backstage	suckubus	Steam-Powered Cheerleader		83	9	15	40	13	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	63	true	Infernal Rackets Backstage	Wooof! Wooooooof!	Steam-Powered Cheerleader	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	63	TRUE	CONSUME: drink 1 Agitated Turkey	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	5	 | Turkey-Agitated (25)			0	0	0	0	0	0		
+1	63	false	Infernal Rackets Backstage	inkubus	Steam-Powered Cheerleader	 | Special Seasoning	87	9	5	44	14	0	 | Wise Spirit (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	64	false	Infernal Rackets Backstage	inkubus	Steam-Powered Cheerleader	 | blue pixel	90	9	17	34	12	0	 | Cool Spirit (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	65	false	Infernal Rackets Backstage	serialbus	Steam-Powered Cheerleader		57	9	10	37	23	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	66	true	The Outskirts of Cobb's Knob	sausage goblin	Ms. Puck Man	 | magical sausage casing | yellow pixel	119	6	28	64	28	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	66	false	Infernal Rackets Backstage	serialbus	Steam-Powered Cheerleader		59	9	13	40	12	0	 | Fiery Spirit (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	67	false	Infernal Rackets Backstage	inkubus	Steam-Powered Cheerleader		93	10	17	37	10	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SNAKEWHIP	0	0	0	0	0	0		
+1	68	TRUE	CONSUME: drink 1 Agitated Turkey	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	5	 | Turkey-Agitated (25)			0	0	0	0	0	0		
+1	68	false	Infernal Rackets Backstage	suckubus	Steam-Powered Cheerleader	 | bus pass	75	9	9	38	14	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	69	false	Infernal Rackets Backstage	inkubus	Steam-Powered Cheerleader	 | red pixel	89	9	15	41	5	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	70	false	Infernal Rackets Backstage	suckubus	Steam-Powered Cheerleader		78	9	20	45	3	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	71	false	The Outskirts of Cobb's Knob	Knob Goblin Barbecue Team	Ms. Puck Man	 | bowl of cottage cheese | yellow pixel	12	5	7	40	7	0		|Rain-Doh indigo cup	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	72	true	Cook 6 wad of dough + 6 soda water	N/A	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	72	false	The Outskirts of Cobb's Knob	sleeping Knob Goblin Guard	Ms. Puck Man	 | viking helmet | yellow pixel	35	5	8	34	8	0		|Rain-Doh indigo cup	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	73	TRUE	CONSUME: drink 1 Sacramento wine	N/A	Ms. Puck Man		0	-1	0	0	0	6	 | Sacr&eacute; Mental (50)			0	0	0	0	0	0		
+1	73	false	The Outskirts of Cobb's Knob	Sub-Assistant Knob Mad Scientist	Ms. Puck Man	 | Knob Goblin firecracker | Knob Goblin Mutagen | yellow pixel	9	5	7	39	7	0		|Rain-Doh indigo cup	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	74	false	The Outskirts of Cobb's Knob	Knob Goblin Assistant Chef	Ms. Puck Man	 | chef's hat | yellow pixel | Special Seasoning	11	5	9	31	9	0		|Rain-Doh indigo cup	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	75	false	The Outskirts of Cobb's Knob	Knob Goblin Barbecue Team	Ms. Puck Man	 | bowl of cottage cheese | blue pixel | yellow pixel	17	5	9	37	7	0		|Rain-Doh indigo cup	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	76	false	The Outskirts of Cobb's Knob	Knob Goblin Barbecue Team	Ms. Puck Man	 | bowl of cottage cheese | Knob Goblin tongs | yellow pixel	17	5	9	34	8	0		|Rain-Doh indigo cup	 | CANHANDLE | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	77	true	The Outskirts of Cobb's Knob	Wooof! Wooooooof!	Ms. Puck Man		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+1	77	TRUE	CONSUME: eat 1 fortune cookie	N/A	Ms. Puck Man		0	-1	0	0	0	7				0	0	0	0	0	0		
+1	77	false	The Outskirts of Cobb's Knob	Code Red	Ms. Puck Man	 | Knob Goblin encryption key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	78	true	Infernal Rackets Backstage	sausage goblin	Steam-Powered Cheerleader	 | magical sausage casing | red pixel	144	6	24	59	23	0	 | Wise Spirit (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	78	false	Infernal Rackets Backstage	inkubus	Steam-Powered Cheerleader	 | bus pass	96	8	14	41	9	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	79	TRUE	CONSUME: eat 1 fortune cookie	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	2				0	0	0	0	0	0		
+1	79	false	The Limerick Dungeon	The Bleary-Eyed Cyclops	Steam-Powered Cheerleader	 | cyclops eyedrops	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	80	false	Infernal Rackets Backstage	serialbus	Steam-Powered Cheerleader	 | bus pass	49	8	18	29	20	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	81	false	Infernal Rackets Backstage	prince snake	Steam-Powered Cheerleader	 | snake oil (2) | blue pixel	0	8	14	63	23	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	82	false	Infernal Rackets Backstage	serialbus	Steam-Powered Cheerleader	 | bus pass | red pixel | strange leaflet	49	8	10	42	10	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	83	false	Guano Junction	How I Wonder What You're At	Ms. Puck Man	 | sonar-in-a-biscuit | sonar-in-a-biscuit	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	84	false	The Beanbat Chamber	beanbat	Steam-Powered Cheerleader	 | enchanted bean	114	7	9	32	14	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SING ALONG	0	0	0	0	0	0		
+1	85	true	The Spooky Forest	sausage goblin	Ms. Puck Man	 | magical sausage casing | yellow pixel	159	6	25	76	28	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	85	true	Cook 5 wad of dough + 5 soda water	N/A	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	85	false	The Spooky Forest	bar	Ms. Puck Man	 | bar skin | yellow pixel	32	4	7	41	8	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	86	false	The Spooky Forest	spooky vampire	Ms. Puck Man	 | yellow pixel	20	4	4	34	9	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	87	false	The Spooky Forest	Consciousness of a Stream	Ms. Puck Man	 | mosquito larva | bottle of goofballs	500	-1	0	0	0	0				0	0	0	0	0	0		
+1	88	TRUE	CONSUME: drink 1 Sacramento wine	N/A	Ms. Puck Man		0	-1	0	0	0	6	 | Sacr&eacute; Mental (50)			0	0	0	0	0	0		
+1	88	false	The Spooky Forest	Consciousness of a Stream	Ms. Puck Man	 | tree-holed coin	300	-1	0	0	0	0				0	0	0	0	0	0		
+1	89	false	The Haunted Billiards Room	pooltergeist	Ms. Puck Man	 | 2-ball | yellow pixel	48	7	8	40	14	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SING ALONG	0	0	0	0	0	0		
+1	90	TRUE	CONSUME: eat 1 magical sausage	N/A	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	90	TRUE	CONSUME: eat 1 magical sausage	N/A	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	90	TRUE	CONSUME: eat 1 magical sausage	N/A	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	90	false	The Haunted Billiards Room	That's Your Cue	Ms. Puck Man	 | pool cue	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	91	TRUE	CONSUME: eat 1 magical sausage	N/A	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	91	false	The Haunted Billiards Room	chalkdust wraith	Ms. Puck Man	 | psychokinetic energy blob | handful of hand chalk | yellow pixel | power pill | Gathered Meat-Clip	15	7	14	54	7	0			 | SUMMON LOVE GNATS | BEANSCREEN | SHOOT GHOST | SHOOT GHOST | SHOOT GHOST | TRAP GHOST	0	0	0	0	0	0		
+1	92	false	The Haunted Billiards Room	pooltergeist	Ms. Puck Man	 | 4-ball | 8-ball | yellow pixel	67	7	10	29	10	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SING ALONG	0	0	0	0	0	0		
+1	93	false	The Haunted Billiards Room	Welcome To Our ool Table	Ms. Puck Man	 | Spookyraven library key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	94	false	The Haunted Library	writing desk	Steam-Powered Cheerleader	 | inkwell | snifter of thoroughly aged brandy	51	8	8	30	12	0	 | Wise Spirit (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | OFFER LATTE TO OPPONENT | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SING ALONG	0	0	0	1	0	0		
+1	95	false	The Haunted Library	a writing desk!	Steam-Powered Cheerleader	 | disintegrating quill pen | inkwell | snifter of thoroughly aged brandy | red pixel	0	5	9	34	8	0		|Rain-Doh indigo cup	 | CHEAT CODE: REPLACE ENEMY | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0	 | bookbat	
+1	96	false	The Haunted Library	banshee librarian	Steam-Powered Cheerleader	 | disintegrating quill pen	57	9	10	32	9	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SING ALONG | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	97	false	The Haunted Library	a writing desk!	Steam-Powered Cheerleader	 | inkwell | snifter of thoroughly aged brandy	0	5	14	17	12	0		|Rain-Doh indigo cup	 | CHEAT CODE: REPLACE ENEMY | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0	 | bookbat	
+1	98	true	The Haunted Library	sausage goblin	Steam-Powered Cheerleader	 | magical sausage casing	121	6	27	66	19	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	98	TRUE	CONSUME: drink 1 Sacramento wine	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	6	 | Sacr&eacute; Mental (50)			0	0	0	0	0	0		
+1	98	false	The Haunted Library	banshee librarian	Steam-Powered Cheerleader	 | killing jar | green pixel	47	9	15	32	9	0	 | Cool Spirit (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SING ALONG | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	99	false	The Haunted Library	writing desk	Ms. Puck Man	 | inkwell | snifter of thoroughly aged brandy | yellow pixel	38	7	8	34	12	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SING ALONG	0	0	0	0	0	0		
+1	100	true	The Haunted Library	Wooof! Wooooooof!	Ms. Puck Man		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+1	100	TRUE	CONSUME: drink 1 steel margarita	N/A	Ms. Puck Man		0	-1	0	0	0	0	 | Driving Stealthily (30)			0	0	0	0	0	0		
+1	100	false	The Haunted Library	writing desk	Ms. Puck Man	 | disintegrating quill pen | inkwell | snifter of thoroughly aged brandy | yellow pixel | Lady Spookyraven's necklace	47	9	5	44	5	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SING ALONG | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	101	false	The Spooky Forest	king snake	Ms. Puck Man	 | almost-dead walkie-talkie | snake oil (3) | yellow pixel	13	9	21	53	22	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	102	false	The Spooky Forest	triffid	Ms. Puck Man	 | moxie weed | spooky stick | yellow pixel	13	4	4	22	4	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	103	false	The Spooky Forest	wolfman	Ms. Puck Man	 | green pixel | yellow pixel | Gathered Meat-Clip	27	4	6	16	8	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	104	TRUE	CONSUME: eat 1 Boris's key lime pie	N/A	Garbage Fire	 | Boris's key	0	-1	0	0	0	16				0	0	0	0	0	0		
+1	104	false	The Spooky Forest	spooky mummy	Garbage Fire	 | spooky shrunken head | ancient pills	28	4	5	19	5	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	105	true	The Spooky Forest	Wooof! Wooooooof!	Garbage Fire	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	105	false	The Spooky Forest	wolfman	Garbage Fire		32	4	6	24	5	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	106	false	The Spooky Forest	O Lith, Mon	Garbage Fire	 | Spooky Temple map	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	107	false	The Spooky Forest	Tree's Last Stand	Garbage Fire	 | spooky sapling	75	-1	0	0	0	0				0	0	0	0	0	0		
+1	108	true	Cobb's Knob Harem	Knob Goblin Harem Guard	Steam-Powered Cheerleader		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	108	true	Cobb's Knob Harem	Cobb's Knob lab key	Steam-Powered Cheerleader	 | Cobb's Knob lab key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	108	false	Cobb's Knob Harem	Knob Goblin Harem Girl	Steam-Powered Cheerleader	 | Knob Goblin harem pants | Knob Goblin harem veil | disease | finger cymbals	13	2	4	28	5	0	 | Frisky Spirit (1) | Everything Looks Yellow (149)	|viral video		0	0	0	0	0	0		
+1	109	true	Madness Bakery	the ghost of Monsieur Baguelle	Garbage Fire	 | psychokinetic energy blob (4)	10	8	11	21	4	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	109	true	The Daily Dungeon	I Wanna Be a Door	Garbage Fire		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	109	true	The Daily Dungeon	It's Almost Certainly a Trap	Garbage Fire		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	109	true	The Daily Dungeon	It's Almost Certainly a Trap	Garbage Fire		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	109	true	The Daily Dungeon	I Wanna Be a Door	Garbage Fire		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	109	true	The Daily Dungeon	The First Chest Isn't the Deepest.	Garbage Fire		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	109	true	The Daily Dungeon	It's Almost Certainly a Trap	Garbage Fire		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	109	false	The Daily Dungeon	pencil golem	Garbage Fire	 | pencil stub | red pixel	11	4	6	33	3	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	110	true	The Daily Dungeon	Second Chest	Garbage Fire		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	110	false	The Daily Dungeon	dodecapede	Garbage Fire	 | clutch of dodecapede eggs | burning newspaper	32	4	4	32	6	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	111	false	The Daily Dungeon	tonic water elemental	Cat Burglar	 | tonic djinn	49	6	3	40	5	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	112	false	The Daily Dungeon	The Final Reward	Cat Burglar	 | fat loot token	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	113	false	Cobb's Knob Harem	Plucked	Steam-Powered Cheerleader		0	-1	0	0	0	0	 | Knob Goblin Perfume (1)			0	0	0	0	0	0		
+1	114	false	Throne Room	The Knob Goblin King	Cat Burglar	 | dense meat stack (2) | Crown of the Goblin King	14	8	27	63	23	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	115	false	The Shore, Inc. Travel Agency	N/A	Cat Burglar	 | Shore Inc. Ship Trip Scrip	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	118	false	The Shore, Inc. Travel Agency	N/A	Cat Burglar	 | Shore Inc. Ship Trip Scrip	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	121	TRUE	CONSUME: eat 1 browser cookie	N/A	Cat Burglar		0	-1	0	0	0	22				0	0	0	0	0	0		
+1	121	false	The Shore, Inc. Travel Agency	N/A	Cat Burglar	 | Shore Inc. Ship Trip Scrip	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	124	true	Rest in your bed in the Chateau	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	124	false	The Haunted Bedroom	king snake	Cat Burglar	 | Source essence (3) | snake oil (3)	12	10	23	68	21	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	125	true	Rest in your bed in the Chateau	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	125	true	The Overgrown Lot	Drawing Lots	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	125	false	The Overgrown Lot	cooler wino	Cat Burglar	 | shysterweed | unflavored wine cooler | unflavored wine cooler	15	4	3	32	12	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	126	false	The Overgrown Lot	malt liquor golem	Cat Burglar	 | premium malt liquor | brown paper pants | brown paper bag mask | Pok&eacute;-Gro fertilizer	14	4	6	30	4	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	127	false	The Overgrown Lot	sewer snake with a sewer snake in it	Cat Burglar	 | fraudwort | carton of snake milk | carton of snake milk | sewer snake | Special Seasoning	18	4	5	34	4	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	128	false	The Overgrown Lot	dire pigeon	Cat Burglar	 | pigeon egg | jaunty feather	22	4	7	30	4	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	129	false	The Overgrown Lot	sewer snake with a sewer snake in it	Cat Burglar	 | fraudwort | carton of snake milk | carton of snake milk | sewer snake	20	4	2	36	4	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	130	true	The Overgrown Lot	Boooooze Hound	Cat Burglar	 | unflavored wine cooler | unflavored wine cooler | unflavored wine cooler | unflavored wine cooler	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	130	false	The Overgrown Lot	Lots of Options	Cat Burglar	 | shysterweed | fraudwort	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	131	false	The Overgrown Lot	cooler wino	Cat Burglar	 | shysterweed | mostly-broken sunglasses | unflavored wine cooler | unflavored wine cooler | handful of stubble	12	4	12	29	5	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	132	false	The Overgrown Lot	malt liquor golem	Cat Burglar	 | swindleblossom | premium malt liquor | brown paper pants | brown paper bag mask | green pixel	13	4	4	30	10	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	133	false	The Overgrown Lot	sewer snake with a sewer snake in it	Cat Burglar	 | swindleblossom | carton of snake milk | carton of snake milk | sewer snake	23	4	2	39	5	0		|Rain-Doh indigo cup	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	134	true	The Haunted Bedroom	Wardr&ouml;b nightstand	Cat Burglar		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	134	true	The Haunted Bedroom	animated rustic nightstand	Cat Burglar		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+1	134	false	The Haunted Bedroom	One Ornate Nightstand	Cat Burglar	 | Source essence | Lord Spookyraven's spectacles	10	10	6	40	9	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	135	true	The Haunted Bedroom	animated mahogany nightstand	Cat Burglar		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	135	false	The Haunted Bedroom	One Ornate Nightstand	Cat Burglar	 | Source essence | disposable instant camera	15	10	8	38	8	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	136	false	The Haunted Bedroom	One Elegant Nightstand	Cat Burglar	 | Source essence | Source terminal file: damage.enh | Lady Spookyraven's finest gown	11	10	12	33	6	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	137	true	The Haunted Gallery	Out in the Garden	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	137	false	The Haunted Gallery	empty suit of armor	Cat Burglar	 | Source essence | antique helmet | antique shield	13	10	7	46	5	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PORTSCAN	0	0	0	0	0	0		
+1	138	false	The Haunted Gallery	Government agent	Cat Burglar	 | Source essence | government cheese | government-issue identification badge	156	10	16	60	20	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PORTSCAN	0	0	0	0	0	0		
+1	139	false	The Haunted Gallery	Government agent	Cat Burglar	 | Source essence (2) | government cheese | government-issue identification badge | red pixel | Special Seasoning	177	9	19	73	12	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0		
+1	140	false	The Haunted Gallery	king snake	Cat Burglar	 | snake oil (3)	15	10	20	76	19	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PORTSCAN | PUNGENT MUNG	0	0	0	0	0	0		
+1	141	false	The Haunted Gallery	Government agent	Cat Burglar	 | government cheese | government-issue identification badge	210	9	10	72	21	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	142	TRUE	CONSUME: eat 1 pixel lemon	N/A	Cat Burglar		0	-1	0	0	0	11				0	0	0	0	0	0		
+1	142	false	The Haunted Gallery	Louvre It or Leave It (The Persistence of Memory)	Cat Burglar	 | Lady Spookyraven's dancing shoes	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	143	false	The Haunted Bathroom	malevolent hair clog	Ms. Puck Man	 | yellow pixel	14	9	11	34	7	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	144	true	The Haunted Bathroom	Lights Out in the Bathroom	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	144	false	The Haunted Bathroom	claw-foot bathtub	Ms. Puck Man	 | bottle of Monsieur Bubble | yellow pixel	14	9	9	36	13	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	145	false	The Haunted Bathroom	toilet papergeist	Ms. Puck Man	 | roll of toilet paper | yellow pixel	10	9	9	37	10	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	146	true	The Haunted Bathroom	sausage goblin	Ms. Puck Man	 | magical sausage casing | green pixel | yellow pixel	136	6	18	63	24	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	146	false	The Haunted Bathroom	malevolent hair clog	Ms. Puck Man	 | gob of wet hair | red pixel | yellow pixel	14	9	7	37	9	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	147	false	The Haunted Bathroom	cosmetics wraith	Ms. Puck Man	 | Lady Spookyraven's powder puff | old eyebrow pencil | old rosewater cream | old bronzer | yellow pixel | power pill	13	9	6	32	9	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	148	false	The Haunted Ballroom	Having a Ball in the Ballroom	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	149	true	Combing the Beach	N/A	Ms. Puck Man		0	-1	0	0	0	0	 | Resting Beach Face (50)			0	0	0	0	0	0		
+1	149	true	Rest in your bed in the Chateau	N/A	Cute Meteor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	149	true	Rest in your bed in the Chateau	N/A	Cute Meteor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	149	true	The Defiled Alcove	Turn Your Head and Coffin	Cute Meteor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	149	false	The Defiled Alcove	modern zmobie	Cute Meteor	 | Rain-Doh box full of monster	0	7	0	0	0	0		|Rain-Doh black box|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	150	false	Rain-Doh box full of monster	modern zmobie	Ms. Puck Man	 | Rain-Doh box full of monster | yellow pixel	117	10	10	44	7	0		|Rain-Doh black box|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	151	false	Rain-Doh box full of monster	modern zmobie	Ms. Puck Man	 | Rain-Doh box full of monster | yellow pixel	98	10	7	41	12	0		|Rain-Doh black box|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	152	false	Rain-Doh box full of monster	modern zmobie	Ms. Puck Man	 | yellow pixel | Special Seasoning	113	9	12	40	8	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	153	true	Rest in your bed in the Chateau	N/A	Cute Meteor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	153	TRUE	CONSUME: eat 1 pixel lemon	N/A	Cute Meteor		0	-1	0	0	0	11				0	0	0	0	0	0		
+1	153	false	The Defiled Alcove	modern zmobie	Cute Meteor		139	7	12	31	13	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SING ALONG	0	0	0	0	0	0		
+1	154	false	The Defiled Alcove	conjoined zmombie	Cute Meteor	 | loose teeth | cranberries | cranberries	341	9	19	53	24	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	155	false	The Defiled Nook	spiny skelelton	Steam-Powered Cheerleader		0	8	0	0	0	0	 | Wise Spirit (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	156	false	The Defiled Nook	toothy sklelton	Steam-Powered Cheerleader	 | loose teeth | skeleton bone	15	8	9	28	9	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	157	true	The Defiled Nook	Skull, Skull, Skull	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	157	true	The Defiled Nook	Skull, Skull, Skull	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	157	true	The Defiled Nook	Skull, Skull, Skull	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	157	true	The Defiled Nook	Skull, Skull, Skull	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	157	true	The Defiled Nook	Skull, Skull, Skull	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	157	true	The Defiled Nook	party skelteon	Steam-Powered Cheerleader		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	157	false	The Defiled Nook	spiny skelelton	Steam-Powered Cheerleader	 | skeleton bone | smart skull | evil eye | succulent marrow	14	8	9	29	8	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	158	false	The Defiled Nook	toothy sklelton	Steam-Powered Cheerleader		0	8	0	0	0	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	159	false	The Defiled Nook	grizzled rodeo clown	Steam-Powered Cheerleader	 | rodeo whiskey | Frigid Northern Beans	14	8	18	35	18	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	160	true	Cobb's Knob Treasury	The ghost of Ebenoozer Screege	Ms. Puck Man	 | psychokinetic energy blob (3) | red pixel | yellow pixel	0	9	8	34	8	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	160	true	Rest in your bed in the Chateau	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	160	false	The Defiled Nook	Is There A Doctor In The House?	Steam-Powered Cheerleader	 | skeleton bone | smart skull | spiked femur | skelelton spine | succulent marrow | green pixel	0	8	9	31	5	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	161	true	The Defiled Nook	Seeing-Eyes Dog	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	161	false	The Defiled Nook	giant skeelton	Ms. Puck Man	 | skeleton bone | skeleton bone | skeleton bone | yellow pixel	0	9	20	71	16	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	162	true	The Defiled Niche	senile lihc	Space Jellyfish		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	162	false	The Defiled Niche	dirty old lihc	Space Jellyfish	 | spooky jelly | salacious crumbs	0	10	10	42	7	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | EXTRACT JELLY | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	163	true	The Defiled Niche	Urning Your Keep	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	163	true	The Defiled Niche	basic lihc	Artistic Goth Kid		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	163	false	The Defiled Niche	a dirty old lihc!	Artistic Goth Kid	 | salacious crumbs | Special Seasoning	0	9	10	34	12	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CHEAT CODE: REPLACE ENEMY | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0	 | slick lihc	
+1	164	true	The Defiled Niche	Black Crayon Undead Thing	Artistic Goth Kid	 | crayon shavings	0	9	24	63	14	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	164	true	The Defiled Niche	Black Crayon Undead Thing	Artistic Goth Kid	 | crayon shavings	0	9	19	59	21	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	164	TRUE	CONSUME: eat 1 campfire baked potato	N/A	Artistic Goth Kid		0	-1	0	0	0	5	 | Trial by Campfire (60)			0	0	0	0	0	0		
+1	164	false	The Defiled Niche	a dirty old lihc!	Artistic Goth Kid		0	9	10	36	12	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CHEAT CODE: REPLACE ENEMY | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG	0	0	0	0	0	0	 | slick lihc	
+1	165	true	The Defiled Niche	Black Crayon Undead Thing	Artistic Goth Kid	 | crayon shavings | white pixel	0	9	20	67	15	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	165	true	The Defiled Niche	Black Crayon Undead Thing	Artistic Goth Kid	 | crayon shavings	0	9	19	64	18	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	165	true	The Defiled Niche	Black Crayon Undead Thing	Artistic Goth Kid	 | crayon shavings	0	9	22	52	26	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	165	true	The Defiled Niche	sausage goblin	Artistic Goth Kid	 | magical sausage casing	104	6	21	69	18	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS	0	0	0	0	0	0		
+1	165	false	The Defiled Niche	a dirty old lihc!	Artistic Goth Kid	 | salacious crumbs	0	10	7	41	11	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CHEAT CODE: REPLACE ENEMY | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0	 | slick lihc	
+1	166	false	The Defiled Niche	a dirty old lihc!	Artistic Goth Kid	 | salacious crumbs | blue pixel	0	10	15	34	9	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | CHEAT CODE: REPLACE ENEMY | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0	 | slick lihc	
+1	167	false	The Defiled Niche	dirty old lihc	Artistic Goth Kid	 | salacious crumbs	0	9	15	36	13	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	168	true	The Defiled Niche	Wooof! Wooooooof!	Artistic Goth Kid		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+1	168	false	The Defiled Niche	dirty old lihc	Artistic Goth Kid	 | green pixel	0	9	8	44	12	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	169	false	The Defiled Niche	gargantulihc	Artistic Goth Kid	 | lihc eye | lihc eye	0	9	18	63	25	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	170	true	Dr. Gordon Stuart's Science Tent	Eldritch Tentacle	Ms. Puck Man	 | eldritch effluvium | yellow pixel	0	3	26	61	26	0			 | PUNGENT MUNG | PUNGENT MUNG	0	0	0	0	0	0		
+1	170	false	The Defiled Cranny	giant swarm of ghuol whelps	Ms. Puck Man		0	6	0	0	0	0		|Rain-Doh indigo cup|Time-Spinner	 | SUMMON LOVE MOSQUITO | PUNGENT MUNG | PUNGENT MUNG	0	0	0	0	0	0		
+1	171	false	The Defiled Cranny	giant swarm of ghuol whelps	Ms. Puck Man	 | blue pixel | yellow pixel	15	6	18	57	21	0		|Rain-Doh indigo cup|Time-Spinner	 | SUMMON LOVE MOSQUITO | PUNGENT MUNG | PUNGENT MUNG	0	0	0	0	0	0		
+1	172	false	The Defiled Cranny	gaunt ghuol	Ms. Puck Man	 | ghuol ears | dieting pill | yellow pixel	28	5	19	54	23	0		|Rain-Doh indigo cup|Time-Spinner	 | SUMMON LOVE MOSQUITO | PUNGENT MUNG	0	0	0	0	0	0		
+1	173	false	The Defiled Cranny	huge ghuol	Ms. Puck Man		0	6	0	0	0	0		|Rain-Doh indigo cup|Time-Spinner	 | SUMMON LOVE MOSQUITO | PUNGENT MUNG | PUNGENT MUNG	0	0	0	0	0	0		
+1	174	false	Haert of the Cyrpt	The Bonerdagon	Machine Elf	 | skull of the Bonerdagon | chest of the Bonerdagon | vertebra of the Bonerdagon | Special Seasoning	18	12	53	114	37	0	 | Inner Elf (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG | PUNGENT MUNG | PUNGENT MUNG | PUNGENT MUNG	0	0	0	0	0	0		
+1	175	true	Cook 17 wad of dough + 17 soda water	N/A	Machine Elf		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	175	false	The Overgrown Lot	cooler wino	Ms. Puck Man	 | unflavored wine cooler | unflavored wine cooler | yellow pixel	58	9	10	56	7	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SING ALONG | SUMMON LOVE GNATS | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	Boxing Daycare	Visit the Boxing Day Spa	Ms. Puck Man		0	-1	0	0	0	0	 | Uncucumbered (100)			0	0	0	0	0	0		
+1	176	true	The Neverending Party	N/A	Crimbo Shrub		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	176	true	The Neverending Party	party girl	Crimbo Shrub	 | runproof mascara | very small red dress | surprisingly capacious handbag	208	9	41	115	44	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The Neverending Party	biker	Crimbo Shrub	 | gas can | Middle of the Road&trade; brand whiskey	224	9	36	133	38	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The Neverending Party	jock	Crimbo Shrub	 | unremarkable duffel bag | Purple Beast energy drink | cosmetic football | shoe ad T-shirt	314	9	45	119	37	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The Neverending Party	&quot;plain&quot; girl	Crimbo Shrub	 | electronics kit | PB&J with the crusts cut off | ponytail clip	220	8	32	119	47	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The Neverending Party	burnout	Crimbo Shrub	 | van key | jam band bootleg | denim jacket	116	9	39	117	44	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The Neverending Party	&quot;plain&quot; girl	Crimbo Shrub	 | electronics kit | PB&J with the crusts cut off	187	9	55	113	31	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The Neverending Party	party girl	Crimbo Shrub	 | runproof mascara | very small red dress | noticeable pumps | surprisingly capacious handbag	227	9	43	126	38	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The Neverending Party	A Room With a View...  Of a Bed	Crimbo Shrub		0	-1	0	0	0	0	 | Tomes of Opportunity (20)			0	0	0	0	0	0		
+1	176	true	The Neverending Party	&quot;plain&quot; girl	Crimbo Shrub	 | dorky glasses | red pixel	179	8	42	151	31	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The Neverending Party	party girl	Crimbo Shrub	 | runproof mascara	204	9	43	132	47	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The Deep Machine Tunnels	Mover of Plans	Machine Elf		10	9	0	0	0	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	Cook 6 wad of dough + 6 soda water	N/A	Machine Elf		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	176	true	The Deep Machine Tunnels	Evaluator of Textures	Machine Elf	 | white pixel	13	9	0	0	0	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The Deep Machine Tunnels	Feeler of Mouthfeels	Machine Elf		16	9	0	0	0	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The Deep Machine Tunnels	Believer of Lessons	Machine Elf	 | Deep Machine Tunnels snowglobe	14	9	0	0	0	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The Deep Machine Tunnels	Visualizer of Diagrams and Diagrams	Machine Elf		13	9	0	0	0	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		62	9	21	44	15	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SING ALONG | SUMMON LOVE GNATS | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		82	10	16	63	13	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SING ALONG | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		56	10	15	64	9	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SING ALONG | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub	 | green pixel	13	9	20	53	15	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub	 | white pixel	14	9	21	53	15	0	 | Bad Haircut (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub	 | white pixel	10	9	23	58	13	0	 | Bad Haircut (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub	 | iced plum wine	15	9	20	68	15	0	 | Bad Haircut (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		15	9	28	66	8	0	 | Bad Haircut (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub		11	8	20	59	23	0	 | Bad Haircut (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Crimbo Shrub	 | blue pixel	11	9	23	67	18	0	 | Bad Haircut (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	God Lobster	the God Lobster	God Lobster		0	9	40	151	41	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	176	true	God Lobster	the God Lobster	God Lobster		0	8	42	151	39	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	176	true	God Lobster	the God Lobster	God Lobster		0	9	50	142	40	0		|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls	 | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | PUNGENT MUNG	0	0	0	0	0	0		
+1	176	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	176	false	The Overgrown Lot	Lots of Options	Ms. Puck Man	 | swindleblossom	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	177	true	The Goatlet	sabre-toothed goat	Steam-Powered Cheerleader		0	2	0	0	0	0			 | GULP LATTE | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+1	177	true	Cook 9 wad of dough + 9 soda water	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	177	false	The Goatlet	dairy goat	Steam-Powered Cheerleader	 | goat cheese | glass of goat's milk | goat cheese | glass of goat's milk	121	11	20	55	20	0	 | Wise Spirit (1)	|Rain-Doh indigo cup|Time-Spinner|Rain-Doh blue balls|exploding cigar	 | OFFER LATTE TO OPPONENT | SUMMON LOVE MOSQUITO | BARRAGE OF TEARS | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | DUPLICATE	0	0	0	1	0	0		
+1	178	TRUE	CONSUME: drink 1 iced plum wine	N/A	Stooper		0	-1	0	0	0	6				0	0	0	0	0	0		
+1	178	TRUE	CONSUME: drink 1 hacked gibson	N/A	Stooper		0	-1	0	0	0	21				0	0	0	0	0	0		
+1	178	true	Your Witchess Set	Witchess Puzzles	Steam-Powered Cheerleader	 | hacked gibson | hacked gibson	0	-1	0	0	0	0	 | Puzzle Champ (25) | items.enh (100)			0	0	0	0	0	0		
+1	178	true	Deck of Every Card	Sheep	Steam-Powered Cheerleader		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	178	true	Boxing Daycare	Have a Boxing Daydream	Steam-Powered Cheerleader	 | glass of raw eggs	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	178	true	Combing the Beach	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0	 | We're All Made of Starfish (50)			0	0	0	0	0	0		
+2	178	true	Combing the Beach	N/A	Steam-Powered Cheerleader		0	-1	0	0	0	0	 | You Learned Something Maybe! (50)			0	0	0	0	0	0		
+2	178	true	Chateau Painting	Black Crayon Crimbo Elf	Baby Sandworm	 | crayon shavings	0	4	133	236	109	0			 | DETECT WEAKNESS | BARRAGE OF TEARS | SPITTOON MONSOON	0	0	0	0	0	0		
+2	178	true	Your Witchess Set	Witchess Rook	Baby Sandworm	 | Greek fire	0	4	67	236	77	0			 | DETECT WEAKNESS | BARRAGE OF TEARS | SPITTOON MONSOON	0	0	0	0	0	0		
+2	178	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	178	true	The Tunnel of L.O.V.E.	LOV Enforcer	Baby Sandworm	 | agua de vida	0	4	85	222	93	0			 | DETECT WEAKNESS | BARRAGE OF TEARS | SPITTOON MONSOON	0	0	0	0	0	0		
+2	178	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	178	true	The Tunnel of L.O.V.E.	LOV Engineer	Baby Sandworm	 | LOV Epaulettes	0	8	95	295	112	0			 | DETECT WEAKNESS | BARRAGE OF TEARS | SPITTOON MONSOON | BEANSTORM | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SUMMON LOVE MOSQUITO	0	0	0	0	0	0		
+2	178	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	178	true	The Tunnel of L.O.V.E.	LOV Equivocator	Baby Sandworm		0	4	112	293	112	0	 | Lovebotamy (50)		 | DETECT WEAKNESS | BARRAGE OF TEARS | SPITTOON MONSOON	0	0	0	0	0	0		
+2	178	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	Baby Sandworm	 | LOV Enamorang	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	178	true	The Neverending Party	N/A	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	178	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | training helmet | agua de vida	0	2	22	76	27	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	178	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm		0	2	27	74	35	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	178	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm		0	2	23	87	37	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	178	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | iced plum wine	0	2	30	81	34	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	178	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm		0	2	32	85	34	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	178	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | agua de vida	0	2	27	87	29	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	178	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | agua de vida	0	2	30	85	29	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	178	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm		0	2	33	105	33	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	178	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm		0	4	39	94	40	0			 | SPITTOON MONSOON | BEANSCREEN | BEANSTORM	0	0	0	0	0	0		
+2	178	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm		0	3	43	105	30	0			 | SPITTOON MONSOON | BEANSTORM	0	0	0	0	0	0		
+2	178	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	178	true	Boxing Daycare	Enter the Boxing Daycare	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	178	true	The Neverending Party	biker	Baby Sandworm	 | gas can | Middle of the Road&trade; brand whiskey | neverending wallet chain	185	4	122	351	112	0			 | DETECT WEAKNESS | BARRAGE OF TEARS | SPITTOON MONSOON	0	0	0	0	0	0		
+2	178	true	The Neverending Party	jock	Baby Sandworm	 | unremarkable duffel bag | Purple Beast energy drink	284	4	124	344	110	0			 | DETECT WEAKNESS | BARRAGE OF TEARS | SPITTOON MONSOON	0	0	0	0	0	0		
+2	178	true	The Neverending Party	biker	Baby Sandworm	 | gas can | Middle of the Road&trade; brand whiskey | pentagram bandana	187	4	134	335	117	0			 | DETECT WEAKNESS | BARRAGE OF TEARS | SPITTOON MONSOON	0	0	0	0	0	0		
+2	178	true	The Neverending Party	burnout	Baby Sandworm	 | van key | jam band bootleg	95	4	102	350	137	0			 | DETECT WEAKNESS | BARRAGE OF TEARS | SPITTOON MONSOON	0	0	0	0	0	0		
+2	178	false	The Neverending Party	&quot;plain&quot; girl	Baby Sandworm		0	3	0	0	0	0		|very small red dress	 | DETECT WEAKNESS	0	0	0	0	0	0		
+2	179	false	The Neverending Party	grizzled rodeo clown	Baby Sandworm	 | rodeo whiskey | Frigid Northern Beans | li'l clown costume	0	4	50	189	70	0			 | DETECT WEAKNESS | BARRAGE OF TEARS | SPITTOON MONSOON	0	0	0	0	0	0		
+2	180	true	The Neverending Party	A Room With a View...  Of a Bed	Baby Sandworm		0	-1	0	0	0	0	 | Tomes of Opportunity (20)			0	0	0	0	0	0		
+2	180	true	The Neverending Party	party girl	Baby Sandworm	 | runproof mascara | very small red dress | surprisingly capacious handbag | agua de vida	178	4	94	281	103	0			 | DETECT WEAKNESS | BARRAGE OF TEARS | SPITTOON MONSOON	0	0	0	0	0	0		
+2	180	true	The Neverending Party	biker	Baby Sandworm	 | Middle of the Road&trade; brand whiskey	169	4	122	351	133	0			 | DETECT WEAKNESS | BARRAGE OF TEARS | SPITTOON MONSOON	0	0	0	0	0	0		
+2	180	true	The Neverending Party	jock	Baby Sandworm	 | unremarkable duffel bag | Purple Beast energy drink | cosmetic football	234	4	114	386	113	0			 | DETECT WEAKNESS | BARRAGE OF TEARS | SPITTOON MONSOON	0	0	0	0	0	0		
+2	180	true	The Neverending Party	party girl	Baby Sandworm	 | runproof mascara | very small red dress	174	4	133	380	108	0			 | DETECT WEAKNESS | BARRAGE OF TEARS | SPITTOON MONSOON	0	0	0	0	0	0		
+2	180	true	The Neverending Party	burnout	Baby Sandworm	 | van key | jam band bootleg | ratty knitted cap	84	4	103	400	126	0			 | DETECT WEAKNESS | BARRAGE OF TEARS | SPITTOON MONSOON	0	0	0	0	0	0		
+2	180	true	The Beanbat Chamber	magical fruit bat	Baby Sandworm		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	180	true	The Beanbat Chamber	musical fruit bat	Baby Sandworm	 | grapefruit | grapes | lemon | sonar-in-a-biscuit	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+2	180	false	The Boss Bat's Lair	beefy bodyguard bat	Baby Sandworm	 | beefy pill | Gathered Meat-Clip	534	2	19	99	31	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	181	false	The Boss Bat's Lair	beefy bodyguard bat	Baby Sandworm	 | Source essence (2)	381	3	25	87	28	0			 | EXTRACT | SPITTOON MONSOON	0	0	0	0	0	0		
+2	182	false	The Boss Bat's Lair	beefy bodyguard bat	Baby Sandworm	 | Source essence | beefy pill | cartoon harpoon	469	3	18	89	34	0			 | EXTRACT | SPITTOON MONSOON	0	0	0	0	0	0		
+2	183	false	The Boss Bat's Lair	beefy bodyguard bat	Red-Nosed Snapper	 | Source essence	505	4	29	128	45	0		|very small red dress	 | EXTRACT | SPITTOON MONSOON	0	0	0	0	0	0		
+2	184	true	The Penultimate Fantasy Airship	The Beginning of the End of the Penultimate Fantasy	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	184	true	The Penultimate Fantasy Airship	angry ghost	Red-Nosed Snapper		0	2	0	0	0	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	184	true	Combing the Beach	N/A	Pocket Professor		0	-1	0	0	0	0	 | Do I Know You From Somewhere? (50)			0	0	0	0	0	0		
+2	184	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor		0	0	0	0	0	0			 | LECTURE ON RELATIVITY | SPITTOON MONSOON | SUMMON LOVE GNATS | USE THE FORCE | SABER FRIENDS	0	0	0	0	0	1		
+2	184	false	The Penultimate Fantasy Airship	Random Lack of an Encounter	Pocket Professor	 | model airship	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	185	false	The Black Forest	Forty Shades of Black	Reassembled Blackbird	 | black map	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	186	false	The Black Forest	black adder	Reassembled Blackbird	 | adder bladder | sunken eyes	199	2	29	76	44	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	187	false	The Black Forest	black friar	Reassembled Blackbird	 | Source essence | black cloak | Mornington crescent roll | stick of firewood	0	3	28	80	56	0			 | EXTRACT | SPITTOON MONSOON	0	0	0	0	0	0		
+2	188	false	The Black Forest	black friar	Reassembled Blackbird	 | Mornington crescent roll | black friar's tonsure	0	2	32	72	49	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	189	false	The Black Forest	black widow	Reassembled Blackbird	 | black pension check	90	2	41	95	27	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	190	false	The Black Forest	You Found Your Thrill	Reassembled Blackbird		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	191	false	The Black Forest	Bee Persistent	Reassembled Blackbird		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	192	true	The Black Forest	Bee Rewarded	Reassembled Blackbird		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	192	false	The Black Forest	N/A	Reassembled Blackbird	 | beehive	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	193	false	The Black Forest	black magic woman	Reassembled Blackbird	 | black eye shadow | black magic powder	194	2	34	78	44	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	194	true	The Black Forest	Wooof! Wooooooof!	Reassembled Blackbird		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	194	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | magical sausage casing	122	4	93	214	108	0			 | LECTURE ON RELATIVITY | SPITTOON MONSOON | BEANSTORM	0	0	0	0	0	1		
+2	194	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | Source essence | magical sausage casing	126	6	80	261	85	0		|Rain-Doh blue balls	 | LECTURE ON RELATIVITY | EXTRACT | BEANSCREEN | BEANSTORM	0	0	0	0	0	1		
+2	194	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor		0	5	0	0	0	0		|Rain-Doh blue balls|Rain-Doh indigo cup	 | BEANSCREEN | BEANSTORM	0	0	0	0	0	0		
+2	194	false	The Penultimate Fantasy Airship	Burly Sidekick	Pocket Professor	 | cocoa eggshell fragment | tiny house | armgun	221	3	37	78	23	0		|Rain-Doh indigo cup	 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	195	true	The Penultimate Fantasy Airship	angry ghost	Pocket Professor	 | ghostly ectoplasm	0	2	93	266	73	0			 | BEANSTORM	0	0	0	0	0	0		
+2	195	false	The Black Forest	black widow	Reassembled Blackbird	 | black pension check	99	2	33	86	38	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	196	false	The Black Forest	blackberry bush	Reassembled Blackbird	 | blackberry | blackberry | Gathered Meat-Clip | stick of firewood	0	2	42	80	37	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	197	false	The Black Forest	black adder	Reassembled Blackbird	 | adder bladder | black snake skin	207	2	18	97	40	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	198	false	The Black Forest	grizzled rodeo clown	Reassembled Blackbird	 | rodeo whiskey | World's Blackest-Eyed Peas	0	2	49	117	60	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	199	false	The Black Forest	black panther	Reassembled Blackbird	 | Black No. 2 | Pok&eacute;-Gro fertilizer	232	2	25	86	40	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	200	false	The Boss Bat's Lair	beefy bodyguard bat	Cat Burglar		977	2	17	62	27	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	201	true	The Boss Bat's Lair	Wooof! Wooooooof!	Cat Burglar		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	201	false	The Boss Bat's Lair	beefy bodyguard bat	Cat Burglar		1004	2	32	44	22	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	202	false	The Boss Bat's Lair	The Boss Bat	Cat Burglar	 | dense meat stack | batskin belt	0	2	0	0	0	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	203	false	The Shore, Inc. Travel Agency	N/A	Cat Burglar	 | your father's MacGuffin diary	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	206	true	The Haunted Ballroom	angry ghost	Cat Burglar		0	2	0	0	0	0			 | BEANSTORM	0	0	0	0	0	0		
+2	206	true	Your Witchess Set	Witchess Puzzles	Cat Burglar		0	-1	0	0	0	0	 | Puzzle Champ (25)			0	0	0	0	0	0		
+2	206	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | magical sausage casing	115	3	88	239	93	0			 | LECTURE ON RELATIVITY | BEANSTORM	0	0	0	0	0	1		
+2	206	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | magical sausage casing	142	4	103	208	104	0			 | BEANSCREEN | LECTURE ON RELATIVITY | BEANSTORM	0	0	0	0	0	1		
+2	206	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor		0	5	0	0	0	0			 | BEANSCREEN | LECTURE ON RELATIVITY | SUMMON LOVE GNATS | BEANSTORM	0	0	0	0	0	1		
+2	206	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | Source essence | magical sausage casing	156	5	92	253	82	0	 | Smile of the Wombat (5)		 | BEANSCREEN | LECTURE ON RELATIVITY | EXTRACT | BEANSTORM	0	0	0	0	0	1		
+2	206	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | Source essence | magical sausage casing	127	5	92	227	104	0			 | BEANSCREEN | EXTRACT | LECTURE ON RELATIVITY | BEANSTORM	0	0	0	0	0	1		
+2	206	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | Source essence | magical sausage casing	136	5	83	236	108	0			 | BEANSCREEN | EXTRACT | LECTURE ON RELATIVITY | BEANSTORM	0	0	0	0	0	1		
+2	206	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | Source essence (2) | magical sausage casing	108	3	99	213	112	0			 | EXTRACT | BEANSTORM	0	0	0	0	0	0		
+2	206	true	Your Witchess Set	Witchess Knight	Reanimated Reanimator	 | jumping horseradish | blue pixel	0	3	54	147	52	0			 | WINK AT | SPITTOON MONSOON	0	0	0	0	0	1		
+2	206	true	Your Witchess Set	N/A	Reanimated Reanimator		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	206	true	Combing the Beach	N/A	Reanimated Reanimator		0	-1	0	0	0	0	 | Oiled, Slick (50)			0	0	0	0	0	0		
+2	206	true	The Penultimate Fantasy Airship	Black Crayon Undead Thing	Artistic Goth Kid	 | Source essence | crayon shavings	11	4	108	236	104	0			 | BEANSCREEN | EXTRACT | BEANSTORM	0	0	0	0	0	0		
+2	206	false	The Penultimate Fantasy Airship	Gesundheitgeist!	Artistic Goth Kid	 | Tissue Paper Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	207	false	The Penultimate Fantasy Airship	Don't Chew on That Spirit!	Artistic Goth Kid	 | Tin Foil Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	208	false	The Penultimate Fantasy Airship	The Most Absorbent Spirit Ever	Artistic Goth Kid	 | Gauze Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	209	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Artistic Goth Kid	 | Source essence (3) | photoprotoneutron torpedo	15	4	24	87	33	0			 | BEANSCREEN | EXTRACT | BEANSTORM	0	0	0	0	0	0		
+2	210	true	The Penultimate Fantasy Airship	Black Crayon Golem	Artistic Goth Kid	 | Source essence | crayon shavings	13	4	92	248	112	0			 | BEANSCREEN | EXTRACT | BEANSTORM	0	0	0	0	0	0		
+2	210	false	The Penultimate Fantasy Airship	Rip Rop Wrappety Do	Artistic Goth Kid	 | Plastic Wrap Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	211	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Artistic Goth Kid	 | Source essence (2) | photoprotoneutron torpedo | white pixel	10	4	34	80	35	0			 | BEANSCREEN | EXTRACT | BEANSTORM	0	0	0	0	0	0		
+2	212	true	The Penultimate Fantasy Airship	Black Crayon Golem	Artistic Goth Kid	 | Source essence | crayon shavings	11	4	104	233	114	0			 | BEANSCREEN | EXTRACT | BEANSTORM	0	0	0	0	0	0		
+2	212	false	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	Artistic Goth Kid	 | Source essence (3) | soft green echo eyedrop antidote | tiny house | cocoa eggshell fragment	202	3	44	78	17	0			 | EXTRACT | BEANSTORM	0	0	0	0	0	0		
+2	213	true	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Pair of Stomping Boots	 | Source essence	0	2	0	0	0	0			 | EXTRACT | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	213	true	The Penultimate Fantasy Airship	a Burly Sidekick!	Pair of Stomping Boots	 | Mohawk wig | cocoa eggshell fragment | tiny house | armgun	0	0	0	0	0	0			 | CHEAT CODE: REPLACE ENEMY | CHEAT CODE: REPLACE ENEMY | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0	 | Spunky Princess | an Irritating Series of Random Encounters!	
+2	213	false	The Penultimate Fantasy Airship	F-F-Fantastic!	Pair of Stomping Boots	 | S.O.C.K.	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	214	false	The Copperhead Club	Shen Copperhead, Nightclub Owner	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	215	false	The Copperhead Club	ungulith	Pair of Stomping Boots	 | corrupted marrow	13	2	50	118	49	0			 | BEANSTORM	0	0	0	0	0	0		
+2	216	true	The Copperhead Club	ninja dressed as a waiter	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	216	true	The Copperhead Club	the Mob Penguin Capo	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	216	true	The Copperhead Club	fan dancer	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	216	true	The Copperhead Club	Archie Collins the bartender	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	216	true	The Copperhead Club	fan dancer	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	216	true	The Copperhead Club	waiter dressed as a ninja	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	216	true	The Copperhead Club	waiter dressed as a ninja	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	216	true	The Haunted Ballroom	tapdancing skeleton	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	216	true	The Haunted Ballroom	Curtains	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	216	true	The Haunted Ballroom	floating platter of hors d'oeuvres	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	216	false	The Haunted Ballroom	Strung-Up Quartet	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	217	true	The Haunted Ballroom	floating platter of hors d'oeuvres	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	217	false	The Haunted Ballroom	We'll All Be Flat	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	218	true	genie summoned monster	mountain man	Pair of Stomping Boots	 | asbestos ore | asbestos ore | linoleum ore | linoleum ore | chrome ore | chrome ore	15	2	37	52	27	0			 | ASDON MARTIN: MISSILE LAUNCHER	0	0	0	0	0	0		
+2	218	true	Deck of Every Card	Mine	Pair of Stomping Boots	 | linoleum ore | asbestos ore | chrome ore	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	218	true	genie summoned monster	Orcish Frat Boy Spy	Pair of Stomping Boots	 | distressed denim pants | beer helmet | bejeweled pledge pin	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+2	218	true	The Haunted Bathroom	Lights Out in the Bathroom	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	218	true	The Smut Orc Logging Camp	smut orc jacker	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	218	true	The Smut Orc Logging Camp	smut orc jacker	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	218	true	The Smut Orc Logging Camp	smut orc nailer	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	218	false	The Smut Orc Logging Camp	The Frattlesnake	Pair of Stomping Boots	 | morningwood plank | The Lacrosse Stick of Lacoronado | Gathered Meat-Clip	14	2	43	77	22	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	219	true	Hippy Camp	War Hippy (space) cadet	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	219	false	The Copperhead Club	Shen Copperhead, Jerk	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	220	true	The Copperhead Club	the Mob Penguin Capo	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	220	true	The Goatlet	drunk goat	Cat Burglar		0	2	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	220	false	The Goatlet	sabre-toothed goat	Cat Burglar	 | Source essence (3) | sabre teeth	206	3	24	30	20	0			 | EXTRACT | SPITTOON MONSOON	0	0	0	0	0	0		
+2	221	false	The Goatlet	dairy goat	Cat Burglar	 | goat cheese | glass of goat's milk | Shivering Ch&egrave;vre	228	2	22	38	18	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	222	true	The Unquiet Garves	sausage goblin	Cat Burglar	 | magical sausage casing	275	2	85	195	102	0			 | BEANSTORM	0	0	0	0	0	0		
+2	222	false	The Unquiet Garves	zmobie	Artistic Goth Kid	 | loose teeth | wriggling worm	61	2	23	37	18	0			 | BEANSTORM	0	0	0	0	0	0		
+2	223	true	The Unquiet Garves	Black Crayon Undead Thing	Artistic Goth Kid	 | crayon shavings	15	2	114	200	89	0			 | BEANSTORM	0	0	0	0	0	0		
+2	223	true	The Unquiet Garves	sausage goblin	Artistic Goth Kid	 | magical sausage casing	99	2	109	210	85	0			 | BEANSTORM	0	0	0	0	0	0		
+2	223	false	The Unquiet Garves	ghuol	Artistic Goth Kid		61	2	36	30	22	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	224	false	The Unquiet Garves	the Snakeleton	Artistic Goth Kid	 | The Shield of Brook	12	2	38	52	42	0			 | SPITTOON MONSOON	0	0	0	0	0	0		
+2	225	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	225	false	The Copperhead Club	Shen Copperhead, Huge Jerk	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	226	true	The Castle in the Clouds in the Sky (Basement)	Witchess Knight	Artistic Goth Kid	 | jumping horseradish	10	2	44	100	53	0			 | BEANSTORM	0	0	0	0	0	0		
+2	226	false	The Castle in the Clouds in the Sky (Basement)	You Don't Mess Around with Gym	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	227	true	The Castle in the Clouds in the Sky (Ground Floor)	Black Crayon Man	Artistic Goth Kid	 | almost-dead walkie-talkie | crayon shavings	11	2	108	196	93	0			 | BEANSTORM	0	0	0	0	0	0		
+2	227	false	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	Artistic Goth Kid	 | Source essence (2) | giant heirloom grape tomato | chipotle wasabi cilantro aioli	157	3	28	44	32	0			 | EXTRACT | BEANSTORM	0	0	0	0	0	0		
+2	228	true	The Castle in the Clouds in the Sky (Ground Floor)	Putting Off Is Off-Putting	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	228	true	The Castle in the Clouds in the Sky (Ground Floor)	Huzzah!	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	228	false	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	Artistic Goth Kid		121	2	19	33	30	0			 | BEANSTORM	0	0	0	0	0	0		
+2	229	false	The Castle in the Clouds in the Sky (Ground Floor)	Possibility Giant	Artistic Goth Kid	 | probability potion | chaos butterfly	218	2	17	41	25	0			 | BEANSTORM	0	0	0	0	0	0		
+2	230	false	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	Artistic Goth Kid	 | giant turkey leg | Ye Olde Medieval Insult	151	2	19	44	18	0			 | BEANSTORM	0	0	0	0	0	0		
+2	231	false	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	Artistic Goth Kid	 | giant heirloom grape tomato | chipotle wasabi cilantro aioli	118	2	22	34	22	0			 | BEANSTORM	0	0	0	0	0	0		
+2	232	true	The Castle in the Clouds in the Sky (Ground Floor)	Wooof! Wooooooof!	Artistic Goth Kid	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	232	true	The Castle in the Clouds in the Sky (Ground Floor)	Putting Off Is Off-Putting	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	232	false	The Castle in the Clouds in the Sky (Ground Floor)	Procrastination Giant	Artistic Goth Kid	 | Gathered Meat-Clip	212	2	14	47	18	0			 | BEANSTORM	0	0	0	0	0	0		
+2	233	true	The Castle in the Clouds in the Sky (Ground Floor)	Huzzah!	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	233	false	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	Artistic Goth Kid	 | Ye Olde Bawdy Limerick | Ye Olde Medieval Insult	146	2	17	40	19	0			 | BEANSTORM	0	0	0	0	0	0		
+2	234	false	The Castle in the Clouds in the Sky (Ground Floor)	Possibility Giant	Artistic Goth Kid	 | probability potion	207	2	15	36	23	0			 | BEANSTORM	0	0	0	0	0	0		
+2	235	false	The Castle in the Clouds in the Sky (Ground Floor)	ungulith	Artistic Goth Kid	 | corrupted marrow	11	2	38	69	39	0			 | BEANSTORM	0	0	0	0	0	0		
+2	236	false	The Castle in the Clouds in the Sky (Ground Floor)	Top of the Castle, Ma	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	237	false	The Castle in the Clouds in the Sky (Top Floor)	Goth Giant	Artistic Goth Kid		0	1	0	0	0	0			 | RETURN	0	0	0	0	0	0		
+2	238	false	The Castle in the Clouds in the Sky (Top Floor)	Punk Rock Giant	Artistic Goth Kid	 | punk patch	88	2	20	46	23	0			 | BEANSTORM	0	0	0	0	0	0		
+2	239	false	The Castle in the Clouds in the Sky (Top Floor)	Steampunk Giant	Melodramedary	 | steampunk potion	141	2	22	36	22	0			 | BEANSTORM	0	0	0	0	0	0		
+2	240	false	The Castle in the Clouds in the Sky (Top Floor)	Raver Giant	Melodramedary	 | Angry Farmer candy	233	2	17	34	27	0			 | BEANSTORM	0	0	0	0	0	0		
+2	241	false	The Castle in the Clouds in the Sky (Top Floor)	Raver Giant	Melodramedary	 | Mick's IcyVapoHotness Rub	188	2	31	27	25	0			 | BEANSTORM	0	0	0	0	0	0		
+2	242	false	The Castle in the Clouds in the Sky (Top Floor)	Steampunk Giant	Melodramedary	 | brass gear	155	2	19	47	19	0			 | BEANSTORM	0	0	0	0	0	0		
+2	243	true	The Castle in the Clouds in the Sky (Top Floor)	Wooof! Wooooooof!	Melodramedary	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	243	false	The Castle in the Clouds in the Sky (Top Floor)	Keep On Turnin' the Wheel in the Sky	Melodramedary	 | giant discarded plastic fork	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	244	true	The Castle in the Clouds in the Sky (Top Floor)	Goth Giant	Melodramedary		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	244	false	The Castle in the Clouds in the Sky (Top Floor)	Punk Rock Giant	Melodramedary	 | stolen sushi	93	2	25	38	20	0			 | BEANSTORM	0	0	0	0	0	0		
+2	245	false	The Castle in the Clouds in the Sky (Top Floor)	Steampunk Giant	Melodramedary	 | brass gear	132	2	17	40	25	0			 | BEANSTORM	0	0	0	0	0	0		
+2	246	true	The Castle in the Clouds in the Sky (Top Floor)	Witchess Knight	Melodramedary	 | jumping horseradish	14	2	33	94	38	0			 | BEANSTORM	0	0	0	0	0	0		
+2	246	false	The Castle in the Clouds in the Sky (Top Floor)	Copper Feel	Melodramedary	 | steam-powered model rocketship	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	247	true	The Hole in the Sky	sausage goblin	Melodramedary	 | magical sausage casing | red pixel	95	2	79	189	79	0			 | BEANSTORM	0	0	0	0	0	0		
+2	247	false	The Hole in the Sky	The Hooded Warrior	Melodramedary	 | line | Gathered Meat-Clip	15	2	20	46	19	0			 | BEANSTORM	0	0	0	0	0	0		
+2	248	true	The Hole in the Sky	sausage goblin	Melodramedary	 | magical sausage casing | white pixel	151	2	73	191	90	0			 | BEANSTORM	0	0	0	0	0	0		
+2	248	false	The Hole in the Sky	The Snake With Like Ten Heads	Melodramedary	 | The Eye of the Stars	15	2	26	41	31	0			 | BEANSTORM	0	0	0	0	0	0		
+2	249	false	The Copperhead Club	ninja dressed as a waiter	Melodramedary	 | crappy waiter disguise | li'l ninja costume	12	2	22	46	18	0			 | BEANSTORM	0	0	0	0	0	0		
+2	250	false	The Copperhead Club	ninja dressed as a waiter	Melodramedary	 | crappy waiter disguise | throwing fork	14	2	15	54	22	0			 | BEANSTORM	0	0	0	0	0	0		
+2	251	false	The Copperhead Club	king snake	Melodramedary	 | snake oil (3)	10	2	43	65	40	0			 | BEANSTORM	0	0	0	0	0	0		
+2	252	false	The Copperhead Club	Shen Copperhead, World's Biggest Jerk	Melodramedary	 | Copperhead Charm	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	253	false	The Hidden Temple	Such Great Heights	Melodramedary	 | the Nostril of the Serpent	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	254	true	The Hidden Temple	The Hidden Heart of the Hidden Temple	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	254	false	The Hidden Temple	Now What?	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	255	false	The Hidden Temple	Beginning at the Beginning of Beginning	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	256	false	The Hidden Temple	No Visible Means of Support	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	257	false	Mist-Shrouded Peak	panicking Knott Yeti	Melodramedary	 | yeti fur	373	2	24	29	20	0			 | BEANSTORM	0	0	0	0	0	0		
+2	258	TRUE	CONSUME: eat 1 browser cookie	N/A	Melodramedary		0	-1	0	0	0	22				0	0	0	0	0	0		
+2	258	false	Mist-Shrouded Peak	panicking Knott Yeti	Melodramedary		361	2	20	25	23	0			 | BEANSTORM	0	0	0	0	0	0		
+2	259	TRUE	PILLKEEPER: Sunday - Surprise Me	N/A	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	259	false	A Mob of Zeppelin Protesters	Bench Warrant	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	260	TRUE	PILLKEEPER: Sunday - Surprise Me	N/A	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	260	false	A Mob of Zeppelin Protesters	Bench Warrant	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	261	false	A Mob of Zeppelin Protesters	Bench Warrant	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	262	false	A Mob of Zeppelin Protesters	Bench Warrant	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	263	true	A Mob of Zeppelin Protesters	Too Much Humanity	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	263	true	A Mob of Zeppelin Protesters	Not So Much With The Humanity	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	263	false	Mist-Shrouded Peak	panicking Knott Yeti	Melodramedary	 | yeti fur	345	2	10	38	14	0			 | BEANSTORM	0	0	0	0	0	0		
+2	264	false	Mist-Shrouded Peak	Groar	Melodramedary	 | Groar's fur | dense meat stack (5)	15	3	27	64	28	0			 | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	265	true	The Hidden Park	Witchess Knight	Melodramedary	 | jumping horseradish	10	2	38	69	53	0			 | BEANSTORM	0	0	0	0	0	0		
+2	265	false	The Hidden Park	pygmy assault squad	Melodramedary	 | Source essence | pygmy pygment | bottle of alcohol	286	4	18	41	22	0			 | EXTRACT | SNAKEWHIP | BEANSTORM	0	0	0	0	0	0		
+2	266	false	The Hidden Park	boaraffe	Melodramedary	 | long pork	191	2	21	48	15	0			 | BEANSTORM	0	0	0	0	0	0		
+2	267	false	The Hidden Park	ungulith	Melodramedary	 | corrupted marrow | Gathered Meat-Clip	13	2	41	65	44	0			 | BEANSTORM	0	0	0	0	0	0		
+2	268	false	The Hidden Park	boaraffe	Melodramedary	 | long pork	201	2	15	50	13	0			 | BEANSTORM	0	0	0	0	0	0		
+2	269	false	The Hidden Park	pygmy blowgunner	Melodramedary	 | pygmy blowgun	191	2	13	41	27	0			 | BEANSTORM	0	0	0	0	0	0		
+2	270	false	The Hidden Park	Dr. Henry "Dakota" Fanning, Ph.D., R.I.P.	Melodramedary	 | antique machete | cool whip	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	271	true	An Overgrown Shrine (Northwest)	dense liana	Melodramedary		10	1	0	0	7	0				0	0	0	0	0	0		
+2	271	true	An Overgrown Shrine (Northwest)	dense liana	Melodramedary		13	1	0	0	0	0				0	0	0	0	0	0		
+2	271	true	An Overgrown Shrine (Northwest)	dense liana	Melodramedary		11	1	0	0	0	0				0	0	0	0	0	0		
+2	271	false	An Overgrown Shrine (Northwest)	Earthbound and Down	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	272	true	An Overgrown Shrine (Southwest)	dense liana	Melodramedary		12	1	0	0	0	0				0	0	0	0	0	0		
+2	272	true	An Overgrown Shrine (Southwest)	dense liana	Melodramedary		11	1	0	0	5	0				0	0	0	0	0	0		
+2	272	true	An Overgrown Shrine (Southwest)	dense liana	Melodramedary		12	1	0	0	0	0				0	0	0	0	0	0		
+2	272	false	An Overgrown Shrine (Southwest)	Water You Dune	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	273	true	An Overgrown Shrine (Southeast)	dense liana	Cat Burglar		11	1	0	0	0	0				0	0	0	0	0	0		
+2	273	true	An Overgrown Shrine (Southeast)	dense liana	Cat Burglar		11	1	0	0	0	0				0	0	0	0	0	0		
+2	273	true	An Overgrown Shrine (Southeast)	dense liana	Cat Burglar		15	1	0	0	0	0				0	0	0	0	0	0		
+2	273	false	An Overgrown Shrine (Southeast)	Fire When Ready	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	274	true	An Overgrown Shrine (Northeast)	dense liana	Cat Burglar		13	1	0	0	5	0				0	0	0	0	0	0		
+2	274	true	An Overgrown Shrine (Northeast)	dense liana	Cat Burglar		15	1	0	0	0	0				0	0	0	0	0	0		
+2	274	true	An Overgrown Shrine (Northeast)	dense liana	Cat Burglar		14	1	0	0	0	0				0	0	0	0	0	0		
+2	274	false	An Overgrown Shrine (Northeast)	Air Apparent	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	275	true	Cook 10 wad of dough + 10 soda water	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	275	false	The Hidden Apartment Building	pygmy witch accountant	Cat Burglar	 | adder | pygmy adder oil | McClusky file (page 1)	380	2	18	38	18	0			 | BEANSTORM	0	0	0	0	0	0		
+2	276	false	The Hidden Apartment Building	pygmy witch accountant	Cat Burglar	 | McClusky file (page 2)	426	2	14	36	23	0			 | BEANSTORM	0	0	0	0	0	0		
+2	277	false	The Hidden Apartment Building	pygmy shaman	Cat Burglar	 | smirking shrunken head | colorful toad | voodoo glowskull	362	3	15	27	28	0	 | Once-Cursed (10)		 | OFFER LATTE TO OPPONENT | BEANSTORM	0	0	0	1	0	0		
+2	278	true	The Hidden Apartment Building	pygmy witch accountant	Cat Burglar		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	278	true	The Hidden Apartment Building	pygmy witch lawyer	Cat Burglar		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	278	false	The Hidden Apartment Building	pygmy janitor	Cat Burglar	 | book of matches	160	3	7	29	21	0			 | OTOSCOPE | BEANSTORM	0	0	0	0	0	0		
+2	279	false	The Hidden Apartment Building	pygmy shaman	Cat Burglar	 | voodoo glowskull	275	2	12	30	20	0	 | Twice-Cursed (10)		 | BEANSTORM	0	0	0	0	0	0		
+2	280	true	The Hidden Apartment Building	Wooof! Wooooooof!	Cat Burglar	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	280	TRUE	CONSUME: drink 6 astral pilsner	N/A	Cat Burglar		0	-1	0	0	0	72				0	0	0	0	0	0		
+2	280	TRUE	CONSUME: drink 1 hacked gibson	N/A	Cat Burglar		0	-1	0	0	0	26				0	0	0	0	0	0		
+2	280	TRUE	CONSUME: drink 1 Sacramento wine	N/A	Cat Burglar		0	-1	0	0	0	6	 | Sacr&eacute; Mental (50)			0	0	0	0	0	0		
+2	280	false	The Hidden Apartment Building	pygmy shaman	Cat Burglar	 | voodoo glowskull	281	2	9	32	18	0	 | Thrice-Cursed (10)		 | BEANSTORM	0	0	0	0	0	0		
+2	281	true	Your Witchess Set	Witchess Bishop	Cat Burglar	 | Sacramento wine	15	2	43	86	42	0			 | BEANSTORM	0	0	0	0	0	0		
+2	281	true	Your Witchess Set	Witchess Bishop	Cat Burglar	 | Sacramento wine	11	2	37	93	41	0			 | BEANSTORM	0	0	0	0	0	0		
+2	281	TRUE	CONSUME: drink 1 Sacramento wine	N/A	Cat Burglar		0	-1	0	0	0	7	 | Sacr&eacute; Mental (50)			0	0	0	0	0	0		
+2	281	TRUE	CONSUME: drink 1 Sacramento wine	N/A	Cat Burglar		0	-1	0	0	0	6	 | Sacr&eacute; Mental (50)			0	0	0	0	0	0		
+2	281	TRUE	CONSUME: drink 1 Sacramento wine	N/A	Cat Burglar		0	-1	0	0	0	6	 | Sacr&eacute; Mental (50)			0	0	0	0	0	0		
+2	281	true	Your Witchess Set	Witchess Bishop	Cat Burglar	 | Sacramento wine	14	2	27	95	50	0			 | BEANSTORM	0	0	0	0	0	0		
+2	281	false	The Hidden Apartment Building	ancient protector spirit	Cat Burglar	 | moss-covered stone sphere | psychokinetic energy blob	14	2	17	28	20	0			 | BEANSTORM	0	0	0	0	0	0		
+2	282	true	An Overgrown Shrine (Northwest)	Earthbound and Down	Cat Burglar	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	282	true	The Hidden Office Building	sausage goblin	Cat Burglar	 | magical sausage casing	164	2	37	90	44	0			 | BEANSTORM	0	0	0	0	0	0		
+2	282	true	The Hidden Bowling Alley	pygmy orderlies	Melodramedary		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	282	false	The Hidden Bowling Alley	pygmy bowler	Melodramedary	 | bowling ball | imitation White Russian | imitation White Russian | white pixel	172	3	15	27	19	0			 | %FN, SPIT ON THEM | BEANSTORM	0	0	0	0	1	0		
+2	283	false	The Tavern Cellar	bunch of drunken rats	Purse Rat	 | rat whisker | rat appendix | Gathered Meat-Clip	44	2	7	25	20	0			 | BEANSTORM	0	0	0	0	0	0		
+2	284	false	The Tavern Cellar	bunch of drunken rats	Purse Rat	 | rat whisker | rat whisker | rat whisker | rat appendix | rat appendix	38	2	9	24	20	0			 | BEANSTORM	0	0	0	0	0	0		
+2	285	false	The Tavern Cellar	bunch of drunken rats	Purse Rat	 | rat whisker	39	2	7	26	19	0			 | BEANSTORM	0	0	0	0	0	0		
+2	286	false	The Tavern Cellar	Those Who Came Before You	Purse Rat	 | Ben-Gal&trade; Balm | shiny ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	287	false	The Tavern Cellar	drunken rat king	Purse Rat	 | rat whisker | rat whisker | rat appendix | tangle of rat tails	58	2	9	29	18	0			 | BEANSTORM	0	0	0	0	0	0		
+2	288	true	The Tavern Cellar	1984 Had Nothing on This Cellar	Purse Rat		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	288	false	The Tavern Cellar	bunch of drunken rats	Purse Rat	 | rat whisker	40	2	10	29	13	0			 | BEANSTORM	0	0	0	0	0	0		
+2	289	false	The Tavern Cellar	A Rat's Home...	Purse Rat		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	290	false	The Tavern Cellar	Staring Down the Barrel	Purse Rat		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	291	false	The Tavern Cellar	Of Course!	Purse Rat		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	292	true	Oil Peak	Pushin' Down on Me, Pushin' Down on You	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	292	false	Oil Peak	ungulith	Cat Burglar	 | corrupted marrow	12	3	37	64	32	0			 | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	293	false	Oil Peak	oil cartel	Cat Burglar	 | bubblin' crude | bubblin' crude	13	4	24	27	15	0			 | BEANSTORM | PUNGENT MUNG | LAVAFAVA	0	0	0	0	0	0		
+2	294	false	Oil Peak	oil cartel	Cat Burglar	 | bubblin' crude | bubblin' crude | bubblin' crude	11	6	12	41	12	0			 | LAVAFAVA | PUNGENT MUNG | LAVAFAVA | SUMMON LOVE STINKBUG | SNAKEWHIP	0	0	0	0	0	0		
+2	295	false	Oil Peak	oil cartel	Cat Burglar	 | bubblin' crude | bubblin' crude | bubblin' crude	14	9	10	33	20	0			 | PUNGENT MUNG | BEANSCREEN | LAVAFAVA | SNAKEWHIP | SUMMON LOVE MOSQUITO | SUMMON LOVE GNATS | PUNGENT MUNG | PUNGENT MUNG	0	0	0	0	0	0		
+2	296	false	Oil Peak	oil cartel	Cat Burglar	 | bubblin' crude | bubblin' crude	10	8	12	33	18	0			 | BEANSCREEN | SUMMON LOVE STINKBUG | SUMMON LOVE GNATS | SUMMON LOVE MOSQUITO | LAVAFAVA | SNAKEWHIP | PUNGENT MUNG	0	0	0	0	0	0		
+2	297	false	Oil Peak	oil cartel	Cat Burglar	 | bubblin' crude | bubblin' crude	11	8	11	32	20	0			 | BEANSCREEN | SUMMON LOVE STINKBUG | SUMMON LOVE MOSQUITO | LAVAFAVA | PUNGENT MUNG | PUNGENT MUNG | PUNGENT MUNG	0	0	0	0	0	0		
+2	298	true	Oil Peak	Wooof! Wooooooof!	Cat Burglar	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	298	true	The Hidden Office Building	pygmy janitor	Cat Burglar		0	2	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	298	false	The Hidden Office Building	pygmy headhunter	Cat Burglar	 | pointed stick | briefcase | Gathered Meat-Clip	377	5	17	43	19	0			 | BEANSCREEN | PUNGENT MUNG | PUNGENT MUNG | PUNGENT MUNG	0	0	0	0	0	0		
+2	299	true	The Hidden Office Building	pygmy witch lawyer	Cat Burglar		0	2	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	299	false	The Hidden Office Building	pygmy headhunter	Cat Burglar	 | briefcase	414	6	10	40	29	0			 | BEANSCREEN | PUNGENT MUNG | PUNGENT MUNG | PUNGENT MUNG | PUNGENT MUNG	0	0	0	0	0	0		
+2	300	false	The Hidden Office Building	Working Holiday	Cat Burglar	 | boring binder clip	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	301	false	The Hidden Office Building	pygmy headhunter	Cat Burglar		0	1	0	0	0	0			 | RETURN	0	0	0	0	0	0		
+2	302	true	Deck of Every Card	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	302	false	genie summoned monster	The Skinflute	Cat Burglar		0	3	0	0	0	0			 | DIGITIZE | DUPLICATE	0	0	0	0	0	1		
+2	303	false	Hippy Camp	War Hippy (space) cadet	Cat Burglar		15	2	19	30	19	0			 | BEANSTORM	0	0	0	0	0	0		
+2	304	false	Wartime Hippy Camp (Frat Disguise)	War Hippy drill sergeant	Cat Burglar	 | reinforced beaded headband | white pixel	12	3	20	36	20	0			 | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	305	false	Wartime Hippy Camp (Frat Disguise)	Blockin' Out the Scenery	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	306	false	Oil Peak	Unimpressed with Pressure	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	307	true	The Red Zeppelin	Zeppelintro	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	307	true	The Red Zeppelin	the man with the red buttons	Cat Burglar		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	307	false	The Red Zeppelin	red butler	Cat Burglar	 | red box | glark cable | red pixel | Pok&eacute;-Gro fertilizer	184	4	15	36	12	0			 | OFFER LATTE TO OPPONENT | BEANSTORM | BEANSTORM	0	0	0	1	0	0		
+2	308	false	The Hidden Office Building	a pygmy witch accountant!	Cat Burglar	 | adder | pygmy adder oil | McClusky file (page 3)	353	3	12	24	15	0			 | CHEAT CODE: REPLACE ENEMY | BEANSTORM	0	0	0	0	0	0	 | pygmy janitor	
+2	309	false	The Hidden Apartment Building	a pygmy witch accountant!	Cat Burglar	 | pygmy adder oil | red pixel | McClusky file (page 4)	285	4	12	26	12	0			 | CHEAT CODE: REPLACE ENEMY | CHEAT CODE: REPLACE ENEMY | BEANSTORM	0	0	0	0	0	0	 | pygmy janitor | a pygmy shaman!	
+2	310	false	The Hidden Apartment Building	ungulith	Cat Burglar	 | corrupted marrow	12	2	20	32	31	0			 | BEANSTORM	0	0	0	0	0	0		
+2	311	false	The Hidden Apartment Building	The Skinflute	Cat Burglar	 | star | star | line | line	15	3	15	32	19	0			 | BEANSTORM | PUNGENT MUNG	0	0	0	0	0	0		
+2	312	false	The Hidden Apartment Building	a pygmy witch accountant!	Cat Burglar	 | adder | McClusky file (page 5)	350	3	0	0	0	0			 | CHEAT CODE: REPLACE ENEMY | BEANSTORM	0	0	0	0	0	0	 | pygmy janitor	
+2	313	false	The Hidden Office Building	pygmy headhunter	Cat Burglar	 | headhunter necktie | briefcase	443	2	13	24	17	0			 | BEANSTORM	0	0	0	0	0	0		
+2	314	false	The Hidden Office Building	pygmy headhunter	Cat Burglar	 | headhunter necktie | briefcase | pygmy papers | Gathered Meat-Clip	427	2	18	19	17	0			 | BEANSTORM	0	0	0	0	0	0		
+2	315	true	The Hidden Office Building	Wooof! Wooooooof!	Cat Burglar		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	315	false	The Hidden Office Building	ancient protector spirit	Cat Burglar	 | crackling stone sphere | psychokinetic energy blob | green pixel	13	2	11	33	14	0			 | BEANSTORM	0	0	0	0	0	0		
+2	316	true	The Hidden Hospital	pygmy witch nurse	Cat Burglar		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	316	true	The Hidden Hospital	pygmy orderlies	Cat Burglar		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	316	false	The Hidden Hospital	pygmy witch surgeon	Cat Burglar	 | green pixel | surgical mask	412	2	10	26	20	0			 | BEANSTORM	0	0	0	0	0	0		
+2	317	false	The Hidden Hospital	ancient protector spirit	Cat Burglar	 | dripping stone sphere | psychokinetic energy blob	12	2	11	30	18	0			 | BEANSTORM	0	0	0	0	0	0		
+2	318	true	An Overgrown Shrine (Southwest)	Water You Dune	Cat Burglar	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	318	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	319	true	The Hidden Bowling Alley	drunk pygmy	Cat Burglar	 | red pixel	12	1	0	8	0	0				0	0	0	0	0	0		
+2	319	false	The Hidden Bowling Alley	pygmy janitor	Cat Burglar	 | book of matches | jungle floor wax	155	2	13	26	14	0			 | BEANSTORM	0	0	0	0	0	0		
+2	320	false	The Hidden Bowling Alley	pygmy bowler	Cat Burglar	 | bowling ball | imitation White Russian	299	2	9	30	18	0			 | BEANSTORM	0	0	0	0	0	0		
+2	321	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	322	false	The Hidden Bowling Alley	pygmy bowler	Cat Burglar	 | bowling ball | imitation White Russian	330	2	12	27	17	0			 | BEANSTORM	0	0	0	0	0	0		
+2	323	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	324	false	The Hidden Bowling Alley	pygmy bowler	Cat Burglar	 | bowling ball | imitation White Russian | red pixel	327	2	12	33	15	0			 | BEANSTORM	0	0	0	0	0	0		
+2	325	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	326	false	The Hidden Bowling Alley	a pygmy bowler!	Cat Burglar	 | bowling ball | blue pixel	298	3	12	19	17	0			 | CHEAT CODE: REPLACE ENEMY | BEANSTORM	0	0	0	0	0	0	 | pygmy janitor	
+2	327	true	The Hidden Bowling Alley	Wooof! Wooooooof!	Cat Burglar	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	327	false	The Hidden Bowling Alley	ancient protector spirit	Cat Burglar	 | scorched stone sphere | psychokinetic energy blob	14	2	11	33	14	0			 | BEANSTORM	0	0	0	0	0	0		
+2	328	true	An Overgrown Shrine (Southeast)	Fire When Ready	Cat Burglar	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	328	true	A Massive Ziggurat	dense liana	Cat Burglar		12	1	0	0	0	0				0	0	0	0	0	0		
+2	328	true	A Massive Ziggurat	dense liana	Cat Burglar		10	1	0	0	0	0				0	0	0	0	0	0		
+2	328	true	A Massive Ziggurat	dense liana	Cat Burglar		14	1	0	0	0	0				0	0	0	0	0	0		
+2	328	true	A Massive Ziggurat	Legend of the Temple in the Hidden City	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	328	true	An Overgrown Shrine (Northeast)	Air Apparent	Ms. Puck Man	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	328	false	A Massive Ziggurat	Protector Spectre	Ms. Puck Man	 | psychokinetic energy blob | ancient amulet | spectre scepter | yellow pixel	10	2	28	79	37	0			 | BEANSTORM	0	0	0	0	0	0		
+2	329	false	The Red Zeppelin	king snake	Ms. Puck Man	 | snake oil (3) | yellow pixel | Gathered Meat-Clip	13	2	19	52	30	0			 | BEANSTORM	0	0	0	0	0	0		
+2	330	false	The Red Zeppelin	red butler	Ms. Puck Man	 | red box | glark cable | yellow pixel	111	2	20	26	10	0			 | BEANSTORM	0	0	0	0	0	0		
+2	331	false	The Red Zeppelin	The Skinflute	Ms. Puck Man	 | star | star | line | yellow pixel	15	2	7	43	10	0			 | BEANSTORM	0	0	0	0	0	0		
+2	332	true	The Red Zeppelin	red skeleton	Ms. Puck Man	 | red blood cells | Red Army camouflage kit | yellow pixel	13	2	10	28	16	0		|glark cable		0	0	1	0	0	0		
+2	332	true	The Red Zeppelin	Red Herring	Ms. Puck Man	 | red box | red pixel | yellow pixel	175	2	7	31	17	0		|glark cable		0	0	1	0	0	0		
+2	332	false	The Red Zeppelin	Red Snapper	Ms. Puck Man	 | red box | yellow pixel	175	2	11	34	17	0			 | BEANSTORM	0	0	0	0	0	0		
+2	333	true	The Red Zeppelin	Wooof! Wooooooof!	Ms. Puck Man	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	333	false	The Red Zeppelin	red butler	Ms. Puck Man	 | glark cable | green pixel | yellow pixel	106	2	23	21	10	0			 | BEANSTORM	0	0	0	0	0	0		
+2	334	true	The Red Zeppelin	red butler	Ms. Puck Man	 | glark cable | yellow pixel	115	2	7	29	13	0		|glark cable		0	0	1	0	0	0		
+2	334	true	The Red Zeppelin	Red Snapper	Ms. Puck Man	 | red box | yellow pixel	176	2	8	26	16	0		|glark cable		0	0	1	0	0	0		
+2	334	false	The Red Zeppelin	red skeleton	Ms. Puck Man	 | yellow pixel	15	2	10	25	12	0			 | BEANSTORM	0	0	0	0	0	0		
+2	335	false	The Red Zeppelin	Ron &quot;The Weasel&quot; Copperhead	Ms. Puck Man	 | Copperhead Charm (rampant)	327	2	0	0	0	0			 | BEANSTORM	0	0	0	0	0	0		
+2	336	false	Inside the Palindome	Racecar Bob	Ms. Puck Man	 | photograph of a dog | stunt nuts | ketchup hound | yellow pixel	190	3	7	26	13	0		|disposable instant camera	 | BEANSTORM	0	0	0	0	0	0		
+2	337	true	Inside the Palindome	Evil Olive	Ms. Puck Man		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	337	false	Inside the Palindome	Flock of Stab-bats	Ms. Puck Man	 | batblade | bat wing | yellow pixel | power pill	216	2	12	28	11	0			 | BEANSTORM	0	0	0	0	0	0		
+2	338	false	Hippy Camp	The Big Wisniewski	Ms. Puck Man	 | solid gold bowling ball | yellow pixel	15	6	58	158	74	0			 | BEANSTORM | BEANSTORM | BEANSTORM | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	339	true	The Arid, Extra-Dry Desert	sausage goblin	Melodramedary	 | magical sausage casing | white pixel	97	2	24	43	24	0	 | Ultrahydrated (10)		 | BEANSTORM	0	0	0	0	0	0		
+2	339	false	The Arid, Extra-Dry Desert	swarm of fire ants	Melodramedary	 | ant agonist | ant sickle | handful of sand | red pixel	64	2	13	22	14	0			 | BEANSTORM	0	0	0	0	0	0		
+2	340	false	The Arid, Extra-Dry Desert	plaque of locusts	Melodramedary	 | Gathered Meat-Clip	38	2	9	28	12	0	 | Ultrahydrated (3)		 | BEANSTORM	0	0	0	0	0	0		
+2	341	false	The Arid, Extra-Dry Desert	cactuary	Melodramedary	 | cactus fruit | bit-o-cactus	136	2	12	28	10	0	 | Ultrahydrated (3)		 | BEANSTORM	0	0	0	0	0	0		
+2	342	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Melodramedary		230	2	10	30	11	0			 | BEANSTORM	0	0	0	0	0	0		
+2	343	true	The Arid, Extra-Dry Desert	A Sietch in Time	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	343	true	The Arid, Extra-Dry Desert	swarm of fire ants	Melodramedary		69	2	8	29	15	0			 | CHEST X-RAY	0	0	1	0	0	0		
+2	343	true	The Arid, Extra-Dry Desert	rock scorpion	Melodramedary	 | handful of sand | handful of sand	238	3	7	31	12	0	 | Ultrahydrated (3)		 | BEANSCREEN | CHEST X-RAY	0	0	1	0	0	0		
+2	343	true	The Arid, Extra-Dry Desert	rock scorpion	Melodramedary	 | handful of sand | handful of sand | worm-riding manual page	257	2	11	27	14	0			 | CHEST X-RAY	0	0	1	0	0	0		
+2	343	false	The Arid, Extra-Dry Desert	plaque of locusts	Melodramedary	 | honey-dipped locust	43	2	12	22	12	0			 | BEANSTORM	0	0	0	0	0	0		
+2	344	true	The Arid, Extra-Dry Desert	Wooof! Wooooooof!	Melodramedary		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	344	false	The Arid, Extra-Dry Desert	cactuary	Melodramedary	 | cactus fruit | worm-riding manual page (2)	150	2	8	24	18	0			 | BEANSTORM	0	0	0	0	0	0		
+2	345	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Melodramedary	 | centipede eggs | handful of sand | handful of sand	174	2	14	22	15	0	 | Ultrahydrated (3)		 | BEANSTORM	0	0	0	0	0	0		
+2	346	false	The Arid, Extra-Dry Desert	swarm of fire ants	Melodramedary	 | ant agonist | ant rake | handful of sand	78	2	7	32	11	0			 | BEANSTORM	0	0	0	0	0	0		
+2	347	false	The Arid, Extra-Dry Desert	swarm of fire ants	Melodramedary	 | ant agonist | handful of sand | worm-riding manual page (2)	80	2	11	25	14	0			 | BEANSTORM	0	0	0	0	0	0		
+2	348	false	The Arid, Extra-Dry Desert	king snake	Melodramedary	 | snake oil (3)	15	2	20	47	29	0			 | BEANSTORM	0	0	0	0	0	0		
+2	349	false	The Arid, Extra-Dry Desert	rock scorpion	Melodramedary	 | scorpion whip | handful of sand | white pixel	246	2	14	22	14	0			 | BEANSTORM	0	0	0	0	0	0		
+2	350	true	The Arid, Extra-Dry Desert	sausage goblin	Melodramedary	 | magical sausage casing	106	2	23	42	24	0	 | Ultrahydrated (3)		 | BEANSTORM	0	0	0	0	0	0		
+2	350	false	The Arid, Extra-Dry Desert	swarm of fire ants	Melodramedary	 | handful of sand | worm-riding manual page (2)	82	2	9	28	16	0			 | BEANSTORM	0	0	0	0	0	0		
+2	351	false	The Arid, Extra-Dry Desert	cactuary	Melodramedary	 | bit-o-cactus | Gathered Meat-Clip	139	2	11	29	11	0			 | BEANSTORM	0	0	0	0	0	0		
+2	352	false	The Arid, Extra-Dry Desert	rock scorpion	Melodramedary	 | handful of sand	261	2	7	30	12	0			 | BEANSTORM	0	0	0	0	0	0		
+2	353	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Melodramedary	 | centipede eggs | handful of sand | worm-riding manual page (3)	209	2	12	25	13	0	 | Ultrahydrated (3)		 | BEANSTORM	0	0	0	0	0	0		
+2	354	false	The Arid, Extra-Dry Desert	plaque of locusts	Melodramedary	 | bronzed locust	40	2	11	20	18	0			 | BEANSTORM	0	0	0	0	0	0		
+2	355	false	The Arid, Extra-Dry Desert	rock scorpion	Melodramedary	 | handful of sand | handful of sand	264	2	10	25	15	0			 | BEANSTORM	0	0	0	0	0	0		
+2	356	false	The Arid, Extra-Dry Desert	swarm of fire ants	Melodramedary	 | ant agonist | handful of sand | worm-riding manual page (2)	75	2	12	22	15	0	 | Ultrahydrated (3)		 | BEANSTORM	0	0	0	0	0	0		
+2	357	false	The Arid, Extra-Dry Desert	cactuary	Melodramedary	 | handful of sand	150	2	11	29	11	0			 | BEANSTORM	0	0	0	0	0	0		
+2	358	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Melodramedary	 | centipede eggs | handful of sand | handful of sand | worm-riding manual page (3)	180	2	15	25	11	0	 | Ultrahydrated (3)		 | BEANSTORM	0	0	0	0	0	0		
+2	359	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Melodramedary	 | centipede eggs | handful of sand	212	2	10	28	13	0	 | Ultrahydrated (3)		 | BEANSTORM	0	0	0	0	0	0		
+2	360	true	Twin Peak	Welcome to the Great Overlook Lodge	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	360	true	A-Boo Peak	Faction Traction = Inaction	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	360	false	A-Boo Peak	Whatsian Commando Ghost	Melodramedary	 | psychokinetic energy blob | carrot nose | A-Boo clue | T.U.R.D.S. Key	14	2	8	13	17	0			 | BEANSTORM	0	0	0	0	0	0		
+2	361	false	A-Boo Peak	The Skinflute	Melodramedary	 | star | star | line | line	14	2	14	28	16	0			 | BEANSTORM	0	0	0	0	0	0		
+2	362	false	A-Boo Peak	Dusken Raider Ghost	Melodramedary	 | psychokinetic energy blob | A-Boo clue | Duskwalker syringe | ectoplasmic orbs | Gathered Meat-Clip	13	2	7	14	15	0			 | BEANSTORM	0	0	0	0	0	0		
+2	363	false	A-Boo Peak	Battlie Knight Ghost	Melodramedary	 | psychokinetic energy blob | A-Boo clue | Battlie Light Saver | ectoplasmic orbs	15	2	8	18	10	0			 | BEANSTORM	0	0	0	0	0	0		
+2	364	false	A-Boo Peak	Space Tourist Explorer Ghost	Melodramedary	 | psychokinetic energy blob | A-Boo clue | Space Tours Tripple | ectoplasmic orbs	11	2	8	19	9	0			 | BEANSTORM	0	0	0	0	0	0		
+2	365	false	The Haunted Wine Cellar	possessed wine rack	Melodramedary	 | dusty bottle of average Merlot | actual tapas	11	2	11	33	15	0			 | BEANSTORM	0	0	0	0	0	0		
+2	366	true	The Haunted Wine Cellar	Lights Out in the Wine Cellar	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	366	true	The Haunted Wine Cellar	mad wino	Melodramedary		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	366	false	The Haunted Wine Cellar	skeletal sommelier	Melodramedary	 | dusty bottle of bad Muscat	226	3	15	30	16	0			 | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	367	false	The Haunted Wine Cellar	grizzled rodeo clown	Melodramedary	 | rodeo whiskey | Pork 'n' Pork 'n' Pork 'n' Beans	13	2	22	61	25	0			 | BEANSTORM	0	0	0	0	0	0		
+2	368	false	The Haunted Wine Cellar	skeletal sommelier	Melodramedary	 | dusty bottle of average Merlot	211	2	18	27	16	0			 | BEANSTORM	0	0	0	0	0	0		
+2	369	false	The Haunted Wine Cellar	possessed wine rack	Melodramedary	 | dusty bottle of average Merlot | dusty bottle of glassy Marsala | bottle of Chateau de Vinegar	15	2	16	21	20	0			 | BEANSTORM	0	0	0	0	0	0		
+2	370	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	Ms. Puck Man	 | bloodstain stick | fabric softener | bottle of laundry sherry | yellow pixel	108	2	16	25	10	0			 | BEANSTORM	0	0	0	0	0	0		
+2	371	false	The Haunted Laundry Room	plaid ghost	Ms. Puck Man	 | psychokinetic energy blob | plaid swatch | yellow pixel	13	2	14	24	8	0			 | BEANSTORM	0	0	0	0	0	0		
+2	372	true	The Haunted Laundry Room	sausage goblin	Ms. Puck Man	 | magical sausage casing | yellow pixel	168	2	22	44	29	0			 | BEANSTORM	0	0	0	0	0	0		
+2	372	false	The Haunted Laundry Room	possessed laundry press	Ms. Puck Man	 | industrial strength starch | yellow pixel	14	2	10	25	15	0			 | BEANSTORM	0	0	0	0	0	0		
+2	373	false	The Haunted Laundry Room	plaid ghost	Ms. Puck Man	 | psychokinetic energy blob | plaid swatch | yellow pixel | Gathered Meat-Clip	15	2	11	19	14	0			 | BEANSTORM	0	0	0	0	0	0		
+2	374	false	The Haunted Laundry Room	possessed laundry press	Ms. Puck Man	 | industrial strength starch | yellow pixel	11	2	15	24	12	0			 | BEANSTORM	0	0	0	0	0	0		
+2	375	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	Ms. Puck Man	 | bloodstain stick | fabric hardener | bottle of laundry sherry | yellow pixel | blasting soda	110	2	12	21	13	0			 | BEANSTORM	0	0	0	0	0	0		
+2	376	false	Cook 1 bottle of Chateau de Vinegar + 1 blasting soda	N/A	Ms. Puck Man	 | unstable fulminate	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	377	TRUE	CONSUME: eat 1 browser cookie	N/A	Ms. Puck Man		0	-1	0	0	0	22				0	0	0	0	0	0		
+2	377	TRUE	CONSUME: eat 4 jumping horseradish	N/A	Ms. Puck Man		0	-1	0	0	0	25	 | Kicked in the Sinuses (50) | Kicked in the Sinuses (50) | Kicked in the Sinuses (50) | Kicked in the Sinuses (50)			0	0	0	0	0	0		
+2	377	false	Inside the Palindome	Drab Bard	Ms. Puck Man	 | olive | drab sonata | guitar pick | glass of warm milk | yellow pixel | browser cookie	185	2	12	22	11	0			 | BEANSTORM	0	0	0	0	0	0		
+2	378	false	Inside the Palindome	Taco Cat	Ms. Puck Man	 | taco shell | catgut | cat appendix | yellow pixel	335	2	12	19	13	0			 | BEANSTORM	0	0	0	0	0	0		
+2	379	false	Inside the Palindome	Tan Gnat	Ms. Puck Man	 | suntan lotion of moxiousness | gnatwing | filet of tangy gnat (&quot;fotelif&quot;) | glass of gnat milk | yellow pixel	67	2	5	29	15	0			 | BEANSTORM	0	0	0	0	0	0		
+2	380	false	Inside the Palindome	Do Geese See God?	Ms. Puck Man	 | photograph of God	0	-1	0	0	0	0	 | Driving Stealthily (30)			0	0	0	0	0	0		
+2	381	false	Inside the Palindome	Last Egg Gets Al	Ms. Puck Man	 | photograph of an ostrich egg	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	382	true	Inside the Palindome	Wooof! Wooooooof!	Ms. Puck Man	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	382	false	Inside the Palindome	Bob Racecar	Ms. Puck Man	 | stunt nuts | ketchup hound | yellow pixel	362	2	16	17	12	0			 | BEANSTORM	0	0	0	0	0	0		
+2	383	false	Inside the Palindome	grizzled rodeo clown	Ms. Puck Man	 | rodeo whiskey | Pork 'n' Pork 'n' Pork 'n' Beans | yellow pixel	11	2	20	38	21	0			 | BEANSTORM	0	0	0	0	0	0		
+2	384	false	Inside the Palindome	Rod Nevada, Vendor	Ms. Puck Man	 | photograph of a red nugget	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	385	true	Inside the Palindome	sausage goblin	Ms. Puck Man	 | magical sausage casing | yellow pixel	184	2	25	30	19	0			 | BEANSTORM	0	0	0	0	0	0		
+2	385	true	Inside the Palindome	Evil Olive	Ms. Puck Man		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	385	false	Inside the Palindome	Racecar Bob	Ms. Puck Man	 | enormous belt buckle | stunt nuts | ketchup hound | yellow pixel	283	2	13	22	12	0			 | BEANSTORM	0	0	0	0	0	0		
+2	386	true	Inside the Palindome	Drab Bard	Ms. Puck Man	 | olive | drab sonata | guitar pick | glass of warm milk | yellow pixel | power pill | &quot;I Love Me, Vol. I&quot;	211	2	10	22	12	0			 | BEANSTORM	0	0	0	0	0	0		
+2	386	false	Dr. Awkward's Office	N/A	Ms. Puck Man	 | &quot;2 Love Me, Vol. 2&quot;	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	387	true	Cook 1 wet stew + 1 stunt nuts	N/A	Ms. Puck Man	 | wet stunt nut stew	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	387	false	Dr. Awkward's Office	Dr. Awkward	Ms. Puck Man	 | Staff of Fats | Drowsy Sword | yellow pixel	13	4	33	76	36	0			 | BEANSCREEN | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	388	false	The Oasis	Glug, Glug, Glug	Ms. Puck Man		0	-1	0	0	0	0	 | Ultrahydrated (5)			0	0	0	0	0	0		
+2	389	false	The Oasis	oasis monster	Ms. Puck Man	 | Supernova Champagne | displaced fish | Hugo's Weaving Manual | palm frond | carbonated water lily | yellow pixel | Gathered Meat-Clip	261	2	11	20	12	0			 | BEANSTORM	0	0	0	0	0	0		
+2	390	false	The Oasis	blur	Ms. Puck Man	 | drum machine | carbonated water lily | yellow pixel	339	2	10	17	18	0			 | BEANSTORM	0	0	0	0	0	0		
+2	391	false	The Oasis	swarm of scarab beatles	Ms. Puck Man		0	1	0	0	0	0			 | RETURN	0	0	0	0	0	0		
+2	392	true	Cook 1 wad of dough + 1 soda water	N/A	Ms. Puck Man	 | loaf of soda bread	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	392	false	The Haunted Boiler Room	coaltergeist	Ms. Puck Man	 | hot coal | yellow pixel	12	4	20	43	20	0			 | BEANSTORM | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	393	false	The Haunted Boiler Room	monstrous boiler	Ms. Puck Man	 | wine bomb | chunk of hot iron | yellow pixel	10	3	21	36	24	0			 | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	394	false	Summoning Chamber	Lord Spookyraven	Ms. Puck Man	 | Eye of Ed | Lord Spookyraven's ear trumpet | yellow pixel	13	4	40	74	54	0			 | BEANSTORM | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	395	false	The Upper Chamber	A Wheel -- How Fortunate!	Ms. Puck Man	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	396	false	The Upper Chamber	tomb bat	Ms. Puck Man	 | unidentified jerky | yellow pixel	143	3	21	37	17	0			 | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	397	false	The Upper Chamber	A Wheel -- How Fortunate!	Ms. Puck Man	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	398	false	The Upper Chamber	A Wheel -- How Fortunate!	Ms. Puck Man	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	399	false	The Upper Chamber	A Wheel -- How Fortunate!	Ms. Puck Man	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	400	false	The Upper Chamber	Down Dooby-Doo Down Down	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	401	true	Cook 24 wad of dough + 24 soda water	N/A	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	401	false	The Middle Chamber	The Skinflute	Ms. Puck Man	 | star | star | line | line | yellow pixel	13	2	8	31	12	0			 | BEANSTORM	0	0	0	0	0	0		
+2	402	false	The Middle Chamber	ungulith	Ms. Puck Man	 | corrupted marrow | yellow pixel	10	2	8	44	17	0			 | BEANSTORM	0	0	0	0	0	0		
+2	403	true	The Middle Chamber	tomb asp	Ms. Puck Man		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	403	false	The Middle Chamber	tomb servant	Ms. Puck Man	 | canopic jar | unidentified jerky | mummy wrapping | ancient protein powder | yellow pixel	150	2	8	27	17	0			 | BEANSTORM	0	0	0	0	0	0		
+2	404	false	The Middle Chamber	a tomb rat king!	Ms. Puck Man		0	3	0	0	0	0		|tangle of rat tails	 | BEANSTORM	0	0	0	0	0	0	 | tomb rat	
+2	405	false	The Middle Chamber	Further Down Dooby-Doo Down Down	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	406	false	The Upper Chamber	Iiti Kitty	Ms. Puck Man	 | leathery cat skin | unidentified jerky | ancient Magi-Wipes | ancient vinyl coin purse | mummy wrapping | yellow pixel	11	2	14	26	12	0			 | BEANSTORM	0	0	0	0	0	0		
+2	407	false	The Upper Chamber	Iiti Kitty	Ms. Puck Man	 | leathery cat skin | Iiti Kitty phone charm | ancient Magi-Wipes | ancient vinyl coin purse | mummy wrapping | yellow pixel | power pill	10	2	8	28	15	0			 | BEANSTORM	0	0	0	0	0	0		
+2	408	false	The Middle Chamber	tomb servant	Ms. Puck Man	 | canopic jar | unidentified jerky | ancient ice cream scoop | secret mummy herbs and spices | yellow pixel | Gathered Meat-Clip	158	4	13	22	15	0			 | SHOOT | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	409	true	The Middle Chamber	Ratchet-catcher	Ms. Puck Man	 | tomb ratchet	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	409	false	The Middle Chamber	tomb servant	Ms. Puck Man	 | canopic jar | unidentified jerky | ancient protein powder | secret mummy herbs and spices | yellow pixel	167	3	11	28	16	0			 | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	410	false	The Middle Chamber	tomb servant	Ms. Puck Man	 | unidentified jerky | mummy wrapping | yellow pixel	130	3	11	20	19	0			 | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	411	false	The Middle Chamber	tomb servant	Ms. Puck Man	 | canopic jar | ancient protein powder | yellow pixel	160	2	9	26	16	0			 | BEANSTORM	0	0	0	0	0	0		
+2	412	false	The Middle Chamber	Under Control	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	413	TRUE	HEIST: Stealing an item!	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	413	false	The Middle Chamber	tomb rat	Cat Burglar	 | tomb ratchet | leathery rat skin	264	3	12	31	14	0			 | OFFER LATTE TO OPPONENT | BEANSTORM	0	0	0	1	0	0		
+2	414	true	The Middle Chamber	tomb servant	Cat Burglar		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	414	false	The Middle Chamber	tomb rat	Cat Burglar		256	2	14	25	17	0			 | BEANSTORM	0	0	0	0	0	0		
+2	415	false	The Middle Chamber	tomb rat	Cat Burglar	 | leathery rat skin | unidentified jerky	229	2	8	30	14	0			 | BEANSTORM	0	0	0	0	0	0		
+2	416	false	The Middle Chamber	tomb rat	Cat Burglar	 | tomb ratchet | leathery rat skin	276	3	15	25	14	0			 | OTOSCOPE | BEANSTORM	0	0	0	0	0	0		
+2	417	false	The Middle Chamber	tomb rat	Cat Burglar	 | tomb ratchet | leathery rat skin | unidentified jerky	287	3	15	20	15	0			 | OTOSCOPE | BEANSTORM	0	0	0	0	0	0		
+2	418	false	The Middle Chamber	ungulith	Cat Burglar	 | corrupted marrow	12	3	23	38	22	0			 | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	419	false	The Middle Chamber	tomb rat	Cat Burglar	 | carrot nose | tomb ratchet | leathery rat skin | unidentified jerky	398	2	15	22	22	0			 | BEANSTORM	0	0	0	0	0	0		
+2	420	false	The Middle Chamber	tomb rat	Cat Burglar	 | tomb ratchet | leathery rat skin | unidentified jerky | Gathered Meat-Clip	355	3	15	25	15	0			 | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	421	false	The Lower Chambers	N/A	Cat Burglar	 | ancient bronze token	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	422	false	The Lower Chambers	N/A	Cat Burglar	 | ancient bomb	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	423	false	The Lower Chambers	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	424	false	The Lower Chambers	Ed the Undying	Cat Burglar		10	3	32	42	20	0			 | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	425	false	The Lower Chambers	Ed the Undying	Cat Burglar		11	3	20	42	29	0			 | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	426	false	The Lower Chambers	Ed the Undying	Cat Burglar		15	2	22	41	28	0			 | BEANSTORM	0	0	0	0	0	0		
+2	427	false	The Lower Chambers	Ed the Undying	Cat Burglar		15	2	26	38	26	0			 | BEANSTORM	0	0	0	0	0	0		
+2	428	false	The Lower Chambers	Ed the Undying	Cat Burglar		13	2	22	44	25	0			 | BEANSTORM	0	0	0	0	0	0		
+2	429	false	The Lower Chambers	Ed the Undying	Cat Burglar		10	2	15	58	21	0			 | BEANSTORM	0	0	0	0	0	0		
+2	430	false	The Lower Chambers	Ed the Undying	Cat Burglar	 | Holy MacGuffin | handful of confetti | Uranium Omega of Temperance	11	2	28	44	19	0			 | BEANSTORM	0	0	0	0	0	0		
+2	431	true	Combing the Beach	N/A	Cat Burglar		0	-1	0	0	0	0	 | Does It Have a Skull In There?? (50)			0	0	0	0	0	0		
+2	431	true	Combing the Beach	N/A	Cat Burglar		0	-1	0	0	0	0	 | Cold as Nice (50) | Driving Safely (30)			0	0	0	0	0	0		
+2	431	false	A-Boo Peak	The Horror...	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	432	false	A-Boo Peak	The Horror...	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	433	true	A-Boo Peak	Wooof! Wooooooof!	Cat Burglar		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	433	false	A-Boo Peak	The Horror...	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	434	false	A-Boo Peak	Come On Ghosty, Light My Pyre	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	435	false	Twin Peak	grizzled rodeo clown	Cat Burglar	 | rodeo whiskey | Frigid Northern Beans	15	2	18	52	32	0			 | BEANSTORM	0	0	0	0	0	0		
+2	436	TRUE	HEIST: Stealing an item!	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	436	false	Twin Peak	spider (duck?) topiary animal	Cat Burglar	 | rusty hedge trimmers	15	2	11	16	8	0			 | BEANSTORM	0	0	0	0	0	0		
+2	437	false	rusty hedge trimmers	Go Check It Out!	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	438	false	rusty hedge trimmers	He Is the Arm, and He Sounds Like This	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	439	false	rusty hedge trimmers	Room 237	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	440	false	Twin Peak	the Troll Twins	Cat Burglar		315	2	8	18	12	0			 | BEANSTORM	0	0	0	0	0	0		
+2	441	TRUE	HEIST: Stealing an item!	N/A	Cat Burglar	 | rusty hedge trimmers	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	441	true	rusty hedge trimmers	To Catch a Killer	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	441	true	rusty hedge trimmers	Now It's Dark	Cat Burglar	 | gold wedding ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	441	TRUE	CONSUME: eat 1 glass of raw eggs	N/A	Cat Burglar		0	-1	0	0	0	6	 | Boxing Day Breakfast (50)			0	0	0	0	0	0		
+2	441	TRUE	CONSUME: eat 2 plate of Pork 'n' Pork 'n' Pork 'n' Beans	N/A	Cat Burglar		0	-1	0	0	0	10				0	0	0	0	0	0		
+2	441	true	Deck of Every Card	The Race Card	Cat Burglar		0	-1	0	0	0	0	 | Racing! (20)			0	0	0	0	0	0		
+2	441	false	Spookiest Adventurer Contest	Arthur Frankenstein	Cat Burglar	 | goat cheese pizza | spare neck bolts | red pixel | Gathered Meat-Clip	14	2	30	43	20	0			 | BEANSTORM	0	0	0	0	0	0		
+2	442	false	Strongest Adventurer Contest	Mr. Loathing	Cat Burglar	 | goat cheese pizza | muscle oil	12	2	27	52	22	0			 | BEANSTORM	0	0	0	0	0	0		
+2	443	false	Fastest Adventurer Contest	The Tasmanian Dervish	Cat Burglar	 | goat cheese pizza | green pixel	12	2	20	47	27	0			 | BEANSTORM	0	0	0	0	0	0		
+2	444	false	photocopied monster	The Astronomer	Cat Burglar	 | star chart	14	2	16	32	13	0			 | BEANSTORM	0	0	0	0	0	0		
+2	445	false	The Hedge Maze	'Allo	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	446	false	The Hedge Maze	Pooling Your Resources	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	447	false	The Hedge Maze	Of Mouseholes and Manholes	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	448	false	The Hedge Maze	Mazel Tov!	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	449	true	Tower Door	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	449	false	The Naughty Sorceress' Tower	wall of skin	Cat Burglar		10	2	15	32	28	0		|beehive		0	0	0	0	0	0		
+2	450	false	The Naughty Sorceress' Tower	wall of meat	Cat Burglar		1388	3	22	24	24	0			 | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	451	false	The Naughty Sorceress' Tower	wall of bones	Cat Burglar		30	4	0	0	0	0			 | BEANSTORM | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	452	false	The Castle in the Clouds in the Sky (Ground Floor)	grizzled rodeo clown	Cat Burglar	 | rodeo whiskey | World's Blackest-Eyed Peas	15	2	27	58	26	0			 | BEANSTORM	0	0	0	0	0	0		
+2	453	false	The Castle in the Clouds in the Sky (Ground Floor)	The Skinflute	Cat Burglar	 | star | star | line | line	10	2	13	35	13	0			 | BEANSTORM	0	0	0	0	0	0		
+2	454	false	The Castle in the Clouds in the Sky (Ground Floor)	Home on the Free Range	Cat Burglar	 | electric boning knife	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	455	TRUE	PILLKEEPER: Sunday - Surprise Me	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	455	false	The Naughty Sorceress' Tower	wall of bones	Cat Burglar		14	2	85	122	76	0		|electric boning knife		0	0	0	0	0	0		
+2	456	false	Cobb's Knob Harem	Hands On	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	457	false	The Castle in the Clouds in the Sky (Basement)	You Never Know What You're Gonna Find	Cat Burglar	 | ruby W | metallic A | lowercase N | original G | heavy D	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	458	true	The Naughty Sorceress' Tower	The Mirror in the Tower has the View that is True	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	458	false	The Naughty Sorceress' Tower	Shadow Beanslinger	Cat Burglar		15	6	58	114	49	0		|Rain-Doh indigo cup|Battlie Light Saver|Rain-Doh indigo cup|scented massage oil		0	0	0	0	0	0		
+2	459	false	The Naughty Sorceress' Chamber	The Naughty Sorceress	Mu	 | beefy pill	10	5	5	2	0	0			 | BEANSTORM | BEANSTORM | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	460	true	The Naughty Sorceress' Chamber	The Naughty Sorceress (2)	Mu	 | Gathered Meat-Clip	15	7	0	2	0	0			 | BEANSTORM | BEANSTORM | BEANSTORM | BEANSTORM | BEANSTORM | BEANSTORM	0	0	0	0	0	0		
+2	460	true	The Naughty Sorceress' Chamber	The Naughty Sorceress (3)	Mu	 | Thwaitgold scorpion statuette	11	1	128	261	142	0				0	0	0	0	0	0		

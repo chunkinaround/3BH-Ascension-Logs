@@ -1,0 +1,648 @@
+day	turnSpent	free?	location	encounterName	familiar	items	meat	rounds	mus	mys	mox	advsGained	effectsGained	itemsUsed	skillsUsed	freeRun?	banish	freeKill	sniff	spit	copy	macroFrom	
+1	1	true	Boxing Daycare	Have a Boxing Daydream	none	 | glass of raw eggs	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Boxing Daycare	Enter the Boxing Daycare	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Deck of Every Card	1952 Mickey Mantle	none	 | 1952 Mickey Mantle card	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Pump Up Moxie	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | You Learned Something Maybe! (50)			0	0	0	0	0	0		
+1	1	true	Boxing Daycare	Visit the Boxing Day Spa	none		0	-1	0	0	0	0	 | Uncucumbered (100) | substats.enh (100)			0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Enforcer	none		12	7	18	40	24	0			 | BARRAGE OF TEARS | DETECT WEAKNESS | SUMMON LOVE MOSQUITO | SUMMON LOVE STINKBUG | SUMMON LOVE GNATS | CURDLE	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Engineer	none	 | LOV Epaulettes	0	8	0	0	0	0			 | SUMMON LOVE GNATS | SUMMON LOVE STINKBUG | SUMMON LOVE MOSQUITO | DETECT WEAKNESS | BARRAGE OF TEARS | CURDLE	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Equivocator	none		0	2	0	0	0	0	 | Lovebotamy (50)		 | BOIL	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	none	 | LOV Enamorang	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Deck of Every Card	I - The Magician	none		0	-1	0	0	0	0	 | Magicianship (20)			0	0	0	0	0	0		
+1	1	true	Deck of Every Card	XVI - The Tower	none	 | Sneaky Pete's key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Your Witchess Set	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Your Witchess Set	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	Is This Thing On?  (No.)	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none		10	2	13	100	28	0			 | BOIL	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none		15	2	28	103	20	0			 | BOIL	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none		13	3	23	116	18	0			 | BOIL | CURDLE	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none		12	3	25	106	30	0			 | BAKE | BOIL	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none		13	3	20	135	20	0			 | BOIL | BOIL	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none		14	2	33	119	25	0			 | GRILL	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none	 | ancient medicinal herbs	13	2	33	132	25	0			 | GRILL	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none		14	2	29	148	30	0			 | GRILL	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none		10	2	18	167	23	0			 | GRILL	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none		11	2	40	135	38	0			 | GRILL	0	0	0	0	0	0		
+1	1	true	The Neverending Party	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Neverending Party	&quot;plain&quot; girl	none	 | electronics kit | PB&J with the crusts cut off | ponytail clip	159	3	63	288	93	0			 | BOIL | BOIL	0	0	0	0	0	0		
+1	1	true	The Neverending Party	party girl	none	 | very small red dress	165	3	78	285	113	0			 | BOIL | BOIL	0	0	0	0	0	0		
+1	1	true	The Neverending Party	burnout	none	 | van key | jam band bootleg	83	3	123	285	75	0			 | BOIL | BOIL	0	0	0	0	0	0		
+1	1	true	The Neverending Party	jock	none		230	2	100	276	123	0			 | BOIL	0	0	0	0	0	0		
+1	1	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | We're All Made of Starfish (50)			0	0	0	0	0	0		
+1	1	true	The Neverending Party	biker	none	 | gas can | Middle of the Road&trade; brand whiskey	171	3	108	335	118	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	burnout	none	 | van key	100	2	108	330	115	0			 | GRILL	0	0	0	0	0	0		
+1	1	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | A Brush with Grossness (50)			0	0	0	0	0	0		
+1	1	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | Hot-Headed (50)			0	0	0	0	0	0		
+1	1	true	The Haunted Kitchen	The Icewoman	none	 | psychokinetic energy blob (3)	12	2	25	96	15	0			 | BOIL	0	0	0	0	0	0		
+1	1	true	The Haunted Kitchen	sausage goblin	none	 | magical sausage casing	117	9	103	330	123	0			 | DETECT WEAKNESS | SUMMON LOVE GNATS | SUMMON LOVE MOSQUITO | CURDLE | CURDLE | CURDLE | CURDLE | CURDLE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	&quot;plain&quot; girl	none	 | Cosmic Calorie (6) | ponytail clip	159	5	110	349	113	0			 | DETECT WEAKNESS | CURDLE | CURDLE | CURDLE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	A Room With a View...  Of a Bed	none		0	-1	0	0	0	0	 | Tomes of Opportunity (20)			0	0	0	0	0	0		
+1	1	true	Your Witchess Set	Witchess Rook	none	 | Greek fire	13	4	110	407	98	0			 | DETECT WEAKNESS | BARRAGE OF TEARS | CURDLE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	party girl	none	 | runproof mascara | very small red dress	180	5	143	468	108	0			 | BARRAGE OF TEARS | DETECT WEAKNESS | SUMMON LOVE MOSQUITO | CURDLE	0	0	0	0	0	0		
+1	1	true	The Neverending Party	biker	none	 | Cosmic Calorie (6)	182	5	138	508	110	0			 | DETECT WEAKNESS | SUMMON LOVE MOSQUITO | CURDLE | CURDLE	0	0	0	0	0	0		
+1	1	false	The Haunted Kitchen	paper towelgeist	none		0	3	25	141	43	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	2	false	The Haunted Kitchen	skullery maid	none	 | Cosmic Calorie (4) | Gathered Meat-Clip	28	2	15	72	12	0			 | CURDLE	0	0	0	0	0	0		
+1	3	false	The Haunted Kitchen	demonic icebox	none		28	4	14	62	22	0			 | CURDLE | CURDLE | CURDLE	0	0	0	0	0	0		
+1	4	false	The Haunted Kitchen	paper towelgeist	none		0	5	14	71	15	0			 | DETECT WEAKNESS | SUMMON LOVE MOSQUITO | CURDLE | CURDLE	0	0	0	0	0	0		
+1	5	TRUE	CONSUME: eat 1 sublime stew	N/A	none		0	-1	0	0	0	42				0	0	0	0	0	0		
+1	5	false	The Haunted Kitchen	paper towelgeist	none	 | Spookyraven billiards room key	0	4	17	74	10	0			 | DETECT WEAKNESS | CURDLE | CURDLE	0	0	0	0	0	0		
+1	6	false	Guano Junction	How I Wonder What You're At	none	 | sonar-in-a-biscuit | sonar-in-a-biscuit	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	7	true	The Beanbat Chamber	beanbat	none	 | enchanted bean | sonar-in-a-biscuit	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+1	7	true	The Boss Bat's Lair	sausage goblin	none	 | magical sausage casing	115	2	138	465	145	0			 | GRILL	0	0	0	0	0	0		
+1	7	false	The Boss Bat's Lair	beefy bodyguard bat	none		377	3	43	103	45	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	8	false	The Boss Bat's Lair	beefy bodyguard bat	none		377	3	25	137	38	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	9	false	The Boss Bat's Lair	beefy bodyguard bat	none		457	3	28	118	45	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	10	false	The Boss Bat's Lair	beefy bodyguard bat	none		324	3	35	131	25	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	11	TRUE	CONSUME: drink 2 Chunky Mary	N/A	none		0	-1	0	0	0	28				0	0	0	0	0	0		
+1	11	false	The Boss Bat's Lair	The Boss Bat	none	 | dense meat stack | batskin belt	0	4	43	112	38	0			 | CURDLE | CURDLE | CURDLE	0	0	0	0	0	0		
+1	12	false	The Haunted Billiards Room	That's Your Cue	none	 | pool cue	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	13	false	The Haunted Billiards Room	pooltergeist	none	 | 8-ball	13	4	38	115	28	0			 | CURDLE | CURDLE | CURDLE	0	0	0	0	0	0		
+1	14	false	The Haunted Billiards Room	pooltergeist	none		12	3	28	106	50	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	15	false	The Haunted Billiards Room	chalkdust wraith	none	 | psychokinetic energy blob | handful of hand chalk | Gathered Meat-Clip	13	2	28	128	33	0			 | CURDLE	0	0	0	0	0	0		
+1	16	false	The Haunted Billiards Room	pooltergeist	none	 | 2-ball	14	4	25	142	28	0			 | CURDLE | CURDLE | CURDLE	0	0	0	0	0	0		
+1	17	false	The Haunted Billiards Room	Welcome To Our ool Table	none	 | Spookyraven library key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	18	true	The Haunted Library	bookbat	none		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	18	false	The Haunted Library	writing desk	none	 | inkwell	12	4	25	115	38	0			 | OFFER LATTE TO OPPONENT | GULP LATTE | CURDLE	0	0	0	1	0	0		
+1	19	true	The Haunted Library	Take a Look, it's in a Book!	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	19	true	The Spooky Forest	sausage goblin	none	 | magical sausage casing	125	2	160	465	183	0			 | GRILL	0	0	0	0	0	0		
+1	19	true	The Haunted Library	banshee librarian	none		0	0	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	19	false	The Haunted Library	writing desk	none		12	3	15	56	22	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	20	true	Your Witchess Set	Witchess Rook	none	 | Greek fire	12	2	54	196	47	0			 | GRILL	0	0	0	0	0	0		
+1	20	true	Your Witchess Set	Witchess Rook	none	 | Greek fire	14	2	48	173	75	0			 | GRILL	0	0	0	0	0	0		
+1	20	true	Your Witchess Set	Witchess Rook	none	 | Greek fire	14	2	72	159	59	0			 | GRILL	0	0	0	0	0	0		
+1	20	true	Your Witchess Set	Witchess Rook	none	 | Greek fire	10	2	52	182	59	0			 | GRILL	0	0	0	0	0	0		
+1	20	false	The Haunted Library	writing desk	none	 | disintegrating quill pen | inkwell | snifter of thoroughly aged brandy	15	3	14	67	12	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	21	true	The Spooky Forest	angry ghost	none	 | psychokinetic energy blob | ghostly ectoplasm	13	2	123	303	138	0			 | GRILL	0	0	0	0	0	0		
+1	21	false	The Haunted Library	writing desk	none	 | inkwell	11	3	15	57	12	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	22	false	The Haunted Library	writing desk	none	 | disintegrating quill pen | Lady Spookyraven's necklace	14	3	15	48	18	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	23	true	The Spooky Forest	triffid	none		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	23	false	The Dark Heart of the Woods	Moon Over the Dark Heart	none	 | hot plate	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	24	false	The Dark Heart of the Woods	G imp	none		60	2	17	38	30	0			 | CURDLE	0	0	0	0	0	0		
+1	25	false	The Dark Heart of the Woods	Running the Lode	none		350	-1	0	0	0	0				0	0	0	0	0	0		
+1	26	false	The Dark Heart of the Woods	Fallen Archfiend	none	 | infernal insoles | pink slime	76	2	15	50	15	0			 | CURDLE	0	0	0	0	0	0		
+1	27	false	The Dark Heart of the Woods	I, Martin	none	 | martini	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	28	false	The Dark Heart of the Woods	Fallen Archfiend	none	 | infernal insoles | stick of firewood	95	2	12	53	17	0			 | CURDLE	0	0	0	0	0	0		
+1	29	false	The Dark Heart of the Woods	P imp	none		58	2	17	45	15	0			 | CURDLE	0	0	0	0	0	0		
+1	30	false	The Dark Heart of the Woods	Fallen Archfiend	none	 | Gathered Meat-Clip | stick of firewood	90	3	15	54	12	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	31	true	The Dark Heart of the Woods	Wooof! Wooooooof!	none	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	31	false	The Dark Heart of the Woods	Imp Be Nimble, Imp Be Quick	none	 | box of birthday candles	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	32	false	The Dark Neck of the Woods	How Do We Do It? Quaint and Curious Volume!	none		250	-1	0	0	0	0				0	0	0	0	0	0		
+1	33	false	The Dark Neck of the Woods	W imp	none	 | Imp Ale | blue pixel	55	2	22	45	10	0			 | CURDLE	0	0	0	0	0	0		
+1	34	false	The Dark Neck of the Woods	P imp	none	 | Imp Ale	58	2	22	41	17	0			 | CURDLE	0	0	0	0	0	0		
+1	35	false	The Dark Neck of the Woods	Hellion	none	 | hellion cube | white pixel | stick of firewood	11	2	14	53	14	0			 | CURDLE	0	0	0	0	0	0		
+1	36	false	The Dark Neck of the Woods	Strike One!	none	 | imp unity ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	37	false	The Dark Neck of the Woods	Olive My Love To You, Oh.	none	 | olive | olive	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	38	false	The Dark Neck of the Woods	P imp	none	 | hot wing | Pok&eacute;-Gro fertilizer	59	2	12	53	14	0			 | CURDLE	0	0	0	0	0	0		
+1	39	true	The Spooky Forest	sausage goblin	none	 | magical sausage casing | green pixel	120	2	148	405	150	0			 | GRILL	0	0	0	0	0	0		
+1	39	false	The Dark Neck of the Woods	Dodecahedrariffic!	none	 | dodecagram	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	40	false	The Dark Elbow of the Woods	Demoninja	none	 | green pixel | li'l ninja costume	94	2	13	48	20	0			 | CURDLE	0	0	0	0	0	0		
+1	41	false	The Dark Elbow of the Woods	L imp	none	 | Imp Ale | white pixel	67	2	24	42	12	0			 | CURDLE	0	0	0	0	0	0		
+1	42	false	The Dark Elbow of the Woods	Deep Imp Act	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	43	false	The Dark Elbow of the Woods	L imp	none	 | cast	63	2	18	50	12	0			 | CURDLE	0	0	0	0	0	0		
+1	44	false	The Dark Elbow of the Woods	Imp Art, Some Wisdom	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	45	false	The Dark Elbow of the Woods	L imp	none	 | Imp Ale | cast	63	2	23	42	13	0			 | CURDLE	0	0	0	0	0	0		
+1	46	false	The Dark Elbow of the Woods	A Secret, But Not the Secret You're Looking For	none	 | bottle of vodka | bottle of gin | bottle of whiskey	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	47	false	The Dark Elbow of the Woods	G imp	none	 | Imp Ale	64	2	20	44	15	0			 | CURDLE	0	0	0	0	0	0		
+1	48	false	The Dark Elbow of the Woods	G imp	none		69	2	17	48	17	0			 | CURDLE	0	0	0	0	0	0		
+1	49	true	The Dark Elbow of the Woods	Wooof! Wooooooof!	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	49	false	The Dark Elbow of the Woods	Butter Knife?  I'll Take the Knife	none	 | eldritch butterknife	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	50	true	Friar Ceremony Location	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	50	true	Cook 20 wad of dough + 20 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	50	true	genie summoned monster	mountain man	none	 | asbestos ore | asbestos ore | linoleum ore | linoleum ore | chrome ore | chrome ore | asbestos ore | asbestos ore | linoleum ore | linoleum ore | chrome ore | chrome ore	12	3	18	61	13	0			 | DUPLICATE | ASDON MARTIN: MISSILE LAUNCHER	0	0	0	0	0	0		
+1	50	true	The Goatlet	sabre-toothed goat	none		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+1	50	true	Cook 18 wad of dough + 18 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	50	false	The Goatlet	dairy goat	none	 | goat cheese | Gathered Meat-Clip	95	3	24	49	15	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	51	false	The Goatlet	dairy goat	none	 | goat cheese	87	3	10	52	9	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	52	false	The Goatlet	dairy goat	none	 | goat cheese | glass of goat's milk	106	3	15	42	18	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	53	false	The Spooky Forest	warwelf	none	 | stick of firewood	32	3	9	40	14	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	54	true	The Penultimate Fantasy Airship	The Beginning of the End of the Penultimate Fantasy	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	54	true	The Penultimate Fantasy Airship	angry ghost	none	 | psychokinetic energy blob | Cosmic Calorie	11	2	64	162	72	0			 | GRILL	0	0	0	0	0	0		
+1	54	false	The Penultimate Fantasy Airship	Random Lack of an Encounter	none	 | model airship	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	true	The Penultimate Fantasy Airship	Protagonist	none		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	55	true	The Penultimate Fantasy Airship	Spunky Princess	none		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	55	true	The Haunted Gallery	sausage goblin	none	 | magical sausage casing	119	2	67	154	80	0			 | GRILL	0	0	0	0	0	0		
+1	55	false	The Penultimate Fantasy Airship	Quiet Healer	none	 | scroll of drastic healing | soft green echo eyedrop antidote | Tears of the Quiet Healer	171	5	18	45	19	0			 | OTOSCOPE | CURDLE | CURDLE | CURDLE	0	0	0	0	0	0		
+1	56	false	The Penultimate Fantasy Airship	Burly Sidekick	none	 | Mohawk wig | Cosmic Calorie | tiny house | armgun	195	2	17	60	14	0	 | Everything Looks Yellow (149)	|unbearable light		0	0	0	0	0	0		
+1	57	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none	 | metallic A | glowing red eye | photoprotoneutron torpedo	11	2	14	59	18	0			 | GRILL	0	0	0	0	0	0		
+1	58	false	The Penultimate Fantasy Airship	Gesundheitgeist!	none	 | Tissue Paper Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	59	true	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	59	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none	 | photoprotoneutron torpedo	15	6	19	53	18	0			 | CURDLE | CURDLE | CURDLE | BAKE | GRILL	0	0	0	0	0	0		
+1	60	false	The Penultimate Fantasy Airship	Quiet Healer	none	 | scroll of drastic healing | soft green echo eyedrop antidote | Tears of the Quiet Healer	193	4	15	52	15	0			 | OTOSCOPE | OFFER LATTE TO OPPONENT | GRILL	0	0	0	1	0	0		
+1	61	false	The Penultimate Fantasy Airship	a Quiet Healer!	none	 | scroll of drastic healing	185	3	13	47	15	0			 | CHEAT CODE: REPLACE ENEMY | GRILL	0	0	0	0	0	0	 | Irritating Series of Random Encounters	
+1	62	true	The Penultimate Fantasy Airship	Wooof! Wooooooof!	none	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	62	false	The Penultimate Fantasy Airship	Quiet Healer	none	 | scroll of drastic healing | soft green echo eyedrop antidote | blue pixel	184	2	17	45	19	0			 | GRILL	0	0	0	0	0	0		
+1	63	false	The Penultimate Fantasy Airship	Don't Chew on That Spirit!	none	 | Tin Foil Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	64	false	The Penultimate Fantasy Airship	a Quiet Healer!	none	 | Tears of the Quiet Healer | Gathered Meat-Clip	198	3	9	54	14	0			 | CHEAT CODE: REPLACE ENEMY | GRILL	0	0	0	0	0	0	 | Burly Sidekick	
+1	65	true	The Haunted Gallery	Is There A Doctor In The House?	none	 | ghostly ectoplasm | white pixel	10	2	44	125	45	0			 | GRILL	0	0	0	0	0	0		
+1	65	false	The Penultimate Fantasy Airship	The Most Absorbent Spirit Ever	none	 | Gauze Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	66	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none	 | photoprotoneutron torpedo	12	2	23	53	22	0			 | GRILL	0	0	0	0	0	0		
+1	67	false	The Penultimate Fantasy Airship	a Burly Sidekick!	none		227	3	18	38	17	0			 | CHEAT CODE: REPLACE ENEMY | GRILL	0	0	0	0	0	0	 | Spunky Princess	
+1	68	TRUE	CONSUME: drink 1 Chunky Mary	N/A	none		0	-1	0	0	0	13				0	0	0	0	0	0		
+1	68	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	68	false	The Penultimate Fantasy Airship	Quiet Healer	none	 | amulet of extreme plot significance | scroll of drastic healing | soft green echo eyedrop antidote	207	4	19	52	17	0	 | Bat-Adjacent Form (1)		 | OTOSCOPE | BECOME A BAT | GRILL	0	0	0	0	0	0		
+1	69	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	69	false	The Spooky Forest	Consciousness of a Stream	none	 | mosquito larva	500	-1	0	0	0	0				0	0	0	0	0	0		
+1	70	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	70	false	The Spooky Forest	Consciousness of a Stream	none	 | tree-holed coin	300	-1	0	0	0	0				0	0	0	0	0	0		
+1	71	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	71	false	The Spooky Forest	O Lith, Mon	none	 | Spooky Temple map	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	72	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	72	false	The Spooky Forest	Tree's Last Stand	none	 | spooky sapling	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	73	false	The Spooky Forest	Through Thicket and Thinnet	none	 | Spooky-Gro fertilizer	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	74	true	The Outskirts of Cobb's Knob	sausage goblin	none	 | magical sausage casing	130	2	43	119	53	0			 | GRILL	0	0	0	0	0	0		
+1	74	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none	 | metallic A | photoprotoneutron torpedo	13	3	18	50	20	0			 | CURDLE | GRILL	0	0	0	0	0	0		
+1	75	false	The Penultimate Fantasy Airship	Burly Sidekick	none	 | Mohawk wig | cocoa eggshell fragment | tiny house	210	2	17	44	23	0			 | GRILL	0	0	0	0	0	0		
+1	76	false	The Penultimate Fantasy Airship	angry ghost	none	 | ghostly ectoplasm	12	2	56	113	58	0			 | GRILL	0	0	0	0	0	0		
+1	77	false	The Penultimate Fantasy Airship	Quiet Healer	none	 | scroll of drastic healing | soft green echo eyedrop antidote	166	2	15	40	24	0			 | GRILL	0	0	0	0	0	0		
+1	78	false	The Penultimate Fantasy Airship	Quiet Healer	none	 | amulet of extreme plot significance | scroll of drastic healing | red pixel	184	2	18	53	14	0			 | GRILL	0	0	0	0	0	0		
+1	79	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	none	 | photoprotoneutron torpedo	15	2	22	45	24	0			 | GRILL	0	0	0	0	0	0		
+1	80	false	The Penultimate Fantasy Airship	Rip Rop Wrappety Do	none	 | Plastic Wrap Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	81	false	The Penultimate Fantasy Airship	F-F-Fantastic!	none	 | S.O.C.K.	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	82	true	The Defiled Niche	senile lihc	none		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+1	82	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	82	true	The Defiled Niche	slick lihc	none		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	82	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	82	true	The Defiled Niche	basic lihc	none		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	82	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	82	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	82	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	82	false	The Defiled Niche	dirty old lihc	none	 | Cosmic Calorie (6)	12	3	13	38	17	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	83	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	83	false	The Defiled Niche	dirty old lihc	none	 | Cosmic Calorie (6) | Gathered Meat-Clip	15	3	18	34	15	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	84	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	84	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	84	true	The Defiled Niche	Urning Your Keep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	84	false	The Defiled Niche	dirty old lihc	none	 | Cosmic Calorie (6) | green pixel	15	2	13	36	18	0			 | CURDLE	0	0	0	0	0	0		
+1	85	false	The Defiled Niche	dirty old lihc	none	 | Cosmic Calorie (6)	11	3	14	37	15	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	86	false	The Defiled Niche	dirty old lihc	none		13	3	14	41	12	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	87	true	The Defiled Niche	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+1	87	false	The Defiled Niche	dirty old lihc	none	 | Cosmic Calorie (6)	10	3	12	37	18	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	88	false	The Defiled Niche	dirty old lihc	none	 | Cosmic Calorie (6)	10	2	24	36	7	0			 | CURDLE	0	0	0	0	0	0		
+1	89	false	The Defiled Niche	dirty old lihc	none		12	3	19	38	10	0			 | CURDLE | CURDLE	0	0	0	0	0	0		
+1	90	false	The Defiled Niche	gargantulihc	none	 | lihc face	15	2	22	67	29	0			 | GRILL	0	0	0	0	0	0		
+1	91	false	The Black Forest	Forty Shades of Black	none	 | black map	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	92	false	The Black Forest	black friar	none	 | black label | stick of firewood	10	2	27	53	22	0			 | GRILL	0	0	0	0	0	0		
+1	93	false	The Black Forest	black adder	none	 | adder bladder | sunken eyes	190	2	25	54	22	0			 | GRILL	0	0	0	0	0	0		
+1	94	false	The Black Forest	black panther	none	 | broken wings	287	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+1	95	false	The Black Forest	black magic woman	none	 | Gathered Meat-Clip	232	2	23	49	19	0			 | GRILL	0	0	0	0	0	0		
+1	96	false	The Black Forest	You Found Your Thrill	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	97	false	The Black Forest	Bee Persistent	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	98	true	The Black Forest	Bee Rewarded	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	98	false	The Black Forest	N/A	none	 | beehive	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	99	false	The Black Forest	black panther	none	 | Black No. 2	315	2	18	53	23	0			 | GRILL	0	0	0	0	0	0		
+1	100	true	The Outskirts of Cobb's Knob	sausage goblin	none	 | red-hot sausage fork | magical sausage casing | red pixel	142	2	50	144	54	0			 | GRILL	0	0	0	0	0	0		
+1	100	true	The Black Forest	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+1	100	false	The Black Forest	black widow	none		123	2	17	61	14	0			 | GRILL	0	0	0	0	0	0		
+1	101	false	The Black Forest	blackberry bush	none	 | Cosmic Calorie (3)	13	2	13	36	16	0			 | GRILL	0	0	0	0	0	0		
+1	102	false	The Black Forest	black adder	none	 | adder bladder | black snake skin	192	2	17	33	14	0			 | GRILL	0	0	0	0	0	0		
+1	103	false	The Black Forest	black panther	none		249	2	11	39	17	0			 | GRILL	0	0	0	0	0	0		
+1	104	false	The Shore, Inc. Travel Agency	N/A	none	 | your father's MacGuffin diary	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	107	false	Lair of the Ninja Snowmen	Ninja Snowman	none	 | plain snowcone	0	2	14	29	10	0			 | GRILL	0	0	0	0	0	0		
+1	108	false	Lair of the Ninja Snowmen	ninja snowman assassin	none	 | green pixel | ninja rope	0	4	18	40	16	0		|LOV Enamorang	 | DIGITIZE | GRILL	0	0	0	0	0	1		
+1	109	false	The Haunted Gallery	cubist bull	none		140	2	13	24	9	0			 | GRILL	0	0	0	0	0	0		
+1	110	false	The Tavern Cellar	drunken rat king	none	 | rat whisker | rat whisker | rat whisker | rat appendix | tangle of rat tails	83	3	16	44	15	0			 | GRILL | GRILL	0	0	0	0	0	0		
+1	111	false	The Tavern Cellar	bunch of drunken rats	none	 | rat whisker | rat whisker | rat whisker	32	3	13	41	11	0	 | Motion (5)		 | GRILL | GRILL	0	0	0	0	0	0		
+1	112	false	The Tavern Cellar	drunken rat king	none	 | rat whisker | rat whisker | rat whisker | rat appendix | rat appendix | tangle of rat tails | Gathered Meat-Clip	66	3	14	40	16	0			 | GRILL | GRILL	0	0	0	0	0	0		
+1	113	false	The Tavern Cellar	Those Who Came Before You	none	 | glittery mascara | shiny ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	114	false	The Tavern Cellar	bunch of drunken rats	none	 | rat whisker | rat appendix	43	2	15	43	12	0			 | GRILL	0	0	0	0	0	0		
+1	115	false	The Tavern Cellar	drunken rat king	none	 | rat whisker | rat whisker | rat appendix | rat appendix | tangle of rat tails	89	3	19	38	18	0			 | GRILL | GRILL	0	0	0	0	0	0		
+1	116	false	The Outskirts of Cobb's Knob	ninja snowman assassin	none		0	1	0	0	0	0				0	0	0	0	0	0		
+1	117	false	The Tavern Cellar	drunken rat king	none	 | rat whisker | rat whisker | rat appendix | rat appendix | rat appendix | tangle of rat tails	60	3	14	49	8	0			 | GRILL | GRILL	0	0	0	0	0	0		
+1	118	TRUE	CONSUME: drink 1 adequate rum	N/A	none		0	-1	0	0	0	4				0	0	0	0	0	0		
+1	118	TRUE	CONSUME: eat 1 consummate steak	N/A	none		0	-1	0	0	0	5				0	0	0	0	0	0		
+1	118	TRUE	PILLKEEPER: Friday - Hulkien	N/A	none		0	-1	0	0	0	0	 | Hulkien (30)			0	0	0	0	0	0		
+1	118	false	The Tavern Cellar	Of Course!	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	119	true	Boxing Daycare	Have a Boxing Daydream	none	 | punch-drunk punch	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	119	true	Time-Spinner	Travel to a Recent Fight	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	119	true	Boxing Daycare	Visit the Boxing Day Spa	none		0	-1	0	0	0	0	 | Uncucumbered (100)			0	0	0	0	0	0		
+2	119	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | We're All Made of Starfish (50)			0	0	0	0	0	0		
+2	119	true	The Neverending Party	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	119	true	Rest in your campaway tent	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	119	true	Boxing Daycare	Enter the Boxing Daycare	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	119	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	119	true	The Tunnel of L.O.V.E.	LOV Enforcer	none		0	2	220	462	168	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	119	true	The Tunnel of L.O.V.E.	LOV Engineer	none	 | LOV Epaulettes	0	8	205	454	205	0			 | GRILL | GRILL | DETECT WEAKNESS | BARRAGE OF TEARS | BLEND | GRILL | GRILL	0	0	0	0	0	0		
+2	119	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	119	true	The Tunnel of L.O.V.E.	LOV Equivocator	none		0	2	193	513	190	0	 | Lovebotamy (50)		 | GRILL	0	0	0	0	0	0		
+2	119	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	none	 | LOV Enamorang	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	119	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | You Learned Something Maybe! (50)			0	0	0	0	0	0		
+2	119	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none	 | training belt	0	2	43	135	43	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none		0	3	53	135	38	0			 | CURDLE | GRILL	0	0	0	0	0	0		
+2	119	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none		0	2	45	144	45	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none	 | ancient medicinal herbs	0	2	20	196	35	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none		0	2	48	173	30	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none		0	2	38	180	43	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none		0	2	63	148	48	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none		0	2	35	173	65	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none		0	2	58	180	49	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	none		0	2	55	176	60	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The Neverending Party	party girl	none	 | runproof mascara | very small red dress	145	2	235	602	208	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The Neverending Party	jock	none	 | unremarkable duffel bag | Purple Beast energy drink | cosmetic football | shoe ad T-shirt	222	2	270	551	220	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The Neverending Party	burnout	none	 | van key | jam band bootleg	66	2	224	628	220	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The Neverending Party	party girl	none	 | runproof mascara | very small red dress | surprisingly capacious handbag	115	2	280	602	217	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The Neverending Party	biker	none	 | gas can | Cosmic Calorie (6)	106	2	213	704	218	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The Neverending Party	Basement Urges	none		0	-1	0	0	0	0	 | The Best Hair You've Ever Had (20)			0	0	0	0	0	0		
+2	119	true	The Neverending Party	jock	none	 | Purple Beast energy drink	184	2	238	628	285	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The Neverending Party	jock	none	 | unremarkable duffel bag | shoe ad T-shirt	185	2	243	679	250	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The Neverending Party	burnout	none	 | van key | jam band bootleg	58	2	280	634	259	0	 | Serendipi Tea (5)		 | GRILL	0	0	0	0	0	0		
+2	119	true	The Neverending Party	&quot;plain&quot; girl	none	 | electronics kit | Cosmic Calorie (6) | dorky glasses	141	2	210	685	313	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	The Haunted Gallery	sausage goblin	none	 | magical sausage casing	91	2	255	637	305	0			 | GRILL	0	0	0	0	0	0		
+2	119	true	Deck of Every Card	XVI - The Tower	none	 | Boris's key	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	119	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	119	true	Deck of Every Card	Sheep	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	119	true	The Castle in the Clouds in the Sky (Basement)	sausage goblin	none	 | magical sausage casing | blue pixel	87	2	223	666	282	0			 | GRILL	0	0	0	0	0	0		
+2	119	false	The Castle in the Clouds in the Sky (Basement)	You Don't Mess Around with Gym	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	120	true	The Outskirts of Cobb's Knob	angry ghost	none	 | ghostly ectoplasm | white pixel	0	2	183	503	232	0			 | GRILL	0	0	0	0	0	0		
+2	120	false	The Haunted Gallery	empty suit of armor	none	 | antique helmet	0	2	19	69	19	0	 | X-Ray Vision (5)		 | GRILL	0	0	0	0	0	0		
+2	121	false	The Haunted Gallery	Louvre It or Leave It (The Persistence of Memory)	none	 | Lady Spookyraven's dancing shoes	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	122	true	genie summoned monster	Orcish Frat Boy Spy	none	 | distressed denim pants | beer helmet | bejeweled pledge pin	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+2	122	false	The Copperhead Club	Shen Copperhead, Nightclub Owner	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	123	false	The Copperhead Club	ninja snowman assassin	none	 | li'l ninja costume | ninja crampons | Gathered Meat-Clip	0	3	33	63	28	0		|LOV Enamorang	 | GRILL	0	0	0	0	0	0		
+2	124	false	Wartime Hippy Camp	My Dog Has No Nose	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	125	false	Hippy Camp	War Hippy (space) cadet	none	 | stick of firewood	0	2	24	75	32	0			 | GRILL	0	0	0	0	0	0		
+2	126	false	Wartime Hippy Camp (Frat Disguise)	War Hippy drill sergeant	none	 | reinforced beaded headband | stick of firewood	0	2	12	64	35	0			 | GRILL	0	0	0	0	0	0		
+2	127	false	Wartime Hippy Camp (Frat Disguise)	Blockin' Out the Scenery	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	128	true	The Smut Orc Logging Camp	The ghost of Richard Cockingham	none	 | long hard screw | psychokinetic energy blob (5)	0	2	15	44	19	0			 | GRILL	0	0	0	0	0	0		
+2	128	false	The Smut Orc Logging Camp	smut orc nailer	none	 | orcish nailing lube | stick of firewood	42	2	14	45	15	0	 | Buff as a Baobab (5)		 | GRILL	0	0	0	0	0	0		
+2	129	false	The Smut Orc Logging Camp	smut orc jacker	none	 | long hard screw | orcish hand lotion	37	2	19	37	14	0			 | GRILL	0	0	0	0	0	0		
+2	130	true	The Haunted Gallery	sausage goblin	none	 | magical sausage casing	83	2	141	252	122	0			 | GRILL	0	0	0	0	0	0		
+2	130	false	The Smut Orc Logging Camp	The Frattlesnake	none	 | The Lacrosse Stick of Lacoronado | stick of firewood	0	2	22	52	29	0			 | GRILL	0	0	0	0	0	0		
+2	131	false	The Copperhead Club	ninja dressed as a waiter	none	 | crappy waiter disguise | throwing fork | ninja fear powder	0	2	22	54	22	0			 | GRILL	0	0	0	0	0	0		
+2	132	false	The Hidden Temple	The Hidden Heart of the Hidden Temple	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	133	false	The Hidden Temple	Such Great Heights	none	 | the Nostril of the Serpent	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	134	true	The Hidden Temple	The Hidden Heart of the Hidden Temple	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	134	false	The Hidden Temple	Now What?	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	135	false	The Hidden Temple	Beginning at the Beginning of Beginning	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	136	false	The Hidden Temple	No Visible Means of Support	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	137	false	The Copperhead Club	waiter dressed as a ninja	none		29	2	13	65	18	0	 | Frost Tea (5)		 | GRILL	0	0	0	0	0	0		
+2	138	false	The Copperhead Club	Shen Copperhead, Jerk	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	139	false	The Copperhead Club	ninja snowman assassin	none	 | ninja carabiner	0	2	18	57	19	0			 | GRILL	0	0	0	0	0	0		
+2	140	false	Mist-Shrouded Peak	panicking Knott Yeti	none	 | yeti fur | blue pixel	245	2	10	53	20	0			 | GRILL	0	0	0	0	0	0		
+2	141	false	Mist-Shrouded Peak	panicking Knott Yeti	none	 | yeti fur	243	2	10	50	15	0			 | GRILL	0	0	0	0	0	0		
+2	142	false	Mist-Shrouded Peak	panicking Knott Yeti	none	 | blue pixel | Gathered Meat-Clip	302	2	14	37	23	0			 | GRILL	0	0	0	0	0	0		
+2	143	false	Mist-Shrouded Peak	Groar	none	 | Groar's fur | dense meat stack (5) | red pixel	0	2	27	72	33	0			 | GRILL	0	0	0	0	0	0		
+2	144	true	The Unquiet Garves	sausage goblin	none	 | magical sausage casing	93	2	107	175	95	0			 | GRILL	0	0	0	0	0	0		
+2	144	true	The Haunted Bedroom	animated rustic nightstand	none		0	2	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	144	true	The Haunted Bedroom	animated mahogany nightstand	none		0	2	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	144	true	The Haunted Bedroom	Wardr&ouml;b nightstand	none		0	2	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	144	false	The Haunted Bedroom	animated ornate nightstand	none		0	3	14	32	13	0			 | OFFER LATTE TO OPPONENT | GRILL	0	0	0	1	0	0		
+2	145	false	The Haunted Bedroom	One Ornate Nightstand	none	 | Lord Spookyraven's spectacles	0	2	8	37	14	0			 | GRILL	0	0	0	0	0	0		
+2	146	false	The Haunted Bedroom	One Ornate Nightstand	none		0	2	12	40	9	0			 | GRILL	0	0	0	0	0	0		
+2	147	false	The Haunted Bedroom	One Elegant Nightstand	none	 | Lady Spookyraven's finest gown	0	2	12	37	10	0			 | GRILL	0	0	0	0	0	0		
+2	148	true	The Haunted Bathroom	sausage goblin	none	 | magical sausage casing | green pixel	94	2	112	164	91	0			 | GRILL	0	0	0	0	0	0		
+2	148	false	The Defiled Alcove	corpulent zobmie	none		0	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+2	149	false	The Defiled Alcove	modern zmobie	none		79	3	12	37	19	0			 | DIGITIZE | GRILL	0	0	0	0	0	1		
+2	150	false	The Haunted Bathroom	malevolent hair clog	none		0	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+2	151	false	The Haunted Bathroom	toilet papergeist	none	 | roll of toilet paper	0	2	22	26	13	0			 | GRILL	0	0	0	0	0	0		
+2	152	true	The Haunted Bathroom	sausage goblin	none	 | magical sausage casing	101	2	87	157	83	0			 | GRILL	0	0	0	0	0	0		
+2	152	false	The Haunted Bathroom	claw-foot bathtub	none		0	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+2	153	true	The Outskirts of Cobb's Knob	angry ghost	none		0	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+2	153	false	The Haunted Bathroom	malevolent hair clog	none	 | gob of wet hair | Gathered Meat-Clip	0	2	14	26	10	0			 | GRILL	0	0	0	0	0	0		
+2	154	false	The Haunted Bathroom	toilet papergeist	none	 | roll of toilet paper	0	2	12	23	14	0			 | GRILL	0	0	0	0	0	0		
+2	155	false	The Haunted Bathroom	claw-foot bathtub	none	 | bottle of Monsieur Bubble | white pixel	0	2	10	27	12	0			 | GRILL	0	0	0	0	0	0		
+2	156	true	The Haunted Bathroom	Wooof! Wooooooof!	none	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	156	false	The Haunted Bathroom	cosmetics wraith	none	 | Lady Spookyraven's powder puff | old eyebrow pencil | old rosewater cream | old bronzer	0	2	12	32	9	0			 | GRILL	0	0	0	0	0	0		
+2	157	false	The Unquiet Garves	modern zmobie	none		0	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+2	158	false	The Unquiet Garves	ghuol	none	 | ghuol egg	45	2	5	22	10	0			 | GRILL	0	0	0	0	0	0		
+2	159	false	The Unquiet Garves	zobmie	none	 | cranberries	45	2	2	30	7	0			 | GRILL	0	0	0	0	0	0		
+2	160	false	The Unquiet Garves	Smart Skelton	none		0	2	0	6	0	0			 | GRILL	0	0	0	0	0	0		
+2	161	false	The Unquiet Garves	the Snakeleton	none	 | The Shield of Brook | blue pixel	0	2	19	52	13	0			 | GRILL	0	0	0	0	0	0		
+2	162	false	The Copperhead Club	fan dancer	none		0	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+2	163	true	The Copperhead Club	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	163	false	The Copperhead Club	waiter dressed as a ninja	none	 | crappy waiter disguise	28	2	13	52	13	0			 | GRILL	0	0	0	0	0	0		
+2	164	false	The Copperhead Club	the Mob Penguin Capo	none	 | Gathered Meat-Clip	291	2	21	45	22	0			 | GRILL	0	0	0	0	0	0		
+2	165	false	The Copperhead Club	ninja dressed as a waiter	none		0	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+2	166	false	The Copperhead Club	Shen Copperhead, Huge Jerk	none		0	-1	0	0	0	0	 | Driving Stealthily (30)			0	0	0	0	0	0		
+2	167	true	The Castle in the Clouds in the Sky (Ground Floor)	Huzzah!	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	167	true	The Castle in the Clouds in the Sky (Ground Floor)	Huzzah!	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	167	false	The Castle in the Clouds in the Sky (Ground Floor)	Procrastination Giant	none		0	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+2	168	false	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	none	 | chipotle wasabi cilantro aioli	141	2	20	41	12	0			 | GRILL	0	0	0	0	0	0		
+2	169	false	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	none	 | giant artisanal rice peeler	138	2	15	32	7	0			 | GRILL	0	0	0	0	0	0		
+2	170	false	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	none		0	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+2	171	false	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	none		137	2	14	26	18	0			 | GRILL	0	0	0	0	0	0		
+2	172	true	The Castle in the Clouds in the Sky (Ground Floor)	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	172	false	The Castle in the Clouds in the Sky (Ground Floor)	Putting Off Is Off-Putting	none	 | very overdue library book	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	173	false	The Castle in the Clouds in the Sky (Ground Floor)	Possibility Giant	none	 | probability potion | chaos butterfly	210	2	18	29	12	0			 | GRILL	0	0	0	0	0	0		
+2	174	false	The Castle in the Clouds in the Sky (Ground Floor)	Home on the Free Range	none	 | electric boning knife	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	175	true	The Castle in the Clouds in the Sky (Ground Floor)	angry ghost	none	 | psychokinetic energy blob | ghostly ectoplasm | ghostly ectoplasm	13	2	79	149	67	0			 | GRILL	0	0	0	0	0	0		
+2	175	true	The Outskirts of Cobb's Knob	sausage goblin	none	 | bone with a price tag on it | magical sausage casing	144	2	65	161	69	0			 | GRILL	0	0	0	0	0	0		
+2	175	true	The Castle in the Clouds in the Sky (Ground Floor)	Putting Off Is Off-Putting	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	175	true	The Castle in the Clouds in the Sky (Ground Floor)	Huzzah!	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	175	true	The Castle in the Clouds in the Sky (Ground Floor)	There's No Ability Like Possibility	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	175	true	The Castle in the Clouds in the Sky (Ground Floor)	Home on the Free Range	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	175	true	The Castle in the Clouds in the Sky (Ground Floor)	Huzzah!	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	175	false	The Castle in the Clouds in the Sky (Ground Floor)	Possibility Giant	none	 | plot hole | probability potion | green pixel	199	2	8	32	13	0			 | GRILL	0	0	0	0	0	0		
+2	176	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	176	false	The Castle in the Clouds in the Sky (Ground Floor)	Top of the Castle, Ma	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	177	false	The Castle in the Clouds in the Sky (Top Floor)	modern zmobie	none		99	2	2	25	5	0			 | GRILL	0	0	0	0	0	0		
+2	178	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	178	false	The Castle in the Clouds in the Sky (Top Floor)	Keep On Turnin' the Wheel in the Sky	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	179	false	The Castle in the Clouds in the Sky (Top Floor)	Copper Feel	none	 | steam-powered model rocketship	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	180	false	The Hole in the Sky	The Astronomer	none	 | star chart	11	2	14	40	13	0			 | GRILL	0	0	0	0	0	0		
+2	181	false	The Hole in the Sky	The Camel's Toe	none	 | star | star | line | red pixel | Gathered Meat-Clip	12	2	14	33	15	0			 | GRILL	0	0	0	0	0	0		
+2	182	false	The Hole in the Sky	The Honey Pot	none	 | line | star	13	2	15	33	14	0			 | GRILL	0	0	0	0	0	0		
+2	183	false	The Hole in the Sky	The Snake With Like Ten Heads	none	 | The Eye of the Stars	15	2	23	36	10	0			 | GRILL	0	0	0	0	0	0		
+2	184	false	The Copperhead Club	waiter dressed as a ninja	none		42	2	12	32	13	0			 | GRILL	0	0	0	0	0	0		
+2	185	false	The Copperhead Club	Shane Collins the bartender	none	 | unrequired jacket | electric copperhead potion | white pixel	163	2	9	36	13	0			 | GRILL	0	0	0	0	0	0		
+2	186	false	The Copperhead Club	waiter dressed as a ninja	none	 | crappy waiter disguise | breadchucks | shuriken salad | white pixel	43	2	10	33	15	0			 | GRILL	0	0	0	0	0	0		
+2	187	false	The Copperhead Club	Shen Copperhead, World's Biggest Jerk	none	 | Copperhead Charm | giant discarded plastic fork	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	188	true	An Overgrown Shrine (Northwest)	dense liana	none		11	1	0	0	0	0				0	0	0	0	0	0		
+2	188	true	An Overgrown Shrine (Northwest)	dense liana	none		11	1	0	0	0	0				0	0	0	0	0	0		
+2	188	true	An Overgrown Shrine (Northwest)	dense liana	none		10	1	0	0	0	0				0	0	0	0	0	0		
+2	188	false	An Overgrown Shrine (Northwest)	Earthbound and Down	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	189	false	The Hidden Apartment Building	pygmy shaman	none	 | smirking shrunken head	197	3	17	41	12	0	 | Once-Cursed (10)		 | OFFER LATTE TO OPPONENT | GRILL	0	0	0	1	0	0		
+2	190	false	The Hidden Apartment Building	pygmy witch accountant	none	 | McClusky file (page 1)	223	2	12	45	20	0			 | GRILL	0	0	0	0	0	0		
+2	191	true	The Hidden Apartment Building	pygmy witch lawyer	none		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	191	false	The Hidden Apartment Building	pygmy shaman	none		175	2	23	37	10	0	 | Twice-Cursed (10)		 | GRILL	0	0	0	0	0	0		
+2	192	false	The Hidden Apartment Building	pygmy janitor	none	 | book of matches	117	2	15	38	14	0			 | GRILL	0	0	0	0	0	0		
+2	193	false	The Hidden Apartment Building	pygmy witch accountant	none	 | adder | short calculator | pygmy adder oil | McClusky file (page 2)	219	2	15	34	22	0			 | GRILL	0	0	0	0	0	0		
+2	194	false	The Hidden Apartment Building	pygmy shaman	none	 | colorful toad | Gathered Meat-Clip	173	2	10	38	19	0	 | Thrice-Cursed (10)		 | GRILL	0	0	0	0	0	0		
+2	195	true	The Hidden Apartment Building	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	195	TRUE	CONSUME: eat 1 sublime stew	N/A	none		0	-1	0	0	0	43				0	0	0	0	0	0		
+2	195	TRUE	CONSUME: drink 3 Chunky Mary	N/A	none		0	-1	0	0	0	40				0	0	0	0	0	0		
+2	195	false	The Hidden Apartment Building	pygmy shaman	none	 | crude voodoo doll	163	2	14	41	13	0	 | Thrice-Cursed (10)		 | GRILL	0	0	0	0	0	0		
+2	196	false	The Hidden Apartment Building	ancient protector spirit	none	 | moss-covered stone sphere | psychokinetic energy blob	14	2	12	45	15	0			 | GRILL	0	0	0	0	0	0		
+2	197	true	An Overgrown Shrine (Southeast)	dense liana	none		10	1	0	0	0	0				0	0	0	0	0	0		
+2	197	true	An Overgrown Shrine (Southeast)	dense liana	none		15	1	0	0	0	0				0	0	0	0	0	0		
+2	197	true	An Overgrown Shrine (Southeast)	dense liana	none		13	1	0	0	0	0				0	0	0	0	0	0		
+2	197	false	An Overgrown Shrine (Southeast)	Fire When Ready	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	198	true	An Overgrown Shrine (Southwest)	dense liana	none		11	1	0	0	0	0				0	0	0	0	0	0		
+2	198	true	An Overgrown Shrine (Southwest)	dense liana	none		15	1	0	0	0	0				0	0	0	0	0	0		
+2	198	true	An Overgrown Shrine (Southwest)	dense liana	none		14	1	0	0	0	0				0	0	0	0	0	0		
+2	198	false	An Overgrown Shrine (Southwest)	Water You Dune	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	199	true	An Overgrown Shrine (Northeast)	dense liana	none		15	1	5	0	0	0				0	0	0	0	0	0		
+2	199	true	An Overgrown Shrine (Northeast)	dense liana	none		12	1	5	0	0	0				0	0	0	0	0	0		
+2	199	true	An Overgrown Shrine (Northeast)	dense liana	none		11	1	0	0	0	0				0	0	0	0	0	0		
+2	199	false	An Overgrown Shrine (Northeast)	Air Apparent	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	200	true	The Hidden Office Building	pygmy janitor	none		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	200	true	The Hidden Office Building	pygmy headhunter	none		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	200	false	The Hidden Office Building	pygmy witch accountant	none	 | bone abacus | adder | McClusky file (page 3)	251	2	14	37	10	0			 | GRILL	0	0	0	0	0	0		
+2	201	false	The Hidden Office Building	pygmy witch accountant	none	 | almost-dead walkie-talkie | bone abacus | McClusky file (page 4)	251	2	12	38	10	0			 | GRILL	0	0	0	0	0	0		
+2	202	false	The Hidden Office Building	pygmy witch accountant	none	 | adder | pygmy adder oil | McClusky file (page 5)	217	2	9	43	17	0			 | GRILL	0	0	0	0	0	0		
+2	203	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	203	false	The Hidden Office Building	Working Holiday	none	 | boring binder clip	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	204	false	The Hidden Office Building	ancient protector spirit	none	 | crackling stone sphere | psychokinetic energy blob	13	2	4	44	22	0			 | GRILL	0	0	0	0	0	0		
+2	205	true	The Shore, Inc. Travel Agency	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	205	false	The Arid, Extra-Dry Desert	giant giant giant centipede	none	 | centipede eggs	186	2	15	26	13	0	 | Ultrahydrated (10)		 | GRILL	0	0	0	0	0	0		
+2	206	false	The Arid, Extra-Dry Desert	swarm of fire ants	none		68	2	7	38	12	0			 | GRILL	0	0	0	0	0	0		
+2	207	false	The Arid, Extra-Dry Desert	modern zmobie	none		97	2	8	18	3	0			 | GRILL	0	0	0	0	0	0		
+2	208	false	The Arid, Extra-Dry Desert	rock scorpion	none		310	2	12	29	14	0			 | GRILL	0	0	0	0	0	0		
+2	209	false	The Arid, Extra-Dry Desert	cactuary	none	 | handful of sand | Gathered Meat-Clip	145	2	7	33	13	0			 | GRILL	0	0	0	0	0	0		
+2	210	true	The Arid, Extra-Dry Desert	A Sietch in Time	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	210	true	The Outskirts of Cobb's Knob	sausage goblin	none	 | magical sausage casing	121	2	63	162	62	0			 | GRILL	0	0	0	0	0	0		
+2	210	false	The Arid, Extra-Dry Desert	cactuary	none	 | cactus fruit	151	2	10	30	12	0			 | GRILL	0	0	0	0	0	0		
+2	211	true	The Arid, Extra-Dry Desert	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	211	true	The Arid, Extra-Dry Desert	plaque of locusts	none	 | honey-dipped locust | bronzed locust	50	2	10	26	14	0			 | CHEST X-RAY	0	0	1	0	0	0		
+2	211	true	The Arid, Extra-Dry Desert	giant giant giant centipede	none	 | centipede eggs | handful of sand	197	2	10	33	14	0			 | CHEST X-RAY	0	0	1	0	0	0		
+2	211	true	The Arid, Extra-Dry Desert	plaque of locusts	none	 | honey-dipped locust | worm-riding manual page	53	2	9	30	13	0			 | CHEST X-RAY	0	0	1	0	0	0		
+2	211	false	The Arid, Extra-Dry Desert	rock scorpion	none	 | scorpion whip | handful of sand	282	2	12	32	10	0	 | Ultrahydrated (3)		 | GRILL	0	0	0	0	0	0		
+2	212	false	The Arid, Extra-Dry Desert	swarm of fire ants	none		86	2	13	37	7	0			 | GRILL	0	0	0	0	0	0		
+2	213	TRUE	CONSUME: eat 1 consummate meatloaf	N/A	none		0	-1	0	0	0	8				0	0	0	0	0	0		
+2	213	TRUE	CONSUME: eat 1 consummate steak	N/A	none		0	-1	0	0	0	6				0	0	0	0	0	0		
+2	213	false	The Arid, Extra-Dry Desert	cactuary	none	 | cactus fruit | handful of sand | bit-o-cactus	172	2	10	27	14	0	 | Ultrahydrated (3)		 | GRILL	0	0	0	0	0	0		
+2	214	false	The Arid, Extra-Dry Desert	cactuary	none	 | bit-o-cactus | worm-riding manual page (3)	121	2	10	33	10	0	 | Ultrahydrated (3)		 | GRILL	0	0	0	0	0	0		
+2	215	false	The Arid, Extra-Dry Desert	plaque of locusts	none		50	2	7	30	14	0			 | GRILL	0	0	0	0	0	0		
+2	216	false	The Arid, Extra-Dry Desert	plaque of locusts	none		44	2	12	32	9	0			 | GRILL	0	0	0	0	0	0		
+2	217	false	The Arid, Extra-Dry Desert	cactuary	none	 | giant cactus quill | handful of sand | worm-riding manual page (2)	149	2	14	34	5	0			 | GRILL	0	0	0	0	0	0		
+2	218	false	The Arid, Extra-Dry Desert	rock scorpion	none		299	2	7	41	8	0			 | GRILL	0	0	0	0	0	0		
+2	219	false	The Arid, Extra-Dry Desert	giant giant giant centipede	none	 | handful of sand	235	2	12	26	2	0	 | Ultrahydrated (3)		 | GRILL	0	0	0	0	0	0		
+2	220	false	The Arid, Extra-Dry Desert	cactuary	none	 | worm-riding manual page (3) | Gathered Meat-Clip	154	2	12	21	4	0			 | GRILL	0	0	0	0	0	0		
+2	221	false	The Arid, Extra-Dry Desert	rock scorpion	none	 | worm-riding manual page (2)	291	2	7	19	12	0			 | GRILL	0	0	0	0	0	0		
+2	222	false	The Arid, Extra-Dry Desert	plaque of locusts	none	 | bronzed locust	46	2	8	20	9	0	 | Ultrahydrated (3)		 | GRILL	0	0	0	0	0	0		
+2	223	false	The Arid, Extra-Dry Desert	swarm of fire ants	none	 | ant agonist | handful of sand	81	2	11	17	11	0			 | GRILL	0	0	0	0	0	0		
+2	224	true	The Arid, Extra-Dry Desert	Playing Fetch*	none	 | tennis ball	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	224	false	The Arid, Extra-Dry Desert	giant giant giant centipede	none	 | worm-riding manual page (2)	202	2	6	24	10	0			 | GRILL	0	0	0	0	0	0		
+2	225	false	The Arid, Extra-Dry Desert	plaque of locusts	none	 | worm-riding manual page (2)	47	2	12	21	3	0	 | Ultrahydrated (3)		 | GRILL	0	0	0	0	0	0		
+2	226	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | Oiled, Slick (50)			0	0	0	0	0	0		
+2	226	false	The Battlefield (Frat Uniform)	I Am The Brotherhood	none	 | perforated battle paddle | PADL Phone	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	227	false	The Battlefield (Frat Uniform)	Glass of Orange Juice	none	 | green clay bead | orange peel hat	492	2	14	36	16	0			 | GRILL	0	0	0	0	0	0		
+2	228	true	The Battlefield (Frat Uniform)	War Hippy Elite Fire Spinner	none	 | fire poi | bullet-proof corduroys | reinforced beaded headband | round purple sunglasses | Lockenstock&trade; sandals | communications windchimes	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+2	228	false	Frat House	The Man	none	 | really dense meat stack | Red Balloon of Valor	11	5	85	128	68	0			 | GRILL | GRILL | GRILL | GRILL	0	0	0	0	0	0		
+2	229	false	A Mob of Zeppelin Protesters	Bench Warrant	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	230	TRUE	PILLKEEPER: Sunday - Surprise Me	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	230	false	A Mob of Zeppelin Protesters	Bench Warrant	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	231	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	231	false	A Mob of Zeppelin Protesters	Bench Warrant	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	232	true	A Mob of Zeppelin Protesters	Too Much Humanity	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	232	false	A Mob of Zeppelin Protesters	Bench Warrant	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	233	true	A Mob of Zeppelin Protesters	Not So Much With The Humanity	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	233	false	A Mob of Zeppelin Protesters	Blue Oyster cultist	none		130	3	14	24	7	0			 | GRILL | GRILL	0	0	0	0	0	0		
+2	234	false	A Mob of Zeppelin Protesters	Jefferson pilot	none	 | Jefferson wings	154	2	15	20	9	0			 | GRILL	0	0	0	0	0	0		
+2	235	false	A Mob of Zeppelin Protesters	eagle	none		15	2	5	25	16	0			 | GRILL	0	0	0	0	0	0		
+2	236	false	A Mob of Zeppelin Protesters	lynyrd skinner	none	 | Gathered Meat-Clip	172	2	9	36	6	0			 | GRILL	0	0	0	0	0	0		
+2	237	false	A Mob of Zeppelin Protesters	fleet woodsman	none	 | flask of rainwater	100	2	6	32	10	0			 | GRILL	0	0	0	0	0	0		
+2	238	true	The Red Zeppelin	Zeppelintro	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	238	true	The Red Zeppelin	the man with the red buttons	none		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	238	true	The Red Zeppelin	red skeleton	none		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	238	true	The Red Zeppelin	Red Snapper	none		0	0	0	0	0	0			 | USE THE FORCE | SABER BANISH	0	1	0	0	0	0		
+2	238	false	The Red Zeppelin	red butler	none		115	2	13	24	11	0			 | GRILL	0	0	0	0	0	0		
+2	239	false	The Red Zeppelin	red butler	none	 | red pixel	125	2	12	27	8	0			 | GRILL	0	0	0	0	0	0		
+2	240	false	The Red Zeppelin	Red Herring	none	 | red box | green pixel	188	2	9	27	12	0			 | GRILL	0	0	0	0	0	0		
+2	241	false	The Red Zeppelin	red butler	none	 | red box	122	2	13	27	8	0			 | GRILL	0	0	0	0	0	0		
+2	242	true	The Red Zeppelin	Red Herring	none		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	242	false	The Red Zeppelin	red butler	none	 | red box | glark cable	119	2	17	24	6	0			 | GRILL	0	0	0	0	0	0		
+2	243	true	The Red Zeppelin	red butler	none	 | white pixel	121	2	12	26	17	0		|glark cable		0	0	1	0	0	0		
+2	243	true	The Red Zeppelin	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+2	243	false	The Red Zeppelin	red butler	none		100	2	12	28	9	0			 | GRILL	0	0	0	0	0	0		
+2	244	false	The Red Zeppelin	Ron &quot;The Weasel&quot; Copperhead	none	 | Copperhead Charm (rampant)	346	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+2	245	true	Inside the Palindome	Taco Cat	none		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	245	true	Inside the Palindome	Evil Olive	none		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	245	false	Inside the Palindome	Do Geese See God?	none	 | photograph of God	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	246	false	Inside the Palindome	Rod Nevada, Vendor	none	 | photograph of a red nugget	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	247	false	Inside the Palindome	modern zmobie	none		85	2	5	9	5	0			 | GRILL	0	0	0	0	0	0		
+2	248	true	Inside the Palindome	Flock of Stab-bats	none		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	248	false	Inside the Palindome	Racecar Bob	none	 | photograph of a dog | stunt nuts | ketchup hound	150	3	12	21	8	0		|disposable instant camera	 | GRILL	0	0	0	0	0	0		
+2	249	false	Inside the Palindome	Last Egg Gets Al	none	 | photograph of an ostrich egg	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	250	false	Inside the Palindome	Bob Racecar	none	 | mesh cap | stunt nuts | Gathered Meat-Clip	172	2	12	20	7	0			 | GRILL	0	0	0	0	0	0		
+2	251	false	Inside the Palindome	a Drab Bard!	none		114	3	7	22	10	0			 | CHEAT CODE: REPLACE ENEMY | GRILL	0	0	0	0	0	0	 | Tan Gnat	
+2	252	false	Inside the Palindome	Drab Bard	none	 | olive	109	2	17	18	8	0			 | GRILL	0	0	0	0	0	0		
+2	253	true	Inside the Palindome	Racecar Bob	none	 | stunt nuts | ketchup hound | &quot;I Love Me, Vol. I&quot;	165	2	9	24	10	0			 | GRILL	0	0	0	0	0	0		
+2	253	false	Dr. Awkward's Office	N/A	none	 | &quot;2 Love Me, Vol. 2&quot;	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	254	true	Cook 1 wet stew + 1 stunt nuts	N/A	none	 | wet stunt nut stew	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	254	true	Dr. Awkward's Office	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	254	false	Dr. Awkward's Office	Dr. Awkward	none	 | Staff of Fats | Drowsy Sword	11	2	31	69	33	0			 | GRILL	0	0	0	0	0	0		
+2	255	false	The Haunted Ballroom	Having a Ball in the Ballroom	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	256	true	The Haunted Ballroom	Curtains	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	256	false	The Haunted Ballroom	zombie waltzers	none	 | white pixel	86	2	3	11	6	0			 | GRILL	0	0	0	0	0	0		
+2	257	false	The Haunted Ballroom	floating platter of hors d'oeuvres	none	 | dehydrated caviar | flute of flat champagne	11	2	6	13	2	0			 | GRILL	0	0	0	0	0	0		
+2	258	false	The Haunted Ballroom	tapdancing skeleton	none		13	2	4	14	4	0			 | GRILL	0	0	0	0	0	0		
+2	259	false	The Haunted Ballroom	zombie waltzers	none	 | dance card	78	2	8	9	3	0			 | GRILL	0	0	0	0	0	0		
+2	260	false	The Haunted Ballroom	Curtains	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	261	TRUE	CONSUME: drink 1 mediocre lager	N/A	none		0	-1	0	0	0	2				0	0	0	0	0	0		
+2	261	false	The Haunted Ballroom	We'll All Be Flat	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	262	false	The Defiled Alcove	conjoined zmombie	none	 | cranberries | cranberries	386	2	16	28	15	0			 | GRILL	0	0	0	0	0	0		
+2	263	false	The Defiled Nook	a spiny skelelton!	none	 | skeleton bone | skelelton spine	12	3	3	10	5	0			 | CHEAT CODE: REPLACE ENEMY | GRILL	0	0	0	0	0	0	 | party skelteon	
+2	264	true	Deck of Every Card	X - The Wheel of Fortune	none		0	-1	0	0	0	0	 | Fortune of the Wheel (20) | items.enh (100)			0	0	0	0	0	0		
+2	264	true	The Defiled Nook	sausage goblin	none		0	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+2	264	false	The Defiled Nook	spiny skelelton	none	 | skeleton bone | smart skull | spiked femur | evil eye | skelelton spine | succulent marrow | Gathered Meat-Clip	13	2	6	15	1	0			 | GRILL	0	0	0	0	0	0		
+2	265	true	The Defiled Nook	Skull, Skull, Skull	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	265	false	The Defiled Nook	spiny skelelton	none	 | skeleton bone | smart skull | spiked femur | evil eye | skelelton spine | succulent marrow	14	2	6	10	5	0			 | GRILL	0	0	0	0	0	0		
+2	266	false	The Defiled Nook	toothy sklelton	none		0	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+2	267	false	The Defiled Nook	party skelteon	none	 | skeleton bone | monkey wrench | loose teeth	10	2	8	11	3	0			 | GRILL	0	0	0	0	0	0		
+2	268	true	The Defiled Nook	Skull, Skull, Skull	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	268	true	The Defiled Nook	Skull, Skull, Skull	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	268	true	The Defiled Nook	Seeing-Eyes Dog	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	268	false	The Defiled Nook	giant skeelton	none	 | skeleton bone | skeleton bone | skeleton bone	11	2	17	31	15	0			 | GRILL	0	0	0	0	0	0		
+2	269	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	270	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	271	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	272	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	273	false	The Hidden Bowling Alley	ancient protector spirit	none	 | scorched stone sphere | psychokinetic energy blob	0	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+2	274	true	An Overgrown Shrine (Southeast)	Fire When Ready	none	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	274	true	An Overgrown Shrine (Northwest)	Earthbound and Down	none	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	274	true	An Overgrown Shrine (Northeast)	Air Apparent	none	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	274	false	The Hidden Hospital	pygmy witch surgeon	none		0	3	4	0	0	0			 | OFFER LATTE TO OPPONENT | GRILL	0	0	0	1	0	0		
+2	275	true	The Hidden Hospital	pygmy orderlies	none		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	275	false	The Hidden Hospital	a pygmy witch surgeon!	none	 | head mirror	268	3	13	24	12	0			 | CHEAT CODE: REPLACE ENEMY | GRILL	0	0	0	0	0	0	 | pygmy witch nurse	
+2	276	true	The Hidden Hospital	pygmy janitor	none		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	276	false	The Hidden Hospital	pygmy witch surgeon	none	 | surgical apron	236	2	7	31	14	0			 | GRILL	0	0	0	0	0	0		
+2	277	false	The Hidden Hospital	pygmy witch surgeon	none		0	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+2	278	false	The Hidden Hospital	ancient protector spirit	none	 | dripping stone sphere | psychokinetic energy blob	14	2	10	26	11	0			 | GRILL	0	0	0	0	0	0		
+2	279	true	An Overgrown Shrine (Southwest)	Water You Dune	none	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	279	true	A Massive Ziggurat	dense liana	none	 | blue pixel	15	1	5	0	0	0				0	0	0	0	0	0		
+2	279	true	A Massive Ziggurat	dense liana	none		13	1	0	0	0	0				0	0	0	0	0	0		
+2	279	true	A Massive Ziggurat	dense liana	none		10	1	0	0	0	0				0	0	0	0	0	0		
+2	279	false	A Massive Ziggurat	Protector Spectre	none	 | psychokinetic energy blob | ancient amulet | spectre scepter | blue pixel | Gathered Meat-Clip	14	2	29	69	37	0			 | GRILL	0	0	0	0	0	0		
+2	280	false	The Outskirts of Cobb's Knob	Sub-Assistant Knob Mad Scientist	none	 | Knob Goblin pants | strongness elixir | Knob Goblin firecracker	23	2	0	3	2	0			 | GRILL	0	0	0	0	0	0		
+2	281	false	The Outskirts of Cobb's Knob	A Funny Thing Happened...	none		75	-1	0	0	0	0				0	0	0	0	0	0		
+2	282	false	The Outskirts of Cobb's Knob	Knob Goblin Barbecue Team	none		0	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+2	283	false	The Outskirts of Cobb's Knob	Code Red	none	 | Knob Goblin encryption key	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	284	true	Cobb's Knob Harem	a Knob Goblin Harem Girl!	none	 | Knob Goblin harem pants | Knob Goblin harem veil | disease | finger cymbals	0	0	0	0	0	0			 | CHEAT CODE: REPLACE ENEMY | CHEAT CODE: REPLACE ENEMY | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0	 | Knob Goblin Harem Guard | a Knob Goblin Madam!	
+2	284	false	Cobb's Knob Harem	Plucked	none		0	-1	0	0	0	0	 | Knob Goblin Perfume (1)			0	0	0	0	0	0		
+2	285	false	Throne Room	The Knob Goblin King	none	 | dense meat stack (2) | Crown of the Goblin King | Cobb's Knob lab key	13	2	23	35	22	0			 | GRILL	0	0	0	0	0	0		
+2	286	true	The Haunted Wine Cellar	mad wino	none		0	0	0	0	0	0			 | USE THE FORCE | SABER BANISH	0	1	0	0	0	0		
+2	286	false	The Haunted Wine Cellar	skeletal sommelier	none		163	2	11	28	16	0			 | GRILL	0	0	0	0	0	0		
+2	287	false	The Haunted Wine Cellar	possessed wine rack	none	 | actual tapas | bottle of Chateau de Vinegar	11	2	8	37	10	0			 | GRILL	0	0	0	0	0	0		
+2	288	false	The Haunted Laundry Room	plaid ghost	none	 | psychokinetic energy blob	14	2	10	26	10	0			 | GRILL	0	0	0	0	0	0		
+2	289	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	none	 | bottle of laundry sherry	78	2	13	25	10	0			 | GRILL	0	0	0	0	0	0		
+2	290	false	The Haunted Laundry Room	possessed laundry press	none	 | extra-flat panini	14	2	10	31	11	0			 | GRILL	0	0	0	0	0	0		
+2	291	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza	none	 | blasting soda	76	2	8	32	9	0			 | GRILL	0	0	0	0	0	0		
+2	292	TRUE	CONSUME: drink 1 adequate rum	N/A	none		0	-1	0	0	0	5				0	0	0	0	0	0		
+2	292	false	Cook 1 bottle of Chateau de Vinegar + 1 blasting soda	N/A	none	 | unstable fulminate	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	293	true	Boxing Daycare	Have a Boxing Daydream	none	 | bauxite bow-tie	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	293	false	The Haunted Boiler Room	steam elemental	none	 | Steam Card: Space Trip (#2)	0	14	20	49	30	0			 | GRILL | BAKE | BOIL | CURDLE | CURDLE | BLEND | FREEZE | CURDLE | CURDLE | CURDLE | CURDLE | CURDLE	0	0	0	0	0	0		
+3	294	true	The Haunted Boiler Room	coaltergeist	none		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+3	294	true	The Haunted Boiler Room	monstrous boiler	none	 | wine bomb | chunk of hot iron | Gathered Meat-Clip	0	0	19	40	26	0		|exploding cigar|exploding cigar	 | GRILL	0	0	0	0	0	0		
+3	294	false	The Haunted Boiler Room	monstrous boiler	none		0	4	15	36	36	0		|exploding cigar	 | BLEND | FREEZE	0	0	0	0	0	0		
+3	296	false	Summoning Chamber	Lord Spookyraven	none	 | Eye of Ed | Lord Spookyraven's ear trumpet | red pixel	0	2	40	80	63	0			 | GRILL	0	0	0	0	0	0		
+3	297	true	Oil Peak	Pushin' Down on Me, Pushin' Down on You	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	297	false	Oil Peak	oil cartel	none		0	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+3	298	false	Oil Peak	oil cartel	none	 | bubblin' crude | bubblin' crude | bubblin' crude	0	2	14	47	17	0			 | GRILL	0	0	0	0	0	0		
+3	299	false	Oil Peak	oil cartel	none	 | bubblin' crude | bubblin' crude	0	2	11	48	20	0			 | GRILL	0	0	0	0	0	0		
+3	300	false	Oil Peak	oil cartel	none		0	2	0	0	0	0			 | GRILL	0	0	0	0	0	0		
+3	301	false	Oil Peak	oil cartel	none	 | bubblin' crude | bubblin' crude	0	2	12	43	24	0			 | GRILL	0	0	0	0	0	0		
+3	302	false	Oil Peak	Unimpressed with Pressure	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	303	false	rusty hedge trimmers	Go Check It Out!	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	304	false	rusty hedge trimmers	He Is the Arm, and He Sounds Like This	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	305	true	rusty hedge trimmers	Lost in the Great Overlook Lodge	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	305	false	rusty hedge trimmers	Room 237	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	306	true	rusty hedge trimmers	Now It's Dark	none	 | gold wedding ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	306	false	A-Boo Peak	The "Journalist"	none	 | A-Boo clue | A-Boo clue	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	307	false	A-Boo Peak	The "Journalist"	none	 | A-Boo clue | A-Boo clue	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	308	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | Does It Have a Skull In There?? (50)			0	0	0	0	0	0		
+3	308	true	Combing the Beach	N/A	none		0	-1	0	0	0	0	 | Cold as Nice (50)			0	0	0	0	0	0		
+3	308	true	Cook 41 wad of dough + 41 soda water	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	308	true	A-Boo Peak	Faction Traction = Inaction	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	308	false	A-Boo Peak	The Horror...	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	309	false	A-Boo Peak	The Horror...	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	310	false	A-Boo Peak	The Horror...	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	311	false	A-Boo Peak	The Horror...	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	312	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	312	false	A-Boo Peak	Come On Ghosty, Light My Pyre	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	313	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	313	false	The Defiled Cranny	giant swarm of ghuol whelps	none		0	4	10	42	30	0			 | GRILL | GRILL | GRILL	0	0	0	0	0	0		
+3	314	false	The Defiled Cranny	giant swarm of ghuol whelps	none		0	4	13	39	35	0			 | GRILL | GRILL | GRILL	0	0	0	0	0	0		
+3	315	false	The Defiled Cranny	gaunt ghuol	none	 | ghuol egg	29	3	10	44	30	0			 | GRILL | BAKE	0	0	0	0	0	0		
+3	316	false	The Defiled Cranny	huge ghuol	none	 | hamburger | ghuol egg | ghuol ears | white pixel | Gathered Meat-Clip	358	4	20	48	29	0			 | BAKE | BAKE | CURDLE	0	0	0	0	0	0		
+3	317	false	Haert of the Cyrpt	The Bonerdagon	none	 | skull of the Bonerdagon	0	4	0	0	0	0			 | GULP LATTE | GRILL | GRILL	0	0	0	0	0	0		
+3	318	true	The Upper Chamber	sausage goblin	none	 | magical sausage casing | blue pixel	79	2	44	57	59	0			 | GRILL	0	0	0	0	0	0		
+3	318	false	The Upper Chamber	tomb bat	none	 | leathery bat skin	62	2	19	42	24	0			 | GRILL	0	0	0	0	0	0		
+3	319	false	The Upper Chamber	Iiti Kitty	none	 | ancient Magi-Wipes | ancient vinyl coin purse	0	2	21	36	27	0			 | GRILL	0	0	0	0	0	0		
+3	320	false	The Upper Chamber	A Wheel -- How Fortunate!	none	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	321	false	The Upper Chamber	A Wheel -- How Fortunate!	none	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	322	false	The Upper Chamber	Down Dooby-Doo Down Down	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	323	true	The Middle Chamber	sausage goblin	none	 | magical sausage casing | red pixel	91	2	37	68	39	0			 | GRILL	0	0	0	0	0	0		
+3	323	false	The Middle Chamber	a tomb rat king!	none	 | tomb ratchet | tomb ratchet | leathery rat skin | leathery rat skin | leathery rat skin	238	4	23	51	39	0		|tangle of rat tails	 | OTOSCOPE | GRILL	0	0	0	0	0	0	 | tomb rat	
+3	324	true	The Middle Chamber	tomb servant	none		0	2	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+3	324	true	The Middle Chamber	sausage goblin	none	 | magical sausage casing	127	2	25	60	42	0			 | GRILL	0	0	0	0	0	0		
+3	324	true	The Middle Chamber	tomb asp	none		0	2	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+3	324	false	The Middle Chamber	Further Down Dooby-Doo Down Down	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	325	true	The Middle Chamber	sausage goblin	none	 | magical sausage casing | green pixel	118	2	31	50	53	0			 | GRILL	0	0	0	0	0	0		
+3	325	false	The Middle Chamber	a tomb rat king!	none	 | tomb ratchet | tomb ratchet | tomb ratchet | leathery rat skin | leathery rat skin | leathery rat skin | unidentified jerky | unidentified jerky | unidentified jerky	270	5	20	54	38	0	 | Bat-Adjacent Form (1)	|tangle of rat tails	 | OTOSCOPE | BECOME A BAT | GRILL	0	0	0	0	0	0	 | tomb rat	
+3	326	false	The Middle Chamber	a tomb rat king!	none	 | tomb ratchet | tomb ratchet | tomb ratchet | leathery rat skin | leathery rat skin | leathery rat skin | unidentified jerky | unidentified jerky	266	4	28	57	23	0		|tangle of rat tails	 | OTOSCOPE | GRILL	0	0	0	0	0	0	 | tomb rat	
+3	327	false	The Middle Chamber	tomb rat	none	 | tomb ratchet | leathery rat skin | unidentified jerky | green pixel	145	2	13	33	23	0			 | GRILL	0	0	0	0	0	0		
+3	328	false	The Middle Chamber	Under Control	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	329	false	The Lower Chambers	N/A	none	 | ancient bronze token	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	330	false	The Lower Chambers	N/A	none	 | ancient bomb	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	331	false	The Lower Chambers	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	332	false	The Lower Chambers	Ed the Undying	none		0	2	23	58	23	0			 | GRILL	0	0	0	0	0	0		
+3	333	false	The Lower Chambers	Ed the Undying	none		0	2	17	53	38	0			 | GRILL	0	0	0	0	0	0		
+3	334	false	The Lower Chambers	Ed the Undying	none		0	2	26	49	30	0			 | GRILL	0	0	0	0	0	0		
+3	335	false	The Lower Chambers	Ed the Undying	none	 | Gathered Meat-Clip	0	2	25	56	30	0			 | GRILL	0	0	0	0	0	0		
+3	336	false	The Lower Chambers	Ed the Undying	none	 | red pixel	0	2	25	42	45	0			 | GRILL	0	0	0	0	0	0		
+3	337	false	The Lower Chambers	Ed the Undying	none		0	2	19	59	26	0			 | GRILL	0	0	0	0	0	0		
+3	338	false	The Lower Chambers	Ed the Undying	none	 | Holy MacGuffin | handful of confetti	0	2	18	48	42	0			 | GRILL	0	0	0	0	0	0		
+3	339	false	Spookiest Adventurer Contest	Plague Chef	none	 | plague pie	0	2	17	31	23	0			 | GRILL	0	0	0	0	0	0		
+3	340	false	Spookiest Adventurer Contest	Plague Chef	none	 | plague pie	0	2	15	43	26	0			 | GRILL	0	0	0	0	0	0		
+3	341	false	Spookiest Adventurer Contest	Batburglar	none	 | batarang	0	2	14	37	25	0			 | GRILL	0	0	0	0	0	0		
+3	342	false	Spookiest Adventurer Contest	Batburglar	none	 | batarang	0	2	11	33	33	0			 | GRILL	0	0	0	0	0	0		
+3	343	false	Spookiest Adventurer Contest	Plague Chef	none	 | plague pie	0	2	18	41	26	0			 | GRILL	0	0	0	0	0	0		
+3	344	false	Spookiest Adventurer Contest	Batburglar	none	 | batarang	0	2	21	32	27	0			 | GRILL	0	0	0	0	0	0		
+3	345	false	Spookiest Adventurer Contest	Plague Chef	none	 | plague pie	0	2	13	53	26	0			 | GRILL	0	0	0	0	0	0		
+3	346	false	Spookiest Adventurer Contest	Arthur Frankenstein	none	 | spare neck bolts | Gathered Meat-Clip	0	8	31	58	24	0			 | BAKE | CURDLE | CURDLE | CURDLE | CURDLE | STATIC SHOCK | GRILL	0	0	0	0	0	0		
+3	347	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	347	true	The Tunnel of L.O.V.E.	LOV Enforcer	none		0	8	36	79	35	0			 | BAKE | BOIL | CURDLE | CURDLE | BAKE | STATIC SHOCK | GRILL	0	0	0	0	0	0		
+3	347	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	347	true	The Tunnel of L.O.V.E.	LOV Engineer	none	 | LOV Earrings	0	13	30	74	46	0			 | GRILL | BAKE | BAKE | BOIL | STATIC SHOCK | GRILL | GRILL | GRILL | GRILL | GRILL | GRILL | GRILL	0	0	0	0	0	0		
+3	347	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	347	true	The Tunnel of L.O.V.E.	LOV Equivocator	none		0	4	31	60	60	0	 | Wandering Eye Surgery (50)	|electronics kit|exploding cigar	 | GRILL	0	0	0	0	0	0		
+3	347	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	none	 | LOV Enamorang	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	347	false	Smoothest Adventurer Contest	Smooth Criminal	none	 | one glove	0	2	17	32	26	0			 | GRILL	0	0	0	0	0	0		
+3	348	false	Smoothest Adventurer Contest	Savage Beatnik	none	 | jazzy cigarette holder	0	2	20	40	35	0			 | GRILL	0	0	0	0	0	0		
+3	349	false	Smoothest Adventurer Contest	Savage Beatnik	none	 | jazzy cigarette holder | green pixel	0	2	19	51	27	0			 | GRILL	0	0	0	0	0	0		
+3	350	false	Smoothest Adventurer Contest	Savage Beatnik	none	 | jazzy cigarette holder	0	2	21	48	35	0			 | GRILL	0	0	0	0	0	0		
+3	351	false	Smoothest Adventurer Contest	Smooth Criminal	none	 | one glove | green pixel	0	2	15	42	24	0			 | GRILL	0	0	0	0	0	0		
+3	352	false	Smoothest Adventurer Contest	Seannery the Conman	none	 | leather glove	0	2	18	42	21	0			 | GRILL	0	0	0	0	0	0		
+3	353	false	Fastest Adventurer Contest	Cheetahman	none		0	2	20	37	23	0			 | GRILL	0	0	0	0	0	0		
+3	354	false	Fastest Adventurer Contest	Kung-Fu Hustler	none	 | hustler shades | white pixel	0	2	16	39	23	0			 | GRILL	0	0	0	0	0	0		
+3	355	false	Fastest Adventurer Contest	Cheetahman	none	 | red pixel	0	2	13	47	37	0			 | GRILL	0	0	0	0	0	0		
+3	356	false	Fastest Adventurer Contest	Kung-Fu Hustler	none	 | hustler shades	0	2	14	35	27	0			 | GRILL	0	0	0	0	0	0		
+3	357	false	Fastest Adventurer Contest	Kung-Fu Hustler	none	 | hustler shades | Gathered Meat-Clip	0	2	15	41	26	0			 | GRILL	0	0	0	0	0	0		
+3	358	false	Fastest Adventurer Contest	Kung-Fu Hustler	none	 | hustler shades	0	2	17	40	20	0			 | GRILL	0	0	0	0	0	0		
+3	359	false	Fastest Adventurer Contest	Kung-Fu Hustler	none	 | hustler shades	0	2	16	42	20	0			 | GRILL	0	0	0	0	0	0		
+3	360	false	Fastest Adventurer Contest	The Tasmanian Dervish	none		0	2	14	65	41	0			 | GRILL	0	0	0	0	0	0		
+3	361	false	The Hedge Maze	'Allo	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	362	false	The Hedge Maze	Pooling Your Resources	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	363	false	The Hedge Maze	Of Mouseholes and Manholes	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	364	false	The Hedge Maze	Mazel Tov!	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	365	true	Tower Door	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	365	false	The Hole in the Sky	The Camel's Toe	none	 | star | star | line	0	2	11	35	20	0			 | GRILL	0	0	0	0	0	0		
+3	366	true	The Hole in the Sky	Wooof! Wooooooof!	none		0	-1	0	0	0	0	 | Adventurer's Best Friendship (30)			0	0	0	0	0	0		
+3	366	false	The Hole in the Sky	The Astronomer	none	 | star chart	0	2	15	37	20	0			 | GRILL	0	0	0	0	0	0		
+3	367	false	The Hole in the Sky	The Astronomer	none	 | star chart	0	2	10	39	18	0			 | GRILL	0	0	0	0	0	0		
+3	368	false	The Hole in the Sky	The Flange	none	 | line | line	0	2	9	40	14	0			 | GRILL	0	0	0	0	0	0		
+3	369	false	The Hole in the Sky	The Muff	none	 | line	0	2	22	25	13	0			 | GRILL	0	0	0	0	0	0		
+3	370	false	The Hole in the Sky	The Honey Pot	none	 | star | star	0	2	10	31	23	0			 | GRILL	0	0	0	0	0	0		
+3	371	false	The Hole in the Sky	The Bush	none	 | star | star	0	2	6	37	21	0			 | GRILL	0	0	0	0	0	0		
+3	372	false	The Hole in the Sky	The Box	none	 | line | line | Gathered Meat-Clip	0	2	11	33	16	0			 | GRILL	0	0	0	0	0	0		
+3	373	true	Tower Door	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	373	false	8-Bit Realm	Koopa Troopa	none	 | green pixel | white pixel | black pixel	0	2	0	18	4	0			 | GRILL	0	0	0	0	0	0		
+3	374	false	8-Bit Realm	Buzzy Beetle	none	 | red pixel | white pixel | black pixel	0	2	1	17	2	0			 | GRILL	0	0	0	0	0	0		
+3	375	false	8-Bit Realm	Tektite	none	 | blue pixel | white pixel | black pixel	0	2	3	14	4	0			 | GRILL	0	0	0	0	0	0		
+3	376	false	8-Bit Realm	Bullet Bill	none	 | black pixel | black pixel | black pixel | green pixel	0	2	4	15	4	0			 | GRILL	0	0	0	0	0	0		
+3	377	false	8-Bit Realm	Zol	none	 | green pixel | green pixel | green pixel | red pixel	0	2	2	17	4	0			 | GRILL	0	0	0	0	0	0		
+3	378	true	8-Bit Realm	Dog Needs Food Badly	none	 | blue pixel | green pixel | blue pixel | blue pixel | blue pixel	0	-1	0	0	0	0				0	0	0	0	0	0		
+3	378	false	8-Bit Realm	Tektite	none	 | blue pixel | white pixel | black pixel	0	2	3	13	6	0			 | GRILL	0	0	0	0	0	0		
+3	379	true	Tower Door	N/A	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	379	false	The Naughty Sorceress' Tower	wall of skin	none		0	2	16	33	28	0		|beehive		0	0	0	0	0	0		
+3	380	false	The Naughty Sorceress' Tower	wall of meat	none	 | red pixel	678	3	15	30	37	0			 | GRILL | GRILL	0	0	0	0	0	0		
+3	381	false	The Naughty Sorceress' Tower	wall of meat	none	 | green pixel	636	3	11	37	32	0			 | GRILL | GRILL	0	0	0	0	0	0		
+3	382	false	The Naughty Sorceress' Tower	wall of bones	none		0	2	65	141	121	0		|electric boning knife		0	0	0	0	0	0		
+3	383	false	The Naughty Sorceress' Tower	The Mirror in the Tower has the View that is True	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+3	384	false	The Naughty Sorceress' Tower	Shadow Avatar of Jarlsberg	none	 | Gathered Meat-Clip	0	5	55	121	77	0		|filthy poultice|gauze garter|gauze garter|gauze garter		0	0	0	0	0	0		
+3	385	false	The Naughty Sorceress' Chamber	The Avatar of Boris	none	 | Thwaitgold firefly statuette | red pixel	0	3	11	43	33	0			 | GRILL | GRILL	0	0	0	0	0	0		
