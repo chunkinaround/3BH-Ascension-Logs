@@ -8,10 +8,10 @@ Current logs here are:
 ## 0-Skill 3/388 Softcore Nuclear Autumn
 https://docs.google.com/spreadsheets/d/1dC_YhuDF9ZD9Rjj0k-0MHiT9-aEROgK13VBh6cCtUlk/edit#gid=0
 
-## HCPicky 2/514 
+## 2/514 HC Picky
 https://docs.google.com/spreadsheets/d/1M6zMtfiFgwo-hsU29cYZxb4NfdP-R5iQSSziDbF1pW4/edit#gid=2045922560
 
-## 2/434 Zombie Slayer
+## 2/434 SC Zombie Slayer
 https://docs.google.com/spreadsheets/d/1YYvShB6tbzGpIHV2K1S8b12gc60qnUqIZpqaZTpEnuI/edit#gid=1961798250
 
 ## 4/420 HCO
