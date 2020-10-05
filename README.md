@@ -25,6 +25,9 @@ https://docs.google.com/spreadsheets/d/1_TKS1jIi4QI6UkP2n9wENDCrG7raXXFCCReNltJY
 I think a decent amount of autoscend in this one?
 https://docs.google.com/spreadsheets/d/1Um_F0UYZmO-MMt61TSiC_cvPqifhHDt5LfnNpCIO5r0/edit#gid=766021671
 
+## 2/459 1 skill AWOL Beanslinger
+Some commentary on this run. I accidentally took snake-whip as my snake oiler skill instead of anything else. Also, it took 23 cornucopias to get 24 stuffing fluffers to end the war, which is worse rng than ezandora's calculator lets on. I also got beaten up by every monster I duplicated which was a nice bit of humble pie.
+
 ## 3/425 Class Act 2 DB
 https://docs.google.com/spreadsheets/d/14aaCb9LIU2RLpJ7IuKCSqKXQS9axPc9o-VV2EL3yXXk/edit?usp=sharing
 
@@ -36,3 +39,9 @@ https://docs.google.com/spreadsheets/d/1vfEWrdd1IWu3vNbdCw9pX7Xe7rtM6MLMcoY2hjCC
 
 ## 3BH 3/536 HC KoLHS
 https://docs.google.com/spreadsheets/d/1oxmqhLbMa83JnpGLi9cYV5_24HagPSClFeDVPNbkcdI/edit#gid=25146526
+
+## 3/386 0 skill SC Jarlsberg
+In actuality this was a 5 day run, but I didnt play days 3 or 4 because I was at a wedding.
+
+## 4/684 Fully Skilled HC Boris
+I didnt actually play any turns day 1 because I ascended too close to rollover and also spent time hunting factoids day 4 in the tower.
