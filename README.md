@@ -45,3 +45,6 @@ In actuality this was a 5 day run, but I didnt play days 3 or 4 because I was at
 
 ## 30-Skill 4/684 HC Boris
 I didnt actually play any turns day 1 because I ascended too close to rollover and also spent time hunting factoids day 4 in the tower.
+
+## 2/298 SC Heavy Rains
+I actually tried to play this run a little tighter than previous and use more resources, I still left a lot on the table but it felt good to actually use all 
