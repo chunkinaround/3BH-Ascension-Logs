@@ -1,0 +1,606 @@
+day	turnSpent	free?	location	encounterName	familiar	items	meat	rounds	mus	mys	mox	advsGained	effectsGained	itemsUsed	skillsUsed	freeRun?	banish	freeKill	sniff	spit	copy	macroFrom	
+1	1	true	Boxing Daycare	Have a Boxing Daydream	none	 | glass of raw eggs	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Boxing Daycare	Enter the Boxing Daycare	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	The Tunnel of L.O.V.E.	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Enforcer	none	 | yellow pixel	0	5	17	33	17	0	 | Cartographically Charged (10)	|Time-Spinner	 | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Equipment Room	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Engineer	none	 | LOV Epaulettes | yellow pixel	0	5	12	34	14	0			 | MICROMETEORITE | PLY REALITY	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Emergency Room	none		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	LOV Equivocator	none	 | yellow pixel	0	5	10	44	20	0	 | Lovebotamy (50)		 | PLY REALITY | MICROMETEORITE	0	0	0	0	0	0		
+1	1	true	The Tunnel of L.O.V.E.	L.O.V. Emporium	none	 | LOV Enamorang	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	Your Witchess Set	Witchess Rook	none	 | Daffy Taffy | meadeorite | Greek fire | yellow pixel	0	5	24	48	10	0			 | MICROMETEORITE | PLY REALITY | CANDYBLAST	0	0	0	0	0	0		
+1	1	true	Your Witchess Set	N/A	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	God Lobster	the God Lobster	God Lobster	 | Wint-O-Fresh mint	0	5	24	45	28	0			 | MICROMETEORITE | PLY REALITY | CANDYBLAST	0	0	0	0	0	0		
+1	1	true	God Lobster	Granted a Boon	God Lobster	 | God Lobster's Scepter	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	God Lobster	the God Lobster	God Lobster	 | Wint-O-Fresh mint	0	5	15	56	34	0			 | MICROMETEORITE | PLY REALITY | CANDYBLAST	0	0	0	0	0	0		
+1	1	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0	 | Intuition of the God Lobster (33)			0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | agua de vida	0	5	23	45	17	0	 | Spring Training (5)		 | MICROMETEORITE | CANDYBLAST | PLY REALITY	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | Meteorite-Ade | agua de vida	0	5	24	42	20	0			 | MICROMETEORITE | PLY REALITY | CANDYBLAST	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm		0	5	18	64	15	0			 | MICROMETEORITE | PLY REALITY	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | Cobb's Knob map	0	6	38	112	48	0			 | MICROMETEORITE | PLY REALITY | CANDYBLAST | CANDYBLAST	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm		0	5	38	122	48	0			 | MICROMETEORITE | PLY REALITY | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm		0	5	50	140	40	0	 | 20-20 Second Sight (5) | meat.enh (100)		 | MICROMETEORITE | PLY REALITY | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | iced plum wine | agua de vida	0	5	23	166	40	0			 | MICROMETEORITE | PLY REALITY | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | Source essence | meteoreo	0	5	45	132	60	0			 | MICROMETEORITE | PLY REALITY | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | Source essence	0	5	48	148	51	0			 | MICROMETEORITE | PLY REALITY | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	1	true	The X-32-F Combat Training Snowman	the X-32-F Combat Training Snowman	Baby Sandworm	 | Source essence | Evilometer	0	6	68	119	60	0			 | MICROMETEORITE | PLY REALITY | STUFFED MORTAR SHELL | EXTRACT | CANDYBLAST	0	0	0	0	0	0		
+1	1	true	Boxing Daycare	Visit the Boxing Day Spa	Baby Sandworm		0	-1	0	0	0	0	 | Uncucumbered (100)			0	0	0	0	0	0		
+1	1	true	Combing the Beach	N/A	Baby Sandworm		0	-1	0	0	0	0	 | You Learned Something Maybe! (50)			0	0	0	0	0	0		
+1	1	true	The Neverending Party	N/A	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Neverending Party	jock	Baby Sandworm	 | unremarkable duffel bag | Purple Beast energy drink	367	3	128	398	120	0	 | Patched In (5)		 | STUFFED MORTAR SHELL | PLY REALITY	0	0	0	0	0	0		
+1	1	true	Deck of Every Card	N/A	Baby Sandworm		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	1	true	The Neverending Party	biker	Baby Sandworm	 | gas can | Middle of the Road&trade; brand whiskey | pentagram bandana	247	5	125	466	110	0			 | MICROMETEORITE | PLY REALITY | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	1	true	The Neverending Party	burnout	Baby Sandworm	 | Source essence (2) | van key | jam band bootleg	137	4	168	459	175	0			 | MICROMETEORITE | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	1	true	The Neverending Party	burnout	Baby Sandworm	 | van key | denim jacket	137	4	153	548	165	0			 | MICROMETEORITE | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	1	true	The Neverending Party	&quot;plain&quot; girl	Baby Sandworm	 | Source essence (2) | electronics kit | PB&J with the crusts cut off | dorky glasses | agua de vida	242	4	150	500	153	0			 | MICROMETEORITE | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	1	true	The Neverending Party	biker	Baby Sandworm	 | Source essence (2) | gas can | Middle of the Road&trade; brand whiskey	235	3	183	551	203	0	 | Ticking Clock (5)		 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	1	true	The Neverending Party	jock	Baby Sandworm	 | Source essence (2) | Purple Beast energy drink	385	3	185	595	191	0			 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	1	true	The Neverending Party	A Room With a View...  Of a Bed	Baby Sandworm	 | strange leaflet	0	-1	0	0	0	0	 | Tomes of Opportunity (20)			0	0	0	0	0	0		
+1	1	false	The Deep Machine Tunnels	Enjoyer of Darknesses	Machine Elf	 | Source essence (2)	0	3	0	0	0	0			 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	2	false	The Deep Machine Tunnels	Thinker of Facts	Machine Elf	 | Source essence	0	4	0	0	7	0			 | GULP LATTE | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	3	false	The Deep Machine Tunnels	Transmuter of Behavior	Machine Elf	 | Source essence | abstraction: action	0	3	0	0	8	0			 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	4	true	Your Witchess Set	Play against the Witchess Pieces	Machine Elf		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	4	true	Your Witchess Set	Witchess Bishop	Baby Sandworm	 | Source essence (2) | Sacramento wine | agua de vida	0	4	142	521	153	0			 | DIGITIZE | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	1		
+1	4	true	Your Witchess Set	Witchess Bishop	Baby Sandworm	 | Source essence (3) | Sacramento wine	0	3	165	555	168	0			 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	4	true	Your Witchess Set	Witchess Bishop	Baby Sandworm	 | Source essence (3) | Sacramento wine | bottle of gin	0	3	158	536	187	0			 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	4	true	Your Witchess Set	Witchess Knight	Baby Sandworm	 | Source essence (3) | jumping horseradish	0	3	143	445	117	0	 | Mutated (5)		 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	4	true	God Lobster	the God Lobster	God Lobster		0	3	198	780	208	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	4	true	God Lobster	Granted a Boon	God Lobster		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	4	true	numberology 69	N/A	Baby Sandworm		0	-1	0	0	0	3				0	0	0	0	0	0		
+1	4	true	numberology 69	N/A	Baby Sandworm		0	-1	0	0	0	3				0	0	0	0	0	0		
+1	4	true	numberology 69	N/A	Baby Sandworm		0	-1	0	0	0	3				0	0	0	0	0	0		
+1	4	true	numberology 69	N/A	Baby Sandworm		0	-1	0	0	0	3				0	0	0	0	0	0		
+1	4	true	Evoke Eldritch Horror	Eldritch Tentacle named Blrgsssshhsssblllrrggghssss	Baby Sandworm	 | eldritch effluvium	0	3	115	479	128	0			 | EGGSPLOSION | EGGSPLOSION	0	0	0	0	0	0		
+1	4	true	Dr. Gordon Stuart's Science Tent	Eldritch Tentacle named Blrgglblrgglblllrrgggh	Baby Sandworm	 | eldritch effluvium | eldritch effluvium	0	4	117	468	138	0			 | EGGSPLOSION | PLY REALITY | EGGSPLOSION	0	0	0	0	0	0		
+1	4	true	Combing the Beach	N/A	Baby Sandworm		0	-1	0	0	0	0	 | Hot-Headed (50)			0	0	0	0	0	0		
+1	4	true	The Haunted Kitchen	The Icewoman	Baby Sandworm	 | Wint-O-Fresh mint | psychokinetic energy blob (4)	0	3	55	247	60	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	4	true	The Haunted Kitchen	sausage goblin	Baby Sandworm	 | Source essence (2) | cold powder | magical sausage casing	165	3	273	852	278	0			 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	4	true	The Neverending Party	biker	Baby Sandworm	 | Source essence (3) | stone wool | Middle of the Road&trade; brand whiskey	265	3	255	916	298	0	 | Chalked-Up Teeth (5)		 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	4	true	The Neverending Party	biker	Baby Sandworm	 | Source essence	287	3	300	920	280	0			 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	4	true	Chateau Painting	Black Crayon Crimbo Elf	Baby Sandworm	 | bottle of Calcutta Emerald | crayon shavings	0	3	253	969	333	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	4	false	The Haunted Kitchen	demonic icebox	Artistic Goth Kid	 | ancient frozen dinner | leftovers of indeterminate origin | dire fudgesicle	37	3	58	239	87	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	5	false	The Haunted Kitchen	skullery maid	Artistic Goth Kid	 | Source essence (3) | cold powder | bottle of popskull | Special Seasoning	40	3	53	274	67	0			 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	6	true	The Haunted Kitchen	government bureaucrat	Ms. Puck Man	 | hot powder | yellow pixel	147	3	238	700	198	0	 | Your Eyes are Peeled! (5)		 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	6	false	The Haunted Kitchen	skullery maid	Ms. Puck Man	 | hot powder | bottle of popskull | yellow pixel	42	3	40	255	75	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	7	true	The Haunted Kitchen	Black Crayon Undead Thing	Artistic Goth Kid	 | Source essence (3) | Spookyraven billiards room key | crayon shavings | hacked gibson | hacked gibson	0	3	285	909	248	0	 | Cartographically Charged (10)		 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	7	TRUE	CONSUME: drink 2 hacked gibson	N/A	Artistic Goth Kid		0	-1	0	0	0	52				0	0	0	0	0	0		
+1	7	TRUE	CONSUME: drink 2 splendid martini	N/A	Artistic Goth Kid		0	-1	0	0	0	15	 | Initiative and Let Die (40) | Thunderspell (40)			0	0	0	0	0	0		
+1	7	true	The Spooky Forest	spooky vampire	Artistic Goth Kid		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+1	7	false	The Haunted Billiards Room	pooltergeist	Ms. Puck Man	 | Source essence (3) | yellow pixel	0	3	67	202	58	0			 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	8	false	The Haunted Billiards Room	Welcome To Our ool Table	Ms. Puck Man	 | Spookyraven library key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	9	false	The Haunted Billiards Room	chalkdust wraith	Ms. Puck Man	 | Source essence (2) | psychokinetic energy blob | handful of hand chalk | yellow pixel	0	3	27	104	29	0			 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	10	false	The Haunted Library	banshee librarian	Ms. Puck Man	 | psychokinetic energy blob | yellow pixel	0	2	28	98	33	0	 | Everything Looks Yellow (100) | Patched In (5) | Cartographically Rooted (10)		 | DISINTEGRATE	0	0	0	0	0	0		
+1	11	false	The Haunted Library	freshwater bonefish	Ms. Puck Man	 | freshwater fishbone | yellow pixel	147	6	98	211	83	0			 | MICROMETEORITE | CANDYBLAST | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	12	true	The Spooky Forest	Witchess Bishop	Artistic Goth Kid	 | Source essence | Sacramento wine	0	3	75	207	77	0			 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	12	true	The Spooky Forest	sausage goblin	Artistic Goth Kid	 | Source essence (3) | magical sausage casing	155	3	150	380	155	0			 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	12	true	The Haunted Library	Take a Look, it's in a Book!	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	12	true	The Haunted Library	Black Crayon Goblin	Artistic Goth Kid	 | crayon shavings	0	3	147	409	157	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	12	true	The Haunted Library	bookbat	Ms. Puck Man		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	12	false	The Haunted Library	writing desk	Ms. Puck Man	 | snifter of thoroughly aged brandy | yellow pixel	0	4	24	111	35	0	 | On the Trail (40) | Deep-Seated Rage (5)		 | TRANSCENDENT OLFACTION | STUFFED MORTAR SHELL	0	0	0	1	0	0		
+1	13	false	The Haunted Library	writing desk	Ms. Puck Man	 | Source essence | piping organ pie | disintegrating quill pen | snifter of thoroughly aged brandy | yellow pixel	0	3	34	89	30	0	 | Cartographically Rooted (5)		 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	14	true	The Haunted Library	Melvil Dewey Would Be Ashamed	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	14	false	The Haunted Library	writing desk	Ms. Puck Man	 | Source essence (3) | yellow pixel | power pill	0	3	42	81	34	0			 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	15	true	The Haunted Library	Wooof! Wooooooof!	Ms. Puck Man	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	15	false	The Haunted Library	writing desk	Ms. Puck Man	 | inkwell | snifter of thoroughly aged brandy | yellow pixel	0	3	35	84	39	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	16	false	The Haunted Library	writing desk	Ms. Puck Man	 | Source essence (2) | inkwell | yellow pixel | Lady Spookyraven's necklace	0	3	30	87	40	0			 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	17	true	The Haunted Gallery	government bureaucrat	Ms. Puck Man	 | Source essence (2) | yellow pixel	125	3	121	279	104	0	 | The Smeezingtons (5)		 | STUFFED MORTAR SHELL | EXTRACT	0	0	0	0	0	0		
+1	17	true	Cook 12 wad of dough + 12 soda water	N/A	Reanimated Reanimator		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	17	true	Cook 5 wad of dough + 5 soda water	N/A	Reanimated Reanimator		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	17	true	genie summoned monster	mountain man	Reanimated Reanimator	 | asbestos ore | asbestos ore | chrome ore | chrome ore | asbestos ore | asbestos ore | linoleum ore | linoleum ore | chrome ore | chrome ore | white pixel	0	3	38	100	25	0			 | DUPLICATE | ASDON MARTIN: MISSILE LAUNCHER	0	0	0	0	0	0		
+1	17	false	Guano Junction	How I Wonder What You're At	Reanimated Reanimator	 | sonar-in-a-biscuit | sonar-in-a-biscuit	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	18	true	The Beanbat Chamber	beanbat	Reanimated Reanimator	 | enchanted bean | sonar-in-a-biscuit	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+1	18	true	The Boss Bat's Lair	sausage goblin	Reanimated Reanimator	 | red-hot sausage fork | magical sausage casing | white pixel	171	4	153	422	149	0	 | Cartographically Rooted (5)		 | WINK AT | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	1		
+1	18	false	The Boss Bat's Lair	beefy bodyguard bat	Cat Burglar	 | blue pixel | Special Seasoning	957	3	32	81	38	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	19	false	The Boss Bat's Lair	beefy bodyguard bat	Cat Burglar	 | Wint-O-Fresh mint | beefy pill | green pixel	923	3	28	97	34	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	20	false	The Boss Bat's Lair	beefy bodyguard bat	Cat Burglar	 | white pixel | Pok&eacute;-Gro fertilizer	847	3	33	86	34	0	 | Dreadful Fear (5)		 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	21	false	The Boss Bat's Lair	the Aquabat	Cat Burglar	 | Cold Hots candy | neoprene skullcap | red pixel	0	7	29	80	35	0	 | Cartographically Aware (10)		 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	22	false	The Black Forest	Forty Shades of Black	Reassembled Blackbird	 | black map	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	23	false	The Black Forest	black friar	Reassembled Blackbird	 | Cold Hots candy | black label | black friar's tonsure	0	3	35	83	45	0	 | Dark Orchestral Song (10) | Cartographically Aware (5)		 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	24	false	The Black Forest	black friar	Reassembled Blackbird	 | Mornington crescent roll | black friar's tonsure | bottle of gin	0	3	37	91	37	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	25	false	The Black Forest	black adder	Reassembled Blackbird	 | adder bladder | black snake skin | sunken eyes	217	3	29	92	44	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	26	false	The Black Forest	black magic woman	Reassembled Blackbird		262	3	34	68	39	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	27	false	The Black Forest	blackberry bush	Reassembled Blackbird	 | Wint-O-Fresh mint | blackberry | blackberry | stick of firewood	0	3	24	75	39	0	 | Cartographically Charged (5)		 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	28	true	The Spooky Forest	government bureaucrat	Artistic Goth Kid	 | Cold Hots candy | government requisition form | red pixel	110	3	123	209	100	0	 | Florid Cheeks (5)		 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	28	true	The Black Forest	Wooof! Wooooooof!	Reassembled Blackbird	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	28	false	The Black Forest	black adder	Reassembled Blackbird	 | Wint-O-Fresh mint | adder bladder | bottle of whiskey	270	3	38	72	29	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	29	false	The Black Forest	black widow	Reassembled Blackbird	 | Cold Hots candy	105	3	34	65	50	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	30	false	The Black Forest	black panther	Reassembled Blackbird	 | Black No. 2 | broken wings	347	3	0	5	0	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	31	true	Your Witchess Set	Witchess Puzzles	Pocket Professor		0	-1	0	0	0	0	 | Puzzle Champ (25)			0	0	0	0	0	0		
+1	31	true	Combing the Beach	N/A	Pocket Professor		0	-1	0	0	0	0	 | Do I Know You From Somewhere? (50)			0	0	0	0	0	0		
+1	31	true	The Penultimate Fantasy Airship	The Beginning of the End of the Penultimate Fantasy	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	31	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | magical sausage casing	167	3	87	196	75	0			 | STUFFED MORTAR SHELL | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	31	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | magical sausage casing	187	3	84	194	84	0			 | STUFFED MORTAR SHELL | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	31	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | magical sausage casing	273	3	74	203	88	0	 | Lubed (5)		 | STUFFED MORTAR SHELL | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	31	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | magical sausage casing	175	3	95	175	87	0			 | STUFFED MORTAR SHELL | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	31	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | magical sausage casing	172	3	83	192	85	0			 | STUFFED MORTAR SHELL | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	31	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | magical sausage casing	157	3	94	184	90	0			 | STUFFED MORTAR SHELL | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	31	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | magical sausage casing	152	3	88	200	80	0			 | STUFFED MORTAR SHELL | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	31	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | magical sausage casing	179	3	77	202	87	0	 | Bear Clawed (5)		 | STUFFED MORTAR SHELL | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+1	31	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | Daffy Taffy | magical sausage casing	180	3	78	199	87	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	31	true	The Penultimate Fantasy Airship	Hammering the Armory	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	31	true	The Penultimate Fantasy Airship	a Burly Sidekick!	Pocket Professor	 | Mohawk wig | cocoa eggshell fragment | tiny house | armgun	0	0	0	0	0	0			 | MACROMETEORITE | MACROMETEORITE | MACROMETEORITE | MACROMETEORITE | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0	 | Irritating Series of Random Encounters | a Protagonist! | a MagiMechTech MechaMech! | a Spunky Princess!	
+1	31	false	The Black Forest	black magic woman	Pocket Professor	 | black eye shadow | black magic powder	257	2	27	65	38	0				0	0	0	0	0	0		
+1	32	true	The Spooky Forest	Witchess Bishop	Pocket Professor	 | Sacramento wine	0	2	69	138	64	0				0	0	0	0	0	0		
+1	32	true	Your Witchess Set	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	32	true	The Haunted Gallery	empty suit of armor	Pocket Professor	 | antique greaves | antique helmet | antique shield	0	2	35	61	20	0			 | SHATTERING PUNCH	0	0	1	0	0	0		
+1	32	false	The Haunted Gallery	guy with a pitchfork, and his wife	Pocket Professor	 | pitchfork	115	2	25	69	22	0	 | Cartographically Rooted (10)			0	0	0	0	0	0		
+1	33	false	The Penultimate Fantasy Airship	Gesundheitgeist!	Pocket Professor	 | Tissue Paper Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	34	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | magical sausage casing	157	4	83	212	76	0	 | Cartographically Aware (5)		 | LECTURE ON RELATIVITY | STUFFED MORTAR SHELL	0	0	0	0	0	1		
+1	34	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | magical sausage casing	173	4	85	188	80	0			 | LECTURE ON RELATIVITY | STUFFED MORTAR SHELL	0	0	0	0	0	1		
+1	34	true	The Penultimate Fantasy Airship	sausage goblin	Pocket Professor	 | magical sausage casing	212	3	79	184	90	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	34	true	The Penultimate Fantasy Airship	Protagonist	Artistic Goth Kid		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+1	34	true	The Penultimate Fantasy Airship	Black Crayon Man	Artistic Goth Kid	 | crayon shavings	12	3	87	218	85	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	34	false	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	Artistic Goth Kid	 | cocoa eggshell fragment	432	3	37	71	23	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	35	true	The Penultimate Fantasy Airship	Black Crayon Beast	Artistic Goth Kid	 | crayon shavings	15	3	94	194	98	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	35	false	The Penultimate Fantasy Airship	Don't Chew on That Spirit!	Artistic Goth Kid	 | Tin Foil Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	36	true	The Penultimate Fantasy Airship	Quiet Healer	Artistic Goth Kid	 | amulet of extreme plot significance | scroll of drastic healing | soft green echo eyedrop antidote	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+1	36	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Artistic Goth Kid	 | metallic A	14	3	25	64	37	0	 | Cartographically Rooted (5)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	37	false	The Penultimate Fantasy Airship	Burly Sidekick	Artistic Goth Kid	 | cocoa eggshell fragment | tiny house	279	2	29	57	38	0	 | Cartographically Rooted (5)			0	0	0	0	0	0		
+1	38	false	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	Artistic Goth Kid	 | cocoa eggshell fragment	343	2	25	69	28	0				0	0	0	0	0	0		
+1	39	false	The Penultimate Fantasy Airship	Random Lack of an Encounter	Artistic Goth Kid	 | model airship	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	40	true	The Penultimate Fantasy Airship	sausage goblin	Artistic Goth Kid	 | magical sausage casing	171	3	94	187	93	0	 | Cartographically Rooted (5)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	40	true	The Penultimate Fantasy Airship	Black Crayon Goblin	Artistic Goth Kid	 | crayon shavings	15	3	88	195	92	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	40	false	The Penultimate Fantasy Airship	Spunky Princess	Red-Nosed Snapper	 | titanium assault umbrella | tiny house | cocoa eggshell fragment	332	2	20	53	23	0				0	0	0	0	0	0		
+1	41	true	Cook 13 wad of dough + 13 soda water	N/A	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	41	true	The Penultimate Fantasy Airship	Wooof! Wooooooof!	Red-Nosed Snapper	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	41	false	The Penultimate Fantasy Airship	The Most Absorbent Spirit Ever	Red-Nosed Snapper	 | Gauze Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	42	false	The Penultimate Fantasy Airship	Is There A Doctor In The House?	Red-Nosed Snapper	 | scroll of drastic healing | soft green echo eyedrop antidote	311	2	24	49	24	0			 | TRANSCENDENT OLFACTION	0	0	0	1	0	0		
+1	43	false	The Penultimate Fantasy Airship	Quiet Healer	Red-Nosed Snapper	 | scroll of drastic healing | soft green echo eyedrop antidote | bottle of gin	276	2	37	52	14	0				0	0	0	0	0	0		
+1	44	false	The Penultimate Fantasy Airship	Protagonist	Red-Nosed Snapper	 | ridiculously huge sword | phonics down	289	2	20	59	24	0				0	0	0	0	0	0		
+1	45	false	The Penultimate Fantasy Airship	Spunky Princess	Red-Nosed Snapper	 | titanium assault umbrella | tiny house | cocoa eggshell fragment | Special Seasoning	292	2	22	59	15	0				0	0	0	0	0	0		
+1	46	false	The Penultimate Fantasy Airship	Rip Rop Wrappety Do	Red-Nosed Snapper	 | Plastic Wrap Immateria	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	47	false	The Penultimate Fantasy Airship	Burly Sidekick	Red-Nosed Snapper	 | cocoa eggshell fragment | tiny house	337	2	20	56	24	0				0	0	0	0	0	0		
+1	48	false	The Penultimate Fantasy Airship	Irritating Series of Random Encounters	Red-Nosed Snapper	 | soft green echo eyedrop antidote | tiny house | cocoa eggshell fragment	344	2	17	61	23	0	 | Cartographically Charged (5)			0	0	0	0	0	0		
+1	49	false	The Penultimate Fantasy Airship	MagiMechTech MechaMech	Red-Nosed Snapper	 | metallic A | glowing red eye | photoprotoneutron torpedo	15	2	29	53	30	0				0	0	0	0	0	0		
+1	50	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	50	false	The Penultimate Fantasy Airship	F-F-Fantastic!	Red-Nosed Snapper	 | S.O.C.K.	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	51	false	The Castle in the Clouds in the Sky (Basement)	You Don't Mess Around with Gym	Red-Nosed Snapper		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	52	true	The Dark Heart of the Woods	Fallen Archfiend	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	52	false	The Dark Heart of the Woods	Moon Over the Dark Heart	Pair of Stomping Boots	 | hot plate	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	53	true	The Dark Heart of the Woods	G imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	53	false	The Dark Heart of the Woods	Running the Lode	Pair of Stomping Boots		350	-1	0	0	0	0				0	0	0	0	0	0		
+1	54	true	The Dark Heart of the Woods	P imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	54	true	The Dark Heart of the Woods	G imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	54	false	The Dark Heart of the Woods	I, Martin	Pair of Stomping Boots	 | martini	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	55	true	The Dark Neck of the Woods	gourmet gourami	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	55	true	The Dark Neck of the Woods	sausage goblin	Pair of Stomping Boots	 | red-hot sausage fork | magical sausage casing	196	3	59	148	77	0	 | Cartographically Aware (10)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	55	true	The Dark Neck of the Woods	Hellion	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	55	true	The Dark Neck of the Woods	W imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	55	false	The Dark Neck of the Woods	Your Neck of the Woods	Pair of Stomping Boots		1	-1	0	0	0	0				0	0	0	0	0	0		
+1	56	false	The Dark Neck of the Woods	Strike One!	Pair of Stomping Boots	 | imp unity ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	57	false	The Dark Neck of the Woods	W imp	Pair of Stomping Boots	 | Imp Ale | ruby W | stick of firewood	80	2	10	29	13	0				0	0	0	0	0	0		
+1	58	true	The Outskirts of Cobb's Knob	sausage goblin	Pair of Stomping Boots	 | red-hot sausage fork | magical sausage casing	180	3	75	145	60	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	58	true	The Goatlet	drunk goat	Cat Burglar		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+1	58	false	The Goatlet	a dairy goat!	Cat Burglar	 | goat cheese	202	3	7	36	16	0			 | MACROMETEORITE	0	0	0	0	0	0	 | sabre-toothed goat	
+1	59	false	The Goatlet	dairy goat	Cat Burglar	 | goat cheese	225	2	10	36	14	0				0	0	0	0	0	0		
+1	60	false	The Goatlet	dairy goat	Cat Burglar	 | goat cheese | glass of goat's milk | Shivering Ch&egrave;vre	197	2	9	41	12	0				0	0	0	0	0	0		
+1	61	true	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	Cat Burglar	 | Ye Olde Meade | Ye Olde Bawdy Limerick | Ye Olde Medieval Insult | bottle of whiskey	394	2	23	46	18	0			 | GINGERBREAD MOB HIT	0	0	1	0	0	0		
+1	61	true	The Castle in the Clouds in the Sky (Ground Floor)	Possibility Giant	Cat Burglar	 | plot hole | probability potion	548	2	19	50	22	0			 | SHATTERING PUNCH	0	0	1	0	0	0		
+1	61	true	The Castle in the Clouds in the Sky (Ground Floor)	Huzzah!	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	61	true	The Castle in the Clouds in the Sky (Ground Floor)	There's No Ability Like Possibility	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	61	true	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	Cat Burglar	 | giant artisanal rice peeler | giant heirloom grape tomato | chipotle wasabi cilantro aioli	409	2	23	49	25	0			 | SHATTERING PUNCH	0	0	1	0	0	0		
+1	61	false	The Castle in the Clouds in the Sky (Ground Floor)	Possibility Giant	Cat Burglar	 | probability potion	668	2	19	59	13	0				0	0	0	0	0	0		
+1	62	true	The Castle in the Clouds in the Sky (Ground Floor)	Witchess Bishop	Cat Burglar	 | almost-dead walkie-talkie | Sacramento wine	10	3	58	146	40	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	62	true	The Castle in the Clouds in the Sky (Ground Floor)	Huzzah!	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	62	false	The Castle in the Clouds in the Sky (Ground Floor)	Procrastination Giant	Cat Burglar	 | procrastination potion	639	2	18	46	24	0				0	0	0	0	0	0		
+1	63	false	The Castle in the Clouds in the Sky (Ground Floor)	Renaissance Giant	Cat Burglar	 | giant turkey leg | Ye Olde Bawdy Limerick | Ye Olde Medieval Insult	469	3	18	55	20	0			 | MICROMETEORITE	0	0	0	0	0	0		
+1	64	false	The Castle in the Clouds in the Sky (Ground Floor)	Putting Off Is Off-Putting	Cat Burglar	 | very overdue library book	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	65	false	The Castle in the Clouds in the Sky (Ground Floor)	Procrastination Giant	Cat Burglar	 | Special Seasoning	683	3	19	45	23	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	66	false	The Castle in the Clouds in the Sky (Ground Floor)	Foodie Giant	Cat Burglar		484	3	17	50	23	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	67	true	The Castle in the Clouds in the Sky (Ground Floor)	Wooof! Wooooooof!	Cat Burglar	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	67	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	67	false	The Castle in the Clouds in the Sky (Ground Floor)	Top of the Castle, Ma	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	68	false	The Castle in the Clouds in the Sky (Top Floor)	Keep On Turnin' the Wheel in the Sky	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	69	false	The Castle in the Clouds in the Sky (Top Floor)	Steampunk Giant	Cat Burglar	 | brown felt tophat | brass gear | steampunk potion | giant discarded plastic fork	414	2	22	52	23	0	 | Cartographically Aware (10)			0	0	0	0	0	0		
+1	70	true	The Dark Heart of the Woods	P imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	70	true	The Dark Heart of the Woods	P imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	70	true	The Dark Heart of the Woods	Fallen Archfiend	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+1	70	false	The Dark Heart of the Woods	G imp	Cat Burglar	 | hot wing | Imp Ale | red pixel | stick of firewood	164	2	12	32	8	0				0	0	0	0	0	0		
+1	71	true	The Dark Heart of the Woods	sausage goblin	Cat Burglar	 | magical sausage casing | blue pixel	330	3	62	145	78	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	71	false	The Dark Heart of the Woods	Imp Be Nimble, Imp Be Quick	Cat Burglar	 | box of birthday candles	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	72	false	The Shore, Inc. Travel Agency	N/A	Cat Burglar	 | your father's MacGuffin diary	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	75	true	Deck of Every Card	XVI - The Tower	Cat Burglar	 | Jarlsberg's key	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	75	true	Deck of Every Card	Sheep	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	75	false	The Spooky Forest	Consciousness of a Stream	Cat Burglar	 | tree-holed coin	300	-1	0	0	0	0				0	0	0	0	0	0		
+1	76	false	The Spooky Forest	O Lith, Mon	Cat Burglar	 | Spooky Temple map	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	77	false	The Spooky Forest	Tree's Last Stand	Cat Burglar	 | spooky sapling	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	78	false	The Hidden Temple	Such Great Heights	Cat Burglar	 | the Nostril of the Serpent	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	79	false	The Hidden Temple	Baa'baa'bu'ran	Cat Burglar	 | stone wool | stone wool	12	3	8	52	17	0	 | Cartographically Charged (5)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	80	true	The Hidden Temple	The Hidden Heart of the Hidden Temple	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	80	false	The Hidden Temple	Now What?	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	81	false	The Hidden Temple	Beginning at the Beginning of Beginning	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	82	false	The Hidden Temple	No Visible Means of Support	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	83	true	The Haunted Gallery	The ghost of Waldo the Carpathian	Cat Burglar	 | psychokinetic energy blob (4)	15	3	18	43	14	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	83	true	The Haunted Gallery	sausage goblin	Cat Burglar	 | magical sausage casing | red pixel | bottle of rum	302	3	69	137	77	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	83	true	The Haunted Bedroom	animated rustic nightstand	Cat Burglar		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+1	83	false	The Haunted Bedroom	One Ornate Nightstand	Cat Burglar	 | green pixel | disposable instant camera	14	2	22	34	5	0				0	0	0	0	0	0		
+1	84	true	The Haunted Bedroom	animated mahogany nightstand	Melodramedary		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	84	true	The Haunted Bedroom	sausage goblin	Melodramedary	 | magical sausage casing	177	3	82	149	67	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	84	true	The Haunted Bedroom	Wardr&ouml;b nightstand	Melodramedary		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	84	false	The Haunted Bedroom	One Ornate Nightstand	Melodramedary	 | red pixel | Lord Spookyraven's spectacles	11	2	10	41	26	0				0	0	0	0	0	0		
+1	85	false	The Haunted Bedroom	One Elegant Nightstand	Melodramedary	 | Lady Spookyraven's finest gown	14	2	25	29	18	0				0	0	0	0	0	0		
+1	86	false	Mist-Shrouded Peak	panicking Knott Yeti	Artistic Goth Kid	 | yeti fur | bottle of rum	563	2	18	45	14	0				0	0	0	0	0	0		
+1	87	false	Mist-Shrouded Peak	panicking Knott Yeti	Artistic Goth Kid	 | yeti fur	603	2	18	42	17	0				0	0	0	0	0	0		
+1	88	false	Mist-Shrouded Peak	panicking Knott Yeti	Artistic Goth Kid	 | yeti fur	508	2	24	42	18	0				0	0	0	0	0	0		
+1	89	false	Mist-Shrouded Peak	Gurgle	Artistic Goth Kid	 | Groar's fur | liquid ice | Special Seasoning	11	6	19	53	22	0				0	0	0	0	0	0		
+1	90	false	The Defiled Niche	Is There A Doctor In The House?	Artistic Goth Kid	 | thunder thigh | bottle of whiskey	12	2	17	45	13	0				0	0	0	0	0	0		
+1	91	true	The Defiled Niche	basic lihc	Artistic Goth Kid		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	91	true	The Defiled Niche	sausage goblin	Artistic Goth Kid	 | magical sausage casing	187	4	74	158	77	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	91	true	The Defiled Niche	dirty old lihc	Artistic Goth Kid		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	91	false	The Dark Neck of the Woods	Olive My Love To You, Oh.	Artistic Goth Kid	 | olive | olive	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	92	false	The Dark Neck of the Woods	Dodecahedrariffic!	Artistic Goth Kid	 | dodecagram	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	93	false	The Haunted Gallery	Louvre It or Leave It (The Persistence of Memory)	Artistic Goth Kid	 | Lady Spookyraven's dancing shoes	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	94	true	The Hidden Park	boaraffe	Artistic Goth Kid		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+1	94	false	The Hidden Park	pygmy blowgunner	Artistic Goth Kid	 | pygmy nose-bone | white pixel	305	3	19	52	23	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	95	false	The Hidden Park	Where Does The Lone Ranger Take His Garbagester?	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	96	false	The Hidden Park	pygmy assault squad	Artistic Goth Kid	 | pygmy pygment | bottle of gin	334	2	23	54	19	0				0	0	0	0	0	0		
+1	97	false	The Hidden Park	Where Does The Lone Ranger Take His Garbagester?	Artistic Goth Kid	 | tiny bowler | half-size scalpel	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	98	false	The Hidden Park	Where Does The Lone Ranger Take His Garbagester?	Artistic Goth Kid	 | jungle floor wax | bowling ball	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	99	false	The Hidden Park	Dr. Henry "Dakota" Fanning, Ph.D., R.I.P.	Artistic Goth Kid	 | antique machete | cool whip	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	100	true	An Overgrown Shrine (Northwest)	dense liana	Artistic Goth Kid		13	1	0	0	0	0				0	0	0	0	0	0		
+1	100	true	An Overgrown Shrine (Northwest)	dense liana	Melodramedary	 | bottle of whiskey	15	1	0	6	0	0				0	0	0	0	0	0		
+1	100	true	An Overgrown Shrine (Northwest)	dense liana	Melodramedary		14	1	6	0	0	0				0	0	0	0	0	0		
+1	100	false	An Overgrown Shrine (Northwest)	Earthbound and Down	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	101	true	An Overgrown Shrine (Northeast)	dense liana	Melodramedary		11	1	0	0	0	0				0	0	0	0	0	0		
+1	101	true	An Overgrown Shrine (Northeast)	dense liana	Melodramedary	 | bottle of rum	15	1	0	4	0	0				0	0	0	0	0	0		
+1	101	true	An Overgrown Shrine (Northeast)	dense liana	Melodramedary	 | green pixel	10	1	5	0	0	0				0	0	0	0	0	0		
+1	101	true	An Overgrown Shrine (Southeast)	dense liana	Melodramedary		12	1	0	0	0	0				0	0	0	0	0	0		
+1	101	true	An Overgrown Shrine (Southeast)	dense liana	Melodramedary	 | red pixel	14	1	0	0	0	0				0	0	0	0	0	0		
+1	101	true	An Overgrown Shrine (Southeast)	dense liana	Melodramedary		15	1	0	0	0	0				0	0	0	0	0	0		
+1	101	true	An Overgrown Shrine (Southwest)	dense liana	Melodramedary		13	1	0	0	0	0				0	0	0	0	0	0		
+1	101	true	An Overgrown Shrine (Southwest)	dense liana	Melodramedary		11	1	0	0	0	0				0	0	0	0	0	0		
+1	101	true	An Overgrown Shrine (Southwest)	dense liana	Melodramedary		13	1	0	0	0	0				0	0	0	0	0	0		
+1	101	true	A Massive Ziggurat	dense liana	Melodramedary		15	1	4	0	0	0				0	0	0	0	0	0		
+1	101	true	A Massive Ziggurat	dense liana	Melodramedary		11	1	0	0	0	0				0	0	0	0	0	0		
+1	101	true	A Massive Ziggurat	dense liana	Melodramedary		12	1	0	0	0	0				0	0	0	0	0	0		
+1	101	false	The Hidden Apartment Building	pygmy shaman	Artistic Goth Kid	 | voodoo glowskull	212	6	19	33	19	0	 | Once-Cursed (10) | On the Trail (40)		 | TRANSCENDENT OLFACTION | STUFFED MORTAR SHELL	0	0	0	1	0	0		
+1	102	true	The Hidden Apartment Building	Is There A Doctor In The House?	Artistic Goth Kid	 | Sacramento wine	13	3	24	46	21	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	102	false	The Hidden Apartment Building	pygmy shaman	Artistic Goth Kid	 | Senior Mints | white pixel	261	3	14	40	19	0	 | Twice-Cursed (10)		 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	103	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	103	false	The Hidden Apartment Building	pygmy shaman	Artistic Goth Kid	 | Wint-O-Fresh mint | colorful toad | blue pixel	222	3	19	37	20	0	 | Thrice-Cursed (10)		 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	104	false	The Hidden Apartment Building	ancient protector spirit	Artistic Goth Kid	 | Cold Hots candy | moss-covered stone sphere | psychokinetic energy blob	12	3	18	46	16	0	 | Cartographically Aware (5)		 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	105	true	The Haunted Bathroom	toilet papergeist	Artistic Goth Kid		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+1	105	TRUE	CONSUME: eat 1 gallon of milk	N/A	Artistic Goth Kid		0	-1	0	0	0	75	 | Feeling Queasy (100)			0	0	0	0	0	0		
+1	105	true	The Haunted Bathroom	sausage goblin	Artistic Goth Kid	 | magical sausage casing	134	3	27	39	20	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	105	TRUE	CONSUME: drink 1 perfect dark and stormy	N/A	Artistic Goth Kid		0	-1	0	0	0	21				0	0	0	0	0	0		
+1	105	TRUE	CONSUME: drink 1 splendid martini	N/A	Artistic Goth Kid		0	-1	0	0	0	6	 | Quantum of Moxie (40)			0	0	0	0	0	0		
+1	105	TRUE	CONSUME: drink 1 iced plum wine	N/A	Artistic Goth Kid	 | hacked gibson	0	-1	0	0	0	8				0	0	0	0	0	0		
+1	105	true	Mix 1 perfect ice cube + 1 bottle of rum	N/A	Artistic Goth Kid	 | perfect dark and stormy	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	105	false	The Haunted Bathroom	claw-foot bathtub	Artistic Goth Kid	 | fancy bath salts	15	3	15	28	4	0				0	0	0	0	0	0		
+1	106	false	The Haunted Bathroom	claw-foot bathtub	Artistic Goth Kid	 | bottle of Monsieur Bubble | bottle of gin	14	2	10	31	6	0				0	0	0	0	0	0		
+1	107	false	The Haunted Bathroom	malevolent hair clog	Artistic Goth Kid		10	2	16	26	6	0				0	0	0	0	0	0		
+1	108	false	The Haunted Bathroom	malevolent hair clog	Artistic Goth Kid	 | gob of wet hair | Special Seasoning	13	2	9	31	7	0				0	0	0	0	0	0		
+1	109	false	The Haunted Bathroom	malevolent hair clog	Artistic Goth Kid	 | gob of wet hair	15	2	15	19	13	0	 | Cartographically Rooted (5)			0	0	0	0	0	0		
+1	110	true	The Haunted Bathroom	Wooof! Wooooooof!	Artistic Goth Kid	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	110	false	The Haunted Bathroom	cosmetics wraith	Artistic Goth Kid	 | Mr. Mediocrebar | Lady Spookyraven's powder puff | old eyebrow pencil | old rosewater cream | old bronzer	12	4	15	33	8	0			 | ENTANGLING NOODLES | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	111	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	111	false	photocopied monster	Orcish Frat Boy Spy	Artistic Goth Kid	 | distressed denim pants | beer helmet | bejeweled pledge pin	13	4	20	37	13	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	112	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	112	false	The Castle in the Clouds in the Sky (Top Floor)	Raver Giant	Artistic Goth Kid		0	5	0	0	0	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	113	true	The Castle in the Clouds in the Sky (Top Floor)	Black Crayon Manloid	Artistic Goth Kid	 | crayon shavings	14	3	24	58	17	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	113	false	The Castle in the Clouds in the Sky (Top Floor)	Copper Feel	Artistic Goth Kid	 | steam-powered model rocketship	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	114	false	An Overgrown Shrine (Northeast)	Air Apparent	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	115	false	The Hidden Office Building	pygmy witch accountant	Artistic Goth Kid		0	3	0	0	4	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	116	true	The Hidden Office Building	pygmy witch lawyer	Artistic Goth Kid		0	0	0	0	0	0			 | USE THE FORCE | SABER BANISH	0	1	0	0	0	0		
+1	116	true	The Hidden Office Building	pygmy headhunter	Artistic Goth Kid		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+1	116	false	The Hidden Office Building	pygmy witch accountant	Artistic Goth Kid	 | adder | pygmy adder oil | McClusky file (page 2) | bottle of gin	340	3	18	40	23	0				0	0	0	0	0	0		
+1	117	false	The Hidden Office Building	pygmy witch accountant	Artistic Goth Kid	 | pygmy adder oil | McClusky file (page 3) | Pok&eacute;-Gro fertilizer	289	3	25	42	16	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	118	false	The Hidden Office Building	pygmy witch accountant	Artistic Goth Kid		0	3	0	0	5	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	119	true	The Hidden Office Building	Black Crayon Man	Artistic Goth Kid	 | crayon shavings	12	3	28	52	27	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	119	false	The Hidden Office Building	Working Holiday	Artistic Goth Kid	 | boring binder clip	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	120	false	The Hidden Office Building	pygmy witch accountant	Melodramedary	 | McClusky file (page 5)	277	3	0	0	0	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	121	false	The Hidden Office Building	pygmy witch accountant	Melodramedary	 | adder	306	4	23	40	16	0	 | Cartographically Charged (10)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	122	true	The Hidden Office Building	Wooof! Wooooooof!	Melodramedary	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	122	false	The Hidden Office Building	pygmy witch accountant	Melodramedary	 | Special Seasoning	289	3	18	46	15	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	123	false	The Hidden Office Building	pygmy witch accountant	Melodramedary		0	3	0	0	0	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	124	true	Cook 15 wad of dough + 15 soda water	N/A	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	124	false	An Overgrown Shrine (Southwest)	Water You Dune	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	125	true	The Hidden Hospital	pygmy orderlies	Melodramedary		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+1	125	false	The Hidden Hospital	pygmy witch surgeon	Melodramedary		0	4	0	0	0	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+1	126	false	The Hidden Hospital	ancient protector spirit	Melodramedary	 | dripping stone sphere | psychokinetic energy blob	11	3	20	38	20	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	127	true	Combing the Beach	N/A	Melodramedary		0	-1	0	0	0	0	 | Oiled, Slick (50) | damage.enh (100)			0	0	0	0	0	0		
+1	127	false	A Mob of Zeppelin Protesters	gourmet gourami	Melodramedary		0	3	0	6	0	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	128	false	A Mob of Zeppelin Protesters	Bench Warrant	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	129	false	A Mob of Zeppelin Protesters	Bench Warrant	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	130	false	A Mob of Zeppelin Protesters	Bench Warrant	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	131	false	A Mob of Zeppelin Protesters	Bench Warrant	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	132	true	A Mob of Zeppelin Protesters	Too Much Humanity	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	132	false	The Arid, Extra-Dry Desert	swarm of fire ants	Melodramedary		0	2	0	0	0	0				0	0	0	0	0	0		
+1	133	false	The Arid, Extra-Dry Desert	giant giant giant centipede	Melodramedary	 | centipede eggs | handful of sand | handful of sand	251	3	20	35	16	0	 | Ultrahydrated (3) | Cartographically Rooted (5)			0	0	0	0	0	0		
+1	134	false	The Arid, Extra-Dry Desert	cactuary	Melodramedary	 | cactus fruit | handful of sand | bit-o-cactus	195	3	21	41	8	0				0	0	0	0	0	0		
+1	135	false	The Arid, Extra-Dry Desert	cactuary	Melodramedary		0	3	0	0	0	0				0	0	0	0	0	0		
+1	136	false	The Arid, Extra-Dry Desert	cactuary	Melodramedary	 | cactus fruit | handful of sand | bit-o-cactus	190	3	17	38	15	0				0	0	0	0	0	0		
+1	137	true	The Arid, Extra-Dry Desert	A Sietch in Time	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+1	137	true	The Arid, Extra-Dry Desert	sausage goblin	Melodramedary	 | magical sausage casing	138	3	19	58	32	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	137	true	The Arid, Extra-Dry Desert	Wooof! Wooooooof!	Melodramedary	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+1	137	true	The Arid, Extra-Dry Desert	swarm of fire ants	Melodramedary	 | ant agonist | handful of sand	97	2	20	38	13	0	 | Ultrahydrated (3)		 | CHEST X-RAY	0	0	1	0	0	0		
+1	137	true	The Arid, Extra-Dry Desert	plaque of locusts	Melodramedary	 | honey-dipped locust | bronzed locust | worm-riding manual page	53	2	14	37	18	0			 | CHEST X-RAY	0	0	1	0	0	0		
+1	137	true	The Arid, Extra-Dry Desert	giant giant giant centipede	Melodramedary		0	2	0	0	0	0	 | Ultrahydrated (3)		 | CHEST X-RAY	0	0	1	0	0	0		
+1	137	false	The Arid, Extra-Dry Desert	rock scorpion	Melodramedary	 | handful of sand	364	3	11	37	22	0	 | Ultrahydrated (3)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	138	false	The Arid, Extra-Dry Desert	cactuary	Melodramedary	 | cactus fruit | bit-o-cactus | worm-riding manual page (2) | Special Seasoning	226	3	14	39	18	0	 | Ultrahydrated (3)			0	0	0	0	0	0		
+1	139	false	The Arid, Extra-Dry Desert	plaque of locusts	Melodramedary	 | handful of sand	54	3	10	43	16	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	140	false	The Arid, Extra-Dry Desert	cactuary	Melodramedary	 | handful of sand | bit-o-cactus | worm-riding manual page (2)	189	3	15	39	16	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	141	TRUE	CONSUME: drink 1 Cold One	N/A	Stooper		0	-1	0	0	0	7				0	0	0	0	0	0		
+1	141	TRUE	CONSUME: drink 1 hacked gibson	N/A	Stooper		0	-1	0	0	0	25				0	0	0	0	0	0		
+1	141	false	The Arid, Extra-Dry Desert	plaque of locusts	Melodramedary	 | bronzed locust | handful of sand	48	3	19	38	12	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+1	142	TRUE	CONSUME: chew 1 watered-down Red Minotaur	N/A	Trick-or-Treating Tot		0	-1	0	0	0	0	 | Water Wings (5)			0	0	0	0	0	0		
+1	142	true	Deck of Every Card	1952 Mickey Mantle	Trick-or-Treating Tot	 | 1952 Mickey Mantle card	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	142	true	Boxing Daycare	Have a Boxing Daydream	Trick-or-Treating Tot	 | glass of raw eggs	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	142	false	A Mob of Zeppelin Protesters	This Looks Like a Good Bush for an Ambush	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	143	true	A Mob of Zeppelin Protesters	Not So Much With The Humanity	Trick-or-Treating Tot		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	143	false	The Copperhead Club	Shen Copperhead, Nightclub Owner	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	144	true	The Copperhead Club	sausage goblin	Pocket Professor		0	3	0	0	6	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+2	144	true	The Smut Orc Logging Camp	sausage goblin	Pair of Stomping Boots	 | weirdwood plank	0	3	5	0	0	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	144	true	The Smut Orc Logging Camp	sausage goblin	Pair of Stomping Boots	 | magical sausage casing	112	3	16	50	27	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	144	false	The Smut Orc Logging Camp	smut orc pipelayer	Pair of Stomping Boots	 | Meteorite-Ade | morningwood plank	66	3	10	24	7	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	145	true	Combing the Beach	N/A	Pair of Stomping Boots		0	-1	0	0	0	0	 | We're All Made of Starfish (50)			0	0	0	0	0	0		
+2	145	false	The Smut Orc Logging Camp	The Frattlesnake	Pair of Stomping Boots		0	3	0	0	0	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	146	false	The Smut Orc Logging Camp	smut orc screwer	Pair of Stomping Boots	 | messy butt joint | backwoods screwdriver	62	3	11	24	11	0	 | Dexteri Tea (5)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	147	false	The Smut Orc Logging Camp	smut orc jacker	Pair of Stomping Boots	 | morningwood plank | orcish hand lotion | green pixel	49	3	6	27	12	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	148	false	The Smut Orc Logging Camp	smut orc screwer	Pair of Stomping Boots	 | thick caulk | green pixel | stick of firewood	59	3	9	28	13	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	149	false	The Smut Orc Logging Camp	Blech House	Pair of Stomping Boots	 | messy butt joint	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	150	true	The Arid, Extra-Dry Desert	giant giant giant centipede	Melodramedary		0	2	0	0	0	0	 | Ultrahydrated (3)		 | CHEST X-RAY	0	0	1	0	0	0		
+2	150	true	The Arid, Extra-Dry Desert	cactuary	Melodramedary	 | metal meteoroid	175	2	17	42	8	0	 | Ultrahydrated (3)		 | CHEST X-RAY	0	0	1	0	0	0		
+2	150	true	The Arid, Extra-Dry Desert	rock scorpion	Melodramedary	 | red pixel | worm-riding manual page (2)	328	2	15	37	16	0	 | Shells of the Damned (5)		 | CHEST X-RAY	0	0	1	0	0	0		
+2	150	false	The Arid, Extra-Dry Desert	cactuary	Melodramedary	 | cactus fruit | bit-o-cactus | worm-riding manual page (3)	170	2	11	41	14	0				0	0	0	0	0	0		
+2	151	false	The Arid, Extra-Dry Desert	swarm of fire ants	Melodramedary	 | ant agonist	79	2	11	44	14	0				0	0	0	0	0	0		
+2	152	false	The Arid, Extra-Dry Desert	plaque of locusts	Melodramedary		0	2	0	0	0	0				0	0	0	0	0	0		
+2	153	true	The Red Zeppelin	Zeppelintro	XO Skeleton		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	153	true	The Red Zeppelin	red skeleton	XO Skeleton		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+2	153	true	The Red Zeppelin	Red Herring	XO Skeleton		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	153	true	The Red Zeppelin	Red Snapper	XO Skeleton		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	153	false	The Red Zeppelin	red butler	XO Skeleton		0	3	0	0	0	0	 | On the Trail (40)		 | TRANSCENDENT OLFACTION	0	0	0	1	0	0		
+2	154	true	The Red Zeppelin	red butler	XO Skeleton	 | glark cable	141	2	17	40	13	0	 | Stuck-Up Hair (5) | Driving Observantly (30) | items.enh (100)	|glark cable		0	0	1	0	0	0		
+2	154	true	The Red Zeppelin	a red butler!	XO Skeleton	 | red box | glark cable	185	3	15	33	15	0		|glark cable	 | MACROMETEORITE	0	0	1	0	0	0	 | the man with the red buttons	
+2	154	true	The Red Zeppelin	red butler	XO Skeleton	 | meadeorite	0	2	0	0	5	0		|glark cable		0	0	1	0	0	0		
+2	154	true	The Red Zeppelin	red butler	XO Skeleton		180	2	19	44	8	0		|glark cable		0	0	1	0	0	0		
+2	154	false	The Red Zeppelin	red butler	XO Skeleton	 | red box | O	165	2	16	44	17	0				0	0	0	0	0	0		
+2	155	false	The Red Zeppelin	Ron &quot;The Weasel&quot; Copperhead	XO Skeleton	 | Copperhead Charm (rampant)	542	2	14	40	21	0	 | Weally Satisfied (5)			0	0	0	0	0	0		
+2	156	false	An Overgrown Shrine (Southeast)	Fire When Ready	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	157	true	The Copperhead Club	sausage goblin	Melodramedary	 | magical sausage casing	177	3	37	126	69	0	 | Cartographically Charged (5)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	157	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	158	false	The Hidden Bowling Alley	a pygmy bowler!	Melodramedary		0	4	0	0	5	0			 | MACROMETEORITE | %FN, SPIT ON THEM	0	0	0	0	1	0	 | drunk pygmy	
+2	159	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	160	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	161	false	The Hidden Bowling Alley	Life is Like a Cherry of Bowls	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	162	false	The Hidden Bowling Alley	pygmy bowler	Melodramedary	 | bowling ball | imitation White Russian | Special Seasoning | Pok&eacute;-Gro fertilizer	340	2	15	44	21	0	 | Cartographically Charged (5)			0	0	0	0	0	0		
+2	163	false	The Hidden Bowling Alley	ancient protector spirit	Melodramedary	 | scorched stone sphere	0	3	18	36	26	0				0	0	0	0	0	0		
+2	164	true	An Overgrown Shrine (Southeast)	Fire When Ready	Melodramedary	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	164	true	Your Witchess Set	N/A	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	164	true	Your Witchess Set	N/A	Reanimated Reanimator		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	164	true	Your Witchess Set	Witchess Knight	Reanimated Reanimator	 | jumping horseradish	0	5	39	62	38	0	 | Vital (5)		 | DIGITIZE | WINK AT | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	2		
+2	164	false	The Haunted Ballroom	alley catfish	Artistic Goth Kid		0	3	0	0	0	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	165	false	The Haunted Ballroom	Having a Ball in the Ballroom	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	166	true	The Haunted Ballroom	Lights Out in the Ballroom	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	166	true	The Haunted Ballroom	Black Crayon Fish	Artistic Goth Kid	 | crayon shavings	0	3	49	124	60	0	 | Cartographically Charged (10)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	166	true	The Haunted Ballroom	Curtains	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	166	true	The Haunted Ballroom	Black Crayon Fish	Artistic Goth Kid	 | crayon shavings | green pixel	0	3	69	102	60	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	166	false	The Haunted Ballroom	floating platter of hors d'oeuvres	Artistic Goth Kid		0	3	0	0	0	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	167	true	The Haunted Ballroom	Black Crayon Golem	Artistic Goth Kid	 | crayon shavings | white pixel	13	3	48	112	53	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	167	false	The Haunted Ballroom	We'll All Be Flat	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	168	true	An Overgrown Shrine (Northwest)	Earthbound and Down	Ms. Puck Man	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	168	true	An Overgrown Shrine (Southwest)	Water You Dune	Ms. Puck Man	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	168	true	The Shore, Inc. Travel Agency	N/A	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	168	false	Hippy Camp	Blockin' Out the Scenery	Ms. Puck Man		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	169	true	The Dark Elbow of the Woods	Demoninja	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	169	true	The Dark Elbow of the Woods	G imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	169	true	The Dark Elbow of the Woods	L imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	169	true	The Dark Elbow of the Woods	L imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	169	false	The Dark Elbow of the Woods	Deep Imp Act	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	170	true	The Dark Elbow of the Woods	G imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	170	false	The Dark Elbow of the Woods	L imp	Pair of Stomping Boots	 | Imp Ale | cast | blue pixel | stick of firewood	175	2	5	15	9	0				0	0	0	0	0	0		
+2	171	false	The Dark Elbow of the Woods	L imp	Pair of Stomping Boots	 | Imp Ale | flaming crutch | cast | blue pixel	98	2	5	20	8	0				0	0	0	0	0	0		
+2	172	false	The Dark Elbow of the Woods	Demoninja	Pair of Stomping Boots	 | blue pixel | li'l ninja costume	146	2	6	17	11	0				0	0	0	0	0	0		
+2	173	true	The Dark Elbow of the Woods	Witchess Knight	Pair of Stomping Boots	 | jumping horseradish	12	3	24	51	27	0	 | Cartographically Charged (10)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	173	true	Your Witchess Set	Witchess Puzzles	Pocket Professor		0	-1	0	0	0	0	 | Puzzle Champ (25)			0	0	0	0	0	0		
+2	173	true	Combing the Beach	N/A	Pocket Professor		0	-1	0	0	0	0	 | Do I Know You From Somewhere? (50)			0	0	0	0	0	0		
+2	173	false	The Copperhead Club	the Mob Penguin Capo	Pocket Professor		429	3	12	41	13	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	174	false	The Copperhead Club	Shen Copperhead, Jerk	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	175	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing	171	3	24	57	36	0			 | STUFFED MORTAR SHELL | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+2	175	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing	155	3	20	65	21	0			 | STUFFED MORTAR SHELL | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+2	175	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing	135	3	21	54	28	0			 | STUFFED MORTAR SHELL | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+2	175	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing	150	3	26	52	27	0			 | STUFFED MORTAR SHELL | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+2	175	true	The Copperhead Club	sausage goblin	Pocket Professor	 | red-hot sausage fork | magical sausage casing	187	3	24	59	23	0			 | STUFFED MORTAR SHELL | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+2	175	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing	174	3	22	58	26	0			 | STUFFED MORTAR SHELL | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+2	175	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing	185	3	26	54	25	0			 | STUFFED MORTAR SHELL | LECTURE ON RELATIVITY	0	0	0	0	0	1		
+2	175	true	The Copperhead Club	sausage goblin	Pocket Professor	 | magical sausage casing | bottle of whiskey	154	3	33	43	27	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+2	175	false	The Dark Elbow of the Woods	Imp Art, Some Wisdom	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	176	true	The Dark Elbow of the Woods	L imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	176	true	The Dark Elbow of the Woods	Demoninja	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	176	true	The Dark Elbow of the Woods	G imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	176	true	The Dark Elbow of the Woods	L imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	176	false	The Dark Elbow of the Woods	A Secret, But Not the Secret You're Looking For	Pair of Stomping Boots	 | bottle of gin | bottle of vodka | bottle of tequila	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	177	true	The Dark Elbow of the Woods	L imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	177	true	The Dark Elbow of the Woods	Demoninja	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	177	true	The Dark Elbow of the Woods	Demoninja	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	177	true	The Dark Elbow of the Woods	G imp	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	177	false	The Dark Elbow of the Woods	Butter Knife?  I'll Take the Knife	Pair of Stomping Boots	 | eldritch butterknife	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	178	true	Friar Ceremony Location	N/A	Pair of Stomping Boots		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	178	true	The Spooky Forest	warwelf	Pair of Stomping Boots		0	2	0	0	0	0			 | RETURN	1	0	0	0	0	0		
+2	178	true	The Unquiet Garves	lihc	Pocket Professor	 | lihc eye	85	2	8	5	11	0			 | SHATTERING PUNCH	0	0	1	0	0	0		
+2	178	true	The Unquiet Garves	grave rober	Pocket Professor	 | grave robbing shovel	11	2	6	8	6	0			 | SHATTERING PUNCH	0	0	1	0	0	0		
+2	178	true	The Unquiet Garves	lihc	Pocket Professor	 | lihc eye	84	2	11	8	4	0	 | Cartographically Rooted (5)		 | SHATTERING PUNCH	0	0	1	0	0	0		
+2	178	false	The Unquiet Garves	the Snakeleton	Pocket Professor	 | The Shield of Brook	15	3	14	29	13	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	179	false	The Copperhead Club	Shen Copperhead, Huge Jerk	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	180	false	The Hole in the Sky	The Hooded Warrior	Pocket Professor	 | star | line	0	3	14	31	17	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	181	false	The Hole in the Sky	The Burrowing Bishop	Pair of Stomping Boots	 | star | line | line	13	3	17	31	13	0	 | Cartographically Aware (5)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	182	true	The Hole in the Sky	sausage goblin	Pair of Stomping Boots	 | magical sausage casing	152	3	23	54	37	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	182	true	The Hidden Office Building	angry ghost	Pair of Stomping Boots	 | psychokinetic energy blob | ghostly ectoplasm	14	3	29	64	25	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	182	false	Hippy Camp	the Big Wisnaqua	Pair of Stomping Boots	 | Wet Russian | Special Seasoning	13	10	27	51	22	0		|crayon shavings|crayon shavings	 | STUFFED MORTAR SHELL | SAUCEGEYSER | SNOWCLONE | SNOWCLONE	0	0	0	0	0	0		
+2	183	false	The Hole in the Sky	The Family Jewels	Pair of Stomping Boots	 | star | star	11	3	16	28	16	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	184	false	The Hole in the Sky	The Snake With Like Ten Heads	Pair of Stomping Boots	 | The Eye of the Stars | bottle of whiskey	15	3	12	31	17	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	185	false	The Copperhead Club	Shen Copperhead, World's Biggest Jerk	Pair of Stomping Boots	 | Copperhead Charm	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	186	true	Inside the Palindome	sausage goblin	Red-Nosed Snapper	 | magical sausage casing	149	3	29	69	21	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	186	false	Inside the Palindome	Do Geese See God?	Red-Nosed Snapper	 | photograph of God	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	187	false	Inside the Palindome	Last Egg Gets Al	Red-Nosed Snapper	 | photograph of an ostrich egg	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	188	false	Inside the Palindome	Rod Nevada, Vendor	Red-Nosed Snapper	 | photograph of a red nugget	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	189	true	Inside the Palindome	Witchess Knight	Red-Nosed Snapper	 | jumping horseradish	12	3	18	63	29	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	189	true	Inside the Palindome	Taco Cat	Red-Nosed Snapper		0	1	0	0	0	0			 | SNOKEBOMB	1	1	0	0	0	0		
+2	189	false	Inside the Palindome	Drab Bard	Red-Nosed Snapper	 | olive | drab sonata | guitar pick	134	3	8	36	15	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	190	true	Inside the Palindome	a Tan Gnat!	Red-Nosed Snapper		0	3	0	0	0	0			 | MACROMETEORITE | MACROMETEORITE | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0	 | Tan Gnat | an Evil Olive!	
+2	190	false	Inside the Palindome	Bob Racecar	Red-Nosed Snapper	 | photograph of a dog | mesh cap | leather chaps | stunt nuts	212	5	9	28	18	0		|disposable instant camera	 | CANDYBLAST | CANDYBLAST | CANDYBLAST	0	0	0	0	0	0		
+2	191	true	Inside the Palindome	an Evil Olive!	Red-Nosed Snapper		0	0	0	0	0	0			 | MACROMETEORITE | USE THE FORCE | SABER BANISH	0	1	0	0	0	0	 | Flock of Stab-bats	
+2	191	false	Inside the Palindome	Racecar Bob	Red-Nosed Snapper	 | mesh cap | enormous belt buckle | stunt nuts | ketchup hound	280	3	13	31	14	0			 | STUFFED MORTAR SHELL | TRANSCENDENT OLFACTION	0	0	0	1	0	0		
+2	192	false	Inside the Palindome	Bob Racecar!	Red-Nosed Snapper	 | mesh cap | stunt nuts | ketchup hound | human musk | bottle of rum	236	3	12	20	11	0			 | MACROMETEORITE	0	0	0	0	0	0	 | Flock of Stab-bats	
+2	193	true	The Outskirts of Cobb's Knob	angry ghost	Red-Nosed Snapper	 | psychokinetic energy blob | ghostly ectoplasm	40	3	26	51	34	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	193	true	Inside the Palindome	Witchess Knight	Red-Nosed Snapper	 | jumping horseradish | blue pixel	13	3	26	61	27	0	 | Cartographically Rooted (10)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	193	true	Inside the Palindome	Bob Racecar	Red-Nosed Snapper	 | mesh cap | stunt nuts | ketchup hound | a butt tuba | &quot;I Love Me, Vol. I&quot;	235	2	7	31	12	0				0	0	0	0	0	0		
+2	193	false	Dr. Awkward's Office	N/A	Red-Nosed Snapper	 | &quot;2 Love Me, Vol. 2&quot;	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	194	true	Cook 1 wet stew + 1 stunt nuts	N/A	Red-Nosed Snapper	 | wet stunt nut stew	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	194	false	Dr. Awkward's Office	Dr. Aquard	Artistic Goth Kid	 | Sogg-Os | Staff of Fats | dumb mud	85	6	13	46	30	0		|crayon shavings	 | MICROMETEORITE	0	0	0	0	0	0		
+2	195	false	The Hidden Office Building	ancient protector spirit	Artistic Goth Kid	 | crackling stone sphere | psychokinetic energy blob	10	3	12	56	14	0				0	0	0	0	0	0		
+2	196	true	An Overgrown Shrine (Northeast)	Air Apparent	Artistic Goth Kid	 | stone triangle	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	196	false	A Massive Ziggurat	Is There A Doctor In The House?	Artistic Goth Kid	 | Ancient Protector Soda | ancient amulet	10	5	16	47	13	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	197	true	Deck of Every Card	XVI - The Tower	Artistic Goth Kid	 | Sneaky Pete's key	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	197	true	The Hidden Temple	Such Great Heights	Artistic Goth Kid		0	-1	0	0	0	3	 | Puzzle Champ (3) | Steely-Eyed Squint (3) | Leash of Linguini (3) | items.enh (3) | Singer's Faithful Ocelot (3) | Blood Bond (3) | The Spirit of Taking (3) | Feeling Queasy (3) | Do I Know You From Somewhere? (3) | Cartographically Rooted (3)			0	0	0	0	0	0		
+2	197	true	The Haunted Wine Cellar	skeletal sommelier	Artistic Goth Kid		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	197	false	The Haunted Wine Cellar	possessed wine rack	Artistic Goth Kid		0	2	0	0	0	0				0	0	0	0	0	0		
+2	198	false	The Haunted Laundry Room	the cabinet of Dr. Limpieza!	Artistic Goth Kid		0	5	0	0	0	0			 | MACROMETEORITE | OTOSCOPE | STUFFED MORTAR SHELL	0	0	0	0	0	0	 | plaid ghost	
+2	199	true	The Spooky Forest	Black Crayon Undead Thing	Artistic Goth Kid		0	3	0	0	0	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	199	false	The Spooky Forest	Consciousness of a Stream	Melodramedary	 | mosquito larva | Uranium Omega of Temperance	500	-1	0	0	0	0				0	0	0	0	0	0		
+2	200	false	The Smut Orc Logging Camp	smut orc jacker	Melodramedary	 | morningwood plank | morningwood plank | long hard screw | orcish hand lotion	90	3	11	36	12	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	201	true	Cook 1 bottle of Chateau de Vinegar + 1 blasting soda	N/A	Melodramedary	 | unstable fulminate	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	201	true	The Haunted Boiler Room	coaltergeist	Melodramedary		0	1	0	0	0	0	 | Dangerous Zone Song (10)		 | SNOKEBOMB	1	1	0	0	0	0		
+2	201	false	The Haunted Boiler Room	a monstrous boiler!	Melodramedary	 | wine bomb	0	4	0	0	0	0			 | MACROMETEORITE | STUFFED MORTAR SHELL	0	0	0	0	0	0	 | steam elemental	
+2	202	true	Oil Peak	Pushin' Down on Me, Pushin' Down on You	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	202	false	Oil Peak	oil cartel	Melodramedary		0	3	0	0	0	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	203	false	Oil Peak	oil cartel	Melodramedary	 | bubblin' crude | bubblin' crude	13	3	20	44	31	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	204	false	The Outskirts of Cobb's Knob	giant isopod	Melodramedary		0	6	0	0	0	0			 | STUFFED MORTAR SHELL | CANDYBLAST | CANDYBLAST	0	0	0	0	0	0		
+2	205	false	Oil Peak	oil cartel	Melodramedary	 | bubblin' crude | bubblin' crude | bubblin' crude | green pixel	13	3	22	46	26	0	 | Cartographically Aware (5)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	206	false	Oil Peak	oil cartel	Melodramedary		0	3	0	0	0	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	207	false	Oil Peak	oil cartel	Melodramedary	 | bubblin' crude | bubblin' crude	13	3	15	54	24	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	208	false	Oil Peak	Unimpressed with Pressure	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	209	true	Combing the Beach	N/A	Melodramedary		0	-1	0	0	0	0	 | Cold as Nice (50)			0	0	0	0	0	0		
+2	209	true	Combing the Beach	N/A	Melodramedary		0	-1	0	0	0	0	 | Hot-Headed (50)			0	0	0	0	0	0		
+2	209	true	Combing the Beach	N/A	Melodramedary		0	-1	0	0	0	0	 | A Brush with Grossness (50)			0	0	0	0	0	0		
+2	209	true	The Tavern Cellar	1984 Had Nothing on This Cellar	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	209	true	The Tavern Cellar	Staring Down the Barrel	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	209	false	The Tavern Cellar	drunken rat king	Melodramedary	 | almost-dead walkie-talkie | rat whisker | rat whisker | rat whisker | rat appendix | rat appendix | tangle of rat tails | green pixel | bottle of rum	115	3	22	36	27	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	210	false	The Tavern Cellar	drunken rat king	Melodramedary	 | rat whisker | rat whisker | rat whisker | rat appendix | rat appendix | rat appendix | tangle of rat tails | red pixel	90	3	20	53	26	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	211	false	The Tavern Cellar	Those Who Came Before You	Melodramedary	 | glittery mascara | shiny ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	212	false	The Tavern Cellar	Of Course!	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	213	true	The Outskirts of Cobb's Knob	Witchess Knight	Artistic Goth Kid	 | Cold Hots candy	27	4	0	0	0	0			 | STUFFED MORTAR SHELL | CANDYBLAST	0	0	0	0	0	0		
+2	213	true	The Outskirts of Cobb's Knob	sausage goblin	Artistic Goth Kid	 | red-hot sausage fork | magical sausage casing	194	3	31	72	35	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	213	false	The Outskirts of Cobb's Knob	Knob Goblin Barbecue Team	Pocket Professor	 | bowl of cottage cheese | Knob Goblin tongs | Nightmare Fuel | sugar shard (3)	31	3	16	29	16	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	214	false	The Outskirts of Cobb's Knob	The Ghost of Dr. Hobo Jones	Pocket Professor	 | Dr. Hobo's map	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	215	true	The Outskirts of Cobb's Knob	sleeping Knob Goblin Guard	Pocket Professor		27	2	0	0	0	0			 | GINGERBREAD MOB HIT	0	0	1	0	0	0		
+2	215	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	215	true	The Outskirts of Cobb's Knob	angry ghost	Pocket Professor	 | psychokinetic energy blob | ghostly ectoplasm | ghostly ectoplasm	11	4	26	64	37	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	215	TRUE	PILLKEEPER: Wednesday - Sneakisol	N/A	Pocket Professor		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	215	false	The Defiled Cranny	giant swarm of ghuol whelps	Pocket Professor		0	3	0	6	0	0	 | Flashy Dance Song (10)		 | STUFFED MORTAR SHELL | SAUCEGEYSER	0	0	0	0	0	0		
+2	216	false	The Defiled Cranny	giant swarm of ghuol whelps	Pocket Professor		0	3	30	51	15	0			 | STUFFED MORTAR SHELL | SAUCEGEYSER	0	0	0	0	0	0		
+2	217	false	The Defiled Alcove	modern zmobie	Pocket Professor	 | Mr. Mediocrebar	0	6	0	0	0	0			 | DIGITIZE | STUFFED MORTAR SHELL | CANDYBLAST | CANDYBLAST | CANDYBLAST	0	0	0	0	0	1		
+2	218	false	Summoning Chamber	Lord Soggyraven	Melodramedary	 | Lord Soggyraven's Slippers | Eye of Ed	12	7	26	53	35	0		|crayon shavings	 | MICROMETEORITE | CURSE OF WEAKSAUCE	0	0	0	0	0	0		
+2	219	true	The Upper Chamber	tomb servant	Melodramedary		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	219	true	The Upper Chamber	Iiti Kitty	Melodramedary		0	1	0	0	0	0			 | KGB TRANQUILIZER DART	1	1	0	0	0	0		
+2	219	false	The Upper Chamber	A Wheel -- How Fortunate!	Melodramedary	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	220	false	The Upper Chamber	tomb bat	Melodramedary	 | unidentified jerky | bottle of whiskey	122	6	24	62	30	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	221	false	The Upper Chamber	A Wheel -- How Fortunate!	Melodramedary	 | crumbling wooden wheel	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	222	false	The Upper Chamber	Down Dooby-Doo Down Down	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	223	true	The Middle Chamber	tomb asp	Melodramedary		0	1	0	0	0	0			 | REFLEX HAMMER	1	1	0	0	0	0		
+2	223	false	The Middle Chamber	a tomb rat king!	Melodramedary	 | tomb ratchet | tomb ratchet | tomb ratchet | leathery rat skin | leathery rat skin | leathery rat skin | unidentified jerky | unidentified jerky	343	6	26	81	20	0	 | Bat-Adjacent Form (1)	|tangle of rat tails	 | BECOME A BAT | OTOSCOPE | STUFFED MORTAR SHELL	0	0	0	0	0	0	 | tomb rat	
+2	224	true	Cook 14 wad of dough + 14 soda water	N/A	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	224	false	The Middle Chamber	a tomb rat king!	Melodramedary	 | tomb ratchet | leathery rat skin | leathery rat skin | unidentified jerky | unidentified jerky	302	6	22	75	34	0	 | Bat-Adjacent Form (1)	|tangle of rat tails	 | OTOSCOPE | BECOME A BAT | STUFFED MORTAR SHELL	0	0	0	0	0	0	 | tomb rat	
+2	225	false	The Middle Chamber	tomb rat	Melodramedary	 | tomb ratchet	177	3	25	58	23	0	 | Cartographically Aware (10)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	226	false	The Middle Chamber	modern zmobie	Melodramedary		129	3	18	42	17	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	227	false	The Middle Chamber	Further Down Dooby-Doo Down Down	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	228	false	The Middle Chamber	tomb rat	Melodramedary	 | tomb ratchet	145	3	30	53	27	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	229	true	The Middle Chamber	Ratchet-catcher	Melodramedary	 | tomb ratchet	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	229	false	The Middle Chamber	tomb rat	Melodramedary	 | tomb ratchet | unidentified jerky | Special Seasoning	157	3	27	49	27	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	230	false	The Middle Chamber	tomb rat	Artistic Goth Kid	 | unidentified jerky	160	4	26	48	30	0				0	0	0	0	0	0		
+2	231	false	The Middle Chamber	tomb rat	Artistic Goth Kid	 | unidentified jerky	140	3	20	50	24	0	 | Cartographically Aware (5)			0	0	0	0	0	0		
+2	232	false	The Middle Chamber	Under Control	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	233	false	The Lower Chambers	N/A	Artistic Goth Kid	 | ancient bronze token	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	234	false	The Lower Chambers	N/A	Artistic Goth Kid	 | ancient bomb	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	235	false	The Lower Chambers	N/A	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	236	false	The Lower Chambers	Ed the Undying	Artistic Goth Kid		12	3	34	77	21	0	 | Cartographically Aware (5)		 | MICROMETEORITE	0	0	0	0	0	0		
+2	237	false	The Lower Chambers	Ed the Undying	Artistic Goth Kid		11	2	29	68	36	0				0	0	0	0	0	0		
+2	238	false	The Lower Chambers	Ed the Undying	Artistic Goth Kid		11	2	34	77	24	0	 | Cartographically Aware (10)			0	0	0	0	0	0		
+2	239	false	The Lower Chambers	Ed the Undying	Artistic Goth Kid	 | green pixel	15	2	35	60	40	0				0	0	0	0	0	0		
+2	240	false	The Lower Chambers	Ed the Undying	Artistic Goth Kid		13	2	25	70	36	0				0	0	0	0	0	0		
+2	241	false	The Lower Chambers	Ed the Undying	Artistic Goth Kid		10	3	25	65	40	0				0	0	0	0	0	0		
+2	242	false	The Lower Chambers	Ed the Undying	Artistic Goth Kid	 | Holy MacGuffin | handful of confetti	10	2	37	62	32	0				0	0	0	0	0	0		
+2	243	false	The Outskirts of Cobb's Knob	giant isopod	Artistic Goth Kid	 | bone with a price tag on it | freshwater fishbone	147	3	51	90	31	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	244	false	The Outskirts of Cobb's Knob	Code Red	Artistic Goth Kid	 | Knob Goblin encryption key	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	245	true	Cobb's Knob Harem	Witchess Knight	Artistic Goth Kid		0	3	0	0	0	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	245	true	Cobb's Knob Harem	sausage goblin	Artistic Goth Kid	 | magical sausage casing	148	3	56	128	43	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	245	true	Cobb's Knob Harem	Cobb's Knob lab key	Artistic Goth Kid	 | Cobb's Knob lab key	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	245	true	Cobb's Knob Harem	Knob Goblin Harem Girl	Artistic Goth Kid	 | Knob Goblin harem pants | Knob Goblin harem veil | disease | finger cymbals	0	0	0	0	0	0			 | USE THE FORCE | SABER YELLOW RAY	0	0	0	0	0	0		
+2	245	false	Cobb's Knob Harem	Plucked	Artistic Goth Kid		0	-1	0	0	0	0	 | Knob Goblin Perfume (1)			0	0	0	0	0	0		
+2	246	false	Throne Room	the Aquagoblin	Artistic Goth Kid	 | goblin water | Special Seasoning	15	4	14	44	11	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	247	false	The Defiled Niche	modern zmobie	Artistic Goth Kid		141	3	13	39	15	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	248	true	The Defiled Niche	senile lihc	Artistic Goth Kid		0	0	0	0	0	0			 | USE THE FORCE | SABER BANISH	0	1	0	0	0	0		
+2	248	true	The Defiled Niche	basic lihc	Artistic Goth Kid		0	1	0	0	0	0			 | ASDON MARTIN: SPRING-LOADED FRONT BUMPER	0	0	0	0	0	0		
+2	248	true	The Defiled Niche	Urning Your Keep	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	248	true	The Defiled Niche	Urning Your Keep	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	248	true	The Defiled Niche	slick lihc	Artistic Goth Kid		0	1	0	0	0	0			 | THROW LATTE ON OPPONENT	1	1	0	0	0	0		
+2	248	true	The Defiled Niche	Urning Your Keep	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	248	false	The Defiled Niche	dirty old lihc	Artistic Goth Kid	 | blue pixel	11	3	14	40	18	0	 | On the Trail (40) | Cartographically Charged (10)		 | TRANSCENDENT OLFACTION	0	0	0	1	0	0		
+2	249	false	The Defiled Niche	Is There A Doctor In The House?	Artistic Goth Kid	 | salacious crumbs	15	2	12	42	13	0				0	0	0	0	0	0		
+2	250	true	The Defiled Niche	Urning Your Keep	Artistic Goth Kid		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	250	false	The Defiled Niche	dirty old lihc	Artistic Goth Kid	 | salacious crumbs	12	2	20	38	14	0				0	0	0	0	0	0		
+2	251	false	The Defiled Niche	dirty old lihc	Artistic Goth Kid	 | salacious crumbs	15	2	24	38	9	0				0	0	0	0	0	0		
+2	252	true	The Defiled Niche	Wooof! Wooooooof!	Artistic Goth Kid	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	252	false	The Defiled Niche	dirty old lihc	Artistic Goth Kid	 | salacious crumbs	10	2	17	32	16	0	 | Cartographically Aware (10)			0	0	0	0	0	0		
+2	253	true	The Defiled Niche	Black Crayon Undead Thing	Artistic Goth Kid	 | crayon shavings	14	3	37	125	60	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	253	false	The Defiled Niche	dirty old lihc	Melodramedary	 | salacious crumbs	10	2	14	37	14	0				0	0	0	0	0	0		
+2	254	true	The Defiled Niche	Urning Your Keep	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	254	false	The Defiled Niche	dirty old lihc	Melodramedary	 | salacious crumbs | blue pixel	10	2	23	33	10	0				0	0	0	0	0	0		
+2	255	false	The Defiled Niche	gargantulihc	Melodramedary	 | lihc eye | lihc eye | green pixel	13	2	28	51	26	0	 | Cartographically Rooted (5)			0	0	0	0	0	0		
+2	256	false	The Defiled Cranny	huge ghuol	Melodramedary	 | ghuol ears	656	2	27	56	23	0				0	0	0	0	0	0		
+2	257	false	The Defiled Alcove	grave rober zmobie	Melodramedary	 | rusty grave robbing shovel | red pixel | Special Seasoning	97	2	11	44	11	0				0	0	0	0	0	0		
+2	258	true	A-Boo Peak	Faction Traction = Inaction	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	258	false	A-Boo Peak	The Horror...	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	259	false	A-Boo Peak	Claybender Sorcerer Ghost	Melodramedary	 | A-Boo clue	90	3	8	22	21	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	260	false	A-Boo Peak	Dusken Raider Ghost	Melodramedary	 | Duskwalker syringe | blue pixel	14	3	12	26	15	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	261	false	A-Boo Peak	Space Tourist Explorer Ghost	Melodramedary	 | A-Boo clue | ectoplasmic orbs	13	3	14	31	9	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	262	false	A-Boo Peak	The Horror...	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	263	false	A-Boo Peak	The Horror...	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	264	false	A-Boo Peak	Battlie Knight Ghost	Melodramedary	 | A-Boo clue | ectoplasmic orbs | Pok&eacute;-Gro fertilizer	12	3	9	33	8	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	265	false	A-Boo Peak	Oh, <i>There</i> Have it Gone	Melodramedary	 | death blossom	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	266	TRUE	CONSUME: chew 1 Nightmare Fuel	N/A	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	266	false	A-Boo Peak	Come On Ghosty, Light My Pyre	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	267	false	The Defiled Nook	a spiny skelelton!	Melodramedary	 | skeleton bone | smart skull | spiked femur | evil eye | skelelton spine | succulent marrow | bottle of whiskey	15	5	11	18	10	0			 | MACROMETEORITE | STUFFED MORTAR SHELL	0	0	0	0	0	0	 | party skelteon	
+2	268	true	The Defiled Nook	No Nook Unknown	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	268	false	The Defiled Nook	toothy sklelton	Melodramedary	 | loose teeth | loose teeth | skeleton bone | evil eye	12	3	13	31	20	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	269	false	The Defiled Nook	toothy sklelton	Melodramedary	 | loose teeth | skeleton bone | evil eye	12	3	16	32	16	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	270	true	The Defiled Nook	Skull, Skull, Skull	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	270	true	The Defiled Nook	Skull, Skull, Skull	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	270	false	The Defiled Nook	spiny skelelton	Melodramedary	 | smart skull | spiked femur | evil eye | skelelton spine | succulent marrow	11	3	13	30	20	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	271	false	The Defiled Nook	toothy sklelton	Melodramedary	 | loose teeth | loose teeth | skeleton bone | evil eye	13	3	13	38	14	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	272	true	Twin Peak	Welcome to the Great Overlook Lodge	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	272	false	Twin Peak	elephant (meatcar?) topiary animal	Melodramedary		0	5	0	0	0	0			 | %FN, SPIT ON THEM | STUFFED MORTAR SHELL | ENTANGLING NOODLES	0	0	0	0	1	0		
+2	273	false	rusty hedge trimmers	Go Check It Out!	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	274	false	rusty hedge trimmers	He Is the Arm, and He Sounds Like This	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	275	false	rusty hedge trimmers	Room 237	Melodramedary		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	276	true	rusty hedge trimmers	Now It's Dark	Melodramedary	 | gold wedding ring	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	276	true	greasy desk bell	Astrologer of Shub-Jigguwatt	Melodramedary	 | star chart | star | star	68	4	19	62	28	0			 | MAXIMUM CHILL | SNOWCLONE | SNOWCLONE	0	0	0	0	0	0		
+2	276	false	The Hole in the Sky	One-Eyed Willie	Cat Burglar		0	3	0	0	0	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	277	false	The Hole in the Sky	modern zmobie	Cat Burglar		259	3	10	24	9	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	278	true	The Hole in the Sky	Wooof! Wooooooof!	Cat Burglar	 | Ghost Dog Chow	0	-1	0	0	0	0				0	0	0	0	0	0		
+2	278	false	The Hole in the Sky	The Skinflute!	Cat Burglar	 | star | star | line | line	11	4	13	30	13	0			 | STUFFED MORTAR SHELL | MACROMETEORITE	0	0	0	0	0	0	 | The Astronomer	
+2	279	false	genie summoned monster	ghost	Cat Burglar	 | Spooky Putty monster | white pixel | white pixel | white pixel | white pixel | white pixel	11	3	8	26	10	0		|Spooky Putty sheet		0	0	0	0	0	0		
+2	280	false	Spooky Putty Monster	ghost	Cat Burglar	 | Spooky Putty monster | white pixel | white pixel | white pixel | white pixel	13	3	11	24	10	0		|Spooky Putty sheet		0	0	0	0	0	0		
+2	281	false	Spooky Putty Monster	ghost	Cat Burglar	 | white pixel | white pixel | white pixel | white pixel	10	2	8	21	15	0	 | Cartographically Aware (5)			0	0	0	0	0	0		
+2	282	false	The Defiled Alcove	giant tardigrade	Cat Burglar	 | thunder thigh	12	2	18	18	15	0				0	0	0	0	0	0		
+2	283	true	The Defiled Nook	Seeing-Eyes Dog	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	283	false	The Defiled Nook	giant skeelton	Cat Burglar		0	2	0	0	0	0				0	0	0	0	0	0		
+2	284	true	The Defiled Alcove	Turn Your Head and Coffin	Cat Burglar		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	284	false	The Defiled Alcove	modern zmobie	Cat Burglar	 | bottle of gin	215	2	11	33	13	0				0	0	0	0	0	0		
+2	285	false	The Defiled Alcove	conjoined zmombie	Cat Burglar		0	2	0	0	0	0				0	0	0	0	0	0		
+2	286	false	Haert of the Cyrpt	the Auqadargon	Cat Burglar	 | chest of the Bonerdagon	15	4	15	40	13	0				0	0	0	0	0	0		
+2	287	true	Combing the Beach	N/A	Oily Woim		0	-1	0	0	0	0	 | Resting Beach Face (50) | init.enh (100)			0	0	0	0	0	0		
+2	287	false	Fastest Adventurer Contest	The Tasmanian Dervish	Oily Woim	 | Special Seasoning	13	3	25	50	18	0	 | Cartographically Aware (10)		 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	288	false	Smoothest Adventurer Contest	Seannery the Conman	Oily Woim	 | leather glove	11	3	12	35	19	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	289	false	Coldest Adventurer Contest	Mrs. Freeze	Oily Woim	 | icy hairspray	10	3	15	46	19	0			 | STUFFED MORTAR SHELL	0	0	0	0	0	0		
+2	290	false	The Hedge Maze	'Allo	Oily Woim		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	291	false	The Hedge Maze	Pooling Your Resources	Oily Woim		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	292	false	The Hedge Maze	Of Mouseholes and Manholes	Oily Woim		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	293	false	The Hedge Maze	Mazel Tov!	Oily Woim		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	294	true	Tower Door	N/A	Oily Woim		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	294	false	The Naughty Sorceress' Tower	wall of skin	Mu		15	6	18	36	18	0	 | Cartographically Rooted (10)		 | SHELL UP	0	0	0	0	0	0		
+2	295	false	The Naughty Sorceress' Tower	wall of meat	Mu		1424	5	16	35	16	0			 | MICROMETEORITE	0	0	0	0	0	0		
+2	296	false	The Naughty Sorceress' Tower	wall of bones	Magic Dragonfish	 | blue pixel	14	2	62	132	60	0			 | GARBAGE NOVA	0	0	0	0	0	0		
+2	297	true	The Naughty Sorceress' Tower	The Mirror in the Tower has the View that is True	Magic Dragonfish		0	-1	0	0	0	0				0	0	0	0	0	0		
+2	297	false	The Naughty Sorceress' Tower	Shadow Alfredo Archmage	Magic Dragonfish	 | blue pixel	11	6	47	129	46	0		|cast|cast|scented massage oil	 | MICROMETEORITE | MICROMETEORITE | MICROMETEORITE	0	0	0	0	0	0		
+2	298	false	The Naughty Sorceress' Chamber	The Rain King	Mu	 | Iunion Crown | leather chaps | astral shirt | Powerful Glove | Space Trip safety headphones | Eight Days a Week Pill Keeper | protonic accelerator pack | Thwaitgold spider statuette	12	5	16	53	22	0		|jam band bootleg|crayon shavings		0	0	0	0	0	0		
